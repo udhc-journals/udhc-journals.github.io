@@ -69,7 +69,7 @@ The above series of courses, which started on April 4, 2020 with a team of some 
 CEO of online Health Startups for the last year and a half
 
 
-### Dr Gogia
+## Dr Gogia
 President - Sathi (www.sathi.org) 
 Director- Aims2health.com 
 Founding fellow of International Academy of Health Science Informatics
@@ -77,7 +77,7 @@ EX Chair of IMIA Working Group of  Telehealth
 Practicing surgeon from Aiims New Delhi who has made his own software
 
 
-### Dr Rakesh Biswas : 
+## Dr Rakesh Biswas : 
 
 Rakesh Biswas MD is a professor of Medicine at Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India. His interests include clinical problem solving applied to patient centered health care and health education and he runs a global-medical elective supported by the BMJ group and  Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India.(detailed here: http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2/) 
 
