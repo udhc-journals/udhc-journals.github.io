@@ -1,3 +1,8 @@
+---
+permalink: /advisors/
+title: Advisors 4 All
+---
+
 # Advisors to Project VIKRAM
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
