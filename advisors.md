@@ -71,9 +71,13 @@ CEO of online Health Startups for the last year and a half
 
 ## Dr Gogia
 President - Sathi (www.sathi.org) 
-Director- Aims2health.com 
+
+Director- Aims2health.com
+ 
 Founding fellow of International Academy of Health Science Informatics
+
 EX Chair of IMIA Working Group of  Telehealth
+
 Practicing surgeon from Aiims New Delhi who has made his own software
 
 
