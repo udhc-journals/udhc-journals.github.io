@@ -25,6 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
     Ascension
     Management
   गाँव बढ़ेंगे तो सब बढ़ेंगे
+  GSF VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
+    1. Education
+    2. Healthcare
+    3. Livelihood (ISIC domains of economic activities)
+    4. Social Justice
+    5. Habitat and Environment
+    6. Agriculture and Food
+    7. Peace and harmony through social dialog 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
