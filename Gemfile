@@ -13,15 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Project VIKRAM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An inclusive rural digitalization platform by GramSheel Foundation
+    Virtualized
+    Infrastructure
+    for
+    Knowledge-driven
+    Rural
+    Ascension
+    Management
+  गाँव बढ़ेंगे तो सब बढ़ेंगे
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
