@@ -1,2 +1,3 @@
 remote_theme: gsfvikram/gsftheme
 title: Project VIKRAM
+plugins: jekyll-include-cache
