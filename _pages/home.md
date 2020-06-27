@@ -1,6 +1,6 @@
 ---
 permalink: /home/
-title: Home 4 All
+title: Home
 ---
 
 # GSF VIKRAM
