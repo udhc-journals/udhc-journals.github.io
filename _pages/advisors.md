@@ -1,10 +1,41 @@
 ---
 permalink: /advisors/
 title: Board of Advisors
+feature_row:
+  - image_path: http://1.bp.blogspot.com/-UZYxFjQsctc/T5ptUocka1I/AAAAAAAAAE8/vX_fDJ8nuA0/s1600/download+(1).jpg
+    alt: "Dr Guriqbal Singh Jaiya (avatar image)"
+    title: "Dr Guriqbal Singh Jaiya, IAS (Retd.)"
+    excerpt: "Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal"
+    url: "/advisors/#dr-guriqbal-singh-jaiya-ias-retd-mbbs-ba-llb"
+    btn_class: "btn--primary"
+    btn_label: "Profile"
+  - image_path: /assets/images/csrp_photo.jpg
+    alt: "Dr C S R Prabhu (avatar image)"
+    title: "Dr C S R Prabhu, PhD"
+    excerpt: "Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal"
+    url: "/advisors/#dr-c-s-r-prabhu-phd"
+    btn_class: "btn--primary"
+    btn_label: "Profile"
+  - image_path: https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4
+    alt: "Dr Rakesh Biswas (avatar image)"
+    title: "Dr Rakesh Biswas, MD"
+    excerpt: "Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal"
+    url: "/advisors/#dr-rakesh-biswas-md"
+    btn_class: "btn--primary"
+    btn_label: "Profile"
+  - image_path: https://media-exp1.licdn.com/dms/image/C5603AQFLi-diAfeDBQ/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=9S7Vkkr_-yXp_JyKxj4nUu1oXkl5qv1iH_0KNxZwWD4
+    alt: "Ms Anamika Mehta (avatar image)"
+    title: "Ms Anamika Mehta"
+    excerpt: "Chief Advisor - Molecular and Clinical Genetics"
+    url: "/advisors/#ms-anamika-mehta-msc-genetics"
+    btn_class: "btn--primary"
+    btn_label: "Profile"
 ---
 
 # Chief Advisors
 #### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
+
+{% include feature_row %}
 
 <img src="http://1.bp.blogspot.com/-UZYxFjQsctc/T5ptUocka1I/AAAAAAAAAE8/vX_fDJ8nuA0/s1600/download+(1).jpg" alttext="Dr Guriqbal Singh Jaiya (avatar image)" width="300" height="300">
 
