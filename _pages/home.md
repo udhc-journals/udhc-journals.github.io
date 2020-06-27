@@ -22,7 +22,7 @@ feature_row:
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/sing-tech.png
     alt: "democratised singularity"
     title: "Singularity Technologies for All"
     excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project VIKRAM is developing technologies to bridge the current digital divide and the impending cognitive divide"
