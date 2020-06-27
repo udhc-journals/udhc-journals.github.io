@@ -1,24 +1,13 @@
+---
+permalink: /advisors/
+title: Advisors 4 All
+---
 
-## Dr Naresh Mallenahalli
-
-Dr Naresh Mallenahalli (FIETE'13, SMIEEE'14, SMACM'17) is the founding Chair, Hyderabad Deccan ACM Chapter and a Member of IEEE CIS Task Force on Neural Networks. 
-
-He is also a founding chair for the Joint chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies, Hyderabad Section and vice-chair for the IEEE GRSS standards working group on synthetic aperture radars.
-
-He is a Senior Scientist, Program Planning and Evaluation G at National Remote Sensing Centre (ISRO), Hyderabad.
-
-Dr. Naresh is a Fellow of Institute of Electronics and Telecommunication Engineers (IETE), Senior Member of IEEE (USA) and Senior Member of ACM (USA),  
-
-He received the M.Sc degree in Physics from the Osmania University, Hyderabad, India, M.Tech from the BIT, Mesra, Ranchi, India and Ph.D. from the Osmania University, Hyderabad, India, in 2013 both in Computer Science and Engineering. He has more than 30 publications, 1 US patent publication and 4 copyrights to his credit. 
- 
-He is on the technical program committee of international conferences such as PReMI 2017 and FANCCO 2015. 
-
-
-Under his leadership the chapter received the 2018 IEEE Computational Intelligence Society Outstanding Chapter Award.
-
+# Advisors to Project VIKRAM
+### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
 ## Dr.C.S.R.Prabhu 
-
+### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
 
 Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC),Ministry of Electronics and Information Technology, Govt. of India,New Delhi.
 
@@ -43,6 +32,7 @@ He authored a number of text books in IT area with the most recent being on "Fog
 
 
 ## Dr. Guriqbal Singh Jaiya
+### Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal
 
 • MBBS (AIIMS, New Delhi, 1977 internship)
 
@@ -69,19 +59,8 @@ The above series of courses, which started on April 4, 2020 with a team of some 
 CEO of online Health Startups for the last year and a half
 
 
-## Dr Gogia
-President - Sathi (www.sathi.org) 
-
-Director- Aims2health.com
- 
-Founding fellow of International Academy of Health Science Informatics
-
-EX Chair of IMIA Working Group of  Telehealth
-
-Practicing surgeon from Aiims New Delhi who has made his own software
-
-
 ## Dr Rakesh Biswas : 
+### Chief Advisor - Medical Education
 
 Rakesh Biswas MD is a professor of Medicine at Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India. His interests include clinical problem solving applied to patient centered health care and health education and he runs a global-medical elective supported by the BMJ group and  Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India.(detailed here: http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2/) 
 
@@ -95,6 +74,3 @@ He is currently engaged in developing a health care blended-learning ecosystem t
 
 As all these stakeholders are computer users communicating through the web with a user name the network is also known as 'User Driven Health Care' UDHC network.
 The network has currently piloted in rural and urban Indian locations with encouraging responses from patients, medical students and global health professionals connected through the web. The network eventually hopes to propagate 'patient centered learning in India such that medical students and health professionals take pride in their teamwork toward making a positive change in their patients' lives. It hopes to in this manner utilize patient centered learning to build a vital bridge between basic and clinical science professionals that may translate bedside patient needs to solutions from the bench.
-
-
-
