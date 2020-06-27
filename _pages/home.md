@@ -10,8 +10,8 @@ header:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
 excerpt: >
-  An inclusive rural digitalization platform by GramSheel Foundation<br/>
-  गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
+  An inclusive rural digitalization platform<br/>
+  <h1>गाँव बढ़ेंगे तो सब बढ़ेंगे</h1><br/>
   <small><a href="https://obonac-works.github.io/about/">More about Project VIKRAM</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
