@@ -3,32 +3,30 @@ main:
     url: /
   - title: "About"
     url: /about/
-    children:
-    - title: "Advisors"
-      url: /advisors/
-    - title: Team
-      url: /team/
+  - title: "Advisors"
+    url: /advisors/
+  - title: Team
+    url: /team/
       
   - title: "Projects"
     url: /projects/
-    children:
-    - title: Technology
-      url: /technology/
-    - title: Resources
-      url: /resources/
+  - title: Education
+    url: /education/
+  - title: Healthcare & Biosciences
+    url: /health/
       
   - title: Industries
     url: /industries/
-    children:
-    - title: Education
-      url: /education/
-    - title: Healthcare & Biosciences
-      url: /health/
-    - title: Food Processing & Agriculture
-      url: /food_processing_and_agriculture/
-    - title: Space Exploration
-      url: /space_exploration/
+  - title: Food Processing & Agriculture
+    url: /food_processing_and_agriculture/
+  - title: Space Exploration
+    url: /space_exploration/
       
+  - title: Technology
+    url: /technology/
+  - title: Resources
+    url: /resources/
+
   - title: Environment & Habitat
     url: /environment_and_habitat/
   - title: Justice
