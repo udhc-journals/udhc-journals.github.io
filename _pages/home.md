@@ -2,15 +2,16 @@
 layout: single
 permalink: /
 hidden: true
-title: Home
+title: GSF VIKRAM
 header:
-  overlay_color: "#fff2cc"
+  overlay_color: "#4d2e00"
   overlay_image: /assets/images/gsf-vikram-splash-banner.jpg
   actions:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
 excerpt: >
-  GSF VIKRAM - An inclusive rural digitalization platform by GramSheel Foundation<br />
+  An inclusive rural digitalization platform by GramSheel Foundation<br/>
+  गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
   <small><a href="https://obonac-works.github.io/about/">More about Project VIKRAM</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
