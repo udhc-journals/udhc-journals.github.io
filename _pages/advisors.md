@@ -3,11 +3,12 @@ permalink: /advisors/
 title: Board of Advisors
 ---
 
+# Chief Advisors
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
-# Chief Advisors
-
 <img src="https://obonac-works.github.io/assets/images/def-avatar.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
+
+## :diamond_shape_with_a_dot_inside:
 
 ## Dr C S R Prabhu <sub>PhD</sub>
 ### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
@@ -30,7 +31,7 @@ He received his Master of Technology degree in Electrical Engineering with speci
 He authored a number of text books in IT area with the most recent being on "Fog Computing,Deep Learning and Big Data Analytics-Research Directions" and also 
 "Big Data Analytics-Systems, Algorithms and Applications" both published by Springer.
 
-##  
+## :diamond_shape_with_a_dot_inside:
 
 <img src="https://obonac-works.github.io/assets/images/def-avatar.jpg" alttext="Dr Guriqbal Singh Jaiya (avatar image)" width="300" height="300">
 
@@ -62,7 +63,7 @@ Member, Advisory Board Of an Indian AI company which provides online Patent Info
 Adviser to one of the biggest IP law firms in Delhi.
 CEO of online Health Startups for the last year and a half
 
-##  
+## :diamond_shape_with_a_dot_inside:
 
 <img src="https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4" alttext="Dr Rakesh Biswas (avatar image)" width="300" height="300">
 
@@ -82,3 +83,5 @@ He is currently engaged in developing a health care blended-learning ecosystem t
 
 As all these stakeholders are computer users communicating through the web with a user name the network is also known as 'User Driven Health Care' UDHC network.
 The network has currently piloted in rural and urban Indian locations with encouraging responses from patients, medical students and global health professionals connected through the web. The network eventually hopes to propagate 'patient centered learning in India such that medical students and health professionals take pride in their teamwork toward making a positive change in their patients' lives. It hopes to in this manner utilize patient centered learning to build a vital bridge between basic and clinical science professionals that may translate bedside patient needs to solutions from the bench.
+
+## :diamond_shape_with_a_dot_inside:
