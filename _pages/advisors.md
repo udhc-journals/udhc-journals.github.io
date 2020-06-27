@@ -12,14 +12,14 @@ feature_row:
   - image_path: /assets/images/csrp_photo.jpg
     alt: "Dr C S R Prabhu (avatar image)"
     title: "Dr C S R Prabhu, PhD"
-    excerpt: "Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal"
+    excerpt: "Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI"
     url: "/advisors/#dr-c-s-r-prabhu-phd"
     btn_class: "btn--primary"
     btn_label: "Profile"
   - image_path: https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4
     alt: "Dr Rakesh Biswas (avatar image)"
     title: "Dr Rakesh Biswas, MD"
-    excerpt: "Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal"
+    excerpt: "Chief Advisor - Medical Education"
     url: "/advisors/#dr-rakesh-biswas-md"
     btn_class: "btn--primary"
     btn_label: "Profile"
@@ -69,7 +69,7 @@ CEO of online Health Startups for the last year and a half
 
 ## &#10070;
 
-<img src="https://obonac-works.github.io/assets/images/csrp_photo.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
+<img src="/assets/images/csrp_photo.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
 
 ## Dr C S R Prabhu <sub>PhD</sub>
 ### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
