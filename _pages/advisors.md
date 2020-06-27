@@ -1,6 +1,6 @@
 ---
 permalink: /advisors/
-title: Advisors 4 All
+title: Advisors
 ---
 
 # Advisors to Project VIKRAM
