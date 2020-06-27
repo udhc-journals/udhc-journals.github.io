@@ -22,14 +22,14 @@ feature_row:
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/sing-tech.png
+  - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
     title: "Singularity Technologies for All"
     excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project VIKRAM is developing technologies to bridge the current digital divide and the impending cognitive divide"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/hindawi-progg-sys.png
+  - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Language Neutral Technologies"
     excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
