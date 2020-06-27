@@ -5,7 +5,7 @@ title: Board of Advisors
 
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
-## Dr.C.S.R.Prabhu 
+## Dr.C.S.R.Prabhu,PhD
 ### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
 
 Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC),Ministry of Electronics and Information Technology, Govt. of India,New Delhi.
@@ -30,7 +30,7 @@ He authored a number of text books in IT area with the most recent being on "Fog
 
 
 
-## Dr. Guriqbal Singh Jaiya
+## Dr. Guriqbal Singh Jaiya, MBBS BA LLB
 ### Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal
 
 • MBBS (AIIMS, New Delhi, 1977 internship)
@@ -59,7 +59,7 @@ CEO of online Health Startups for the last year and a half
 
 
 ![Dr Rakesh Biswas](https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4)
-## Dr Rakesh Biswas
+## Dr Rakesh Biswas, MD
 ### Chief Advisor - Medical Education
 
 Rakesh Biswas MD is a professor of Medicine at Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India. His interests include clinical problem solving applied to patient centered health care and health education and he runs a global-medical elective supported by the BMJ group and  Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India.(detailed here: http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2/) 
