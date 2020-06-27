@@ -5,7 +5,7 @@ hidden: true
 title: GSF VIKRAM
 header:
   overlay_color: "#4d2e00"
-  overlay_image: /assets/images/gsfvikram-splash-banner.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
   actions:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
