@@ -5,7 +5,7 @@ title: Board of Advisors
 
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
-## Dr.C.S.R.Prabhu,PhD
+## Dr.C.S.R.Prabhu, PhD
 ### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
 
 Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC),Ministry of Electronics and Information Technology, Govt. of India,New Delhi.
