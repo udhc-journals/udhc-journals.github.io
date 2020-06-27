@@ -5,7 +5,8 @@ title: Board of Advisors
 
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
-## Dr.C.S.R.Prabhu, PhD
+## Dr C S R Prabhu
+#### PhD
 ### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
 
 Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC),Ministry of Electronics and Information Technology, Govt. of India,New Delhi.
@@ -30,31 +31,32 @@ He authored a number of text books in IT area with the most recent being on "Fog
 
 
 
-## Dr. Guriqbal Singh Jaiya, MBBS BA LLB
+## Dr Guriqbal Singh Jaiya
+#### MBBS BA LLB
 ### Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal
 
-• MBBS (AIIMS, New Delhi, 1977 internship)
+MBBS (AIIMS, New Delhi, 1977 internship)
 
-• Started MD (Pediatrics) on 1.1.1978 but left it to join IAS in July 1978 as the first MBBS to join the IAS
-• BA Degree (Economics, Mathematics, Political Science, English) Delhi University, 1978.
-• LLB Delhi University, 1983
-• Left IAS in Nov 1993 to join the World Intellectual Property Organization, WIPO) Geneva, Switzerland. 
+Started MD (Pediatrics) on 1.1.1978 but left it to join IAS in July 1978 as the first MBBS to join the IAS
+BA Degree (Economics, Mathematics, Political Science, English) Delhi University, 1978.
+LLB Delhi University, 1983
+Left IAS in Nov 1993 to join the World Intellectual Property Organization, WIPO) Geneva, Switzerland. 
 
-• Retired from WIPO in August 2017 and returned to India.
+Retired from WIPO in August 2017 and returned to India.
 
 Current affiliations: 
 
-• CO-Chairman, NASCAP a not-for-profit company which promotes prevention and court action against piracy and counterfeiting of goods, including drugs, agro-foods, PPE, Medical Devices, etc.
-• Honorary Advisor, Telemedicine Society of India
-• Convenor, Joint TSI, Joint (TSI, DHIndia Association, and 80 other volunteers) Working Group on webinar based Telemedicine Practice Guidelines Orientation Course .
+CO-Chairman, NASCAP a not-for-profit company which promotes prevention and court action against piracy and counterfeiting of goods, including drugs, agro-foods, PPE, Medical Devices, etc.
+Honorary Advisor, Telemedicine Society of India
+Convenor, Joint TSI, Joint (TSI, DHIndia Association, and 80 other volunteers) Working Group on webinar based Telemedicine Practice Guidelines Orientation Course .
 The above series of courses, which started on April 4, 2020 with a team of some 135 volunteers seeks to Five Lakh doctors in India by end May 2020, if not much earlier)
 
-• Member, DHIndia Association (Digital Health India)
+Member, DHIndia Association (Digital Health India)
 
-• Member, Advisory Board Of an Indian AI company which provides online Patent Information Services worldwide.
+Member, Advisory Board Of an Indian AI company which provides online Patent Information Services worldwide.
 
-• *Member, Advisory Board*of a not-for-profit Foundation into integrated earlier childhood education and cognitive development 
-• Adviser to one of the biggest IP law firms in Delhi.
+*Member, Advisory Board*of a not-for-profit Foundation into integrated earlier childhood education and cognitive development 
+Adviser to one of the biggest IP law firms in Delhi.
 CEO of online Health Startups for the last year and a half
 
 
