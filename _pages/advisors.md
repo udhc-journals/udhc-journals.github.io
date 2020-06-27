@@ -83,3 +83,15 @@ As all these stakeholders are computer users communicating through the web with 
 The network has currently piloted in rural and urban Indian locations with encouraging responses from patients, medical students and global health professionals connected through the web. The network eventually hopes to propagate 'patient centered learning in India such that medical students and health professionals take pride in their teamwork toward making a positive change in their patients' lives. It hopes to in this manner utilize patient centered learning to build a vital bridge between basic and clinical science professionals that may translate bedside patient needs to solutions from the bench.
 
 ## &#10070;
+
+<img src="" alttext="Anamika Mehta (avatar image)" width="300" height="300">
+
+## Ms Anamika Mehta <sub>MSc Genetics</sub>
+### Chief Advisor - Molecular and Clinical Genetics
+#### githuser-id TBD
+
+Ms Anamika Mehta is a senior geneticist with extensive experience with stress response genes, gene expression, stem cells, exosomes and longevity. She has consulted with international oganizations in the field of clinical genetics.
+
+(Awaiting full profile)
+
+## &#10070;
