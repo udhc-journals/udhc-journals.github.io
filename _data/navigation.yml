@@ -12,16 +12,16 @@ main:
     url: /projects/
   - title: Technology
     url: /technology/
+  - title: Resources
+    url: /resources/
 
   - title: Livelihood
     url: /livelihood/
-  - title: Resources
-    url: /resources/
-      
   - title: Industries
     url: /industries/
   - title: Education
     url: /education/
+
   - title: Healthcare & Biosciences
     url: /health/
   - title: Food Processing & Agriculture
