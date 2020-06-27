@@ -15,25 +15,25 @@ excerpt: >
   गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
   <small><a href="https://obonac-works.github.io/about/">More about Project VIKRAM</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/vikram-h4all.jpg
+    alt: "health4all"
+    title: "Healthcare for All"
+    excerpt: "Healthcare is basic dignity of human life in modern civilization. Project VIKRAM is setting up the tools for an accessible virtual hospital"
+    url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "democratised singularity"
+    title: "Singularity Technologies for All"
+    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project VIKRAM is developing technologies to bridge the current digital divide and the impending cognitive divide"
+    url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/hindawi-progg-sys.png
+    alt: "language neutrality"
+    title: "Language Neutral Technologies"
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    url: "/project-hindawi/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
