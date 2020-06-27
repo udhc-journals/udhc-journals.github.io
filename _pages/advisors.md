@@ -58,7 +58,8 @@ The above series of courses, which started on April 4, 2020 with a team of some 
 CEO of online Health Startups for the last year and a half
 
 
-## Dr Rakesh Biswas : 
+![Dr Rakesh Biswas](https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4)
+## Dr Rakesh Biswas
 ### Chief Advisor - Medical Education
 
 Rakesh Biswas MD is a professor of Medicine at Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India. His interests include clinical problem solving applied to patient centered health care and health education and he runs a global-medical elective supported by the BMJ group and  Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India.(detailed here: http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2/) 
