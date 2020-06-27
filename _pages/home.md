@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /
+hidden: true
 title: Home
 header:
   overlay_color: "#fff2cc"
