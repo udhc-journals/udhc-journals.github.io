@@ -38,11 +38,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-# GSF VIKRAM
-### An inclusive rural digitalization platform by GramSheel Foundation
-
 {% include feature_row %}
-
 
 <b>V</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
