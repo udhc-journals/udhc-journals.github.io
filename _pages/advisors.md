@@ -16,7 +16,7 @@ feature_row:
     url: "/advisors/#dr-c-s-r-prabhu-phd"
     btn_class: "btn--primary"
     btn_label: "Profile"
-  - image_path: /assets/dr_gogia.jpg
+  - image_path: /assets/images/dr_gogia.jpg
     alt: "Dr Shashi Bhushan Gogia (avatar image)"
     title: "Dr Shashi Bhushan Gogia, MBBS MS"
     excerpt: "Chief Advisor - Clinical Telemedicine & Digital Health Standards"
