@@ -16,6 +16,13 @@ feature_row:
     url: "/advisors/#dr-c-s-r-prabhu-phd"
     btn_class: "btn--primary"
     btn_label: "Profile"
+  - image_path: /assets/dr_gogia.jpg
+    alt: "Dr Shashi Bhushan Gogia (avatar image)"
+    title: "Dr Shashi Bhushan Gogia, MBBS MS"
+    excerpt: "Chief Advisor - Clinical Telemedicine & Digital Health Standards"
+    url: "/advisors/#dr-c-s-r-prabhu-phd"
+    btn_class: "btn--primary"
+    btn_label: "Profile"
   - image_path: https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4
     alt: "Dr Rakesh Biswas (avatar image)"
     title: "Dr Rakesh Biswas, MD"
@@ -94,6 +101,37 @@ He authored a number of text books in IT area with the most recent being on "Fog
 
 ## &#10070;
 
+<img src="/assets/images/dr_gogia.jpg" alttext="Dr Shashi Bhushan Gogia (avatar image)" width="300" height="300">
+
+## Dr Shashi Bhushan Gogia <sub>MBBS MS</sub>
+### Chief Advisor - Clinical Telemedicine & Digital Health Standards
+#### github-userid TBD
+
+QUALIFICATION: M.B.B.S. (1977) and M.S. (1981) in General Surgery. Both from A.I.I.M.S. New Delhi (AIIMS is India's Best Medical School)
+    • Independent practice as a surgeon (Specialty Plastic Surgery) since 1985 - main source of earning
+Special Interests: Plastic Surgery, Hand Surgery, Lymphedema. Medical Informatics, Telemedicine
+    • Health Informatics activities started in 1995. Achieved prominence on a national and international level. However it still remains to be a hobby and commitment
+
+Current and past positions 
+    • Fellow of International Academy of Health Science Informatics
+    • President of S.A.T.H.I. www.sathi.org  –Registered society (2004) involved in successful implementation of telehealth projects. President since inception and plan to handover charge in 2021. 
+    • Member of Bureau of Indian Standards MHD 17 taskforce on Development of Healthcare Informatics Standards and member of ISO Technical Committee 215 -since 2008 till current
+        ◦ Convener of panel on Medical Icons
+    • Ex Chairperson of Telehealth Working Group of International Medical Informatics Association (www.imia.org) 2010-2019 – Awarded the best Working group of IMIA in 2019
+        ◦ Editor of Book– Fundamentals of Telemedicine and Telehealth – targeting undergraduates and lay professional in Medicine Nursing as well as other Paramedical fields. 52 authors across the globe 
+    • Past President of APAMI - Asia Pacific Association for Medical Informatics www.apami.org (2015-16)
+    • Past president of IAMI www.iami.org.in  (2006-2009)
+
+Major Achievements
+    1. Made an EMR software (Medic Aid – details available at www.amlamed.com) for use in Clinics and Hospitals – over 150 users)
+    2. Over 40 Scientific Papers  in Indexed journals
+    3. Guest lectures delivered in over 200 National, International and specially organized meets and workshops.
+    4. Providing Telemedicine and Software Support for Medical establishments
+    5. Made a machine and treatment protocols for Filariasis and Lymphedema to the benefit of millions of patients  
+    6. Made other machines for DVT prevention and Negative Pressure Wound Therapy 
+
+## &#10070;
+
 <img src="https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4" alttext="Dr Rakesh Biswas (avatar image)" width="300" height="300">
 
 ## Dr Rakesh Biswas <sub>MD</sub>
@@ -119,7 +157,7 @@ The network has currently piloted in rural and urban Indian locations with encou
 
 ## Ms Anamika Mehta <sub>MSc Genetics</sub>
 ### Chief Advisor - Molecular and Clinical Genetics
-#### githuser-id TBD
+#### github-userid TBD
 
 Ms Anamika Mehta is a senior geneticist with extensive experience with stress response genes, gene expression, stem cells, exosomes and longevity. She has consulted with international oganizations in the field of clinical genetics.
 
