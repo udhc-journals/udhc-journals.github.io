@@ -10,33 +10,33 @@ main:
       
   - title: "Projects"
     url: /projects/
+  - title: Technology
+    url: /technology/
+
+  - title: Livelihood
+    url: /livelihood/
+  - title: Resources
+    url: /resources/
+      
+  - title: Industries
+    url: /industries/
   - title: Education
     url: /education/
   - title: Healthcare & Biosciences
     url: /health/
-      
-  - title: Industries
-    url: /industries/
   - title: Food Processing & Agriculture
     url: /food_processing_and_agriculture/
   - title: Space Exploration
     url: /space_exploration/
-      
-  - title: Technology
-    url: /technology/
-  - title: Resources
-    url: /resources/
-
   - title: Environment & Habitat
     url: /environment_and_habitat/
-  - title: Justice
-    url: /justice/
-  - title: Livelihood
-    url: /livelihood/
-  - title: Peace
-    url: /peace/
+
   - title: Socialising
     url: /socialising/
+  - title: Justice
+    url: /justice/
+  - title: Peace
+    url: /peace/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
