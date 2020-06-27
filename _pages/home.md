@@ -5,7 +5,7 @@ hidden: true
 title: GSF VIKRAM
 header:
   overlay_color: "#4d2e00"
-  overlay_image: /assets/images/gsf-vikram-splash-banner.jpg
+  overlay_image: /assets/images/gsfvikram-splash-banner.jpg
   actions:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
