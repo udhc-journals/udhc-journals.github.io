@@ -31,7 +31,7 @@ He authored a number of text books in IT area with the most recent being on "Fog
 
 ## &#10070;
 
-<img src="https://obonac-works.github.io/assets/images/def-avatar.jpg" alttext="Dr Guriqbal Singh Jaiya (avatar image)" width="300" height="300">
+<img src="http://1.bp.blogspot.com/-UZYxFjQsctc/T5ptUocka1I/AAAAAAAAAE8/vX_fDJ8nuA0/s1600/download+(1).jpg" alttext="Dr Guriqbal Singh Jaiya (avatar image)" width="300" height="300">
 
 ## Dr Guriqbal Singh Jaiya, IAS (Retd.) <sub>MBBS BA LLB</sub>
 ### Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal
