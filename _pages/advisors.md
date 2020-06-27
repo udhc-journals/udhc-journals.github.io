@@ -1,9 +1,8 @@
 ---
 permalink: /advisors/
-title: Advisors
+title: Board of Advisors
 ---
 
-# Advisors to Project VIKRAM
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
 ## Dr.C.S.R.Prabhu 
