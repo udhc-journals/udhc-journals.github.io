@@ -107,7 +107,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
