@@ -16,19 +16,16 @@ He was posted with Hughes Aircraft Corporation, at Irvine,California
 
 He was visiting Faculty with Asian Productivity Organization programs at Osaka Japan.
 
-
 He was Chairman of Computer Society of India ,Hyderabad Chapter for two terms in 2003 and 2004. 
 
 Dr. C.S.R.Prabhu is presently Director, Research at Keshav Memorial Institute of Technology ,Hyderabad.
 
-
 He received his Master of Technology degree in Electrical Engineering with specialization in Computer Science from Indian Institute of Technology, Bombay in 1978.
-
 
 He authored a number of text books in IT area with the most recent being on "Fog Computing,Deep Learning and Big Data Analytics-Research Directions" and also 
 "Big Data Analytics-Systems, Algorithms and Applications" both published by Springer.
 
-
+#
 
 ## Dr Guriqbal Singh Jaiya <sub>MBBS BA LLB</sub>
 ### Chief Advisor - Strategic Planning, Systems Thinking, IPR & Legal
@@ -57,6 +54,7 @@ Member, Advisory Board Of an Indian AI company which provides online Patent Info
 Adviser to one of the biggest IP law firms in Delhi.
 CEO of online Health Startups for the last year and a half
 
+#
 
 <img src="https://avatars0.githubusercontent.com/u/17338368?s=400&u=a531c9af4c6452e06bda4806596b5dfea56b16b2&v=4" alttext="Dr Rakesh Biswas (avatar image)" width="300" height="300">
 
