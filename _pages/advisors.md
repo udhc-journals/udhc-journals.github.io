@@ -6,9 +6,9 @@ title: Board of Advisors
 # Chief Advisors
 ### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
-<img src="https://obonac-works.github.io/assets/images/def-avatar.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
-
 ## :diamond_shape_with_a_dot_inside:
+
+<img src="https://obonac-works.github.io/assets/images/def-avatar.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
 
 ## Dr C S R Prabhu <sub>PhD</sub>
 ### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
