@@ -10,6 +10,9 @@ main:
       
   - title: "Projects"
     url: /projects/
+  - title: "Partners"
+    url: /partners/
+    
   - title: Technology
     url: /technology/
   - title: Resources
