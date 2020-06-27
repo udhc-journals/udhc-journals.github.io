@@ -1,10 +1,48 @@
 ---
-permalink: /home/
-title: Home 4 All
+layout: single
+permalink: /
+hidden: true
+title: GSF VIKRAM
+header:
+  overlay_color: "#4d2e00"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
+  actions:
+    - label: "<i class='fas fa-github'></i> Join us"
+      url: "/join-us/"
+excerpt: >
+  An inclusive rural digitalization platform<br/>
+  by GramSheel Foundation<br/>
+  गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
+  <small><a href="https://obonac-works.github.io/about/">More about Project VIKRAM</a></small>
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
 # GSF VIKRAM
 ### An inclusive rural digitalization platform by GramSheel Foundation
+
+{% include feature_row %}
+
 
 <b>V</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
