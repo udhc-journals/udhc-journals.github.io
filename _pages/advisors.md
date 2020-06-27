@@ -6,31 +6,6 @@ title: Board of Advisors
 # Chief Advisors
 #### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
 
-<img src="https://obonac-works.github.io/assets/images/csrp_photo.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
-
-## Dr C S R Prabhu <sub>PhD</sub>
-### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
-#### @csrprabhu
-
-Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC),Ministry of Electronics and Information Technology, Govt. of India,New Delhi.
-
-Before joining NIC he worked in various capacities in TCS,CMC,TELCO(Tata Motors)both in India and USA. He had done research at University of Central Florida (UCF) and was a consultant to NASA Cape Canaveral,Florida,USA.
-
-He was posted with Hughes Aircraft Corporation, at Irvine,California
-
-He was visiting Faculty with Asian Productivity Organization programs at Osaka Japan.
-
-He was Chairman of Computer Society of India ,Hyderabad Chapter for two terms in 2003 and 2004. 
-
-Dr. C.S.R.Prabhu is presently Director, Research at Keshav Memorial Institute of Technology ,Hyderabad.
-
-He received his Master of Technology degree in Electrical Engineering with specialization in Computer Science from Indian Institute of Technology, Bombay in 1978.
-
-He authored a number of text books in IT area with the most recent being on "Fog Computing,Deep Learning and Big Data Analytics-Research Directions" and also 
-"Big Data Analytics-Systems, Algorithms and Applications" both published by Springer.
-
-## &#10070;
-
 <img src="http://1.bp.blogspot.com/-UZYxFjQsctc/T5ptUocka1I/AAAAAAAAAE8/vX_fDJ8nuA0/s1600/download+(1).jpg" alttext="Dr Guriqbal Singh Jaiya (avatar image)" width="300" height="300">
 
 ## Dr Guriqbal Singh Jaiya, IAS (Retd.) <sub>MBBS BA LLB</sub>
@@ -60,6 +35,31 @@ Member, Advisory Board Of an Indian AI company which provides online Patent Info
 *Member, Advisory Board*of a not-for-profit Foundation into integrated earlier childhood education and cognitive development 
 Adviser to one of the biggest IP law firms in Delhi.
 CEO of online Health Startups for the last year and a half
+
+## &#10070;
+
+<img src="https://obonac-works.github.io/assets/images/csrp_photo.jpg" alttext="Dr C S R Prabhu (avatar image)" width="300" height="300">
+
+## Dr C S R Prabhu <sub>PhD</sub>
+### Chief Advisor - Public IT Infrastructure, Fog Computing, ML & AI
+#### @csrprabhu
+
+Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC),Ministry of Electronics and Information Technology, Govt. of India,New Delhi.
+
+Before joining NIC he worked in various capacities in TCS,CMC,TELCO(Tata Motors)both in India and USA. He had done research at University of Central Florida (UCF) and was a consultant to NASA Cape Canaveral,Florida,USA.
+
+He was posted with Hughes Aircraft Corporation, at Irvine,California
+
+He was visiting Faculty with Asian Productivity Organization programs at Osaka Japan.
+
+He was Chairman of Computer Society of India ,Hyderabad Chapter for two terms in 2003 and 2004. 
+
+Dr. C.S.R.Prabhu is presently Director, Research at Keshav Memorial Institute of Technology ,Hyderabad.
+
+He received his Master of Technology degree in Electrical Engineering with specialization in Computer Science from Indian Institute of Technology, Bombay in 1978.
+
+He authored a number of text books in IT area with the most recent being on "Fog Computing,Deep Learning and Big Data Analytics-Research Directions" and also 
+"Big Data Analytics-Systems, Algorithms and Applications" both published by Springer.
 
 ## &#10070;
 
