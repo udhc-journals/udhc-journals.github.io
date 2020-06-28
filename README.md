@@ -1,4 +1,4 @@
-# GSF VIKRAM
+# Project VIKRAM
 ### An inclusive rural digitalization platform by GramSheel Foundation
 
 <b>V</b>irtualized         <br>
