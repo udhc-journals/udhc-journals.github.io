@@ -16,7 +16,7 @@
 title: Project VIKRAM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  An inclusive rural digitalization platform by GramSheel Foundation
+  An inclusive rural digitalization platform inspired by the principles of GramSheel
     Virtualized
     Infrastructure
     for
@@ -72,9 +72,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "GSF VIKRAM"
+  name   : "Project VIKRAM"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An inclusive rural digitalization platform by GramSheel Foundation."
+  bio    : "An inclusive rural digitalization platform inspired by the principles of GramSheel."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
