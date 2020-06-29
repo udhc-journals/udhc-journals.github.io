@@ -3,7 +3,7 @@ permalink: /team/
 title: Team 4 All
 ---
 
-# Team Project VIKRAM
+# Team The Project Vikram Journal
 
 ## Abhishek Choudhary
 ### Founding Architect & Convener
