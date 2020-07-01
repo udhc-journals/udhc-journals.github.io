@@ -40,7 +40,7 @@ feature_row:
 ---
 
 # Chief Advisors
-#### Project VIKRAM is honoured to have the following dignitaries on its panel of advisors
+#### The Project Vikram Journal is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
