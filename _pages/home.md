@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: /home/
 hidden: true
 title: The Project Vikram Journal
 header:
