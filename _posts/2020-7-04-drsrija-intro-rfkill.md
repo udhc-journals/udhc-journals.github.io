@@ -2,8 +2,8 @@
 title: "My Introduction to Wi-Fi 'Hard block' and 'rfkill'"
 date: 2020-07-04T15:34:30-04:00
 categories:
-  - blog
-  - launch
+  - tech
+  - networking
 tags:
   - Wi-Fi Hard Block
   - rfkill
