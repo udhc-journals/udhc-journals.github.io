@@ -38,7 +38,7 @@ It is important to be vigilant of the actions and keyboard strokes you give whil
 
 
 
-[ref1]  : https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/rfkill
+[ref1:]https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/power_management_guide/rfkill
 
-[ref2] : https://linux.die.net/man/1/rfkill 
+[ref2:]https://linux.die.net/man/1/rfkill 
 
