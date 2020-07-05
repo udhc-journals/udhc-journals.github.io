@@ -35,7 +35,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     7. Peace and harmony through social dialog 
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
