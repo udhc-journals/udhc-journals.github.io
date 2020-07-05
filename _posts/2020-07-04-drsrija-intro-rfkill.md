@@ -1,6 +1,6 @@
 ---
 title: "My Introduction to Wi-Fi 'Hard block' and 'rfkill'"
-date: 2020-07-04T15:34:30-05:30
+date: 2020-07-04T15:34:30 +05:30
 categories:
   - tech
   - networking
