@@ -39,7 +39,11 @@ Then I tried '**Function(Fn)+ Prtscr**' ( ‘PrtScr’ has a transmittor symbol 
 It is important to be vigilant of the actions and keyboard strokes you give while using the keyboard otherwise we may end up triggering changes in hardware setup!!!!
 
 
-Disclaimer : The Information provided above shoukd notbe used for any lifesaving or critical purposes, there is no claim to accuracy or fitness and this article dosenot form a product commitment. No Warranties or liablities apply to the author
+Disclaimer : The Information provided above shoukd notbe used for any lifesaving or critical purposes, no claim to accuracy or fitness and this article dosenot form a product commitment. No Warranties or liablities apply to the author
+
+
+
+Author : Dr Srija Katta
 
 
 
