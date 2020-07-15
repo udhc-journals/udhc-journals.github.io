@@ -7,6 +7,8 @@ categories:
 tags:
   - Wi-Fi Hard Block
   - rfkill
+Author:
+  - Dr Srija Katta
 ---
 
   While I was adjusting the brightness of my laptop (Dell-Vostro-14,3000 Series with Ubuntu) my internet suddenly got disconnected.  I checked router and Wi-Fi connection, they were perfectly fine,  I noticed Wi-Fi symbol disappeared from the drop-down menu, even the settings showed no options to turn it 'on'  and the notification said '**No Wi-Fi Adapter Found**' as shown in the screen shot below : 
@@ -35,6 +37,13 @@ Then I tried '**Function(Fn)+ Prtscr**' ( ‘PrtScr’ has a transmittor symbol 
  Looking back at my initial action I might accidentally stroked ‘PrtScr’ key (which is right beside F12) while holding 'Function (Fn)' key
 
 It is important to be vigilant of the actions and keyboard strokes you give while using the keyboard otherwise we may end up triggering changes in hardware setup!!!!
+
+
+Disclaimer : The Information provided above shoukd notbe used for any lifesaving or critical purposes, no claim to accuracy or fitness and this article dosenot form a product commitment. No Warranties or liablities apply to the author
+
+
+
+Author : Dr Srija Katta
 
 
 
