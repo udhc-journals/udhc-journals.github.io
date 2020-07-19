@@ -1,19 +1,16 @@
 ---
 permalink: /team/
-title: team
-feature_row:
- - image_path: https://i1.wp.com/ayeai.xyz/site/wp-content/uploads/2020/03/IMG-20200313-WA0015-scaled.jpg?w=767&ssl=1
-   alt: "Abhishek Choudhary (avatar image)"
-   title: "Abhishek Choudhary"
-   excerpt: "Founding Architect & Convener"
-   url: "/team/#Abhishek-Choudhary"
-   btn_class: "btn--primary"
-   btn_label: "Profile"
- - image_path: https://i1.wp.com/ayeai.xyz/site/wp-content/uploads/2020/03/IMG-20200313-WA0015-scaled.jpg?w=767&ssl=1
- ---
+title: Team 4 All
+---
+
+# Team The Project Vikram Journal
+
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQGMrVEs2A0qgw/profile-displayphoto-shrink_100_100/0?e=1600905600&v=beta&t=wRz9E9oDLQMAfEWeTirKwD7d5wRn4vWIKB7LROaA1BE" Abhishek Choudhary (avatar image)" width="300" height="300">
+
 ## Abhishek Choudhary
 ### Founding Architect & Convener
 
 ## Dr Srija Katta
 ### Co-Convener
+
 
