@@ -6,7 +6,7 @@ feature_row:
     alt: "Abhishek Choudhary (avatar image)"
     title: "Abhishek Choudhary"
     excerpt: "Founding Architect"
-    url: "/team/#Abhishek-guriqbal-Choudhary"
+    url: "/team/#Abhishek-Choudhary"
     btn_class: "btn--primary"
     btn_label: "Profile"
   - image_path: https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg
