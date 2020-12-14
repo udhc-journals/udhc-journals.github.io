@@ -8,3 +8,5 @@ Kindly send proposals for membership and projects to a.choudhary -at- ieee.org  
 
 Note: Joining forms will be live soon
 
+[Join as an Advisor](https://docs.google.com/forms/d/1Uu_4shGbQpqUqPiYFUx9FWdYDONo8VMJSnkxrnU9G4E/edit?usp=sharing)
+
