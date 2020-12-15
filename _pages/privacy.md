@@ -1,3 +1,8 @@
+---
+permalink: /privacy/
+title: Privacy Policy
+---
+
 Project VIKRAM is an Open source Initiative to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas : Education, Healthcare, Livelihood (ISIC domains of economic activities), Social Justice, Habitat and Environment, Agriculture and Food, Peace and Harmony through Social Dialog 
 ( more info : https://projectvikram.github.io/ )           
 
