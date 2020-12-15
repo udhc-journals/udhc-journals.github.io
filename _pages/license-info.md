@@ -1,3 +1,7 @@
+---
+permalink: /license/
+title: License Information
+---
 
 Project Vikram deliverables are delivered in respective open source licenses. Please refer to each project source code for details.
 
