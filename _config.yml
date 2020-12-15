@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # last update @srija-ieee
 
-title: The Project Vikram Journal
+title: The Project Vikram 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   An inclusive rural digitalization platform inspired by the principles of GramSheel
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Ascension
     Management
   गाँव बढ़ेंगे तो सब बढ़ेंगे
-  The Project Vikram Journal is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
+  The Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
     1. Education
     2. Healthcare
     3. Livelihood (ISIC domains of economic activities)
@@ -74,7 +74,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "The Project Vikram Journal"
+  name   : "The Project Vikram "
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "An inclusive rural digitalization platform inspired by the principles of GramSheel."
   links:

@@ -40,7 +40,7 @@ feature_row:
 ---
 
 # Chief Advisors
-#### The Project Vikram Journal is honoured to have the following dignitaries on its panel of advisors
+#### The Project Vikram  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
@@ -137,7 +137,7 @@ Major Achievements :
 
    1. Made an EMR software (Medic Aid – details available at www.amlamed.com) for use in Clinics and Hospitals – over 150 users)
     
-   2. Over 40 Scientific Papers  in Indexed journals
+   2. Over 40 Scientific Papers  in Indexed s
     
    3. Guest lectures delivered in over 200 National, International and specially organized meets and workshops.
    
@@ -158,9 +158,9 @@ Major Achievements :
 Rakesh Biswas MD is a professor of Medicine at Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India. His interests include clinical problem solving applied to patient centered health care and health education and he runs a global-medical elective supported by the BMJ group and  Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India.(detailed here: http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2/) 
 
 
-He has in the past shared his experiences in clinical problem solving extensively through global academic journals and books and is a founding editor of
-International Journal of User Driven healthcare, http://www.igi-global.com/affiliate/rakesh-biswas/115818 and Regional editor for the Journal of Evaluation in Clinical Practice, UK
-(http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2753/homepage/EditorialBoard.html) as well as a past Deputy Editor of BMJ case reports, UK. http://casereports.bmj.com/site/about/edboard.xhtml
+He has in the past shared his experiences in clinical problem solving extensively through global academic s and books and is a founding editor of
+International  of User Driven healthcare, http://www.igi-global.com/affiliate/rakesh-biswas/115818 and Regional editor for the  of Evaluation in Clinical Practice, UK
+(http://onlinelibrary.wiley.com//10.1111/%28ISSN%291365-2753/homepage/EditorialBoard.html) as well as a past Deputy Editor of BMJ case reports, UK. http://casereports.bmj.com/site/about/edboard.xhtml
 
 He is currently engaged in developing a health care blended-learning ecosystem through a network of global multiple learner stakeholders that includes medical student and health professionals from diverse disciplines. It also includes patients along with their relatives in rural and urban India so that they may benefit from this global learning toward their local caring. His primary focus is on optimization of costs in a manner that can still provide highest quality of care in low resource settings.
 
