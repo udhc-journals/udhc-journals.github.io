@@ -40,7 +40,7 @@ feature_row:
 ---
 
 # Chief Advisors
-#### The Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
