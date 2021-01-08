@@ -25,7 +25,7 @@ All matters and arising disputes are subject only to the jurisdiction of courts 
 
 Any information shared with you is Copyright (C) Project VIKRAM, unless otherwise specified, or shared from third party sources. The information may not be shared further without permission and you agree to not disclose it to any third party till at least 36 (thirty-six) months from the receipt of such information. Any unintended communication sent in error must be deleted, and shall not constitute public disclosure of the contained information.
 
-(C) Copyright 2019 - 2020 Project VIKRAM
+(C) Copyright 2019 - 2021 Project VIKRAM
 
 Notice: Project VIKRAM is claimed as a trademark (TM) by Abhishek Choudhary in India and other geographies. Imitation or unauthorized usage of the trademark or the device shall imply infringement of trademark and copyright holdings which is illegal.
 
