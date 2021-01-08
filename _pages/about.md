@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## The Project Vikram Journal - An inclusive rural digitalization platform inspired by the principles of GramSheel
+## Project Vikram  - An inclusive rural digitalization platform inspired by the principles of GramSheel
 
 <b>V</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
@@ -19,7 +19,7 @@ Launched 3rd May 2020
 
 ### गाँव बढ़ेंगे तो सब बढ़ेंगे
 
-Note: This is an initial announcement. The Project Vikram Journal is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
