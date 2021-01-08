@@ -29,3 +29,7 @@ Any information shared with you is Copyright (C) Project VIKRAM, unless otherwis
 
 Notice: Project VIKRAM is claimed as a trademark (TM) by Abhishek Choudhary in India and other geographies. Imitation or unauthorized usage of the trademark or the device shall imply infringement of trademark and copyright holdings which is illegal.
 
+Notice: AyeAI Consulting is providing support to Project VIKRAM on a good faith basis. Access to Project VIKRAM resources online, offline or by any other means implies the acceptance by the partner, collaborator, user or any other party, to indemnify AyeAI Consulting against any claims arising therefrom. AyeAI contributes to Project VIKRAM without any warranty and with zero liability limited to below INR 1/- (one Indian rupee only).
+
+
+
