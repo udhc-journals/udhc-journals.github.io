@@ -33,7 +33,7 @@ feature_row:
     alt: "language neutrality"
     title: "Language Neutral Technologies"
     excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
-    url: "/project-hindawi/"
+    url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
