@@ -76,9 +76,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -87,6 +84,12 @@ author:
       url: "https://github.com/projectvikram/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+    - label: "FaceBook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
 footer:
@@ -99,6 +102,12 @@ footer:
       url: "https://github.com/projectvikram/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+    - label: "FaceBook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
 defaults:
