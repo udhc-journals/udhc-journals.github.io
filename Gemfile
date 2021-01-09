@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project Vikram
+title: Project VIKRAM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   An inclusive rural digitalization platform inspired by the principles of GramSheel
@@ -76,17 +76,20 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/projectvikram/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+    - label: "FaceBook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
 footer:
@@ -96,9 +99,15 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/projectvikram/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+    - label: "FaceBook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://instagram.com/"
 
 defaults:
