@@ -12,7 +12,7 @@ header:
 excerpt:
   <b>கிராமங்களின் வளர்ச்சியே<br>
   நம் அனைவரின் வளர்ச்சி<br>
-  गाँव बढ़ेंगे तो सब बढ़ेंगे<br></b>
+  गांवों के विकास में सभी का विकास<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="https://obonac-works.github.io/about/">More about Project Vikram </a>
