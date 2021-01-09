@@ -12,7 +12,7 @@ header:
 excerpt:
   <b>கிராமங்களின் வளர்ச்சியே<br>
   நம் அனைவரின் வளர்ச்சி<br>
-  गांवों के विकास में सभी का विकास<br></b>
+  गांवों के विकास में हम सभी का विकास<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="https://obonac-works.github.io/about/">More about Project Vikram </a>
@@ -52,10 +52,6 @@ feature_row:
 <b>M</b>anagement          <br>
 
 Launched 3rd May 2020
-
-### विक्रम - सर्वांगीण विकास हितार्थ ग्रामशील फाउंडेशन द्वारा प्रायोजित तकनीकीकरण
-
-### गाँव बढ़ेंगे तो सब बढ़ेंगे
 
 Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
