@@ -9,11 +9,14 @@ header:
   actions:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
-excerpt: >
-  An inclusive rural digitalization platform<br/>
-  inspired by the principles of GramSheel<br/>
-  गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
-  <small><a href="https://obonac-works.github.io/about/">More about Project Vikram </a></small>
+excerpt:
+  கிராமம் வளரும்போது எல்லாம் வளர்கிறது<br>
+  गाँव बढ़ेंगे तो सब बढ़ेंगे<br>
+  <small>
+  An inclusive rural digitalization platform<br>
+  inspired by the principles of GramSheel<br>
+  <a href="https://obonac-works.github.io/about/">More about Project Vikram </a>
+  </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
