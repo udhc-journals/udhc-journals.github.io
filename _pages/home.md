@@ -10,11 +10,11 @@ header:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
 excerpt:
-  கிராமம் வளரும்போது எல்லாம் வளர்கிறது<br>
-  गाँव बढ़ेंगे तो सब बढ़ेंगे<br>
+  <b>கிராமம் வளரும்போது<br>
+  எல்லாம் வளர்கிறது<br>
+  गाँव बढ़ेंगे तो सब बढ़ेंगे<br></b>
   <small>
-  An inclusive rural digitalization platform<br>
-  inspired by the principles of GramSheel<br>
+  An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="https://obonac-works.github.io/about/">More about Project Vikram </a>
   </small>
 feature_row:
