@@ -86,7 +86,7 @@ CEO of online Health Startups for the last year and a half
 
 Dr. C.S.R.Prabhu has held prestigious positions with the Government of India and various institutions. He superannuated as Director General of National Informatics Centre (NIC), Ministry of Electronics and Information Technology, Govt. of India, New Delhi.
 
-Before joining NIC he worked in various capacities in TCS, CMC, TELCO(Tata Motors)both in India and USA. He had done research at University of Central Florida (UCF) and was a consultant to NASA Cape Canaveral, Florida, USA.
+Before joining NIC he worked in various capacities in TCS, CMC, TELCO(Tata Motors) both in India and USA. He had done research at University of Central Florida (UCF) and was a consultant to NASA Cape Canaveral, Florida, USA.
 
 He was posted with Hughes Aircraft Corporation, at Irvine, California
 
@@ -137,7 +137,7 @@ Major Achievements :
 
    1. Made an EMR software (Medic Aid – details available at www.amlamed.com) for use in Clinics and Hospitals – over 150 users)
     
-   2. Over 40 Scientific Papers  in Indexed s
+   2. Over 40 Scientific Papers  in Indexed Journals
     
    3. Guest lectures delivered in over 200 National, International and specially organized meets and workshops.
    
@@ -158,7 +158,7 @@ Major Achievements :
 Rakesh Biswas MD is a professor of Medicine at Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India. His interests include clinical problem solving applied to patient centered health care and health education and he runs a global-medical elective supported by the BMJ group and  Kamineni Institute of Medical sciences, Narketpally, near Hyderabad, India.(detailed here: http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2/) 
 
 
-He has in the past shared his experiences in clinical problem solving extensively through global academic s and books and is a founding editor of
+He has in the past shared his experiences in clinical problem solving extensively through global academic Journals and books and is a founding editor of
 International  of User Driven healthcare, http://www.igi-global.com/affiliate/rakesh-biswas/115818 and Regional editor for the  of Evaluation in Clinical Practice, UK
 (http://onlinelibrary.wiley.com//10.1111/%28ISSN%291365-2753/homepage/EditorialBoard.html) as well as a past Deputy Editor of BMJ case reports, UK. http://casereports.bmj.com/site/about/edboard.xhtml
 
