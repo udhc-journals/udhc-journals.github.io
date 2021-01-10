@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
     title: "Singularity Tech for All"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project Vikram  is developing technologies to bridge the current digital divide and the impending cognitive divide <br><br>"
+    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project Vikram  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
