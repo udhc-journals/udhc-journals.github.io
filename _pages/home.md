@@ -35,7 +35,7 @@ feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Languistic Inclusivity"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in language neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -75,6 +75,6 @@ Project Vikram - Healthcare section is now ready to accept submissions as issues
 
 Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
 
-To add an issue please visit the link below and copy paste the template into a new issue
+To add an issue please visit the link below and copy paste the template into a new issue 
 
 [Issue template](https://github.com/projectvikram/healthcare/issues/1)
