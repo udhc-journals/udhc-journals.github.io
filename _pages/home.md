@@ -15,7 +15,7 @@ excerpt:
   गांवों के विकास में हम सभी का विकास<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
-  <a href="https://obonac-works.github.io/about/">More about Project Vikram </a>
+  <a href="/about/">More about Project Vikram </a>
   </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
