@@ -11,8 +11,10 @@
 
 Launched 3rd May 2020
 
-### विक्रम - सर्वांगीण विकास हितार्थ ग्रामशील फाउंडेशन द्वारा प्रायोजित तकनीकीकरण
+## प्रकल्प विक्रम
+### सर्वांगीण विकास हितार्थ ग्रामशील फाउंडेशन द्वारा प्रेरित ग्रामीण तकनीकीकरण
 
+## गांवों के विकास में हम सभी का विकास
 ### गाँव बढ़ेंगे तो सब बढ़ेंगे
 
 Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
