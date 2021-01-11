@@ -34,7 +34,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
-    title: "Languistic Inclusivity"
+    title: "Linguistic Inclusivity"
     excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in language neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
