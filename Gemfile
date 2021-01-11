@@ -105,10 +105,10 @@ footer:
       url: "https://instagram.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://instagram.com/"
+      url: "https://www.facebook.com/ProjectVIKRAM"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/company/project-vikram"
 
 defaults:
   # _pages
