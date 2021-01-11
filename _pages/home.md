@@ -11,8 +11,8 @@ header:
       url: "/join-us/"
 excerpt:
   <b>கிராமங்களின் வளர்ச்சியே<br>
-  நம் அனைவரின் வளர்ச்சி<br></b
-  <b>गांवों के विकास में हम सभी का विकास<br></b>
+  நம் அனைவரின் வளர்ச்சி<br>
+  गांवों के विकास में हम सभी का विकास<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="about/">More about Project Vikram </a>
