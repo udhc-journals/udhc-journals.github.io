@@ -85,12 +85,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "FaceBook"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://instagram.com/"
+      url: "https://www.facebook.com/ProjectVIKRAM"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/company/project-vikram"
 
 footer:
   links:
@@ -103,7 +103,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "FaceBook"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://instagram.com/"
     - label: "LinkedIn"

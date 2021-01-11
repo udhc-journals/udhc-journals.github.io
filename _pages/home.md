@@ -15,7 +15,7 @@ excerpt:
   गांवों के विकास में हम सभी का विकास<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
-  <a href="https://obonac-works.github.io/about/">More about Project Vikram </a>
+  <a href="about/">More about Project Vikram </a>
   </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
@@ -34,7 +34,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
-    title: "Languistic Inclusivity"
+    title: "Linguistic Inclusivity"
     excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
