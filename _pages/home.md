@@ -7,7 +7,7 @@ header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
   actions:
-    - label: "<i class='fas fa-github'></i> Join us"
+    - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
   <b>கிராமங்களின் வளர்ச்சியே<br>
