@@ -94,6 +94,15 @@ author:
 
 footer:
   links:
+    - label: "Advisors"
+      icon: "fas fa-fw fa-award"
+      url: "/advisors/"
+    - label: "Team"
+      icon: "fas fa-fw fa-users-cog"
+      url: "/team/"
+    - label: "Partners"
+      icon: "fas fa-fw fa-handshake"
+      url: "/partners/"
     - label: "License"
       icon: "fas fa-fw fa-file-contract"
       url: "/license/"
