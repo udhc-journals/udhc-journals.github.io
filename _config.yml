@@ -97,10 +97,10 @@ author:
 footer:
   links:
     - label: "License"
-      icon: "fad fa-file-certificate"
+      icon: "fas fa-fw fa-file-certificate"
       url: "/license/"
     - label: "Privacy Policy"
-      icon: "fas fa-mask"
+      icon: "fas fa-fw fa-mask"
       url: "/privacy/"
     - label: "Term & Conditions"
       icon: "fas fa-fw fa-balance-scale-right"
