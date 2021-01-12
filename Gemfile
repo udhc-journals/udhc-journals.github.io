@@ -94,21 +94,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/projectvikram/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/ProjectVIKRAM"
+    - label: "License"
+      icon: "fad fa-fw fa-file-certificate"
+      url: "/license/"
+    - label: "Privacy Policy"
+      icon: "fas fa-fw fa-blinds"
+      url: "/privacy/"
     - label: "Term & Conditions"
       icon: "fas fa-fw fa-balance-scale-right"
-      url: "https://www.linkedin.com/company/project-vikram"
+      url: "/terms/"
 
 defaults:
   # _pages
