@@ -106,8 +106,8 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/ProjectVIKRAM"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+    - label: "Term & Conditions"
+      icon: "fas fa-fw fa-balance-scale-right"
       url: "https://www.linkedin.com/company/project-vikram"
 
 defaults:
