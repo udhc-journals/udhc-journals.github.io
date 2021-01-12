@@ -98,9 +98,9 @@ footer:
   links:
     - label: "License"
       icon: "fad fa-fw fa-file-certificate"
-      url: "/privacy/"
+      url: "/license/"
     - label: "Privacy Policy"
-      icon: "fad fa-fw fa-file-certificate"
+      icon: "fas fa-fw fa-blinds"
       url: "/privacy/"
     - label: "Term & Conditions"
       icon: "fas fa-fw fa-balance-scale-right"
