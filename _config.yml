@@ -97,7 +97,7 @@ author:
 footer:
   links:
     - label: "License"
-      icon: "fas fa-fw fa-file-certificate"
+      icon: "fas fa-fw fa-file-contract"
       url: "/license/"
     - label: "Privacy Policy"
       icon: "fas fa-fw fa-mask"
