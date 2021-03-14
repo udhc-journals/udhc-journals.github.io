@@ -14,6 +14,7 @@ excerpt:
   நம் அனைவரின் வளர்ச்சி<br>
   गांवों के विकास में हम सभी का विकास<br></b>
   <small>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=3000" frameborder="0" width="240" height="77" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="about/">More about Project Vikram </a>
   </small>
