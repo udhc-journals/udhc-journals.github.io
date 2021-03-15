@@ -10,7 +10,8 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>An inclusive rural digitalization platform inspired by the principles of GramSheel</b><br>
+  <b>An inclusive rural digitalization platform<br>
+  inspired by the principles of GramSheel</b><br>
   <small>
   <a href="about/">More about Project Vikram </a>
   </small>
