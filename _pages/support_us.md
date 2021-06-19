@@ -15,6 +15,8 @@ title: Support Us
       rzp && rzp.init && rzp.init()}})();
   </script>
 </div>
+
+Please use the above buttons to make your contributions for Project Vikram. TnC apply.
     
 <div class="responsive-wrap" markdown="0">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeB9WUy4UDCFrxIXgONmOvdnymYGZVVyHFGbkRBKSuj4BG_Xg/viewform?embedded=true" width="640" height="5000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
