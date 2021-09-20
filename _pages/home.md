@@ -39,12 +39,18 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-<a href="http://archiveready.com/check?url=https://projectvikram.github.io" title="Website Archivability Testing"><img src="http://archiveready.com/img/archiveready-badge.png" alt="" /></a>
-<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//projectvikram.github.io/feed.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Validate my Atom 1.0 feed" /></a>
-
-<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
-
 {% include feature_row %}
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support Project VIKRAM" data-color="#528FF0" data-size="large">
+  <h3>Support Project VIKRAM and Project Hindawi- AI for inclusive growth</h3>
+  <p>All contributions in support of Project VIKRAM will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
+  <script>
+    (function(){
+      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+      rzp && rzp.init && rzp.init()}})();
+  </script>
+</div>
 
 <b>V</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
@@ -71,6 +77,11 @@ Note: This is an initial announcement. Project Vikram  is a project to make rura
 6. Agriculture and Food
 
 7. Peace and harmony through social dialog 
+
+<a href="http://archiveready.com/check?url=https://projectvikram.github.io" title="Website Archivability Testing"><img src="http://archiveready.com/img/archiveready-badge.png" alt="" /></a>
+<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//projectvikram.github.io/feed.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Validate my Atom 1.0 feed" /></a>
+
+<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
