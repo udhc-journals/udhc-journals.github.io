@@ -3,10 +3,9 @@ permalink: /support/
 title: Support Us
 ---
 
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
 <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support Project VIKRAM" data-color="#528FF0" data-size="large">
+  <h3>Support Project VIKRAM and Project Hindawi- AI for inclusive growth</h3>
+  <p>All contributions in support of Project VIKRAM will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
   <script>
     (function(){
       var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
@@ -16,6 +15,10 @@ title: Support Us
   </script>
 </div>
 
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
 Please use the above buttons to make your contributions for Project Vikram. TnC apply.
     
 <div class="responsive-wrap" markdown="0">
