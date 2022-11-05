@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project VIKRAM
+title: UDHC Journals
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   An inclusive rural digitalization platform inspired by the principles of GramSheel
@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Ascension
     Management
   गाँव बढ़ेंगे तो सब बढ़ेंगे
-  Project Vikram is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
+  UDHC Journals is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
     1. Education
     2. Healthcare
     3. Livelihood (ISIC domains of economic activities)

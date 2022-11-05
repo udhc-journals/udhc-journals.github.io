@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: Project VIKRAM
+title: UDHC Journals
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
@@ -13,27 +13,27 @@ excerpt:
   <b>An inclusive rural digitalization platform<br>
   inspired by the principles of GramSheel</b><br>
   <small>
-  <a href="about/">More about Project Vikram </a>
+  <a href="about/">More about UDHC Journals </a>
   </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
     title: "Healthcare for All"
-    excerpt: "Healthcare is basic dignity of human life in modern civilization. Project Vikram  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
+    excerpt: "Healthcare is basic dignity of human life in modern civilization. UDHC Journals  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
     title: "Singularity Tech for All"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project Vikram  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
+    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. UDHC Journals  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Linguistic Inclusivity"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. UDHC Journals  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -41,9 +41,9 @@ feature_row:
 
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 {% include feature_row %}
-<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support Project VIKRAM" data-color="#528FF0" data-size="large">
-  <h3>Support Project VIKRAM and Project Hindawi- AI for inclusive growth</h3>
-  <p>All contributions in support of Project VIKRAM will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support UDHC Journals" data-color="#528FF0" data-size="large">
+  <h3>Support UDHC Journals and Project Hindawi- AI for inclusive growth</h3>
+  <p>All contributions in support of UDHC Journals will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
   <script>
     (function(){
       var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
@@ -63,7 +63,7 @@ feature_row:
 
 Launched 3rd May 2020
 
-Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. UDHC Journals  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
@@ -84,7 +84,7 @@ Note: This is an initial announcement. Project Vikram  is a project to make rura
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
-Project Vikram - Healthcare section is now ready to accept submissions as issues.
+UDHC Journals - Healthcare section is now ready to accept submissions as issues.
 
 Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
 

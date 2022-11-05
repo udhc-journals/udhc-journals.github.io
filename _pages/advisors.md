@@ -40,7 +40,7 @@ feature_row:
 ---
 
 # Chief Advisors
-#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+#### UDHC Journals  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
@@ -81,7 +81,7 @@ Dr. C.S.R.Prabhu is presently Director, Research at Keshav Memorial Institute of
 ### Chief Advisor - Clinical Telemedicine & Digital Health Standards
 #### github-userid TBD
 
-Dr Gogia is a surgeon (Specialty Plastic Surgery) since 1985 with special interest in  Plastic Surgery, Hand Surgery, Lymphedema. Medical Informatics, Telemedicine, he completed his M.B.B.S. (1977) Chief Advisor - Molecular and Clinical Genetics, Project VIKRAMM.S. (1981) in General Surgery from A.I.I.M.S. New Delhi 
+Dr Gogia is a surgeon (Specialty Plastic Surgery) since 1985 with special interest in  Plastic Surgery, Hand Surgery, Lymphedema. Medical Informatics, Telemedicine, he completed his M.B.B.S. (1977) Chief Advisor - Molecular and Clinical Genetics, UDHC JournalsM.S. (1981) in General Surgery from A.I.I.M.S. New Delhi 
 
 He started his Health Informatics activities in 1995 and achieved prominence on a national and international level. He is a Fellow of International Academy of Health Science Informatics. President of S.A.T.H.I. www.sathi.org  –Registered society (2004) involved in successful implementation of telehealth projects. Dr Gogia is a Member of Bureau of Indian Standards MHD 17 taskforce on Development of Healthcare Informatics Standards and member of ISO Technical Committee 215 -since 2008 till current, Convener of panel on Medical Icons
 
