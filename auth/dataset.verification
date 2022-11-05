@@ -1,0 +1,24 @@
+I assert that dataset has been uploaded with following fingerprint
+      dummy_data : 3772bb7567b1cef2028053ab979258235d11070436d0e717a22f1459d85677df
+    
+  The dataset has been updated vide commit id bf3e4520c19f13d233d4e208c26364a2e1ce7c24
+
+  ---------------------
+  Authorization details
+  ---------------------
+  I assert that data access authorization has been uploaded with following fingerprint
+      dummy_auth : 46819eb2b5b9a376999ed48b4bdfc28eacd320c2448b801067faa8f5174b746a
+    
+  The authorization has been updated vide commit id 4fa74f5c6f01d3a018b68a4a752449faa22601ed
+  
+
+  -------------------
+
+  I further assert that I am solely responsible for the uploaded dataset being compliant with the terms of the authorization, and thereof indemnify AyeAI Consulting its agents, employees and partners against any direct or indirect losses arising out of any access, processing or sharing of this data.
+  I understand and accept that all disputes are subject to the jurisdiction of courts in Hyderabad, Telangana, INDIA only.
+
+  Name:  [Please type your full name as your signature. Name must match the name entered above]
+  Email: [Email must be entered same as AyeAI.xyz account email]
+  Place: [Physical location. Update before committing]
+  Date:  [Update before committing]
+  
