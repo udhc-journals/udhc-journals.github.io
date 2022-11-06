@@ -63,31 +63,13 @@ feature_row:
 
 Launched 3rd May 2020
 
-Note: This is an initial announcement. UDHC Journals  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. UDHC Journals  is "What"?
 
-1. Education
-
-2. Healthcare
-
-3. Livelihood (ISIC domains of economic activities)
-
-4. Social Justice
-
-5. Habitat and Environment
-
-6. Agriculture and Food
-
-7. Peace and harmony through social dialog 
-
-<a href="http://archiveready.com/check?url=https://projectvikram.github.io" title="Website Archivability Testing"><img src="http://archiveready.com/img/archiveready-badge.png" alt="" /></a>
+<a href="http://archiveready.com/check?url=https://udhc-journals.github.io" title="Website Archivability Testing"><img src="http://archiveready.com/img/archiveready-badge.png" alt="" /></a>
 <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//projectvikram.github.io/feed.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Validate my Atom 1.0 feed" /></a>
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
-UDHC Journals - Healthcare section is now ready to accept submissions as issues.
+UDHC Journals - Healthcare section is now ready to accept submissions.
 
-Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
-
-To add an issue please visit the link below and copy paste the template into a new issue
-
-[Issue template](https://github.com/projectvikram/healthcare/issues/1)
+[Click here to submit your articles / data](https://colab.research.google.com/github/udhc-journals/udhc-journals.github.io/blob/master/notebooks/AyeConsult_Data_Upload_Self_Service_Workflow.ipynb)
