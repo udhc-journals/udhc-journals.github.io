@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Linguistic Inclusivity"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. UDHC Journals  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. UDHC Journals  together with Project Hindawi is ushering in lanaguage neutrality across healthcare domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -41,27 +41,8 @@ feature_row:
 
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 {% include feature_row %}
-<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support UDHC Journals" data-color="#528FF0" data-size="large">
-  <h3>Support UDHC Journals and Project Hindawi- AI for inclusive growth</h3>
-  <p>All contributions in support of UDHC Journals will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
-  <script>
-    (function(){
-      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
-      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
-      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
-      rzp && rzp.init && rzp.init()}})();
-  </script>
-</div>
 
-<b>V</b>irtualized         <br>
-<b>I</b>nfrastructure      <br>
-    for                    <br>
-<b>K</b>nowledge-driven    <br> 
-<b>R</b>ural               <br>
-<b>A</b>scension           <br>
-<b>M</b>anagement          <br>
-
-Launched 3rd May 2020
+Removed support link - we can add one if necessary
 
 Note: This is an initial announcement. UDHC Journals  is "What"?
 
