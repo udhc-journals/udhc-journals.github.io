@@ -3,3 +3,8 @@ curl -s 'http://medicinedepartment.blogspot.com/' | tr "\'" '\n' | grep '^http' 
 curl -s ''http://medicinedepartment.blogspot.com | html2text | tr ' \t' '\n' | grep '^http'  >>urls.lst
 
 for n in $(cat urls.lst); do curl -s "$n" | tr "\'" '\n' | grep '^http' | grep ':' | grep 'blogspot.com' | awk -F'/' '{url=$1 "//"; for(i=3;i<=NF;i++) url = url "/" $i; print url}' | sort -u >>urls2.lst; curl -s ''http://medicinedepartment.blogspot.com | html2text | tr ' \t' '\n' | grep '^http' >>urls2.lst; done
+
+cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | awk -F'/' '{if(NF>=3)print "https://" $3}' | sort -u | grep blogspot >pajr_blogs
+
+cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | grep '.html$' | sort -u >pajr_cases
+
