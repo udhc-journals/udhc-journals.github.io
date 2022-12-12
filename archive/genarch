@@ -6,7 +6,7 @@ rm urls2.lst
 
 for n in $(cat urls.lst); do curl -s "$n" | tr "\'" '\n' | grep '^http' | grep ':' | grep 'blogspot.com' | awk -F'/' '{url=$1 "//"; for(i=3;i<=NF;i++) url = url "/" $i; print url}' | sort -u | sed 's/http:/https:/g' >>urls2.lst; curl -s "$n" | html2text | tr ' \t' '\n' | grep '^http' | sed 's/http:/https:/g' >>urls2.lst; done
 
-cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | awk -F'/' '{if(NF>=3)print "https://" $3}' | sort -u | grep blogspot >pajr_blogs.md
+cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | awk -F'/' '{if(NF>=3)print "https://" $3}' | sort -u | grep blogspot | awk '{print "["$0"]("$0")\n\n"}'>pajr_blogs.md
 
-cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | grep '.html$' | sort -u >pajr_cases.md
+cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | grep '.html$' | sort -u | awk '{print "["$0"]("$0")\n\n"}'>pajr_cases.md
 
