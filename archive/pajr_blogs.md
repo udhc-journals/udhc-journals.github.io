@@ -43,6 +43,9 @@
 [https://3.bp.blogspot.com](https://3.bp.blogspot.com)
 
 
+[https://4.bp.blogspot.com](https://4.bp.blogspot.com)
+
+
 [https://54geetha.blogspot.com](https://54geetha.blogspot.com)
 
 
@@ -77,6 +80,9 @@
 
 
 [https://aakansharaj.blogspot.com](https://aakansharaj.blogspot.com)
+
+
+[https://abdulraheem7168.blogspot.com](https://abdulraheem7168.blogspot.com)
 
 
 [https://abhigna1317.blogspot.com](https://abhigna1317.blogspot.com)
@@ -160,16 +166,31 @@
 [https://anuragvaddadi.blogspot.com](https://anuragvaddadi.blogspot.com)
 
 
+[https://anushachowdaryshivakoti150.blogspot.com](https://anushachowdaryshivakoti150.blogspot.com)
+
+
+[https://archanareddy07.blogspot.com](https://archanareddy07.blogspot.com)
+
+
 [https://arunajonnalagadda61.blogspot.com](https://arunajonnalagadda61.blogspot.com)
 
 
 [https://arunrollno46.blogspot.com](https://arunrollno46.blogspot.com)
 
 
+[https://ashfaqtaj098.blogspot.com](https://ashfaqtaj098.blogspot.com)
+
+
 [https://ashiness3.blogspot.com](https://ashiness3.blogspot.com)
 
 
 [https://ashiness92.blogspot.com](https://ashiness92.blogspot.com)
+
+
+[https://asrithareddy10.blogspot.com](https://asrithareddy10.blogspot.com)
+
+
+[https://avinashrollnumber1.blogspot.com](https://avinashrollnumber1.blogspot.com)
 
 
 [https://awalaruchitha.blogspot.com](https://awalaruchitha.blogspot.com)
@@ -202,6 +223,9 @@
 [https://bhavaniv.blogspot.com](https://bhavaniv.blogspot.com)
 
 
+[https://bhavyayammanuru.blogspot.com](https://bhavyayammanuru.blogspot.com)
+
+
 [https://bmjcaselogvivek.blogspot.com](https://bmjcaselogvivek.blogspot.com)
 
 
@@ -223,13 +247,13 @@
 [https://casescape.blogspot.com](https://casescape.blogspot.com)
 
 
+[https://cbblenarratives.blogspot.com](https://cbblenarratives.blogspot.com)
+
+
 [https://chandanavishwanatham19.blogspot.com](https://chandanavishwanatham19.blogspot.com)
 
 
 [https://chennabhavana.blogspot.com](https://chennabhavana.blogspot.com)
-
-
-[https://chennutera133.blogspot.com](https://chennutera133.blogspot.com)
 
 
 [https://chitrasrinivas.blogspot.com](https://chitrasrinivas.blogspot.com)
@@ -251,6 +275,9 @@
 
 
 [https://deepikamunnelli.blogspot.com](https://deepikamunnelli.blogspot.com)
+
+
+[https://detailedclinicalanalysis.blogspot.com](https://detailedclinicalanalysis.blogspot.com)
 
 
 [https://didyalasushmitha37.blogspot.com](https://didyalasushmitha37.blogspot.com)
@@ -284,6 +311,9 @@
 
 
 [https://durgakrishna09.blogspot.com](https://durgakrishna09.blogspot.com)
+
+
+[https://durgamahadev118.blogspot.com](https://durgamahadev118.blogspot.com)
 
 
 [https://dushyanthreddyrollno196.blogspot.com](https://dushyanthreddyrollno196.blogspot.com)
@@ -323,6 +353,9 @@
 
 
 [https://globaludhc07.blogspot.com](https://globaludhc07.blogspot.com)
+
+
+[https://gm-elogbook-anudeep-98.blogspot.com](https://gm-elogbook-anudeep-98.blogspot.com)
 
 
 [https://gmpgpracticals2k19.blogspot.com](https://gmpgpracticals2k19.blogspot.com)
@@ -535,6 +568,9 @@
 [https://manishkumarrollno129.blogspot.com](https://manishkumarrollno129.blogspot.com)
 
 
+[https://manivarma7.blogspot.com](https://manivarma7.blogspot.com)
+
+
 [https://mannammounisarollno85.blogspot.com](https://mannammounisarollno85.blogspot.com)
 
 
@@ -562,6 +598,9 @@
 [https://medicinedepartment.blogspot.com](https://medicinedepartment.blogspot.com)
 
 
+[https://medicinedepartment.blogspot.in](https://medicinedepartment.blogspot.in)
+
+
 [https://meesumabbas82.blogspot.com](https://meesumabbas82.blogspot.com)
 
 
@@ -575,6 +614,9 @@
 
 
 [https://modupallimamtharollno92.blogspot.com](https://modupallimamtharollno92.blogspot.com)
+
+
+[https://mohithak.blogspot.com](https://mohithak.blogspot.com)
 
 
 [https://moulika99.blogspot.com](https://moulika99.blogspot.com)
@@ -608,6 +650,9 @@
 
 
 [https://navyaannamaneni09.blogspot.com](https://navyaannamaneni09.blogspot.com)
+
+
+[https://navyamallempalli.blogspot.com](https://navyamallempalli.blogspot.com)
 
 
 [https://navyasripabbarollno111.blogspot.com](https://navyasripabbarollno111.blogspot.com)
@@ -967,6 +1012,9 @@
 [https://sreeja3100.blogspot.com](https://sreeja3100.blogspot.com)
 
 
+[https://sreejaboga.blogspot.](https://sreejaboga.blogspot.)
+
+
 [https://sreejaboga.blogspot.com](https://sreejaboga.blogspot.com)
 
 
@@ -983,6 +1031,9 @@
 
 
 [https://srianugna.blogspot.com](https://srianugna.blogspot.com)
+
+
+[https://sridevimaddipati.blogspot.com](https://sridevimaddipati.blogspot.com)
 
 
 [https://sridharanirollno163.blogspot.com](https://sridharanirollno163.blogspot.com)
@@ -1145,6 +1196,9 @@
 
 
 [https://vyshnavikonakalla.blogspot.com](https://vyshnavikonakalla.blogspot.com)
+
+
+[https://yaminimandava4114.blogspot.com](https://yaminimandava4114.blogspot.com)
 
 
 [https://yaminivallabhu.blogspot.com](https://yaminivallabhu.blogspot.com)

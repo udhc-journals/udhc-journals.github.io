@@ -58,6 +58,15 @@
 [https://96sanjanapalakodeti.blogspot.com/2022/01/clinical-problem-solving.html](https://96sanjanapalakodeti.blogspot.com/2022/01/clinical-problem-solving.html)
 
 
+[https://aakansharaj.blogspot.com/2020/10/35-year-old-male-with-pedal-oedema-and.html](https://aakansharaj.blogspot.com/2020/10/35-year-old-male-with-pedal-oedema-and.html)
+
+
+[https://aakansharaj.blogspot.com/2020/11/55-year-old-male-with-anemia.html](https://aakansharaj.blogspot.com/2020/11/55-year-old-male-with-anemia.html)
+
+
+[https://aakansharaj.blogspot.com/2020/11/blended-learning-bimonthly-assignment.html](https://aakansharaj.blogspot.com/2020/11/blended-learning-bimonthly-assignment.html)
+
+
 [https://abhigna1317.blogspot.com/2021/08/general-medicine-case-1.html](https://abhigna1317.blogspot.com/2021/08/general-medicine-case-1.html)
 
 
@@ -142,6 +151,18 @@
 [https://alekyaemmadi.blogspot.com/2022/12/gm-prefinal.html](https://alekyaemmadi.blogspot.com/2022/12/gm-prefinal.html)
 
 
+[https://alekyatummala.blogspot.com/2020/07/medicine-case.html](https://alekyatummala.blogspot.com/2020/07/medicine-case.html)
+
+
+[https://alekyatummala.blogspot.com/2020/08/35-male-with-sudden-onset-seizures.html](https://alekyatummala.blogspot.com/2020/08/35-male-with-sudden-onset-seizures.html)
+
+
+[https://alekyatummala.blogspot.com/2020/08/pulmonary-embolism.html](https://alekyatummala.blogspot.com/2020/08/pulmonary-embolism.html)
+
+
+[https://alekyatummala.blogspot.com/2020/09/45-yr-female-with-anasarca.html](https://alekyatummala.blogspot.com/2020/09/45-yr-female-with-anasarca.html)
+
+
 [https://alugurisadika.blogspot.com/2022/11/45m-with-abdominal-distension-and-pedal.html](https://alugurisadika.blogspot.com/2022/11/45m-with-abdominal-distension-and-pedal.html)
 
 
@@ -190,6 +211,9 @@
 [https://amulyaseedarla64.blogspot.com/2022/12/60-year-old-male-with-hypertension.html](https://amulyaseedarla64.blogspot.com/2022/12/60-year-old-male-with-hypertension.html)
 
 
+[https://ashiness92.blogspot.com/2022/03/the-diagnostic-uncertainty-of-27-year.html](https://ashiness92.blogspot.com/2022/03/the-diagnostic-uncertainty-of-27-year.html)
+
+
 [https://awalaruchitha.blogspot.com/2022/03/29-year-old-female-with-pain-in-right.html](https://awalaruchitha.blogspot.com/2022/03/29-year-old-female-with-pain-in-right.html)
 
 
@@ -215,6 +239,9 @@
 
 
 [https://bhargavisadam.blogspot.com/2020/06/interns-e-log.html](https://bhargavisadam.blogspot.com/2020/06/interns-e-log.html)
+
+
+[https://bhargavisadam.blogspot.com/2020/06/interns-everyday-log.html](https://bhargavisadam.blogspot.com/2020/06/interns-everyday-log.html)
 
 
 [https://bhavanareddyno48.blogspot.com/2022/02/m-bhavana-reddy-roll-no-48.html](https://bhavanareddyno48.blogspot.com/2022/02/m-bhavana-reddy-roll-no-48.html)
@@ -250,6 +277,9 @@
 [https://bhavani37.blogspot.com/2022/11/october-20-2022-this-is-online-e-log.html](https://bhavani37.blogspot.com/2022/11/october-20-2022-this-is-online-e-log.html)
 
 
+[https://bmjcaselogvivek.blogspot.com/2022/06/case-series-of-neurodegenerative.html](https://bmjcaselogvivek.blogspot.com/2022/06/case-series-of-neurodegenerative.html)
+
+
 [https://bollusreechandana.blogspot.com/2022/11/40-yr-old-female-patient-with-abdominal.html](https://bollusreechandana.blogspot.com/2022/11/40-yr-old-female-patient-with-abdominal.html)
 
 
@@ -271,7 +301,10 @@
 [https://brahmmanithota.blogspot.com/2021/08/gm-case-history-2.html](https://brahmmanithota.blogspot.com/2021/08/gm-case-history-2.html)
 
 
-[https://chennutera133.blogspot.com/2022/09/i-was-born-and-raised-in.html](https://chennutera133.blogspot.com/2022/09/i-was-born-and-raised-in.html)
+[https://chitrasrinivas.blogspot.com/2021/08/patient-came-to-opd-with-co-vomitings.html](https://chitrasrinivas.blogspot.com/2021/08/patient-came-to-opd-with-co-vomitings.html)
+
+
+[https://chitrasrinivas.blogspot.com/2021/08/unit-3-admission.html](https://chitrasrinivas.blogspot.com/2021/08/unit-3-admission.html)
 
 
 [https://classworkdecjan.blogspot.com/2022/02/udhc-cases-mirror-2.html](https://classworkdecjan.blogspot.com/2022/02/udhc-cases-mirror-2.html)
@@ -319,7 +352,16 @@
 [https://doctorjaswitha.blogspot.com/2020/05/interns-log-book.html](https://doctorjaswitha.blogspot.com/2020/05/interns-log-book.html)
 
 
+[https://doctorjaswitha.blogspot.com/2020/06/blog-post.html](https://doctorjaswitha.blogspot.com/2020/06/blog-post.html)
+
+
 [https://drkulkarnithesis.blogspot.com/2020/09/dissertation-plan-activity.html](https://drkulkarnithesis.blogspot.com/2020/09/dissertation-plan-activity.html)
+
+
+[https://geethika110.blogspot.com/2020/06/a-20-year-old-water-supplier-who-is.html](https://geethika110.blogspot.com/2020/06/a-20-year-old-water-supplier-who-is.html)
+
+
+[https://geethika110.blogspot.com/2020/06/medicine-case.html](https://geethika110.blogspot.com/2020/06/medicine-case.html)
 
 
 [https://generalmedicine22.blogspot.com/2022/10/60-year-old-women-with-chief-complaints.html](https://generalmedicine22.blogspot.com/2022/10/60-year-old-women-with-chief-complaints.html)
@@ -382,7 +424,22 @@
 [https://himabindu5.blogspot.com/2020/05/hello-everyone.html](https://himabindu5.blogspot.com/2020/05/hello-everyone.html)
 
 
+[https://himabindu5.blogspot.com/2020/05/medicine-case-presentation.html](https://himabindu5.blogspot.com/2020/05/medicine-case-presentation.html)
+
+
+[https://hitesh116.blogspot.com/2020/05/12may-2020-elog-medicine-intern.html](https://hitesh116.blogspot.com/2020/05/12may-2020-elog-medicine-intern.html)
+
+
+[https://hitesh116.blogspot.com/2020/05/care-you-can-trust.html](https://hitesh116.blogspot.com/2020/05/care-you-can-trust.html)
+
+
+[https://hitesh116.blogspot.com/2020/05/elog-13th-may-2020.html](https://hitesh116.blogspot.com/2020/05/elog-13th-may-2020.html)
+
+
 [https://hitesh116.blogspot.com/2020/05/elog-14th-may-2020.html](https://hitesh116.blogspot.com/2020/05/elog-14th-may-2020.html)
+
+
+[https://hitesh116.blogspot.com/2020/05/neet.html](https://hitesh116.blogspot.com/2020/05/neet.html)
 
 
 [https://httpmedicin.blogspot.com/2021/12/nsaids-induced-nephropathy-with.html](https://httpmedicin.blogspot.com/2021/12/nsaids-induced-nephropathy-with.html)
@@ -541,6 +598,27 @@
 [https://keelasreevalli.blogspot.com/2021/09/a-52-yr-old-female-homemaker-by.html](https://keelasreevalli.blogspot.com/2021/09/a-52-yr-old-female-homemaker-by.html)
 
 
+[https://keerthiereddy.blogspot.com/2017/12/spastic-quadriparesis-mnd.html](https://keerthiereddy.blogspot.com/2017/12/spastic-quadriparesis-mnd.html)
+
+
+[https://keerthiereddy.blogspot.com/2018/01/case-of-hypopituitarism.html](https://keerthiereddy.blogspot.com/2018/01/case-of-hypopituitarism.html)
+
+
+[https://keerthiereddy.blogspot.com/2018/01/lowerlimb-weakness-in-young-female.html](https://keerthiereddy.blogspot.com/2018/01/lowerlimb-weakness-in-young-female.html)
+
+
+[https://keerthiereddy.blogspot.com/2018/01/thesis-case.html](https://keerthiereddy.blogspot.com/2018/01/thesis-case.html)
+
+
+[https://keerthiereddy.blogspot.com/2019/05/69-year-old-male-patient-presented-to.html](https://keerthiereddy.blogspot.com/2019/05/69-year-old-male-patient-presented-to.html)
+
+
+[https://keerthiereddy.blogspot.com/2019/05/fever-with-lymphadenopathy-in-male.html](https://keerthiereddy.blogspot.com/2019/05/fever-with-lymphadenopathy-in-male.html)
+
+
+[https://keerthiereddy.blogspot.com/2019/08/a-50-year-old-female-patient.html](https://keerthiereddy.blogspot.com/2019/08/a-50-year-old-female-patient.html)
+
+
 [https://koretejaswi42.blogspot.com/2022/10/60-yr-old-male-with-sob.html](https://koretejaswi42.blogspot.com/2022/10/60-yr-old-male-with-sob.html)
 
 
@@ -550,7 +628,16 @@
 [https://laxmisri08.blogspot.com/2021/08/case-history-1.html](https://laxmisri08.blogspot.com/2021/08/case-history-1.html)
 
 
+[https://likithayadlapalli.blogspot.com/2020/08/likithas-elog_30.html](https://likithayadlapalli.blogspot.com/2020/08/likithas-elog_30.html)
+
+
 [https://likithayadlapalli.blogspot.com/2020/08/likithas-elog.html](https://likithayadlapalli.blogspot.com/2020/08/likithas-elog.html)
+
+
+[https://likithayadlapalli.blogspot.com/2020/09/likithas-elog.html](https://likithayadlapalli.blogspot.com/2020/09/likithas-elog.html)
+
+
+[https://madhur116.blogspot.com/2020/05/on-1452020.html](https://madhur116.blogspot.com/2020/05/on-1452020.html)
 
 
 [https://maheshakula06.blogspot.com/2022/03/a-47-year-old-male-patient-came-to.html](https://maheshakula06.blogspot.com/2022/03/a-47-year-old-male-patient-came-to.html)
@@ -610,6 +697,9 @@
 [https://manvithayechuri169.blogspot.com/2021/12/medicine-case.html](https://manvithayechuri169.blogspot.com/2021/12/medicine-case.html)
 
 
+[https://medcases.blogspot.com/2020/05/case-discussion.html](https://medcases.blogspot.com/2020/05/case-discussion.html)
+
+
 [https://medcases.blogspot.com/2020/05/case-discussion-of-peripheral.html](https://medcases.blogspot.com/2020/05/case-discussion-of-peripheral.html)
 
 
@@ -623,6 +713,33 @@
 
 
 [https://medcases.blogspot.com/2020/05/case-discussion-on-right-ventricular.html](https://medcases.blogspot.com/2020/05/case-discussion-on-right-ventricular.html)
+
+
+[https://medcases.blogspot.com/2020/05/heart-failure-2.html](https://medcases.blogspot.com/2020/05/heart-failure-2.html)
+
+
+[https://medcases.blogspot.com/2020/05/heart-failure.html](https://medcases.blogspot.com/2020/05/heart-failure.html)
+
+
+[https://medcases.blogspot.com/2020/05/ive-been-given-this-case-httpshitesh116.html](https://medcases.blogspot.com/2020/05/ive-been-given-this-case-httpshitesh116.html)
+
+
+[https://medcases.blogspot.com/2020/05/ive-been-given-this-case-httpssrianugna.html](https://medcases.blogspot.com/2020/05/ive-been-given-this-case-httpssrianugna.html)
+
+
+[https://medcases.blogspot.com/2020/05/paraparesis-3.html](https://medcases.blogspot.com/2020/05/paraparesis-3.html)
+
+
+[https://medcases.blogspot.com/2020/05/this-is-de-identified-patient-online.html](https://medcases.blogspot.com/2020/05/this-is-de-identified-patient-online.html)
+
+
+[https://medcases.blogspot.com/2022/01/58-year-old-male-came-to-hospital-with.html](https://medcases.blogspot.com/2022/01/58-year-old-male-came-to-hospital-with.html)
+
+
+[https://medcases.blogspot.com/2022/01/75yrs-old-female-came-to-casualty-with.html](https://medcases.blogspot.com/2022/01/75yrs-old-female-came-to-casualty-with.html)
+
+
+[https://medcases.blogspot.com/2022/01/old-male-patient-came-to-casualty-with.html](https://medcases.blogspot.com/2022/01/old-male-patient-came-to-casualty-with.html)
 
 
 [https://medicinedepartment.blogspot.com/2016/11/3rd-semester-part-completion-evaluation.html](https://medicinedepartment.blogspot.com/2016/11/3rd-semester-part-completion-evaluation.html)
@@ -1246,9 +1363,6 @@
 [https://meghadandge2001.blogspot.com/2022/11/56-year-old-patient-with-pain-in-abdomen.html](https://meghadandge2001.blogspot.com/2022/11/56-year-old-patient-with-pain-in-abdomen.html)
 
 
-[https://minhajateeba13.blogspot.com/2022/11/and-greetings-to-every-one-who-are_26.html](https://minhajateeba13.blogspot.com/2022/11/and-greetings-to-every-one-who-are_26.html)
-
-
 [https://minhajateeba13.blogspot.com/2022/11/and-greetings-to-every-one-who-are_30.html](https://minhajateeba13.blogspot.com/2022/11/and-greetings-to-every-one-who-are_30.html)
 
 
@@ -1256,6 +1370,9 @@
 
 
 [https://minhajateeba13.blogspot.com/2022/12/and-greetings-to-every-one-who-are.html](https://minhajateeba13.blogspot.com/2022/12/and-greetings-to-every-one-who-are.html)
+
+
+[https://minhajateeba13.blogspot.com/2022/12/blog-post.html](https://minhajateeba13.blogspot.com/2022/12/blog-post.html)
 
 
 [https://mounika16.blogspot.com/2022/03/45-year-old-female-with-co-dengu-fever.html](https://mounika16.blogspot.com/2022/03/45-year-old-female-with-co-dengu-fever.html)
@@ -1321,6 +1438,9 @@
 [https://navyaannamaneni09.blogspot.com/2022/12/this-is-online-e-log-book-to-discuss.html](https://navyaannamaneni09.blogspot.com/2022/12/this-is-online-e-log-book-to-discuss.html)
 
 
+[https://navyamallempalli.blogspot.com/2021/02/a-60yrs-old-male-with-sob.html](https://navyamallempalli.blogspot.com/2021/02/a-60yrs-old-male-with-sob.html)
+
+
 [https://nehae-logs.blogspot.com/2021/05/case-discussion-on-viral-pneumonia.html](https://nehae-logs.blogspot.com/2021/05/case-discussion-on-viral-pneumonia.html)
 
 
@@ -1351,10 +1471,19 @@
 [https://niharikagifty555.blogspot.com/2022/12/a-32yr-old-male-with-alcohol-dependence.html](https://niharikagifty555.blogspot.com/2022/12/a-32yr-old-male-with-alcohol-dependence.html)
 
 
+[https://nikhlilnarimeti.blogspot.com/2020/05/13-may-e-log.html](https://nikhlilnarimeti.blogspot.com/2020/05/13-may-e-log.html)
+
+
 [https://nimratabassum.blogspot.com/2022/12/gm-case.html](https://nimratabassum.blogspot.com/2022/12/gm-case.html)
 
 
 [https://nishithatummala006.blogspot.com/2020/08/nishithas-elog.html](https://nishithatummala006.blogspot.com/2020/08/nishithas-elog.html)
+
+
+[https://nishithatummala006.blogspot.com/2020/09/a-55-yr-old-with-chronic-inflammatory.html](https://nishithatummala006.blogspot.com/2020/09/a-55-yr-old-with-chronic-inflammatory.html)
+
+
+[https://nishithatummala006.blogspot.com/2020/09/biweekly-exam.html](https://nishithatummala006.blogspot.com/2020/09/biweekly-exam.html)
 
 
 [https://nitishadeekshitulu.blogspot.com/2022/11/55-years-old-male-co-pedal-edema.html](https://nitishadeekshitulu.blogspot.com/2022/11/55-years-old-male-co-pedal-edema.html)
@@ -1370,6 +1499,12 @@
 
 
 [https://nitishadeekshitulu.blogspot.com/2022/12/pre-final-assessment-answer-sheet.html](https://nitishadeekshitulu.blogspot.com/2022/12/pre-final-assessment-answer-sheet.html)
+
+
+[https://ntruhs.ap.nic.in/examinationss/index.html](https://ntruhs.ap.nic.in/examinationss/index.html)
+
+
+[https://potlapallirashmitha.blogspot.com/2020/05/29-year-old-female-from-west-bengal.html](https://potlapallirashmitha.blogspot.com/2020/05/29-year-old-female-from-west-bengal.html)
 
 
 [https://prakashgowtham65.blogspot.com/2021/09/50-year-old-male-with-chronic.html](https://prakashgowtham65.blogspot.com/2021/09/50-year-old-male-with-chronic.html)
@@ -1399,13 +1534,28 @@
 [https://prathyushasingam.blogspot.com/2021/12/45-year-old-male.html](https://prathyushasingam.blogspot.com/2021/12/45-year-old-male.html)
 
 
+[https://pri422.blogspot.com/2020/06/medicine-intern-log.html](https://pri422.blogspot.com/2020/06/medicine-intern-log.html)
+
+
 [https://psaikrupasri175.blogspot.com/2021/12/general-medicine-case.html](https://psaikrupasri175.blogspot.com/2021/12/general-medicine-case.html)
+
+
+[https://rakeshkumar04.blogspot.com/2020/06/medicine-blog_4.html](https://rakeshkumar04.blogspot.com/2020/06/medicine-blog_4.html)
+
+
+[https://rakeshkumar04.blogspot.com/2020/07/hi-this-is-intern-posted-in-general.html](https://rakeshkumar04.blogspot.com/2020/07/hi-this-is-intern-posted-in-general.html)
+
+
+[https://rakeshkumar04.blogspot.com/2021/03/41y-old-man-with-altered-sensorium.html](https://rakeshkumar04.blogspot.com/2021/03/41y-old-man-with-altered-sensorium.html)
 
 
 [https://ramyapotha7777.blogspot.com/2022/11/23-yr-male-with-fever-with.html](https://ramyapotha7777.blogspot.com/2022/11/23-yr-male-with-fever-with.html)
 
 
 [https://ramyauppula2018.blogspot.com/2021/08/gm-case-1.html](https://ramyauppula2018.blogspot.com/2021/08/gm-case-1.html)
+
+
+[https://raveena27.blogspot.com/2020/05/medicine-may-17-2020-hello.html](https://raveena27.blogspot.com/2020/05/medicine-may-17-2020-hello.html)
 
 
 [https://renavarsha.blogspot.com/2022/11/60-year-old-patient-came-to-hospital.html](https://renavarsha.blogspot.com/2022/11/60-year-old-patient-came-to-hospital.html)
@@ -1415,6 +1565,15 @@
 
 
 [https://rhea9895.blogspot.com/2020/09/two-similar-cases-yet-very-different.html](https://rhea9895.blogspot.com/2020/09/two-similar-cases-yet-very-different.html)
+
+
+[https://rhea9895.blogspot.com/2022/01/29-years-old-female-with-co-joint-pains.html](https://rhea9895.blogspot.com/2022/01/29-years-old-female-with-co-joint-pains.html)
+
+
+[https://rhea9895.blogspot.com/2022/01/i-would-like-to-give-my-analysis-of.html](https://rhea9895.blogspot.com/2022/01/i-would-like-to-give-my-analysis-of.html)
+
+
+[https://rishik37.blogspot.com/2020/05/gm-elog-case-2.html](https://rishik37.blogspot.com/2020/05/gm-elog-case-2.html)
 
 
 [https://rishitha69.blogspot.com/2022/10/70-year-old-female-patient-with-fever.html](https://rishitha69.blogspot.com/2022/10/70-year-old-female-patient-with-fever.html)
@@ -1430,6 +1589,24 @@
 
 
 [https://roopkala1992009.blogspot.com/2022/12/78-year-old-male-came-casuality.html](https://roopkala1992009.blogspot.com/2022/12/78-year-old-male-came-casuality.html)
+
+
+[https://roshinisathputhe.blogspot.com/2020/06/medicine-case-e-log.html](https://roshinisathputhe.blogspot.com/2020/06/medicine-case-e-log.html)
+
+
+[https://roshinisathputhe.blogspot.com/2020/07/medicine-e-log_17.html](https://roshinisathputhe.blogspot.com/2020/07/medicine-e-log_17.html)
+
+
+[https://roshinisathputhe.blogspot.com/2020/07/medicine-e-log.html](https://roshinisathputhe.blogspot.com/2020/07/medicine-e-log.html)
+
+
+[https://ruchithareddy007.blogspot.com/2020/06/e-log.html](https://ruchithareddy007.blogspot.com/2020/06/e-log.html)
+
+
+[https://ruchithareddy007.blogspot.com/2020/06/e-log-of-p-ruchithareddy.html](https://ruchithareddy007.blogspot.com/2020/06/e-log-of-p-ruchithareddy.html)
+
+
+[https://ruchithareddy007.blogspot.com/2020/07/e-log-of-ruchitha.html](https://ruchithareddy007.blogspot.com/2020/07/e-log-of-ruchitha.html)
 
 
 [https://ruthvikjambula.blogspot.com/2022/11/55-years-old-male-co-pedal-edema.html](https://ruthvikjambula.blogspot.com/2022/11/55-years-old-male-co-pedal-edema.html)
@@ -1448,6 +1625,15 @@
 
 
 [https://sai1120.blogspot.com/2020/08/autoimmune-case.html](https://sai1120.blogspot.com/2020/08/autoimmune-case.html)
+
+
+[https://sai1120.blogspot.com/2020/08/giddiness-under-evaluation.html](https://sai1120.blogspot.com/2020/08/giddiness-under-evaluation.html)
+
+
+[https://sai1120.blogspot.com/2021/03/gm-case.html](https://sai1120.blogspot.com/2021/03/gm-case.html)
+
+
+[https://saikiranpatnam.blogspot.com/2020/05/medicine-case.html](https://saikiranpatnam.blogspot.com/2020/05/medicine-case.html)
 
 
 [https://sainathgurrala.blogspot.com/2022/11/blog-4.html](https://sainathgurrala.blogspot.com/2022/11/blog-4.html)
@@ -1469,6 +1655,15 @@
 
 
 [https://sainathgurrala.blogspot.com/2022/12/pre-final.html](https://sainathgurrala.blogspot.com/2022/12/pre-final.html)
+
+
+[https://sainiharika469.blogspot.com/2020/08/a-40-year-male-with-difficulty-in.html](https://sainiharika469.blogspot.com/2020/08/a-40-year-male-with-difficulty-in.html)
+
+
+[https://sainiharika469.blogspot.com/2020/09/a-25-year-old-woman-with-shortness-of.html](https://sainiharika469.blogspot.com/2020/09/a-25-year-old-woman-with-shortness-of.html)
+
+
+[https://sainiharika469.blogspot.com/2020/09/hello-everyone.html](https://sainiharika469.blogspot.com/2020/09/hello-everyone.html)
 
 
 [https://saiprasanna66.blogspot.com/2022/03/50-year-old-male-daily-wage-labourer-by.html](https://saiprasanna66.blogspot.com/2022/03/50-year-old-male-daily-wage-labourer-by.html)
@@ -1504,6 +1699,9 @@
 [https://saisowmith27.blogspot.com/2022/12/a-55-yr-old-male-with-ckd-on-mhd.html](https://saisowmith27.blogspot.com/2022/12/a-55-yr-old-male-with-ckd-on-mhd.html)
 
 
+[https://sambodhibaiid.blogspot.com/2020/06/medicine-e-log.html](https://sambodhibaiid.blogspot.com/2020/06/medicine-e-log.html)
+
+
 [https://sangeethareddy271.blogspot.com/2022/08/a-18-year-old-with-chronic-kidney.html](https://sangeethareddy271.blogspot.com/2022/08/a-18-year-old-with-chronic-kidney.html)
 
 
@@ -1522,6 +1720,12 @@
 [https://shaiknadiya72.blogspot.com/2021/08/case-history-01.html](https://shaiknadiya72.blogspot.com/2021/08/case-history-01.html)
 
 
+[https://shivani2401elogbookmedicine.blogspot.com/2022/01/45-years-old-p3l3-female-agricultural.html](https://shivani2401elogbookmedicine.blogspot.com/2022/01/45-years-old-p3l3-female-agricultural.html)
+
+
+[https://shivani2401elogbookmedicine.blogspot.com/2022/01/80-yrs-male-with-complaints-of.html](https://shivani2401elogbookmedicine.blogspot.com/2022/01/80-yrs-male-with-complaints-of.html)
+
+
 [https://sidgonty.blogspot.com/2021/01/73yr-old-male-co-fever-abdomen-since.html](https://sidgonty.blogspot.com/2021/01/73yr-old-male-co-fever-abdomen-since.html)
 
 
@@ -1531,7 +1735,28 @@
 [https://snehakalyankar.blogspot.com/2021/12/chorea.html](https://snehakalyankar.blogspot.com/2021/12/chorea.html)
 
 
+[https://somaramreddy.blogspot.com/2020/06/daily-log.html](https://somaramreddy.blogspot.com/2020/06/daily-log.html)
+
+
+[https://somaramreddy.blogspot.com/2020/06/somaramreddy.html](https://somaramreddy.blogspot.com/2020/06/somaramreddy.html)
+
+
+[https://somaramreddy.blogspot.com/2020/07/somaramreddy.html](https://somaramreddy.blogspot.com/2020/07/somaramreddy.html)
+
+
 [https://sowmya9.blogspot.com/2021/08/21-year-old-with.html](https://sowmya9.blogspot.com/2021/08/21-year-old-with.html)
+
+
+[https://sowmyamutyala.blogspot.com/2020/05/hello-everyone.html](https://sowmyamutyala.blogspot.com/2020/05/hello-everyone.html)
+
+
+[https://sowmyamutyala.blogspot.com/2020/06/lady-with-hidden-kidney.html](https://sowmyamutyala.blogspot.com/2020/06/lady-with-hidden-kidney.html)
+
+
+[https://sowmyamutyala.blogspot.com/2020/06/medicine.html](https://sowmyamutyala.blogspot.com/2020/06/medicine.html)
+
+
+[https://sowmyamutyala.blogspot.com/2020/07/a-20-year-old-boy-from-salkunoor.html](https://sowmyamutyala.blogspot.com/2020/07/a-20-year-old-boy-from-salkunoor.html)
 
 
 [https://spandanapatil.blogspot.com/2021/08/gm-case-history-2.html](https://spandanapatil.blogspot.com/2021/08/gm-case-history-2.html)
@@ -1564,7 +1789,16 @@
 [https://sreeramsripadi.blogspot.com/2020/08/history.html](https://sreeramsripadi.blogspot.com/2020/08/history.html)
 
 
+[https://sreeramsripadi.blogspot.com/2020/09/dengue-pt.html](https://sreeramsripadi.blogspot.com/2020/09/dengue-pt.html)
+
+
+[https://sreeramsripadi.blogspot.com/2020/09/rt-heart-failure.html](https://sreeramsripadi.blogspot.com/2020/09/rt-heart-failure.html)
+
+
 [https://srianugna.blogspot.com/2020/05/hello-everyone.html](https://srianugna.blogspot.com/2020/05/hello-everyone.html)
+
+
+[httpssrianugna.html](httpssrianugna.html)
 
 
 [https://srilekha77.blogspot.com/2021/10/blog-post.html](https://srilekha77.blogspot.com/2021/10/blog-post.html)
@@ -1660,7 +1894,19 @@
 [https://thanvisreekanduri.blogspot.com/2022/12/65-year-old-female-with-altered.html](https://thanvisreekanduri.blogspot.com/2022/12/65-year-old-female-with-altered.html)
 
 
+[https://userdrivenhealthcare.blogspot.com/2022/12/a-translational-research-project-to.html](https://userdrivenhealthcare.blogspot.com/2022/12/a-translational-research-project-to.html)
+
+
 [https://vaibhavi85.blogspot.com/2021/08/general-medicine-case-1.html](https://vaibhavi85.blogspot.com/2021/08/general-medicine-case-1.html)
+
+
+[https://vaish7.blogspot.com/2020/05/medicine.html](https://vaish7.blogspot.com/2020/05/medicine.html)
+
+
+[https://vaish7.blogspot.com/2020/05/medicine-intern.html](https://vaish7.blogspot.com/2020/05/medicine-intern.html)
+
+
+[https://vaish7.blogspot.com/2020/05/stroke-case.html](https://vaish7.blogspot.com/2020/05/stroke-case.html)
 
 
 [https://varshhareddy.blogspot.com/2022/11/a-14-year-old-male-patient-came-with.html](https://varshhareddy.blogspot.com/2022/11/a-14-year-old-male-patient-came-with.html)
@@ -1687,9 +1933,60 @@
 [https://varshhareddy.blogspot.com/2022/11/a-67-yr-old-male-with-copd-with-right.html](https://varshhareddy.blogspot.com/2022/11/a-67-yr-old-male-with-copd-with-right.html)
 
 
+[https://varshitha004.blogspot.com/2020/07/varshithas-elog.html](https://varshitha004.blogspot.com/2020/07/varshithas-elog.html)
+
+
+[https://varshitha004.blogspot.com/2020/08/varshithas-elog.html](https://varshitha004.blogspot.com/2020/08/varshithas-elog.html)
+
+
+[https://varshitha004.blogspot.com/2020/09/chronic-liver-disease.html](https://varshitha004.blogspot.com/2020/09/chronic-liver-disease.html)
+
+
+[https://varshitha004.blogspot.com/2020/09/interns-elog.html](https://varshitha004.blogspot.com/2020/09/interns-elog.html)
+
+
 [https://vidya36.blogspot.com/2021/05/a-45-year-old-female-with-viral.html](https://vidya36.blogspot.com/2021/05/a-45-year-old-female-with-viral.html)
 
 
 [https://vignatha45.blogspot.com/2021/05/58-years-female-patient-with-viral.html](https://vignatha45.blogspot.com/2021/05/58-years-female-patient-with-viral.html)
+
+
+[https://vineelashambhavi.blogspot.com/2020/08/40year-old-with-aidp.html](https://vineelashambhavi.blogspot.com/2020/08/40year-old-with-aidp.html)
+
+
+[https://vineelashambhavi.blogspot.com/2020/09/45-hear-old-man-with-recurrent-syncopal.html](https://vineelashambhavi.blogspot.com/2020/09/45-hear-old-man-with-recurrent-syncopal.html)
+
+
+[https://vineelashambhavi.blogspot.com/2020/09/biweekly-assessment.html](https://vineelashambhavi.blogspot.com/2020/09/biweekly-assessment.html)
+
+
+[https://vinodreddy1698.blogspot.com/2020/08/vinod-reddys-elog.html](https://vinodreddy1698.blogspot.com/2020/08/vinod-reddys-elog.html)
+
+
+[https://vinodreddy1698.blogspot.com/2020/09/23-year-old-female-with-fever.html](https://vinodreddy1698.blogspot.com/2020/09/23-year-old-female-with-fever.html)
+
+
+[https://vinodreddy1698.blogspot.com/2020/09/48-year-old-male-with-ckd-on-mhd.html](https://vinodreddy1698.blogspot.com/2020/09/48-year-old-male-with-ckd-on-mhd.html)
+
+
+[https://vinodreddy1698.blogspot.com/2020/09/end-posting-exam.html](https://vinodreddy1698.blogspot.com/2020/09/end-posting-exam.html)
+
+
+[https://virtualmedicocases.blogspot.com/2018/02/a-couple-who-was-into-agricultural.html](https://virtualmedicocases.blogspot.com/2018/02/a-couple-who-was-into-agricultural.html)
+
+
+[https://virtualmedicocases.blogspot.com/2018/02/a-girl-was-married-at-age-of-15-years.html](https://virtualmedicocases.blogspot.com/2018/02/a-girl-was-married-at-age-of-15-years.html)
+
+
+[https://virtualmedicocases.blogspot.com/2018/03/9-year-old-girl-had-developed-fever.html](https://virtualmedicocases.blogspot.com/2018/03/9-year-old-girl-had-developed-fever.html)
+
+
+[https://virtualmedicocases.blogspot.com/2018/03/a-62-year-old-lady-presented-to.html](https://virtualmedicocases.blogspot.com/2018/03/a-62-year-old-lady-presented-to.html)
+
+
+[https://virtualmedicocases.blogspot.com/2018/03/a-lady-who-was-married-at-age-of-15.html](https://virtualmedicocases.blogspot.com/2018/03/a-lady-who-was-married-at-age-of-15.html)
+
+
+[https://virtualmedicocases.blogspot.com/2018/03/old-man-of-age-70-years-presented-to.html](https://virtualmedicocases.blogspot.com/2018/03/old-man-of-age-70-years-presented-to.html)
 
 
