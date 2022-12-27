@@ -1,6 +1,9 @@
 main:
   - title: Home
     url: /
+  - title: "PaJR Blogs"
+    url: /pajr_blogs/ 
+  
   - title: "Support Us"
     url: /support/
   - title: "About Us"
@@ -19,28 +22,6 @@ main:
   - title: Resources
     url: /resources/
 
-  - title: Livelihood
-    url: /livelihood/
-  - title: Industries
-    url: /industries/
-  - title: Education
-    url: /education/
-
-  - title: Healthcare & Biosciences
-    url: /health/
-  - title: Food Processing & Agriculture
-    url: /food_processing_and_agriculture/
-  - title: Space Exploration
-    url: /space_exploration/
-  - title: Environment & Habitat
-    url: /environment_and_habitat/
-
-  - title: Socialising
-    url: /socialising/
-  - title: Justice
-    url: /justice/
-  - title: Peace
-    url: /peace/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
