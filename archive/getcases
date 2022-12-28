@@ -1,0 +1,2 @@
+cat urls*.lst | sort -u | sed 's/\/\/\//\/\//g' | grep '.html$' | sort -u  > cases.txt
+for n in $(cat cases.txt); do fn=$(echo $n | tr ':/' '_'); wget -q $n -O $fn; cat $fn | html2text > ${fn}.txt; done
