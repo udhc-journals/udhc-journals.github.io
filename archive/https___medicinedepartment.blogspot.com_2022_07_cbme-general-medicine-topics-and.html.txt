@@ -1,0 +1,386 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, July 24, 2022 *****
+
+
+
+**** CBME General Medicine topics and subtopics standardized list simplified
+domainwise ****
+This draft is in response to an esteemed assignment that said, 
+
+"...are requested to submit standardized list of topics and sub topics to be
+covered in classes for an academic year with topics and sub topics arranged in
+a chronological order as per CBME -NMC curriculum, by Monday 4 pm."
+
+The message arrived at a time that provided a generous 3-4 days to submit. 
+
+We have previously discussed the issues and limitations of CBME before at
+length here while critiquing a paper on "stages of concern with CBME as an
+innovation" : https://groups.google.com/g/meu_india/c/WEUzo-QCJYU/m/
+fJdOLS4vBQAJ?utm_medium=email&utm_source=footer
+
+So without going into our differences with how CBME is being implemented and
+how we would wish it was (outlined in our inputs in the above link), we shall
+straight away jump to how it can be simplified into a quick implementable
+objective within the current confines of the Indian healthcare curriculum that
+is limited to best clinical guidelines based practices utilizing best research
+done in the Western world. 
+
+On the flip side it may help to strengthen and simplify healthcare domain
+ontologies even in the West but that is wishful thinking at best. 
+
+
+So to modify the very well done CBME with lots of standard examples by NMC that
+covers "General Medicine" rather meticulously and exhaustively here : https://
+www.nmc.org.in/information-desk/for-colleges/ug-curriculum/ (check out the
+freely downloadable PDF marked as UG curriculum vol II also downloadable from
+here : https://www.nmc.org.in/wp-content/uploads/2020/01/UG-Curriculum-Vol-
+II.pdf), we may begin by first trying to identify the standardized list of
+topics and sub topics to be covered in classes for an academic year with topics
+and sub topics arranged in a chronological order as per CBME -NMC curriculum,
+especially from the very well done NMC PDF and then reducing that very well
+done work into a simplified list of topics and subtopics that retains a few
+CBME key words or drivers promoted by the original esteemed authors of the NMC
+document. 
+
+So here goes : 
+
+****** Topic: Heart Failure  ******
+
+(with delineation of a number of  competency domains categorized into
+knowledge, skills, attitude and communication throughout the subtopics)
+
+Topics and subtopics can be made in bold 
+
+****** Subtopics: ******
+
+
+KNOWLEDGE domain--Subtopics that addresses the knowledge domain of the learner
+and demonstrates that the learner KNOWS HOW :
+
+Describe and discuss the 
+
+Epidemiology, 
+
+Pathogenesis,
+
+Clinical  
+evolution and 
+
+Course 
+
+of 
+
+Common causes of heart disease including: 
+
+
+rheumatic/ 
+
+valvular, 
+
+ischemic, 
+
+hypertrophic 
+
+inflammatory
+
+Genetic 
+
+SKILLS Domain--Subtopics that addresses skills acquisition in the learner and
+demonstrates that the learner can SHOW HOW :
+
+Elicit 
+
+document and 
+
+present an 
+
+appropriate history that 
+
+will establish 
+the diagnosis, 
+
+cause and 
+
+severity of heart failure 
+
+including: 
+
+presenting complaints, 
+
+precipitating and 
+
+exacerbating factors, 
+
+risk 
+factors, 
+
+exercise tolerance, 
+
+changes in sleep patterns, 
+
+features suggestive of infective endocarditis
+
+
+KNOWLEDGE 2
+
+Describe and discuss the 
+
+clinical presentation and 
+
+features, 
+
+diagnosis, 
+
+recognition and 
+
+
+management of acute rheumatic fever
+ 
+
+SKILLS 2
+
+
+Perform and demonstrate a 
+
+systematic examination based on 
+
+the history 
+
+
+that will help establish the diagnosis and 
+
+estimate its severity 
+including: 
+
+measurement of pulse, 
+
+blood pressure and 
+
+
+respiratory rate, 
+
+jugular venous forms and 
+
+pulses, 
+
+peripheral pulses,
+
+conjunctiva and fundus, 
+
+lung, 
+
+cardiac examination including 
+
+
+palpation and auscultation with 
+
+identification of heart sounds and 
+murmurs, 
+
+
+abdominal distension and splenic palpation
+
+Generate a differential diagnosis based 
+
+on 
+
+the learner's competence to 
+
+capture the 
+
+clinical presentation 
+
+and 
+
+prioritise it
+
+based on 
+
+the most likely diagnosis
+
+SKILLS 3
+
+Order and 
+
+
+interpret 
+
+
+diagnostic testing (based on 
+the clinical diagnosis)
+
+that includes 
+
+performing and interpreting 
+
+a 12 lead ECG, 
+
+Chest radiograph, 
+
+blood cultures
+
+
+COMMUNICATION of patient requirements that comes from a competent understanding
+of disease outcomes where the learner can SHOW HOW to communicate that
+understanding to the patient. 
+
+Determine 
+
+the severity of 
+
+valvular heart disease 
+
+based on 
+
+the 
+
+clinical and 
+
+
+laboratory and 
+
+
+imaging features 
+
+and 
+
+determine 
+
+the level 
+
+of intervention required 
+
+including surgery
+
+SKILLS and COMMUNICATION :
+
+Administer 
+
+an intramuscular injection 
+
+with 
+
+an appropriate 
+
+explanation to the patient
+
+
+ATTITUDE that stems from a competent understanding and ability to communicate
+that understanding of disease keeping the human suffering from that disease at
+the topmost priority and we need to ensure that this attitude SHOWS in the
+learner :
+
+Counsel and 
+
+communicate to 
+
+patients with 
+
+empathy 
+
+about 
+
+lifestyle 
+changes in 
+
+heart failure 
+
+
+The next topic in the NMC list is Acute Myocardial infarction followed by
+Pneumonia but I guess now we may get the drift on how to simplify them and also
+begin to add other medicine topics not currently listed in the NMC document.
+
+[https://blogger.googleusercontent.com/img/b/R29vZ2xl/
+AVvXsEhjyKWlJ39q76Yq4UYeAKAqpfbz5_2py7Lqv-
+UdwDxzao2b4u5XOXTNPxhIcw99pSlkGSoZyiYjNyhe8Ni_zUSVQNfJ2vLA7AKM_t19d-
+ZtxaJQArmBr4f6YFf0tL8ucdVedwfQbnH8z7nF1E06RxIutD8946AeC3klvqPHZLxInkRKQGzX3hjqVJW_/
+w388-h640/IMG_20220724_125733.jpg]
+
+
+ Posted by
+ caregiver7careseeker    at
+ 12:34 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _▼ _ July (6)
+                # General_Medicine_CBME_NMC_format_log_book
+                # Draft_thesis_plan:Outcomes_of_monitoring_suspected...
+                # Draft_Thesis_project_plan:_Clinical_complexities_...
+                # CBME_General_Medicine_topics_and_subtopics_standar...
+                # Sarcopenia_diabetes_thesis_project_preliminary_syn...
+                # 2021-20_Allocated_thesis_and_other_project_plans_a...
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

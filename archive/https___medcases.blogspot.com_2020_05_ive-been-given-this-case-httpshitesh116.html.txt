@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+__
+Search
+
+**** Search This Blog ****
+[q                   ]
+ [Submit]
+****** Medical_cases ******
+MEDICINE LOG BOOK BY SAI BHAVANA SANA - ROLL NUMBER - 146 This is an online E
+log book to discuss our patient's de-identified health data shared after taking
+his/her/guardian's signed informed consent. Here, we discuss our individual
+patient's problems through series of inputs from available global online
+community of experts with an aim to solve those patient's clinical problems
+with collective current best evidence based inputs
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+ _May_23,_2020_
+**** Paraparesis 2 ****
+"I've been given this case
+https://hitesh116.blogspot.com/2020/05/elog-13th-may-2020.html?m=1
+ to solve in an attempt to understand the topic of "paraparesis."
+
+This may develop my competency in
+
+a) reading and comprehending clinical data related to "paraparesis" including
+history, clinical findings, investigations
+
+b) come up with a diagnosis such as:
+1) Anatomical location of the root cause
+2) Physiological functional disability
+3) Biochemical abnormalities that could be a root cause at a molecular level
+4) Pathology that could reflect the root cause at a cellular level
+
+c) a treatment plan for each of these patients of paraparesis that can have a
+pharmacological and non pharmacological component.
+
+d) learning the scientific basis of diagnostic and therapeutic approach in
+terms of past collective experiences and experiments (aka evidence based
+medicine).
+
+Following is my analysis of patient's problem.
+
+A 18 year old male patient presented with weakness of both lower limbs which is
+acute in onset.
+
+*** Based_on_history  ***
+*** There is no sensory involvement, no involuntary movements, no cerebellar
+involvement.So I cut done my differential diagnosis to upper motor neuron
+lesion and lower motor neuron lesion. ***
+*** Based_on_examination ***
+Findings of examination show that there is atophy, hypotonia, absent deep
+tendon reflexes and babinski is neagative.
+Based on this finding I confine my diagnosis to LMN lesion.Now problem arises
+where exactly is the site of lesion as LMN involves anterior horn cell,dorsal
+root ganglion, spinal nerve root , peripheral nerve, NMJ, and muscle.
+
+To know where the exact site of lesion, we need to first ask following
+questions:
+    * symmetrical or asymmetrical 
+    * proximal or distal
+    * sensory or motor
+    * reflexes present or absent
+So by answering to the above question,in this case there is symmetrical
+weakness of both proximal and distal lower limbs muscles and deep tendon
+reflexes are absent.There is motor involvement.From this findings my
+differential diagnosis is myopathyand peripheral neuropathy. 
+
+So now the aim is to know whether it is MYOPATHY OR NEUROPATHY.And if myopathy
+what is the main pathology. How can this be done???
+
+First I will try to know what can be the pathology related to  myopathy in this
+case.So looking to the history once again we can come to know that there is
+persistent weakness.What can  cause persistant weakness??
+     It could be due to certain type of drugs but then in this case there not
+history of use of them.Next what comes to my mind is hypothyroidism, for this
+we have to check his thyriod profile.After checking the thyroid profile, it was
+normal.So this possibility is also ruled out.Now we are left will inflammatory
+pathology such as polymyositis. For this muscle biopsy can be done.
+
+So my differential diagnosis for this case is still left withPOLYMYOSITISand
+PERIPHERAL NEUROPATHY.
+
+To know whether the nerve involvement is present or not, nerve conduction
+studies /EMG can done
+After performing NCS it is known that there is common peroneal nerve and sural
+neuropathy. Physiotherapy can advised to the patient.
+
+*** Now final diagnosis can be made as NEUROPATHY,  but then what happens to
+MYOPATHY.??Whether it can be POLYMYOSITIS ????To know about this muscle biopsy
+should be done. ***
+
+
+References:
+
+Daniel H. Lowenstein; Joseph B. Martin; Stephen L. Hauser. Approach to patient
+with neurological disease. In:D.L Kasper, S.L. Hauser,D.L.Longo, J.L.Jameson,
+J.Loscalzo, A.S.Fausi. Harrison's principles of internal medicine.20th ed. New
+York: McGraw-Hill;2018.Pg 3025-3030
+
+Anthony A. Amato; Richard J. Barohn. Peripheral neuropathy. In:D.L Kasper, S.L.
+Hauser,D.L.Longo, J.L.Jameson, J.Loscalzo, A.S.Fausi. Harrison's principles of
+internal medicine.20th ed. New York: McGraw-Hill;2018.Pg 3204-3225
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Comments ****
+   1. Sai_BhavanaMay_29,_2020_at_4:54 AM
+      "[5/23, 8:53 AM] MBBS 2016 student: Sir in this case why can’t there be
+      an inflammatory cause such polymyositis
+      https://hitesh116.blogspot.com/2020/05/elog-13th-may-2020.html
+      [5/23, 8:54 AM]:MBBS 2016 student Why only peripheral neuropathy is
+      diagnosed
+      [5/23, 9:02 AM] Postresidency PG1: Very good question.
+
+      So the challenge is to distinguish between these two differentials that
+      are essentially two different anatomical locations of the possible
+      pathology.
+
+      What are the clinical signs and symptoms that can distinguish neuropathy
+      from myopathy is the real question?
+      [5/23, 9:20 AM]MBBS 2016 student: In neuropathy there may or may not be
+      sensory involvement but in myopathy there is no loss of sensation .
+      In myopathy proximal muscles are affected first whereas in neuropathy
+      distal muscles are involved and there is early atrophy
+      [5/23, 9:25 AM] Postresidency PG1: 👍👏👏
+      [5/23, 9:26 AM] Postresidency PG1: 👍
+
+      Now check out these in the two patients and then question the diagnosis
+      [5/23, 9:28 AM]MBBS 2016 student: Reflexes are present
+      No loss of sensation
+      Muscle tenderness
+      This features go with myopathy more than neuropathy
+      [5/23, 9:28 AM] MBBS 2016 student: Thank you sir🙂"
+      ReplyDelete
+      Replies
+            Reply
+Add comment
+Load more...
+*** Post a Comment ***
+
+**** Popular Posts ****
+[Image]
+
+ _January_25,_2022_
+**** 74yrs_old_male_patient_came_to_casualty_with_C/O_SOB_since_7days,_C/
+O_giddiness_since_7days_C/O_pedal_Edema_since_6days ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+
+[Image]
+
+ _January_30,_2022_
+**** This_is_a_case_of_a_58_year_old_male_patient,a_daily_wage_worker_by
+occupation ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+___Powered_by_Blogger
+
+
+  Sai_Bhavana
+      Hello everyone. I am UG student (4th year mbbs) from KIMS.This blog is
+      mainly on medical cases which I have encountered during my course.
+Visit_profile
+
+**** Archive ****
+
+    * 2022_3
+          o January_3
+    * 2021_9
+          o December_7
+          o April_2
+    * 2020_14
+          o July_1
+          o June_1
+          o May_12
+                # Case_discussion_on_myocarditis
+                # Case_discussion_on_paraparesis_case
+                # Case_discussion_on_right_ventricular_failure
+                # Case_discussion_of_peripheral_neuropathy_case
+                # Case_discussion_on_mitral_stenosis
+                # TELE_MEDICINE
+                # HEART_FAILURE_2
+                # HEART_FAILURE
+                # PARAPARESIS_3
+                # Paraparesis_2
+                # PARAPARESIS
+                # CASE_DISCUSSION
+    * 2019_1
+          o November_1
+Show more Show less
+**** Report_Abuse ****

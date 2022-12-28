@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, November 21, 2021 *****
+
+
+**** Thesis 2012-2013 Resolving diagnostic uncertainty in fever patients using
+fever and symptom pattern recognition by Dr Himanshu Jain, Bhopal ****
+ TITLE:   Minimizing Antibiotic Usage for Poorly localizable fevers of short
+duration in Adults using a Check List and Temperature Monitoring.
+****** PLACE OF STUDY: The study was conducted in Medicine, Peoples Hospital,
+PCMS & RC, Bhopal, M.P. ******
+****** STUDY DESIGN – It was Prospective Observational Study. ******
+****** STUDY PERIOD – over one year ******
+SAMPLE SIZE - 500 patients
+SAMPLE POPULATION -Patients of age 14-50 yrs attending Medicine Department in
+PCMS & RC, Bhanpur, Bhopal.
+
+INCLUSION CRITERIA:
+   1. ****** Written informed consent from each patient or legal guardian prior
+      to enrollment. ******
+   2. Patients Age 14 to 50 years
+   3. Recent-onset fever (within one to five days) when the diagnostic
+      uncertainty is high.
+   4. Symptoms commonly suggestive of self-limiting flu like illnesses such as
+      myalgia, arthralgia with commonly known symptoms indicating involvement
+      of upper respiratory tract such as cough, rhinorrhoea, frontal headache
+      etc. 
+
+EXCLUSION CRITERIA:
+   1. Obvious clinical localization for fever such as pneumonia, meningitis,
+      urinary tract infection etc.
+   2. Clinical diagnosis suggesting important clinical localizations such as
+      spontaneous bacterial peritonitis in cirrhotic patients with ascitis.
+   3. Elderly, underlying immunosuppression or any associated conditions
+      predisposing to severe infections such as diabetes.
+
+CONSENT: 
+Written and informed consent in local language was obtained prior to enrollment
+in study.
+ETHICAL APPROVAL: 
+Institutional Ethical clearance for this study was obtained from Institutional
+Ethics Committee at Peoples Hospital, Barkatullah University, Bhopal.
+METHOD OF STUDY:
+Five hundred clinically matched patients over one year presenting with recent-
+onset fever to the Peoples Hospital PCMS & RC, Bhopal, was prospectively
+monitored for fever, duration of illness and satisfaction levels. 
+In fever patients presenting to PCMS&RC we had used a check list to allocate
+suitable patients to just antipyretics and/or antibiotics and temperature
+charting for 2 days (extended to 4 days if fever persists but lesser number of
+fever episodes per day and temperature spikes <1030F) and study their health
+care outcomes. After monitoring for two days if the fever shows a progression
+only then antibiotics been instituted. (depending on the judgment of the
+treating physician). 
+Two groups were studied:
+Group A – 
+This group comprise of patients encountered by investigators (not blinded to
+the patient’s inclusion status in the study), they waited two days before
+taking a decision on antibiotics after selecting patients for the above on the
+basis of inclusion criteria and continue to encourage monitoring of their fever
+patterns over two days. 
+Group B – 
+This group comprise of patients encountered by Physicians delivering their
+usual care for fever (as per their prevailing clinical judgment). They remained
+blinded to the patient’s status in the study.
+Patient’s recruitment was done through OPD attender from OPD and was
+alternately allocated in each group. Patients been recruited such that to cover
+all seasons in a year. OPD Patients were advised Temperature charting 8 hourly
+and also during fever episodes for 2 days (duration been extended for 4 days if
+fever persists but with lesser number of fever episodes per day and temperature
+spikes <1030F). Patients who were admitted in hospital, their temperature been
+monitored by patient itself or by his/her relative or by nursing staff. 
+Patient reviewed after 2 days by personal appearance or Phone call for follow
+up about temperature charting, fever pattern, duration of illness/time to
+recovery, events inbetween two days if any, check list score and satisfaction
+level on VAS. A Check List being provided for deciding whether to use
+antibiotic or not during the course of illness or to explain whether Antibiotic
+need was there or not. VAS (Visual Analogue Scale) being used before and after
+the illness to access the satisfaction level of Patient’s. Patient was advised
+to report immediately for any urgent need.
+
+STUDY TOOLS –
+   1. Mercury Thermometer.
+   2. Check List.
+   3. VAS (Visual Analogue Scale)
+             
+                          CHECK LIST
+                         (To decide whether to use Antibiotics or Not)
+
+- Cough with sputum production/ haemoptysis
+ / Breathlessness                                                        0 1
+
+-  Chest pain, palpitation                                                0 1
+
+- Tachypnoea, Hypotension                                           0 1
+
+- Epigastric or right hypochondrial or 
+  right iliac fossa (abdominal) pain / jaundice                0
+1                               
+
+-Vomiting and/or constipation or diarrhoea                   0 1
+
+-  Burning micturition/pain during micturition and 
+   Low back pain/ Urinary dysuria                                   0 1
+
+- Yellow discolouration of sclera                                    0 1
+
+-  Confusion, altered sensorium                                       0 1
+
+- Black coloured stool (malena) and/or blood                 0 1
+In vomiting
+
+ - Immunosuppressive conditions like                            0 1
+ Diabetes/CRF (kidney failure)/Malignancy/HIV
+ /Any chronic illness                                                      
+
+    * High grade  fever (>1030F)/ continuous fever          0 1
+
+    * Neck pain/Neck stiffness                                          0 1
+
+
+
+
+
+VISUAL ANALOUGE SCALE (VAS) – 
+
+A Visual Analogue Scale (VAS) is a measurement instrument that tries to measure
+a characteristic or attitude that is believed to range across a continuum of
+values and cannot easily be directly measured. 
+
+READING AT THE TIME OF PRESENTATION-
+ 
+1     2 3     4 5 6     7 8 9 10                                               
+                                                                               
+             
+☹                                                              ☺
+
+The symbols indicate patient’s level of satisfaction/well-being with their
+current health.
+
+READING AFTER RECOVERY –
+
+
+1     2 3     4 5 6     7 8 9 10
+☹                                                             ☺                
+                                                                               
+                                                                               
+     
+
+The symbols indicate patient’s level of satisfaction/well-being with their
+current health
+
+
+
+                      
+ STATISTICAL ANALYSIS:
+Statistical analysis were done using SPSS software version 20. Average/median
+duration of fever will be ascertained. Dispersion in terms of range and
+standard deviation will be calculated. Antibiotic/ antipyretics consumptions
+will be associated/correlated by duration of fever by using Student T-test, and
+patient satisfaction through Mann-Whitney Test and appropriate statistical
+test.
+
+
+
+
+
+                               OBSERVATION
+The present study was conducted in Department of Medicine, Peoples Hospital
+PCMS & RC, Bhopal - a tertiary care centre from June 2012- May 2013. Ethical
+approval for this study was obtained from Institutional Ethics Committee at
+Peoples Hospital, Barkatullah University, Bhopal.
+.  A total of 500 subjects (246 males, 254 females) were recruited in the
+study. 
+SEX    FREQUENCY PERCENT
+MALE   246       49.2
+FEMALE 254       51.8
+TOTAL  500       100.0
+
+
+
+
+
+
+
+
+
+
+Group 
+
+                 Gender      Total
+                          MALE FEMALE
+ NO ANTIBIOTIC            118  132    250
+ ANTIBOITIC               128  122    250
+                 246 T254l   500
+
+
+
+
+
+
+
+
+
+
+
+T-Test –
+
+
+Group Statistics
+                    Group         N   Mean Std. Deviation Std. Error Mean
+DURATION OF ILLNESS NO ANTIBIOTIC 250 2.57 1.008          .064
+                    ANTIBOITIC    250 2.58 1.070          .068
+NO. OF FEVER SPIKES NO ANTIBIOTIC 250 2.13 1.607          .102
+                    ANTIBOITIC    250 2.13 1.513          .096
+ Posted by
+ caregiver7careseeker    at
+ 9:38 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _▼ _ November (8)
+                # Rough_draft_of_internal_assessment_2017_batch_Sept...
+                # Project_:_Outcomes_of_bicarbonate_correction_in_se...
+                # Project_"resolving_diagnostic_uncertainty_in_fever...
+                # Thesis_2012-2013_Resolving_diagnostic_uncertainty_...
+                # Medicine_paper_for_Nov_2021_bimonthly_blended_asse...
+                # BDS_2018_II_-_INTERNAL_ASSESSMENT_EXAMINATION_q...
+                # Selected_answers_to_the_2017_internal_assessment_e...
+                # November_2021_weekly_log_and_outcomes_of_regular_p...
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

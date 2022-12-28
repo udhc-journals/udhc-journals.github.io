@@ -1,0 +1,480 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, November 20, 2016 *****
+
+
+
+**** 60 year old woman with diarrhoea, distension and severe iron deficiency
+anemia (presented by 3rd Semester 2015 batch MBBS Swadha Pandey) ****
+Presented by 3rd Semester 2015 batch MBBS Swadha Pandey:
+
+A 60 year old woman presented with the chief complaint of:
+
+* 20-30 episodes of loose stool
+She presented with passage of loose stool 20 to 30 times a day for around 3
+days, with associated
+problems of :
+
+-vomiting 
+
+-abdominal distention 
+
+-swelling of feet
+For the past  1 year she had episodic collection of fluid in abdomen and
+swelling in limbs. 
+(Facilitator: How did she know it was fluid?)
+
+Also around a year ago she met with a motorcycle accident and injured her
+sacral region.
+
+Has type 2 diabetes mellitus for the past 3-4 years.
+Non insulin taker
+
+Blood pressure-normal 
+
+TB,  asthma, epilepsy, thyroid - negative 
+
+Surgical history - for contraception
+Deit-vegetarian,  loss in appetite since increased passage of stool
+Sleep-adequate,  reduces when abdomin is distended
+Bowel and bladder- increased passage of loose stool and decreased urine output
+Allergy-unknown
+Addiction- nothing
+Blood transfusion- not done previously, but when admitted blood was transfused
+
+
+OBJECTIVE findings : 
+
+
+[https://2.bp.blogspot.com/-VeDQrSun6yQ/WDG1cu2aBZI/AAAAAAAAJL4/
+2BVYO8kO5mMGhqF8AAbnsYvz53yPyLPtwCLcB/s320/20161118_120048.jpg]
+
+Abdominal distension: On clinical testing for free fluid (percussion-shifting
+dullness) ascites present
+
+[https://3.bp.blogspot.com/-BA3D6eo54qA/WDG1e8ivfCI/AAAAAAAAJL8/
+iS1wrQpV3oUWGio4cd8InhkGadEUEt8cQCLcB/s320/20161118_115909.jpg]
+
+Bi pedal edema
+
+Blood Investigations: 
+
+RBC- 2.14
+
+Hb- 6.1
+
+WBC  TC-10900
+
+Platelat count-1lakh
+
+Serum K+- 5.1
+
+Serum Na+-133
+
+Urea-69
+
+S. Creatine - 2.0
+IRON STUDY :
+
+Serum iron-16
+
+Serum Tibc-281
+
+Transferrin saturation-5.7
+
+Serum ferritin-128.7
+LIVER FUNCTION TEST:
+
+Bilirubin 
+     Total - 0.7
+      Indirect-0.4
+      Direct-0.3
+
+Total protein-6.5
+
+Total globulin - 4.3
+
+A/G ratio-0.5
+
+AST/SGOT-69
+
+ALT/SGPT-55
+
+GGT-91
+
+Alkaline phosphatase-162
+
+Albumin-2.2
+SEROLOGICAL TEST:
+Anti-HCV- positive (+) 
+ASCTIC FLUID:
+
+Fluid for sugar - 241mg/dl
+
+Fluid for protein - 1.1g/dl
+(Fac: Was this fluid for total protein or albumin? What about the SAAG?)
+
+Fluid for ADA-12.6 U/L
+
+Fluid for LDH-84U/L
+(Fac: Why was ascitc fluid for LDH done? We generally do it only for pleural
+fluid).
+
+Total leukocyte count-
+    Total nucleated cell-1000 cells per cumm
+     Nuetrophiles-80%
+     Lymphocytes - 20%
+
+
+RBC-present
+
+***** Discussion:  *****
+
+HCV Ascites, Pathogenesis, transmission, family screening, treatment as per
+recent guidelines and evidence of efficacy 
+
+Conversational Clinical decision support: 
+
+Boudhayan_Dm Again let's start with Pathology:https://webfiles.uci.edu/.../
+public/RBP9%20Chapter%2015.pdf
+Like · Reply · November_20_at_8:21pm
+[Boudhayan_Dm]
+Boudhayan_Dm Can we discuss the Hepatitis C Management protocol being followed
+in the premier institutions: Invite Dipendu_Mazumder Arka_De Harsh
+Tevethia Saptarshi_Bishnu Dr.muhammed_Yasin. to the discussion
+Unlike · Reply · 
+1
+ · November_20_at_8:27pm
+[Boudhayan_Dm]
+Boudhayan_Dm All abt Hepatitis C : Enough fodder for the entire
+week.........Rakesh_BiswasSir this might be too much for the UGs right at this
+moment( Already i guess there has been an information overload on
+them)..............Can I invite Dr. Ananya_Chakraborty to discuss the
+pharmacology associated with Hepatitis C management for UGshttp://
+www.hcvguidelines.org/full-report-view
+Like · Reply · November_20_at_8:32pm · Edited
+[Boudhayan_Dm]
+Boudhayan_Dm https://webfiles.uci.edu/.../public/RBP9%20Chapter%208.pdf_
+Pathology of infectious diseases
+Like · Reply · November_20_at_8:34pm · Edited
+[Rakesh_Biswas]
+Rakesh_Biswas Yes Boudhayan we need not get the UGs to dig too deep into each
+topic but just become aware on the kind of information one needs to have while
+caring for their patients? At least they get a chance to learn that a patient
+is not just HCV but also a conglomeration of anemia and a sudden diarhhoea and
+so many other aspects that we have not even been able to identify in this (and
+our other patients).
+Like · Reply · November_20_at_8:36pm
+[Boudhayan_Dm]
+Boudhayan_Dm Rakesh_Biswas Sir diarrhoea was her presenting complaint and she
+had already received blood transfusion before our first evaluation on the day
+after admission.........So we had identified everything at the onset itself
+Like · Reply · November_20_at_8:38pm
+[Rakesh_Biswas]
+Rakesh_Biswas I was talking about many things in this patient, her thoughts
+about her life etc essentially asking to look at other facets of the patient
+and not just the disease Boudhayan.
+Like · Reply · November_20_at_8:40pm
+[Boudhayan_Dm]
+Boudhayan_Dm Sir she is a Diabetic too and I have serious reservations abt her
+continuing Insulin once she lands up alone in her village away from her son
+( Something we discussed extensively during rounds yesterday Dr. Krishnendu
+Dey and me)
+Like · Reply · November_20_at_8:46pm · Edited
+[Rakesh_Biswas]
+Rakesh_Biswas Yes so finally what was she sent home onBoudhayan?
+Like · Reply · November_20_at_8:46pm
+[Boudhayan_Dm]
+Boudhayan_Dm Rakesh_Biswas Sir I guess you had seen her final discharge
+......Actrapid and Mixtard for the time being
+Unlike · Reply · 
+1
+ · November_20_at_8:50pm
+[Rakesh_Biswas]
+Rakesh_Biswas This is one reason we need to teach our patients to take insulin
+from the very day we begin to administer them insulinBoudhayan, Rakesh_Kumar?
+Like · Reply · November_20_at_8:51pm
+[Boudhayan_Dm]
+Boudhayan_Dm Rakesh_Biswas Sir the patient has been given that training from
+Day 1...... However it is not always the lack of training which matters in such
+cases.........It is often the support system in these areas
+Unlike · Reply · 
+1
+ · November_20_at_8:55pm
+[Rakesh_Biswas]
+Rakesh_Biswas We can build those support systems at a community level Amy?
+Like · Reply · November_20_at_10:32pm
+[Amy_Price]
+Amy_Price Yes, and do a CBRS trial. There is some good research to show that
+people knowing how to self-manage is a powerful intervention in itself...it has
+generational benefits and is great for areas even where resources are limited
+Like · Reply · November_20_at_11:54pm
+[Rakesh_Biswas]
+Rakesh_Biswas Boudhayan she is still on insulin and we are trying to monitor
+her blood sugars and adjust insulin with the support of our medical
+student Bimlesh
+Like · Reply · 2_mins
+[Rakesh Biswas]
+[add_comment_text    ]
+Write a reply...
+
+[File]
+[Boudhayan_Dm]
+Boudhayan_Dm For the 3rd semester students coming to basics of examination:
+Something for u to read up and then practice over and over again....https://
+depts.washington.edu/physdx/liver/tech.html
+Techniques_-_Liver_&_Ascites_Exam_-_Physical_Diagnosis_Skills_-_University_of
+Washington_School_of_Medicine
+Approach the examination of the liver from the right side of the patient. Have
+the patient lying supine. Preserve the patients privacy by draping the top of
+their body with the gown and below the waist with a sheet. For the best exam,
+make sure the patient is warm and comfortable. Additionally make...
+DEPTS.WASHINGTON.EDU
+Like · Reply · Remove_Preview · November_20_at_11:01pm
+[Boudhayan_Dm]
+Boudhayan_Dm HEP C MANAGEMENT Latesthttp://www.easl.eu/medias/cpg/HCV2016/
+Summary.pdf
+Like · Reply · November_21_at_12:08am · Edited
+[Boudhayan_Dm]
+Boudhayan_Dm Spontaneous Bacterial Peritonitishttp://www.hepatitisc.uw.edu/.../
+spontan.../core-concept/all
+Like · Reply · November_21_at_12:58am
+[Rakesh_Biswas]
+Rakesh_Biswas Boudhayan (with the help of Dr Dipendu) would you like to mention
+which drugs we can choose for this particular patient, from the recent armament
+highlighted in the 2016 easl guidelines you shared above?
+Like · Reply · November_21_at_7:56pm · Edited
+[Boudhayan_Dm]
+Boudhayan_Dm What is the report Sir of the testing HCV RNA
+Unlike · Reply · 
+1
+ · November_21_at_8:32pm
+[Rakesh_Biswas]
+Rakesh_Biswas Haven't received any communication on thatBoudhayan.
+Like · Reply · November_21_at_8:36pm
+[Rakesh Biswas]
+[add_comment_text    ]Write a reply...
+[File]
+[Boudhayan_Dm]
+Boudhayan_Dm Only three are available in India as far as I know Sofos, ledi
+dacla ........ Genotype wise if I remember...... Back in my PG days I have used
+upto IFN...... This will be the first time I will get to use
+these....... Dipendu_Mazumder Dada I guess you will be the best to
+answer.......... Arka_De Could u kindly share ur PGI experience in Hepatology
+Unlike · Reply · 
+1
+ · November_21_at_8:45pm · Edited
+Hide_13_Replies
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita Boudhayan_Dm you can go through the consensus statement of
+INASL of 2014 .
+Like · Reply · November_21_at_8:54pm
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita Although lots have change since then!
+Like · Reply · November_21_at_8:55pm
+[Boudhayan_Dm]
+Boudhayan_Dm I had used INASL till my PG days Sir.... But now the EASL
+guidelines are the latest....... Dibyajyoti_Kalita Sir
+Like · Reply · November_21_at_8:56pm
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita Yeah but i was talking about the diagnostic workup
+strategy.We need to understand DAA were not in use in india at that time .We
+too used IFN in PG days
+Like · Reply · November_21_at_9:01pm
+[Boudhayan_Dm]
+Boudhayan_Dm Yes Sir in those days these were the drugs to be read to get
+distinction or CONFERENCE Drugs............But now its the present
+reality....So I guess I have to re learn....Thank you Sir for your words of
+encouragement
+Like · Reply · November_21_at_9:04pm
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita You can go through the inasl 2016 update
+Like · Reply · November_21_at_9:07pm
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita EASL cannot be practiced in india coz
+A.Non availability of the drugs
+B.Cost of treatment...See_More
+Like · Reply · November_21_at_9:09pm
+[Boudhayan_Dm]
+Boudhayan_Dm Dibyajyoti_Kalita Will do so Sir ......thank u.....Cost has come
+down considerably ...I guess Rakesh_Biswas Sir can share the details of the
+same
+Like · Reply · November_21_at_9:11pm
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita www.inasl.org.in
+Indian_National_Asssociation_|_INASL
+INASL.ORG.IN
+Like · Reply · Remove_Preview · November_21_at_9:13pm
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita Yeah ,Rakesh_Biswas sir would request his experience in using
+the DAA
+Like · Reply · November_21_at_9:17pm
+[Boudhayan_Dm]
+Boudhayan_Dm Dibyajyoti_Kalita Sir could you kindly share your experience in
+using these drugs............I will be using for the first time ( honest
+confession)....Yes we will follow the INASL guidelines beacuse of the
+availability of only those 3 or 4 drugs here......But cost of Rx has come down
+to Rs 30000 from the lakhs even 2 yrs back.............GIANT STEP
+Like · Reply · November_21_at_9:21pm · Edited
+[Dibyajyoti_Kalita]
+Dibyajyoti_Kalita Are we ready with the workup?
+HCV pcr, a fibroscan and of course the genotype..
+Dont worry about the cost bcoz the cost of treatment can be minimised by half
+and HCV pcr testing can be taken care of.
+Like · Reply · November_21_at_9:28pm
+[Boudhayan_Dm]
+Boudhayan_Dm Dibyajyoti_Kalita As far as the last communication...Samples sent
+....reports awaited.....Dibyajyoti_KalitaSir could you kindly share your
+personal experience in the use of DAA;s...the potential precautions and must to
+watch out for points
+Like · Reply · November_21_at_10:13pm · Edited
+[Rakesh Biswas]
+[add_comment_text    ]Write a reply...
+[File]
+[Rakesh_Biswas]
+Rakesh_Biswas Thanks Boudhayan let us also know what would be apt from your
+reading of the EASL guidelines.
+Like · Reply · November_21_at_8:37pm
+[Rakesh_Biswas]
+Rakesh_Biswas Yes Dr Dibyajyoti and Dr Boudhayan we may end up putting her on
+daily sofosbuvir 400 mg and daclatasvir 60 mg, for 12 weeks (and as she is a
+decompensated cirrhotic addition of Ribavirin 600 mg to begin with and then
+gradually adjusted to 1000 mg). This is true for most genotypes except 3. For
+genotype 3 the duration would be 24 weeks. More here:http://www.easl.eu/medias/
+cpg/HCV2016/Summary.pdf and here from INSL:http://www.inasl.org.in/images/2016-
+inasl-hcv-guidance.pdf Dr Dhiman you are one of the authors of INSL. Would you
+like to comment on the above approach for this patient?
+Like · Reply · November_21_at_10:24pm
+[Rakesh_Biswas]
+Rakesh_Biswas This patient has genotype 3 and a substantial viral load
+(Bimlesh do you have an image of her HCV report?) and we are starting her on a
+combination of sofosbuvir 400mg and daclatasvir 60 mg for 24 weeks with daily
+weight-based ribavirin around 1000mg as per these EASL guidelines here: http://
+www.easl.eu/medias/cpg/HCV2016/Summary.pdf Uzmaplease inform Swadha as well.
+Like · Reply · 42_mins
+[Boudhayan_Dm]
+Boudhayan_Dm Sir could we get the photocopies of the reports here
+Like · Reply · 23_mins
+[Rakesh Biswas]
+[add_comment_text    ]
+Write a reply...
+[File]
+[RadhaKrishan_Dhiman]
+RadhaKrishan_Dhiman This patient requires all 3 drugs for treatment. However we
+need to maintain Hb above 9-10 g/dl. Diarrhoea part needs to investigated and
+treated. Look for IgA tTG as well. Duration of treatment with antivirals is 6
+months. Ribavirin should be started with 600 then build up further. 
+Needs good imaging, CTP AND MELD calculations and work up for liver
+transplantation. They improve with treatment to the extent that liver Tx could
+be avoided in 50-60 % of patients.
+Unlike · Reply · 
+1
+ · 14_mins
+[Rakesh_Biswas]
+Rakesh_Biswas Thanks Dr Dhiman for these very useful pointers. Bimleshplease
+let us know her current Hb. Her diarrhoea appeared to be acute and had subsided
+during her last admission. This time her anasarca is persistent and her right
+lower limb edema appears to be greater than her left (and we want to
+investigate her for a DVT as well). Lets hope she is one of those 50% who can
+do without the liver transplant even at this juncture. Dr Dipenduwould be also
+good to have your inputs.
+Like · Reply · 4_mins
+
+[Boudhayan_Dm]
+Boudhayan_Dm Is she admitted again..... She had this SBP last time..... She had
+anemia and had received transfusion before our initial evaluation last time....
+Will she her day after tomorrow when I return
+Like · Reply · 1_min
+[Rakesh_Biswas]
+Rakesh_Biswas No she is on OPD follow up and we just introducedBimlesh to her
+son today who had come to show us her reports of genotype and viral load.
+Like · Reply · Just_now
+ Posted by
+ caregiver7careseeker    at
+ 6:42 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _▼ _ 2016 (14)
+          o _► _ December (5)
+          o _▼ _ November (9)
+                # WARD_CLINICS_ATTENDANCE_NOVEMBER:-2016_3rd_Semeste...
+                # SEMESTERWISE_DISTRIBUTION_of_WBUHS_Medicine_CONTIN...
+                # Continuous_internal_assessment_and_part_completion...
+                # 60_year_old_man_with_sinus_pain,_severe_anemia_and...
+                # 60_year_old_woman_with_diarrhoea,_distension_and_s...
+                # A_60_year_old_woman_with_multiple_joint_arthritis,...
+                # 42_year_old_man_with_abdominal_pain_(Presented_by_...
+                # 3rd_semester_(Roll_126_to_150)_attendance_of_physi...
+                # Duty_roster_for_October_2016
+Simple theme. Powered by Blogger.
+

@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, March 7, 2021 *****
+
+
+**** 2021 Ecofriendly regular asynchronous case conferences ****
+2021:
+
+               Conference title: Patient centred clinical
+               problem solving 2021
+
+               Workshop Title: Chronic diarrhoea and
+               Malabsorption syndrome 
+                
+
+               Active participants: 
+
+               Dr Amit Taneja, Faculty Medical College,
+               Wisconsin 
+               https://www.mcw.edu/find-a-doctor/taneja-amit-md
+
+SK Biswas, Faculty, Medical College, Jinan University, Guangzhou
+
+Aadipta Ghosh, MBBS Intern, IQ City Medical College Durgapur 
+
+Sai Charan Kulkarni , MD Medicine PGY1, KIMs, Narketpally 
+
+Dr Faraz, MD Microbology, PGY1, KIMs, Narketpally 
+
+
+Aditya Samitinjay, MD Medicine PGY3, KIMs, Narketpally 
+
+Dr Lakshmi Vasantha, Prof Microbology, KIMs, Narketpally 
+
+               Rakesh Biswas , Prof Medicine, KIMs, Narketpally 
+
+               Passive participants: 1800 asynchronous online
+               global participants consisting of MBBS and MD
+               students, senior residents,  independent
+               researchers and faculty Professors in global
+               locations but maximum represented from Indian
+               subcontinent as well as Europe, US, Australia
+
+
+               Conversational learning outcomes:
+
+
+               Rakesh Biswas presents the patient data that was
+               logged and  compiled into a case report by Dr
+               Navya, Intern :
+
+               "A young man with chronic diarrhoea and severe
+               hypoalbuminemia and generalized body swelling
+               patient that we are currently grappling with and
+               will appreciate your inputs 
+
+               "More details here: https://
+               navyamallempalli.blogspot.com/2021/01/26-year-
+               old-man-from-north-east-india.html?m=1
+
+Inputs 1 from Amit Taneja 
+
+Not my area of expertise, however this is not IBD. If you have access to EGD
+and push enteroscopy it will be very useful to get biopsies. Clinical diagnosis
+is malabsorption syndrome and/or protein losing enteropathy. Cause needs to be
+elucidated. Work up for sprue-tropical and celiac; pancreatic insufficiency and
+finally obtaining biopsy. Should also screen for HIV as that will widen the ddx
+
+RB reply 
+
+Colonoscopy pending. Rest done and dead ends.
+
+Inputs 2 from Amit Taneja 
+
+Rakesh Biswas what did egd and small bowel follow through or push enteroscopy
+show? And on biopsies
+
+RB reply 2
+
+Upper GI endoscopy done earlier appeared normal but small bowel enema and push
+enteroscopy may remain pending due to affordability constraints
+
+RB reply 3
+
+Amit Taneja quoting from 
+ 
+https://www.ncbi.nlm.nih.gov/books/NBK542283/#_NBK542283_pubdet_
+
+"The three main groups of disorders that cause excess protein loss in stools
+are:
+
+1) Primary Erosive/Ulcerative gastrointestinal Disorders
+
+This group of conditions includes inflammatory bowel diseases (both ulcerative
+colitis and Crohn disease), Gastrointestinal malignancies, any erosions or
+ulcers of stomach or duodenum, Clostridium difficile colitis, carcinoid
+syndrome, graft vs. host disease."
+
+
+
+Inputs from Aadipta Ghosh 
+
+Do fecal fat studies including Sudan qualitative stain for fat, 72-hour
+quantitative fecal fat collection, and fecal alpha-1-antitrypsin. Also go for
+small bowel barium series for mucosal abnormalities typical of malabsorption
+syndromes
+
+RB reply 
+
+Well take a look at the jar of "paneer curry" sign in the image uploaded in his
+case log
+
+AG reply 
+
+Yes then we need to rule out non erosive causes of protein losing enteropathy
+and primary intestinal telengiectasia. Also rule out mesenteric tuberculosis or
+sarcoidosis,  lymphoma
+
+ RB reply 
+
+Yes Aadipta Ghosh for biopsy one does also need to spot some macroscopic
+findings in the endoscopy to guide the location of the biopsy. What if the
+findings are in the jejunum alone? How do we visualize that area? 
+
+Two days after 
+
+RB update : Upper and lower GI endoscopy apparently normal. Now what empirical
+Diet therapy? 😐
+
+
+Amit Taneja reply: Rakesh Biswas did they do random biopsies? And if so, were
+they normal?
+If you have a medical student or an intern, good mental exercise for them to
+approach it from the angle of making a table of causes of malabsorption
+syndromes and protein losing enteropathies. Then crossing off the ones with
+normal mucosa and biopsies?? And see what we are left with??
+
+RB reply: 
+
+Yes they did and we will need to wait for the biopsy reports but it's a great
+idea to see what would still show normal findings microscopically
+
+Four days later biopsy report discussion:
+
+RB: Check out this patient's intestinal biopsy images uploaded on the patient's
+case log above
+
+SK Biswas, Prof Pathology,  Jinan University, Guangzhou : few blunted villi -
+can it be tropical sprue with superadded giardiasis?
+
+RB reply : Yes likely. 
+
+And the organisms could be something that resembles giardia but may be named as
+"spruella tropicana?"
+
+Inputs from KIMs Microbology Hod: Sir, we did not find Trophozoites in repeat
+sample.  We found only few cysts.Above picture is showing Trophozoites. Sir,
+pathology report is  from our Institute ?
+
+Rakesh Biswas: Yes KHL
+
+KIMs Micro Hod: Ok sir. After that patient took medication?
+
+Rakesh Biswas: No we didn't give him any medication for his giardiasis till
+now. 
+
+He improved on a gluten free diet so I'm not yet sure if these organisms were
+responsible for his problem
+
+KIMs Micro HoD: But, histopathology picture showing Trophozoites & in our
+microscopy ,few cysts were seen. Definitely infection is present
+
+Kims Aditya Samitinjay: Ma'am is it feasible to treat with a 3 week course of
+Metronidazole for this patient ?
+
+KIMs Microbology HOD: I have to verify treatment guidelines
+
+Dr Faraz : Good evening sir and ma'am. Could the intraepithelial lymphocytosis
+and villous atrophy present be associated with celiac disease? His improvement
+on a gluten free diet is also another factor pointing towards that.
+
+Kims Aditya Samitinjay: Sir he may have improved with Racecadotril and
+Loperamide ?
+
+Rakesh Biswas: 👍yes thanks for these very useful inputs. 
+
+I too think as Dr Faraaz mentions that his histopathological changes can still
+be explained with gluten and as three interventions had been delivered to him
+at the same time unless and when we can remove the racecadotril and loperamide
+from his regime. Let's see we will hopefully do that soon
+
+Dr Faraz : I m not convinced with the morphology as the shape & nucleus don't
+look like giardiasis 
+May b some protozoan commensals
+
+Kims Aditya Samitinjay: Good evening ma'am. This patient's stool microscopy
+report on 30th August 2019 did not show any parasites or cysts, However it
+showed 12- 14 WBCs/hpf. This could mean his symptoms are unrelated to this
+Giardiasis ? And may in fact be due to Celiac Disease ?
+
+Kims Aditya Samitinjay: Ma'am are there any features of giardiasis which could
+suggest chronicity ?
+
+Rakesh Biswas: Aditya just review the literature around histopathology of
+chronic giardiasis
+
+Kims Aditya Samitinjay: Partial villous atrophy, crypt hyperplasia and
+monocytosis of lamina propria sir.
+
+Rakesh Biswas: Alright so essentially all these chronic changes are not
+specific to any particular organism and just indicate chronic mucosal damage
+due non specific inflammatory response
+
+
+Update four days later:
+
+RB: Have started him on Tinidazole today but here is a preemptive read to think
+through and ahead into the problem https://www.sciencedirect.com/science/
+article/pii/S1198743X17302896
+
+
+Update 10 days later 
+
+Relapsed again today after completing five days of Tinidazole by Feb 16.
+
+
+ Posted by
+ caregiver7careseeker    at
+ 7:19 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _▼ _ March (16)
+                # Learning_competencies_of_Intern_2015_MBBS_batch_in...
+                # Competency_based_practical_assessment_timeline_in_...
+                # Competency_based_final_university_MBBS_Medicine_su...
+                # Competency_based_practical_assessment_vs_Tradition...
+                # The_current_structure_of_ward_OPD_casualty_and_ICU...
+                # 2016_batch_MBBS_Competency_driven_evidence_based_f...
+                # Medicine_paper_for_March_2021_bimonthly_blended_as...
+                # 2017_to_2021_Eco_friendly_Medicine_department_samp...
+                # 2021_Ecofriendly_regular_asynchronous_case_confere...
+                # 2020_Ecofriendly_regular_asynchronous_case_confere...
+                # Medicine_department_Elective_training_programs_fro...
+                # re:_2019_Ecofriendly_regular_asynchronous_case_con...
+                # Citation_of_Functional_prototype_for_"Collective,_...
+                # 100_common_diseases_logged_into_our_own_EMRs_over_...
+                # 2018_Ecofriendly_regular_asynchronous_case_confere...
+                # Ecofriendly_conferences_asynchronous_online_for_2017
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

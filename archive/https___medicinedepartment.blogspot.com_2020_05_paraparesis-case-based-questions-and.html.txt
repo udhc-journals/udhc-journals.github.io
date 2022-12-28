@@ -1,0 +1,760 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Saturday, May 23, 2020 *****
+
+
+**** Paraparesis Case based questions and conversational active learning
+points: ****
+Last week we had three patients of paraparesis admitted with us and our interns
+have shared it in their online E logs as well as videos of offline discussion
+around the same cases all collated in the link below for the online 8th
+semester students to go through this week and answer some of the case related
+questions and also come out with their own queries:
+
+https://medicinedepartment.blogspot.com/2020/05/case-based-online-learning-
+assignment.html?m=1
+
+Below are some of the sample online learning E logs returned by the 8th
+semester students that conveys their thoughts on the shared cases.
+
+https://medcases.blogspot.com/2020/05/ive-been-given-this-case-
+httpssrianugna.html
+
+https://virtualmedicalcases.blogspot.com/2020/05/the-curious-case-of-
+paraparesis-case-1.html
+
+http://rishik37.blogspot.com/2020/05/gm-elog-case-2.html
+
+https://12avirnenivaishnavi.blogspot.com/2020/05/paraparesis.html?m=1
+
+The 8th semester UG students who didn't have offline access to these patients
+because of covid holidays,  were further asked to share their queries and
+thoughts with the PG residents and interns who were  managing the case and who
+had also been presenting these cases in offline sessions recorded and shared
+with the 8th semester through video modules of case based learning.
+
+Following is an example of the real time interactive learning, the students had
+with our PG interns.It has been deidentified to protect the identity of the
+Students and prevent evaluator bias.
+
+Active online learning around 23M patient of paraparesis 
+
+"[5/23, 10:06 AM] mbbs 2016 UG1: Sir, what symptoms made us suspect TB in this
+case? How did we confirm the diagnosis of TB in this case?
+https://vaish7.blogspot.com/2020/05/medicine.html?m=1
+
+
+
+[5/23, 10:13 AM] PG Post Residency 1 : First let me share some discussion with
+another student below
+
+"Good morning sir!
+Sir, why was there no biopsy taken from the abscess sites? To check for what
+bacteria might've caused it?"
+" Because I'm not able to visualize being able diagnose tuberculosis with the
+given data."
+" Check out the MRI report"
+" Sir. Isn't there also a possibility that during the I&D for gluteal abscess
+there was damage to L4 and 5 which lead to the paraparesis?"
+" Very Good question. Ask our interns and PGs. Tell me if you need their
+numbers"
+" Yes sir. Because in a few cases I've read
+ And most of them also had no AFB"
+" How sensitive and specific is that and would it be useful for our patient?"
+" Sir. The pus from the pyocele was sent for culture sensitivity and revealed
+no AFB it seems sir"
+" Tuberculous abscesses are only diagnosed on the basis of histo pathology"
+" Okay sir. I shall ask her"
+" The question is why didn't we send a biopsy of the abscess tract to get a
+better histopathology diagnosis"
+"I have the asked for the report from the intern, and she is yet to reply."
+" They also had positive tuberculin Skin test sir"
+" It's already there in one of their e logs shared with you"
+
+[5/23, 10:17 AM] mbbs 2016 UG1 : It's not very sensitive because most of us
+have received a BCG vaccine, which would give us a false positive
+[5/23, 10:18 AM] mbbs 2016 UG1: Did we assume he has TB? There seems to be no
+substantial evidence to prove it.
+[5/23, 10:18 AM] PG post residency 1 : Can you share some literature that says
+BCG vaccination gives false positive Mantoux test.
+
+Also is being Mantoux or tuberculin positive the same as being diseased?
+[5/23, 10:30 AM] mbbs 2016 UG1: I found two conflicting studies :
+ https://pubmed.ncbi.nlm.nih.gov/28087302/
+?from_single_result=28087302&expanded_search_query=28087302
+ The above study provides evidence that BCG vaccination after infancy may
+influence TST results beyond the 10-year period conventionally accepted by the
+Centers for Disease Control and Prevention (CDC), extending up to 55 years
+after vaccination. This suggests that BCG vaccination should be taken into
+account when interpreting TST results regardless of the time elapsed since
+vaccination.
+ https://pubmed.ncbi.nlm.nih.gov/17131776/
+?from_single_result=17131776&expanded_search_query=17131776
+ Whereas, this study claims that The effect on TST of BCG received in infancy
+is minimal, especially > or =10 years after vaccination. BCG received after
+infancy produces more frequent, more persistent and larger TST reactions.
+[5/23, 4:14 PM] PG Post Residency 1: 👍👏👏
+
+Ok now let's back to solving the problem of confirming the diagnosis of
+tuberculosis in the patient. What would have been the best way forward to prove
+tuberculosis in this patient instead of beginning the treatment empirically?
+[5/23, 4:23 PM] mbbs 2016 ug1: CBNAAT
+[5/23, 4:28 PM] PG Post residency 1: CBNAAT of what?
+[5/23, 4:33 PM] mbbs 2016 ug1: of sputum
+[5/23, 4:35 PM] mbbs 2016 ug1: Sputum smear for AFB and Chest X-ray should also
+be performed
+[5/23, 4:50 PM] PG Post residency 1: Wasn't it performed? Please ask the
+interns and PGs who made the log
+[5/23, 4:54 PM] mbbs 2016 ug1: Alright sir.
+[5/23, 4:57 PM] mbbs 2016 ug1: And sir, how is this related to Vasculitis?
+[5/23, 4:59 PM] PG POST RESIDENCY 1:
+Conversation with another student "So is it ACA Vasculitis as mentioned by one
+of my classmates??"
+[5/23, 4:59 PM] PG POST RESIDENCY 1: "I mean is the diagnosis Tubercular ACA
+vasculitis in the medial Homenculus area of cerebral cortex??"
+[5/23, 4:59 PM] PG POST RESIDENCY 1: "https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC4606267/
+This link she mentioned also tells about cerebral vasculitis without TBM"
+[5/23, 4:59 PM] PG POST RESIDENCY 1: "Yes share the interesting learning points
+that you gained from that article 👍"
+[5/23, 5:01 PM] mbbs 2016 ug1 Thanks Sir!
+[5/23, 5:30 PM] mbbs 2016 ug1: Here are a few doubts I have,
+[5/23, 5:40 PM] mbbs 2016 ug1: According to the MR images shared, there seems
+to be no evidence that the region of the cerebral cortex supplied by the ACA is
+affected to conclude that it is the cause of the paraparesis.
+[5/23, 6:24 PM] KIMs 2016 ug1: The Anatomical location of the UMN lesion could
+be anywhere - Primary Motor Cortex, Internal Capsule, Midbrain, Pons , Lateral
+Corticospinal Tract
+[5/23, 6:29 PM] KIMs 2016 ug1: The pathology could be -
+1. Damage to the brain - due to Thrombus, Hemorrhage (Stroke), Infection,
+Tumour (Cancer), PML
+2. Injury to the brainstem or white matter of the spinal cord - due to Multiple
+Sclerosis, Transverse Myelitis, Trauma, Spinal Stenosis, Spinal Abscess
+[5/23, 6:36 PM] KIMs 2016 ug1: How do we localise the anatomical location
+affected in this UMN lesion which may have caused the paraparesis? Is the only
+was to do so by performing an MRI of the brain and the spinal cord? How does
+one interpret it?
+[5/23, 6:43 PM] KIMs 2016 ug1: What is the relationship between the psoas
+absess and "the ring enhancing lesions seen in the right and left cerebral
+hemispheres" on MRI?
+[5/23, 7:02 PM] KIMs 2016 ug1: Mostly, The vertebral lesion could not be
+producing any neurological signs because according to the MRI spine report ,
+the patient has L4, L5 Spondylodiscitis which means, most likely, the spinal
+cord could not have been involved as it ends at the level of L1,L2 vertebrae.
+Though, the cause of the Psoas Abscess and Gluteal Abscess (Both cold
+abscesses) can be explained by spread of AFB from the L4,L5 Spondylodiscitis as
+commonly seen in Tuberculous spondylodiscitis.
+[5/23, 7:54 PM] pg post residency 1: 👍Yes the last paragraph is spot on
+[5/23, 7:54 PM] pg post residency : The ring enhancing lesions could be
+tuberculoma and the psoas abscess is also due to mycobacteria
+[5/23, 7:55 PM] pg post residency 1: Have you checked the report? The very few
+films that have been shared may not reveal all
+[5/23, 7:59 PM] pg post residency 1: Yes but the first step is to localize it
+anatomically and the clinical possibilities were bilateral leg area of the
+brain and high cervical cord. Brain stem was unlikely as there was no cranial
+nerve involvement.
+
+Once the localization is over then the pathology can range from vascular,
+demyelinating, degenerative to neoplasia
+[5/23, 8:17 PM] KIMs 2016 ug1: I've only seen the images shared on the blog by
+Vaishnavi ma'am (intern)
+[5/23, 8:21 PM] KIMs 2016 ug1: What symptoms or signs may the Tuberculoma be
+causing?
+[5/23, 8:24 PM] pg post residency: Check the report. Or ask Vaishnavi to share
+the radspa link to the entire mri images with you
+[5/23, 8:25 PM] pg post residency1: Good question. Currently none that we know
+of
+[5/23, 8:33 PM] KIMs 2016 ug1: In the Brain, that would be the Precentral Gyrus
+in the frontal lobe. What points us towards a high cervical cord lesion?
+[5/23, 8:34 PM] KIMs 2016 ug1: One possibility could be Vomiting (which was
+described as non-projectile by the patient but could be projectile in
+actuality)
+[5/23, 8:38 PM] pg post residency 1: UMN signs that are above the C5 cervical
+cord as biceps C5 is exaggerated.
+
+Above the high cervical cord comes the brain stem which is ruled out as there
+are no cranial nerve involvement and finally bilateral cortical leg area is the
+only location left
+[5/23, 8:38 PM] pg postresidency 1: Why would the ring enhancing lesions cause
+vomiting?
+[5/23, 8:45 PM] KIMs 2016 ug1: Due to raised ICT
+[5/23, 8:47 PM] pg postresidency 1: Do ring enhancing lesions cause raised ICT
+without any focal neurological deficit?
+[5/23, 8:47 PM] KIMs 2016 ug1: Vasculitis of the ACA explains the lesion at the
+bilateral cortical leg area.
+But, what could be the cause for a lesion above the C5 cervical cord?
+[5/23, 8:51 PM] pg postresidency 1: When someone has quadriparesis due to an
+apparent UMN lesion above C5 then the differentials become either high cord
+lesion or brain stem lesion or cortical or internal capsular lesion
+[5/23, 8:51 PM] KIMs 2016 ug1: No probably not. But I don't know why.
+[5/23, 9:45 PM] KIMs 2016 ug1: I still don't understand how he was diagnosed
+with TB, sir.
+[5/23, 10:12 PM] KIMs 2016 ug1: I asked Rashmitha ma'am whether Sputum Smear
+for AFB and CBNAAT was done and she said that the sputum was not inducible, so
+it wasn't possible and that the abscess pus was negative.
+[5/23, 10:17 PM] pg postresidency 1: 👍
+
+What other disease can produce such pus everywhere and also spread to the
+brain?
+[5/23, 10:19 PM] KIMs 2016 ug1: What about Sarcoidosis?
+[5/23, 10:21 PM] Rakesh Biswas: Share a similar case reported with sarcoidosis
+[5/24, 3:09 PM] KIMs 2016 ug1: https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC3669974/
+[5/24, 3:09 PM] KIMs 2016 ug1: dDx : Spinal Sarcoidosis - Osseous spinal
+sarcoidosis: an unusual but important entity to remember
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3030116/
+[5/24, 3:15 PM] KIMs 2016 ug1: Other questions I had are:
+1. What pathology could be responsible for a lesion at or above the C5 cervical
+cord? Vascular, demyelinating, degenerative, neoplasia? Was anything visible on
+radiology?
+2. How do we rule out various pathologies after we have located the anatomical
+location of the lesion causing the UMN symptoms (paraparesis)? Which in this
+case is the bilateral leg area of the brain.
+3. Why didn't we do a biopsy for histopathological diagnosis of the affected
+vertebrae showing spondylodiscitis (L4,L5) on MRI?
+Because as I mentioned, any pathogenic organism could have caused it.
+4. Why don't ring enhancing lesions cause raised ICT without any neurological
+deficit?
+[5/24, 3:39 PM] pg post residency 1: Did this patient in the report have spinal
+cord or peripheral nerve involvement due to sarcoid?
+[5/24, 3:50 PM] pg post residency 1 : Very good questions.
+
+1) For that particular patient no pathology was visible in any part of the
+spinal cord although clinically one strong differential was high cervical cord
+due to the clinical neurological findings of localization.
+
+2. Ultimate diagnosis was always made in the past by biopsy either through
+autopsy in case of unfortunate death of the patient or through operative
+biopsy. Because getting those are invasive and difficult the other option in
+medical decision making is to go by statistical probability of the pathology.
+
+3) As stated above because of high statistical probability of a treatable
+infectious pathology known to cause similar findings in the past, most
+physicians avoid invasiveness and favor tolerating moderate diagnostic
+uncertainty over the ability to provide potential relief through easily
+available standard course of treatment.
+
+4) If those ring enhancing lesions were tumors or inflammed infective lesions
+such as neurocysticercosis or tuberculoma (ours was possibly a non inflammed
+tuberculoma) they can cause raised ICT. Focal deficits are seen in ring
+enhancing lesions when they impinge on the pyramidal pathway. I guess our
+previous discussion around this was incomplete and hence the confusion. Thanks
+for diligently pursuing it. 👍"
+
+Mbbs 2016 UG student 3:
+
+2) [5/20, 8:55 AM] mbbs 2016 UG student 3: Sir in this case
+https://vaish7.blogspot.com/2020/05/medicine.html?m=1, the patient didn’t have
+fever or any symptoms of inflammation how would we think of TB?
+
+[5/20, 9:17 AM]: MD PG (post residency) That's the idea of differential
+diagnosis.
+
+One discusses the differentials to capture something the current symptoms
+wouldn't allow us to think of from what is currently known.
+
+[5/20, 8:54 AM] +91 0: https://vaish7.blogspot.com/2020/05/medicine.html?m=1
+
+[5/20, 11:03 AM] +91 : Why haven’t we done a Lumbar puncture in the above
+patient sir?
+
+[5/20, 4:40 PM] : MD PG (post residency
+ Alright. How do you think it would have helped if we did the lumber puncture?
+What were you expecting to find in it?
+
+[5/20, 4:40 PM] : Lymphocyte?
+To confirm TB
+
+[5/20, 4:59 PM]   : MD PG (post residency
+
+ How many are normal in CSF?
+
+How does TB lead to lymphocytosis in CSF?
+[5/20, 5:04 PM] : Less than 5 per ml is normal in CSF
+Meningeal inflammation sir.
+
+[5/20, 5:07 PM]  MD PG (post residency:
+
+So are you suspecting meningitis here? Does this patient of paraparesis have
+any sign of meningitis? What signs would you look for?
+
+[5/20, 5:49 PM] mbbs 2016 UG: Kernigs sign
+
+[5/20, 6:26 PM]  MD PG (post residency
+: So does this patient have any signs and symptoms of meningitis to merit an
+LP. You can even ask the intern. I can share her number if you want. You can
+message her or better is ask her in her log book comment box
+
+
+[5/20, 7:16 PM] : No sir.
+[5/20, 7:16 PM] : Yes sir I’ll ask her.
+
+[5/20, 8:05 PM]  MD PG (post residency
+: 👍keep your questions coming. These are important to score learning points
+
+[5/20, 8:55 PM] +91: Sir is it falx cerebri tuberculoma?
+
+[5/20, 8:57 PM]  MD PG (post residency
+: Are there descriptions of such a location being affected by mycobacteria in
+the past on your review of literature?
+
+[5/20, 8:57 PM]: Yes sir
+
+[5/20, 8:57 PM]: It says there are 3 cases reported as now.
+
+[5/20, 8:59 PM]  MD PG (post residency:
+Share those cases and check out the similarities with our patient
+
+
+[5/20, 9:03 PM] mbbs 2016 UG: The patient had monoperesis because it was
+unilateral.
+
+[5/20, 9:03 PM]  MD PG (post residency
+: Tell me the similarities and dissimilarities and always share the links to
+articles as we can't share the PDFs in your log book comment box or the FAQ
+learning points page
+
+[5/20, 9:04 PM]: mbbs 2016 UG: http://www.roneurosurgery.eu/atdoc/
+CucuA_Falx.pdf
+
+[5/20, 9:06 PM] mbbs 2016 UG 3: Sir he had monoplegia initially
+Later developed seizure which our patient didn’t.
+CT revealed edema and a tumor like mass near the falx cerebri.
+
+[5/20, 9:08 PM]  MD PG (post residency
+
+: Was the second line similar to our current patient?
+
+[5/20, 9:17 PM] Yes sir
+
+[5/20, 9:17 PM]  He had meningeal enhancement and edema.
+
+[5/20, 10:51 PM]  MD PG (post residency)
+: Yes but is that same as having a tumor like mass near the falx?
+
+
+[5/20, 11:11 PM] mbbs 2016 UG3: Enhancing lesion is tumor like?
+
+[5/20, 11:13 PM]  MD PG (post residency)
+: Not as seen in the mri of our patient? Check out how a tumor enhancement
+looks like
+
+[5/20, 11:15 PM] mbbs 2016 UG 3: There’s a diffuse enhancement in our patient
+
+
+[5/20, 11:22 PM] Rakesh Biswas: Is that what happens in tumors?
+
+[5/20, 11:22 PM] Kims 2016: No sir.
+
+[5/20, 11:23 PM] Rakesh Biswas: Was contrast enhancement demonstrated in our
+patient's mri study? Was our patient given contrast?
+
+[5/20, 11:24 PM] Kims 2016: The blog says there was significant enhancement
+
+[5/20, 11:27 PM] Rakesh Biswas: Please clarify this with the intern who wrote
+that web log
+
+[5/21, 8:18 AM] Kims 2016: Okay sir
+
+[5/21, 8:49 AM] Kims 2016: Sir another doubt,
+When we did an Xray abdomen and it showed psoas abscess on the right why didn’t
+we assume it to be the reason for the lower limb weakness and did an MRI?
+
+
+[5/21, 8:54 AM] Rakesh Biswas: They happened at the same time but tell me what
+are your thoughts on the anatomical location of his lesion that is actually
+causing his paraparesis?
+
+[5/21, 8:56 AM] Kims 2016: Psoas abscess compressing the nerves of the cord.
+
+[5/21, 8:57 AM] Kims 2016 : It can also be because of the ring enhancing
+lesions of the cerebrum.
+
+[5/21, 8:57 AM] Rakesh Biswas: Which part of the cord? Where is the psoas
+located and how does it compress the cord?
+
+[5/21, 8:58 AM] Kims 2016: Not the cord but the nerves arising from the cord.
+L4 and L5
+
+[5/21, 8:58 AM] Rakesh Biswas: Which is the exact location? You can't say the
+paraparesis is both UMN as well as LMN?
+
+[5/21, 8:59 AM] Kims 2016: Parasaggital?
+
+[5/21, 9:01 AM] Kims 2016: It can be both.
+
+[5/21, 9:03 AM] Kims 2016: In ALS, Neurodegenration, Spastic paraplegia
+
+[5/21, 9:08 AM] Rakesh Biswas: What clinical signs does he have? Does he have
+both UMN and LMN signs?
+
+[5/21, 9:09 AM] Kims 2016: UMN - Hypotonia, Absent reflexes
+
+[5/21, 9:10 AM] Rakesh Biswas: 😳
+
+[5/21, 9:12 AM] Kims 2016: LMN sir😬 sorryy
+
+"[5/21, 9:13 AM] Rakesh Biswas: He has hypotonia and absent reflexes? 😳🤔
+[5/21, 9:13 AM] Kims 2016 : Ankle clonus was absent
+[5/21, 9:15 AM] Kims 2016 : And in the examination she wrote hypotonia in lower
+limbs.
+[5/21, 9:42 AM] Rakesh Biswas: Which patient are you talking about? This one
+with psoas abscess? 🤔
+Can you share the link to the case you are discussing?
+[5/21, 9:42 AM] Kims 2016 : https://vaish7.blogspot.com/2020/05/
+medicine.html?m=1
+[5/21, 9:42 AM] Kims 2016: This one sir.
+[5/21, 9:49 AM] Rakesh Biswas: Yes but what about the reflexes?
+[5/21, 9:50 AM] Kims 2016: Reflexes were present sir.
+[5/21, 9:51 AM] Rakesh Biswas: Then can it be LMN?
+[5/21, 9:51 AM] Kims 2016: No sir
+But the reflexes were not exaggerated also
+And there was hypotonia.
+[5/21, 9:54 AM] Rakesh Biswas: Can a paraparesis be due to LMN as long as
+reflexes are normal even if the patient has hypotonia. Please ask the intern to
+change the entry of the reflexes as many observers thought they were
+exaggerated because they could be elicited with the fingers without the hammer.
+Check out the discussion videos around this patient but better do that in the
+end because then you won't have many questions left 🙂
+
+Keep the questions coming. This is the best way to active learning
+[5/21, 9:56 AM] Kims 2016 :  It is UMN sir?
+[5/21, 9:56 AM] Kims 2016: Yes sir I will ask.
+[5/21, 9:57 AM] Rakesh Biswas: Where does the UMN start and where does it end
+and where in that path is the lesion located in this patient?
+[5/21, 9:58 AM] Kims 2016 : Motor cortex to the spinal cord
+[5/21, 9:58 AM] Kims 2016: Cerebral cortex?
+[5/21, 10:02 AM] Rakesh Biswas: How do you explain paraparesis with the
+cerebral cortical lesion? Bilateral cerebral cortex? Which part of the cerebral
+cortex?
+[5/21, 10:03 AM] Kims 2016l: ACA territory sir
+Medial side
+[5/21, 10:04 AM] Rakesh Biswas: Both sides? Why and how the paraparesis?
+[5/21, 10:04 AM] Kims 2016: Vasculitis?
+[5/21, 10:09 AM] Rakesh Biswas: Which side ACA?
+
+How does it cause paraparesis?
+[5/21, 10:10 AM] Rakesh Biswas: Cause for ACA blockage due to ACA vasculitis?
+How did the mycobacteria in the psoas manage to do that?
+[5/21, 10:11 AM] Kims 2016: Bilateral
+[5/21, 10:11 AM] Rakesh Biswas: Ok
+
+Answer the next questions
+[5/21, 10:12 AM] Kims 2016: Blood borne spread sir?
+[5/21, 10:14 AM] Rakesh Biswas: Second question was how does it cause
+paraparesis
+[5/21, 10:16 AM] Kims 2016: Because of infarction?
+[5/21, 10:18 AM] Rakesh Biswas: No I meant how does affecting that area of
+brain cause paraparesis
+[5/21, 10:18 AM] Kims 2016: It’s affecting the motor areas of cortex
+[5/21, 10:20 AM] Rakesh Biswas: The motor area is large. Can you share a
+weblink to an image showing the different motor areas such as leg area, hand
+area, face etc in one single image?
+[5/21, 10:20 AM] Kims 2016: Legs according to hommunculus is on the medial
+side.
+[5/21, 10:23 AM] Rakesh Biswas: Share a coronal section of the motor homunculus
+[5/21, 10:24 AM] Rakesh Biswas: And share links because one can't enter images
+without reference into a blog
+[5/21, 10:25 AM] Rakesh Biswas: Make it a habit to share links rather than
+stolen images 👍
+[5/21, 10:26 AM] Kims 2016: https://www.alamy.com/cortical-homunculus-
+illustration-image245864436.html
+[5/21, 10:47 AM] Kims 2016: So isn’t it the reason sir?
+[5/21, 11:12 AM] Rakesh Biswas: Yes it is. Can you find if anyone else has
+reported this happening in other patients of tuberculosis?
+[5/21, 11:26 AM] Kims 2016: Yes sir I’ll check.
+[5/21, 11:26 AM] Kims 2016 A Vaishnavi: Sir the videos that are being uploaded
+on YouTube are not clear.
+We aren’t able to hear anything.
+[5/21, 11:28 AM] Rakesh Biswas: Yes. We need some of you people here to come
+here and become videographers. 😅
+[5/21, 11:31 AM] Kims 2016 : 😁we’ll come soon sir.
+[5/21, 11:42 AM] Kims 2016: Sir the isolated cns angiitis is itself very rare
+and till now no proper research was done sir.
+[5/21, 11:56 AM] Kims 2016: https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4606267/
+[5/21, 12:49 PM] Kims 2016: Sir in this case
+Scabies serology was negative
+So can we attribute the rash to peripheral neuropathy?
+[5/21, 5:00 PM] Rakesh Biswas: Quote the relevant portion that will be useful
+to read in the context of our current discussion
+[5/21, 5:00 PM] Rakesh Biswas: But we are not thinking of isolated CNS angiitis
+here but tubercular CNS vasculitis?
+[5/21, 5:01 PM] Rakesh Biswas: Scabies serology? 😳🤔
+[5/21, 5:04 PM] Rakesh Biswas: Ask Hitesh to share the report.
+[5/21, 5:04 PM] Rakesh Biswas: What about searching for tubercular CNS
+vasculitis
+[5/21, 5:05 PM] Kims 2016: There’s one retrospective study sir
+But that was as a complication oc tubercular meningitis
+[5/21, 5:05 PM] Kims 2016: Okay sir.
+[5/21, 8:09 PM] Rakesh Biswas: [5/21, 5:33 PM] Hitesh Kims Intern: It's not
+scabies serology sir
+[5/21, 5:36 PM] Hitesh Kims Intern: There what I mean was as he was not having
+any itching we thought of immunocompromised state due to viral infection as the
+reason for no itching and paraperesis but retroviral serology came as negative
+sir
+[5/21, 8:10 PM] Rakesh Biswas: There is probably no such thing as scabies
+serology.
+
+How is it diagnosed?
+[5/21, 8:34 PM] Kims 2016: 😬
+[5/21, 8:34 PM] Kims 2016: Sir it was written serology negative
+So
+[5/21, 8:36 PM] Rakesh Biswas: Yes he meant retroviral serology.
+
+So find out and tell us how is the diagnosis of scabies confirmed
+
+[5/21, 9:51 PM] Kims 2016: Okay sir"
+
+KIMs student 4:
+
+
+[5/22, 10:46 AM] : Gud Morning Sir,
+In our case of 23 yr patient with lower limb weakness
+Why was an MRI of spine not done?t
+It is also possible that he might have Potts paraplegia, Presence of Ankle
+clonus and exaggerated DTR are earliest neurological signs indicating a SC
+compression.
+[5/22, 10:48 AM] : Also it would be better to have an Orthopedic opinion to
+rule out Potts paraplegia. Because if it is there and is not identified it
+would involve Bowel and Bladder in long term and if it's Potts paraplegia it
+can be managed surgically.
+[5/22, 10:50 AM] : Also Gait is to be evaluated to see if there is any TB
+spondylitis
+[5/22, 4:28 PM] Rakesh Sir KIMS: Orthopedic opinion for Potts paraplegia? 😅
+
+Well their opinion is only asked if we want them to operate, otherwise we need
+to make the diagnosis for them ourselves first
+[5/22, 4:30 PM] Rakesh Sir KIMS: Ask Hitesh to share with you the MR spine
+images.
+
+The MRI spine lumbar vertebral involvement is mentioned in his mri report that
+is already in the log.
+
+However that may not be causing his paraparesis. Can you tell why?
+[5/22, 4:31 PM] Rakesh Sir KIMS: Ask Hitesh to share his gait video or at least
+mention what was his gait like
+[5/22, 4:31 PM] : Sure sir
+[5/22, 4:31 PM] : May be it's not compressing the cord
+[5/22, 4:32 PM] Rakesh Sir KIMS: Ok so back to the first question
+[5/22, 4:33 PM] : Sir but the lesion is definitely peripheral na Sir
+[5/22, 4:34 PM] : If it's a central lesion the presentation would be far
+different with involvement of other structures
+[5/22, 4:35 PM] : There is a chace of disc inflammation spondylodiscitis
+[5/22, 4:35 PM] : But that is usually more common in immunocompromised patients
+[5/22, 4:35 PM] : I think we also need to assess the patients HIV status tooo
+[5/22, 4:36 PM] : To consider few other differentials
+[5/22, 4:43 PM] Rakesh Sir KIMS: Yes so the most basic thing in mbbs neurology
+that we need to learn to distinguish is between peripheral LMN lesion and
+central UMN lesion.
+
+What does his clinical features suggest?
+[5/22, 4:46 PM] : Sir
+From the Nervous system examination mentioned above it is evident that there is
+•B/L Hypotonia, Suggestive of LMN lesions
+•Hyper reflexia of Knee and Ankle reflex suggestive of lesion UMN lesion above
+L3,L4
+• Ankle clonus, suggestive of UMN lesion above S1,S2
+[5/22, 4:47 PM] : I think there is lesion just above L3,L4 in the spinal cord
+that reflects as UMN lesion for the levels below it.
+
+[5/22, 4:50 PM] Rakesh Sir KIMS: Good above L3, L4 where?
+
+[5/22, 4:59 PM] : Just above L3,L4 but not likely disturbing the L2
+Because if L2 in involved in the lesion then
+There should be sensory loss on antero lateral aspect of thigh upto level of
+knee(Lateral cutaneous nerve of thigh-L2,3)
+Also loss of sensation over the medial aspect of thigh( Obturator nerve-L2,3,4)
+
+[5/22, 5:00 PM] : As there is no sensory deficit it is likely that the
+sensations are preserved due to normal L2
+
+[5/22, 5:04 PM] : Also involvement of L3,4 explain the weakness in lower limb
+caused due to loss of motor fibers of obturator nerve to thigh muscle
+
+(5/22, 11:00 PM) : RB
+
+So you mean the lesion is in the L2-3, spinal cord segment or L2 and L3
+vertebra? What have they mentioned in the MRI spine report about which vertebra
+is involved?
+
+Also what if I told you that his upper limb reflexes are so exaggerated that we
+could actually elicit the reflex with our fingers?
+
+
+Student 5 kims 2016:
+
+"[5/22, 4:12 PM] Rakesh Biswas:
+
+"Anatomical location of the root cause could be in the Spinal cord?"
+
+Where is the exact level in the spinal cord? Is it in the cervical, thoracic or
+lumbosacral segments? 🤔
+
+[5/22, 4:19 PM] 2016 Kims: Lumbosacral segments sir
+
+[5/22, 4:21 PM] 2016 Kims: But it could be lower thoracic and upper lumbar sir.
+
+[5/22, 4:23 PM] 2016 Kims: I think we need more Data to confirm it sir. MRI
+spine should also be done
+[5/22, 4:23 PM] Rakesh Biswas: What if I told you that the patient's upper limb
+reflexes were elicitable by me by just tapping with my fingers and even his
+biceps was jumping bilaterally
+[5/22, 4:25 PM] 2016 Kims: Then it could be a upper motor neuron lesion sir. If
+it’s exaggerated then maybe it could be a UMN lesion
+[5/22, 4:26 PM] 2016 Kims: His babinski sign is also positive
+[5/22, 4:27 PM] 2016 Kims: But since he has hypotonia I thought it couldn’t be
+UMN
+[5/22, 4:39 PM] Rakesh Biswas: In the stage of acute neuronal shock one can
+still have hypotonia in UMN
+[5/22, 4:40 PM] 2016 Kims: Yes sir so how do we know that it a stage of acute
+neuronal shock?
+[5/22, 4:49 PM] Rakesh Biswas: If the UMN findings such as hyperreflexia
+predominate you think of UMN with hypotonia due to acute neuronal shock.
+
+If LMN findings such as areflexia predominates you think of hypotonia due to
+LMN
+[5/22, 4:50 PM] 2016 Kims: Okay sir.
+Thank you. So this could be a state of UMN lesion with hypotonia due to acute
+neuronal shock
+[5/22, 4:51 PM] Rakesh Biswas: Yes and where is the UMN lesion located?
+[5/22, 4:53 PM] 2016 Kims: I think it’s above the anterior horn cell in spinal
+cord
+[5/22, 4:55 PM] 2016 Kims: Sir in the video you said it could be parasagittal
+meningioma but then the lesion should be in cerebral cortex for that
+[5/22, 4:55 PM] 2016 Kims: And he does not have any features suggestive of
+cortical lesion like aphasia
+[5/22, 4:56 PM] Rakesh Biswas: Where are anterior horn cells in spinal cord? 😅
+[5/22, 4:57 PM] Rakesh Biswas: Are the areas of aphasia located all over the
+cortex? Is the leg area same as the speech area? 😅
+[5/22, 4:58 PM] Rakesh Biswas: You will find anterior horn cells at every
+section you take of the spinal cord
+[5/22, 4:58 PM] 2016 Kims: Oh yes sir. Sorry sir 😅
+[5/22, 4:58 PM] 2016 Kims: I think the lesion is at the level of lower thoracic
+and upper lumbar vertebrae
+[5/22, 4:59 PM] 2016 Kims: No sir. 😅
+[5/22, 4:59 PM] 2016 Kims: It’s speech areas are brocas and wernickes
+[5/22, 5:00 PM] 2016 Kims: So it could be parasaggital meningioma then?
+[5/22, 5:06 PM] Rakesh Biswas: What about this then? 👆
+[5/22, 5:08 PM] Rakesh Biswas: How do you explain the gluteal abscess and the
+mei report mentioning other things in that vertebral region?
+[5/22, 5:13 PM] 2016 Kims: Sir i think that is a cold abscess.
+Yeah then lesion is in lumbosacral region sir that could explain the abscess.
+[5/22, 5:39 PM] Rakesh Biswas: So is the vertebral lesion producing any
+neurological signs?
+[5/22, 7:07 PM] 2016 Kims: Yes sir I think it’s compressing upon the cord and
+causing the upper motor neuron signs i.e. hypotonia and exaggeration of
+reflexes
+[5/22, 7:08 PM] 2016 Kims: Sir should I change it in my blog then ? That the
+reflexes are exaggerated
+[5/22, 7:46 PM] Rakesh Biswas: Yes instead of deleting the previous you can add
+this as an edit
+[5/22, 7:47 PM] Rakesh Biswas: But then where in the cord will the compression
+produce the paraparesis he is having?
+[5/22, 8:03 PM]  2016 Kims: Okay sir. I will do that
+[5/22, 8:04 PM] 2016 Kims: Sir because psoas muscle is supplied by L2,L3,L4
+nerve roots so maybe the compression is over there
+[5/22, 8:22 PM] Rakesh Biswas: So if the nerve root is compressed what will it
+look like? UMN or LMN?
+[5/22, 9:02 PM] 2016 Kims: LMN sir
+[5/22, 9:04 PM] Rakesh Biswas: And what are the dominant clinical signs in your
+patient suggestive of?
+[5/22, 9:36 PM] Kims: So if the nerve root is compressed what will it look
+like? UMN or LMN?
+[5/22, 9:36 PM] 2016 Kims: LMN sir
+[5/22, 10:10 PM] Rakesh Biswas: So then the nerve root is spared ?"
+ Posted by
+ caregiver7careseeker    at
+ 7:21 PM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _▼ _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _▼ _ May (16)
+                # Three_patients_of_Hemiparesis:_Case_based_online_l...
+                # Active_learning_around_ECG_of_a_middle_aged_man_wi...
+                # Medicine_department_May_2020_attendance
+                # re:_Formative_and_summative_end_posting_assessment...
+                # re:_Case_based_online_learning_assignment_for_MBBS...
+                # re:_Active_learning_session_on_global_CBBLE_for_30...
+                # Paraparesis_Case_based_questions_and_conversationa...
+                # Frequently_asked_questions_around_case_based_onlin...
+                # Case_based_online_learning_assignment_for_8th_seme...
+                # Integrating_Medical_education_and_practice:_Online...
+                # A_medicine_PG_resident's_Web_log_book
+                # A_medicine_intern's_Web_log_book
+                # Web_log_driven_online_learning_portfolios_for_Dail...
+                # re:_Final_university_MD_Medicine_summative_assessm...
+                # Informed_Patient_Consent_and_Authorization
+                # A_daily_pragmatic_learning_roster_as_per_MCI_summa...
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

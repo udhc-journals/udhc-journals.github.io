@@ -1,0 +1,1265 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Tuesday, February 16, 2021 *****
+
+
+**** Medicine department projects, presentations, publications 2017 to 2020
+****
+ 
+**** MEDICINE DEPARTMENT PROJECTS AS PER DSIR TEMPLATE ****
+
+
+
+
+
+Template to showcase departmental activities borrowed from 
+http://www.dsir.gov.in
+MEDICINE DEPARTMENT:
+
+   1. Research Undertaken
+
+   1. Objectives of research being undertaken :
+
+Objectives:
+1) Answering multidimensional information needs in individual patients and health professionals  utilizing available IT and AI (case based reasoning) tools 
+2) Integrating medical education and practice 
+3) Developing a health care blended-learning ecosystem through a network of global multiple learner stakeholders that includes medical student and health professionals from diverse disciplines catering to
+patients along with their relatives in rural and urban India so that they may benefit from this global learning toward their local caring. 
+4) Optimization of healthcare costs in a manner that can still provide highest quality of care in low resource settings. 
+ 
+   1. Memorandum of understanding 
+
+   1. Objective of undertaking of research specified in MOA
+   1. Major equipment procured during April2017-March2018,  April 2018- March 2019, April 2019- March 2020, and March 2020- March 2021.
+S. No Equipment
+
+1) Clinical Data capturing devices for every individual research assistant
+2) Laboratory data capturing and interpreting devices  such as autoanalyzers 
+3) Radio imaging data capturing and interpreting devices such as ultrasound, echocardiography, X-ray machines, CT scans and MRI 
+Year of purchase Approx. cost
+
+Awaiting hospital admin inputs 
+
+   1.    Staff engaged in research
+   1. Number of PhD ( 0 )
+
+   1.  PG's ( 30 )
+
+   1.  Total no. of Student &Teachers  personnel involved in Research Activities ( 35 )
+
+Research assistants/Interns 100
+
+
+   1. Areas of Research Undertaken:
+
+Medical education 
+Frugal bedside innovation 
+Health Informatics 
+Medical monitoring 
+Medical cognition 
+Clinical decision making 
+Clinical problem solving 
+Case based reasoning 
+Medicine 2.0
+E-health 
+User driven healthcare 
+
+
+
+
+
+   1. Completed Research projects from April 2017 to March 2021.
+Title and scope of the project              Functional prototype for "Case based blended learning ecosystem CBBLE toward better medical education, decision making and better patient outcomes
+Sponsoring agent if any           �Current institution 
+Project Leader                
+                                        Dr. Rakesh Biswas and UG, PG team
+
+Year in which started                   2017
+        
+Duration in months                      36
+
+Capital (Estimated in lakhs)            7
+Recurring (Estimated in lakhs)          1
+Total (Estimated in lakhs)              10
+Foreign Exchange (in INR)                   0
+                                            Functional prototype archived in the publications below:
+Remarks                                 Healthcare 2018, Vol 6, 78.
+                                            Full text link here:
+                                            https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163835/
+
+Title and scope of the project          Functional prototype for "Collective, user driven  conversational peer review of real time open access research submissions"
+Sponsoring agent if any         �Current institution 
+Project Leader              �Dr. Rakesh Biswas and UG, PG team
+    
+Year in which started               2017
+        
+Duration in months                  24
+Capital (Estimated in lakhs)        0
+Recurring (Estimated in lakhs)      0
+
+Total (Estimated in lakhs)          0
+
+Foreign Exchange (in INR)               0
+                                        Functional prototype archived and run here in the publications below:
+                                        Title: Collective Conversational Peer Review of Journal Submission: A Tool to Integrate Medical Education and Practice. 
+
+                                        Authors: Poddar et al with corresponding author RB 
+
+                                        Journal name and volume:
+
+                                        Annals of Neurosciences. 2018 Jul; 
+
+
+                                        Vol 25(2): pages 112–119. 
+
+
+                                        Impact factor: 2.04
+
+
+                                        Full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6103343/#!po=0.757576
+Remarks    
+
+                                        2) Patient of pulmonary embolism and online conversational learning among global medical students through a journal review platform. 
+
+
+                                        Authors: Poddar et al with corresponding author RB
+
+
+
+                                        Medical Journal of Dr. DY Patil Vidyapeeth. 2019 May 1;12(3):281.
+
+
+
+                                        Full text link: https://www.mjdrdypv.org/article.asp?issn=2589-8302;year=2019;volume=12;issue=3;spage=281;epage=283;aulast=Podder
+
+
+
+
+
+
+                                                                             Functional prototype of "Online learning portfolios" through available user driven learning systems 
+Title and scope of the project
+                                                                             More about it's scope in functional online learning portfolios archived here 
+                                                                             https://medicinedepartment.blogspot.com/2021/02/blended-bimonthly-assessment-dec-2020.html?m=0
+Project Leader                
+RB and UG, PG Team 
+
+Year in which started    2018
+        
+Duration in months    24 months 
+
+
+
+
+
+Remarks: Functional prototype of a continuing medical education usage model 
+
+
+
+Title and scope of the project    Frugal innovations prototype: Digital and paper based fever charts and prediction analytics for better diagnosis and rational antibiotic use. Completed functional prototype
+                                  of "fever pattern recognition" through user driven data capture and analysis systems to reduce antibiotic misuse in the community 
+Sponsoring agent if any   :   Current Institute        
+Project Leader           RB with UG, PG Team
+Year in which started         2017
+        
+Duration in months            72 months
+Capital (Estimated in lakhs)   4
+Recurring (Estimated in lakhs)  1�
+Total (Estimated in lakhs)    6
+Foreign Exchange (in INR)        NA
+                                  Based on prior work archived here:Integrating Hospital-Acquired Lessons into Community Health Practice: Optimizing Anti-Microbial Usage in Bangalore,  J Contin Educ Health
+Remarks:                        Prof. (US) 2007 Jun 18;27(2):105-110, https://pubmed.ncbi.nlm.nih.gov/17576636/
+                                  And archived here https://classworkdecjan.blogspot.com/2020/03/resources-for-fever-project.html?m=1
+                                  And blogged here by our elective students https://classworkdecjan.blogspot.com/2021/02/some-tech-for-just-fever-sign.html?m=1
+
+                                       Prototype: Womb to tomb patient records viewed through a virtual reality interface made open access after deidentification
+                                       More about it's scope here :
+Title and scope of the project         https://classworkdecjan.blogspot.com/2020/01/vr-art-in-ehrs.html 
+                                       The entire womb to tomb case record of a single patient is displayed in different layers that can be viewed using a virtual reality interface. A video demo of the prototype is available
+                                       here:https://youtu.be/yrJ0DfmRg8E
+Project Leader                        Done by our elective student Avinash Gupta along with RB and UG, PG Team 
+
+Year in which started               2017
+
+Duration in months                  30 months 
+
+Capital (Estimated in lakhs)    
+
+Recurring (Estimated in lakhs)    
+
+Total (Estimated in lakhs)
+Foreign Exchange (in INR)
+                                       Presented at a Neuroscience conference workshop in 2017 archived here 
+
+Remarks:                               https://www.google.com/url?sa=t&source=web&rct=j&url=https://cdn.    
+                                       ymaws.com/www.iayt.org/resource/collection/809EDF06-144F-40BA-8F04-5F8C520CF7D6/Art_of_Imperfect_brain_conference_brochure.pdf&ved=_2ahUKEwijkrrYyOnuAhXKbn0KHS94DDIQFjAAegQIARAB&usg=  
+                                       AOvVaw0x_tUOWFkMJCU0vWfwmmmF 
+                                       And here:https://youtu.be/XWUMogh96SM
+
+
+
+                                       Frugal bedside Innovation - 
+Title and scope of the project         Functional prototype of  "diaphragm based audio patient data capturing systems (stethoscope hack) to promote collaborative global learning with local patient data. More here:
+                                       https://classworkdecjan.blogspot.com/2020/01/stethoscope-hack.html 
+                                       Low cost quick hack to record and share auscultation sounds digitally for offline/online education and remote diagnosis.
+Project Leader:                       Done by our elective student Avinash Gupta along with            RB and UG, PG Team
+
+Year in which started              2018
+        
+Duration in months                 30 months
+
+Capital (Estimated in lakhs)       -
+
+Recurring (Estimated in lakhs)     -
+
+Total (Estimated in lakhs)         -
+
+Foreign Exchange (in INR)              -
+Remarks                            -
+
+
+
+Title and scope of the project              Functional prototype of "graphical patient timeline at a glance" to enable quick optimal clinical decision making toward improved patient outcomes 
+
+Sponsoring agent if any           �Current institution 
+Project Leader                
+                                        Dr. Rakesh Biswas with UG, PG Team 
+
+Year in which started                   2018
+        
+Duration in months                      24
+
+Capital (Estimated in lakhs)            0
+
+Recurring (Estimated in lakhs)          0
+
+Total (Estimated in lakhs)              0
+
+Foreign Exchange (in INR)                   0
+Remarks                                 Frugal innovations at bedside. Frugal self funding.
+
+
+
+                               Frugal Innovation for Obstructive Sleep Apnea by our elective student Avinash Gupta. 
+Title and scope of the project https://classworkdecjan.blogspot.com/2020/01/obstructive-sleep-apnea-low-cost-device.html 
+                               A device to screen, diagnose, monitor and reduce damages caused by sleep apnea by utilizing low cost spo2 sensor and feedback/biofeedback.
+                               https://classworkdecjan.blogspot.com/2021/02/sleep-study-obstructive-sleep-apnea.html 
+
+Industry Partnerships:
+
+1) With Arintra AI solutions based in Austin, TX 78731, USA toward building a Clinical AI platform for faster visit documentation through automation supported patient data capture.
+
+Remarks: Project was  winner of Ayushman Bharat PMJAY Start-Up Grand Challenge, a call to action to generate cutting-edge solutions for supporting the National Health Authority, India (NHA).
+
+
+
+
+
+
+
+   1. ONGOING RESEARCH
+Title and scope of the project              Resolving diagnostic and therapeutic uncertainty in diabetics with heart failure symptoms in a rural teaching hospital 
+Sponsoring agent if any           �Current institution
+Project Leader                 Dr. Aditya Samitinjay, Postgraduate 
+                                        Dr. Rakesh Biswas, Prof. & HOD 
+
+Year in which started                   2018
+        
+Duration in months                      24
+
+Capital (estimated in lakhs)                5
+
+Recurring (estimated in lakhs)              0.5
+Total (estimated in lakhs)                  7
+Foreign Exchange(in INR)
+Remarks                                 Echo machine as a tool (pre existing institutional capital)
+2018-2019 (ongoing) 
+
+
+2) Scope 
+
+Resolving diagnostic and therapeutic uncertainty in patients with critical illness and hyponatremia in a rural teaching hospital 
+
+Sponsoring Agency: Current institution 
+
+
+Project leader: MR (PG) and RB (guide) 
+
+
+Year in which started: 2018
+
+Duration in months: 24
+
+
+Capital estimated in Lakhs: 10
+
+
+Laboratory testing infrastructure (pre existing institutional capital)
+
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+
+Total estimated in Lakhs: 12
+
+
+Foreign exchange in lakhs NA
+
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time. 
+
+
+2019-20 (Ongoing) 
+
+
+
+
+
+3)
+Scope: 
+
+
+Resolving diagnostic and therapeutic uncertainty in patients with heart failure and preserved ejection fraction 
+
+
+Sponsoring Agency: Current institution 
+
+
+Project leader: AV (PG) and RB (guide) 
+
+
+Year in which started: 2019
+
+Duration in months: 24
+
+
+Capital estimated in Lakhs: 5
+
+
+Echo machine as a tool (pre existing institutional capital)
+
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+
+Total estimated in Lakhs: 7
+
+
+Foreign exchange in lakhs NA
+
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time. 
+
+
+
+
+
+2020-21
+
+
+4) Scope 
+
+
+Resolving diagnostic and therapeutic uncertainty in unexplained pulmonary hypertension 
+
+Sponsoring Agency: Current institution 
+
+
+Project leader: VK (PG) and RB (guide) 
+
+
+Year in which started: 2020
+
+Duration in months: 24
+
+
+Capital estimated in Lakhs: 5
+
+
+Echo machine as a tool (pre existing institutional capital)
+
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+
+Total estimated in Lakhs: 7
+
+
+Foreign exchange in lakhs NA
+
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time. 
+
+
+
+
+
+5) 
+Scope:
+
+Resolving diagnostic and therapeutic uncertainty in critically ill renal failure patients in a rural teaching hospital 
+Sponsoring Agency: Current institution 
+
+Project leader: KM (PG) and RB (guide) 
+
+Year in which started: 2020
+Duration in months: 24
+Capital estimated in Lakhs: 10
+Laboratory testing infrastructure (pre existing institutional capital)
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+Total estimated in Lakhs: 12
+Foreign exchange in lakhs NA
+
+
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time. 
+   1.
+   1. Specific R&D achievements for past years: April2017-March18, 18-19, 19-20, April 20-March21)
+   1. New products/processes/methods/techniques developed:
+
+April 2017 to March 2018
+
+As mentioned in detail above we developed a 
+
+1) Usage model of a regular continuing medical education through practice based data driven by patient and health professional users aka CBBLE (based on concept of user driven healthcare published earlier
+extensively in books and journals by our team. 
+
+2) Developed an usage model functional prototype of Collective, user driven  conversational peer review of real time open access research submissions"
+
+
+2018-19
+
+2) Functional prototype of a
+"graphical patient timeline at a glance" to enable quick optimal clinical decision making toward improved patient outcomes 
+2019-2020
+
+3) frugal bedside innovations described above including fever pattern recognition and other  vital data pattern analysis from patient monitoring 
+
+   1. Improvements in existing products/processes/methods/techniques :
+
+Existing processes were successfully disrupted with our newer usage models 
+
+   1.  Societal outcome of the R&D activities undertaken:
+
+Improving of health professional and patient learning outcomes along with patient health outcomes 
+
+
+   1.  Import substitution (Give estimate of foreign exchange saved or likely to be saved per annum):
+
+NA
+
+   1.  Linkages with industry-projects carried out on their behalf (Give details) :
+
+Industry Partnerships:
+
+1) With Arintra AI solutions based in Austin, TX 78731, USA toward building a Clinical AI platform for faster visit documentation through automation supported patient data capture.
+
+Remarks: Project was  winner of Ayushman Bharat PMJAY Start-Up Grand Challenge, a call to action to generate cutting-edge solutions for supporting the National Health Authority, India (NHA).
+
+
+
+
+
+
+
+
+
+
+
+
+   1. Post Graduate Student’s Seminar Schedule
+   1. April 2020- March2021
+   2. April2019- March2020
+   3. April2018- March2019
+   4. April 2017-March2018
+
+                                                                            Presenter
+S.  Date       Seminar Topic                                                with
+No                                                                          Presentation
+                                                                            Link
+
+                                                                            Dr. Aditya
+                                                                            (2018 Batch)
+1   28/01/2021 Evidence of Medical aspects in COVID 19                      https://
+                                                                            youtu.be/
+                                                                            unW70mGlh1Y
+                                                                            Dr. Natasha
+                                                                            Rao (2018)
+2   01/02/2021 NEPHROTIC SYNDROME                                           https://
+                                                                            youtu.be/
+                                                                            iQa-t5VQv2Q
+                                                                            Dr. Manasa
+                                                                            (2018 Batch)
+3   16/01/2021 Efficacy of pancreatin in chronic pancreatitis pain          https://
+                                                                            youtu.be/
+                                                                            l9XXpk3_V7k
+                                                                            Dr. Manasa
+                                                                            (2018 Batch)
+4   23/01/2021 Ankylosing spondylitis case presentation                     https://
+                                                                            youtu.be/
+                                                                            UIDUaVxsEo8
+                                                                            Case by Dr.
+                                                                            Vamshi and
+                                                                            Aravind
+5   29/01/2021 Polyarthritis                                                discussion
+                                                                            https://
+                                                                            youtu.be/
+                                                                            vqMEqzwF66Y
+                                                                            Dr. Vamshi
+                                                                            (2018)
+6   14/01/2021 Rheumatoid arthritis case presentation                       https://
+                                                                            youtu.be/
+                                                                            vqMEqzwF66Y
+                                                                            Dr. Vamshi
+               Paper presentation on Subclinical hypothyroidism, early      (2018)
+7   13/01/2021 detection & treatment in CKD pts                             https://
+                                                                            youtu.be/
+                                                                            PRhZbpINqHA
+                                                                            Dr. Natasha
+                                                                            Rao (2018)
+8   08/01/2021 LIVER ABCESS                                                 https://
+                                                                            youtu.be/
+                                                                            wosYx8dDR7s
+9   09/01/2021 paper presentation on                                        Dr. SUFIA ALMAS (2018)
+               “ROLE OF SERUM CALCIUM IN ESSENTIAL HYPERTENSIVES”       https://youtu.be/EzhLN1tsXFk
+                                                                            Dr. Aashitha (2019)
+10  22/01/2021 PSEUDO SEIZURES                                              https://www.youtube.com/watch?v=
+                                                                            UtJ5jOLWVAk&feature=youtu.be
+                                                                            Dr. Aashitha (2019)
+11  28/01/2021 DILATED CARDIOMYOPATHY                                       https://www.youtube.com/watch?v=94o
+                                                                            HIT9iUcw&feature=youtu.be
+                                                                            Dr. Aashitha (2019)
+12  21/01/2021 MULTIPLE CRANIAL PALSY                                       https://www.youtube.com/watch?v=SKGM
+                                                                            YB0p4pU&feature=youtu.be
+13  07/01/2021 AKI on CKD                                                   S._Pradeep_Kumar_Goud (2020 Batch)
+                                                                            https://youtu.be/jyIy4xzDy2I
+14  22/01/2021 Acute Repititive Seizures                                    S._Pradeep_Kumar_Goud (2020 Batch)
+                                                                            https://youtu.be/UtJ5jOLWVAk
+15  09/01/2021 Renogram prior to renal transplantation                      Dr. Chandana Vishwanatham (2020 Batch)
+                                                                            https://youtu.be/4snxXvPqZhU
+16  19/01/2021 50year old male with CKD on MHD                              Dr. Chandana Vishwanatham (2020 Batch)
+                                                                            https://youtu.be/1LjB5Lyous8
+17  06/01/2021 Thesis review                                                Dr. Nikitha (2019 Batch)
+                                                                            https://youtu.be/jXVS5J1-RNE
+18  20.01.2021 COVID Case Presentation                                      Dr. Ajith Kumar
+19  19.01.2021 ICU and AMC Case Discussion                                  Dr. Ajith Kumar
+20  06.01.2021 Thesis Review Presentation                                   Dr. Ajith Kumar
+21  20/01/2021 Clinical meet on covid-presented                             Dr. Nikitha (2019 Batch)
+               vaccination                                                  https://youtu.be/kFVAeTyg3TU
+22  28/01/2021 Evidence of Medical aspects in Covid 19                      N. Ushasree (2019 Batch)
+                                                                            https://youtu.be/unW70mGlh1Y
+23  09/01/2021 paper presentation on                                        Dr. Sufiya Almas (2018 Batch)
+               “ROLE OF SERUM CALCIUM IN ESSENTIAL HYPERTENSIVES”       https://youtu.be/EzhLN1tsXFk
+24  20.01.2021 RCT study on Efficacy of corticosteroids in covid  patients Dr. Katta Manasa (2020 Batch)
+                                                                            https://youtu.be/R6DH9b1EfUU
+                                                                            Dr. Shashi Kala (2020)
+25  27-01-2021 DIMORPHIC ANEMIA
+                                                                            https://youtu.be/40OoVEQBgS4
+                                                                            Dr. Shashi Kala (2020)
+26  2-1-2021   PAIN ABDOMEN
+                                                                            https://youtu.be/rrBX2NwTOCY
+                                                                            Dr. Shashi Kala (2020)
+27  8-01-2021  LIVER ABCESS                                                 Dr. Shailesh (2020)
+                                                                            https://youtu.be/wosYx8dDR7s
+28  19-01-2021 Clinical meet on COVID 19                                    Dr. Sai Charan (2020)
+                                                                            https://youtu.be/c8YRViSIVgA
+29  21/01/2021 PERICARDIAL EFFUSION AND MULTIPLE MYELOMA                    Dr. Vinay(2020)
+                                                                            https://youtu.be/EuVCLyZ4w4g
+                                                                            Dr. Vinay
+30  02/02/2021 CVA case discussion                                          Part 1 https://youtu.be/HwZMU1VGXr4
+                                                                            Part 2
+                                                                            https://youtu.be/L-FLcGaPWuI
+                                                                            Dr. Durga Krishna (2020)
+31  04/01/2021 Tubercular Meningitis with  SLE                             Dr. Aashitha (2019)
+
+                                                                            https://youtu.be/d4lLX04oL8s
+                                                                            Dr. Durga Krishna (2020)
+32  9/01/21    Renal Venogram
+                                                                            https://youtu.be/U67IM98cvuo
+33  15/01/2021 SVT                                                          Dr. Rashmitha Rao (2019)
+                                                                            https://youtu.be/LH03fQ9f3iY
+                                                                            Dr. E. Keerthi Sree  Reddy (2017 batch)
+34  05/05/2020 Hypoglycemia                                                 https://www.youtube.com/
+                                                                            watch?v=yhXqgGpfIEo&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=1&t=8s
+                                                                            Dr. Ramadevi  ( 2017 Batch)
+35  05/05/2020 Atrial Fibrillation                                          https://www.youtube.com/
+                                                                            watch?v=XGnLvhBmQGQ&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=2
+                                                                            Dr. Vinod Kumar Reddy (2017 Batch)
+36  06/05/2020 Chronic fatigue syndrome                                     https://www.youtube.com/watch?v=Bvr-
+                                                                            mM416eI&list=PLvOgc9_v4PCKsIrVK4laA3_
+                                                                            rUJOMPAYKJ&index=3
+                                                                            Dr. Rakesh Biswas & Dr. Y. Ramesh  (2017
+                                                                            Batch)
+37  06/05/2020 Oral hypoglycemic Drugs                                      https://www.youtube.com/
+                                                                            watch?v=baYXcFjjmeA&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=4
+                                                                            Dr. Deepak Reddy  (2017 Batch)
+38  06/05/2020 Ischemic Stroke                                              https://www.youtube.com/
+                                                                            watch?v=fx4Kygh6Nqc&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=6
+                                                                            Dr. K. Vinuthna  (2017 Batch)
+39  06/05/2020 Insulinoma                                                   https://www.youtube.com/
+                                                                            watch?v=Q4vfwG1jJyo&list=PLvOgc9
+                                                                            _v4PCKsIrVK4laA3_rUJOMPAYKJ&index=5
+                                                                            Dr. Vamshi Krishna   (2018 Batch)
+40  12/05/2020 Paraparesis                                                  https://www.youtube.com/
+                                                                            watch?v=ClopCj2KwZc&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=7
+                                                                            Dr. Ramadevi (2017 Batch)
+41  06/05/2020 Snake bite                                                   https://www.youtube.com/
+                                                                            watch?v=CktrwxofUEM&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=8
+                                                                            Dr. Rakesh Biswas
+42  10/05/2020 Insulinoma                                                   https://www.youtube.com/
+                                                                            watch?v=cFvskqxNDBo&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=9
+                                                                            Dr. Sai Radha  (2018 Batch)
+43  10/05/2020 FSGS                                                         https://www.youtube.com/
+                                                                            watch?v=wRKJz29o2N8&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=10
+                                                                            Dr. Anvesh  (2017 Batch)
+44  10/05/2020 Antihyperlipidemic drugs                                     https://www.youtube.com/
+                                                                            watch?v=2ih76SOZZHI&list=PLvOgc9
+                                                                            _v4PCKsIrVK4laA3_rUJOMPAYKJ&index=11
+                                                                            Dr. Deepak Reddy  (2017 Batch)
+45  10/05/2020 Wilson’s Disease                                           https://www.youtube.com/watch?v=C-
+                                                                            zqAWL2h6w&list=PLvOgc9_v4PCKsIrVK4laA3_rUJOMPAYKJ&index=12
+                                                                            Dr. E. Keerthi Sree Reddy  (2017 Batch)
+46  10/05/2020 Paracetamol poisoning                                        https://www.youtube.com/
+                                                                            watch?v=L8JkcuilQsU&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=13
+                                                                            Dr. Vinod Kumar Reddy  (2017 Batch)
+47  10/05/2020 Thrombocytopenia                                             https://www.youtube.com/
+                                                                            watch?v=svutMsz_VFg&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=14
+                                                                            Dr. Anvesh  (2017 Batch)
+48  11/05/2020 Dementia                                                     https://www.youtube.com/watch?v=wfzcChb8G-
+                                                                            Y&list=PLvOgc9_v4PCKsIrVK4laA3_rUJOMPAYKJ&index=15
+
+                                                                            Dr. Deepak Reddy  (2017 Batch)
+49  11/05/2020 Aspergillosis                                                https://www.youtube.com/
+                                                                            watch?v=2cPgBOWMWIY&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=16
+                                                                            Dr. Siphora  (2017 Batch)
+50  12/05/2020 Pheochromocytoma                                             https://www.youtube.com/
+                                                                            watch?v=YzVI1XZ3nAI&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=17
+                                                                            Dr. Sandeep Kumar, Dr. Rajesh Reddy & 
+51  12/05/2020 Complement pathway                                           Rakesh Biswas
+                                                                            https://www.youtube.com/watch?v=qxJi9dBSH-
+                                                                            o&list=PLvOgc9_v4PCKsIrVK4laA3_rUJOMPAYKJ&index=18
+                                                                            Dr. Manasa (2018 Batch)
+52  12/05/2020 Muscle weakness                                              https://www.youtube.com/
+                                                                            watch?v=3VVH7w3rWSM&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=25
+                                                                            Dr. E. Keerthi Sree Reddy (2017 (Batch)
+53  13/05/2020 Leptospirosis                                                https://www.youtube.com/
+                                                                            watch?v=CigAbZ4NBp4&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=26
+                                                                            Dr. Vinod Kumar Reddy & Dr. Rakesh Biswas
+                                                                            & Dr. Siva Roja
+54  13/05/2020 Hypertrophic obstructive cardiomyopathy                      https://www.youtube.com/
+                                                                            watch?v=rQ7Km8dgQ4A&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=27
+                                                                            Dr.  Ramadevi
+55  13/05/2020 CML                                                          https://www.youtube.com/
+                                                                            watch?v=zwt3pjKPD1M&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=30
+                                                                            Dr. Vinuthna  (2017 Batch)
+56  13/05/2020 Cerebrovascular thrombosis                                   https://www.youtube.com/
+                                                                            watch?v=IZdLDXQx3lA&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=31
+                                                                            Dr. Ramadevi  (2017 Batch)
+57  16/05/2020 OP Poisoning                                                 https://www.youtube.com/
+                                                                            watch?v=BdeiUZqNM9M&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=32
+                                                                            Dr. Vinuthna  (2017 Batch)
+58  16/05/2020 Myasthenia gravis                                            https://www.youtube.com/
+                                                                            watch?v=jd8icdiBB78&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=33
+                                                                            Dr. Ramesh   (2017 Batch)
+59  19/05/2020 Hyperparathyroidism                                          https://www.youtube.com/
+                                                                            watch?v=8fGk1HeoK1E&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=37
+                                                                            Dr. Rakesh Biswas
+60  19/05/2020 CCF                                                          https://www.youtube.com/
+                                                                            watch?v=4YnJZwbp0eE&list=PLvOgc9
+                                                                            _v4PCKsIrVK4laA3_rUJOMPAYKJ&index=38
+                                                                            Dr. Rakesh Biswas
+61  20/05/2020 Liver cirrhosis                                              https://www.youtube.com/
+                                                                            watch?v=wsem55APunw&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=40
+                                                                            Dr. Praneeth Vatti  (2018 Batch)
+62  20/05/2020 Portal hypertension                                          https://www.youtube.com/
+                                                                            watch?v=D4lqqOYuUYI&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=41
+                                                                            Dr. Siphora  (2017 Batch)
+63  20/05/2020 Pulmonary artery hypertension                                https://www.youtube.com/
+                                                                            watch?v=Gu8WWQ0ki5I&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=45
+                                                                            Dr. Deepak Reddy & Dr. Rajesh Reddy
+64  22/05/2020 Megaloblastic anemia                                         https://www.youtube.com/
+                                                                            watch?v=yJBjSTCsUtw&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=51
+                                                                            Dr. Sandeep Kumar  (2017 Batch)
+65  22/05/2020 Road traffic accident                                        https://www.youtube.com/
+                                                                            watch?v=I51gWMAw1hg&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=52
+                                                                            Dr. Aditya  (2018 Batch)
+66  24/05/2020 Right heart failure with PAH                                 https://www.youtube.com/
+                                                                            watch?v=2GJicww_JJg&list=PLvOgc9_
+                                                                            v4PCKsIrVK4laA3_rUJOMPAYKJ&index=57
+                                                                            Dr. Aditya  (2018 Batch)
+67  11/08/2020 Multiple cavitary lesions and depression                     https://m.youtube.com/
+                                                                            watch?v=np6Dxb45s7Y&t=198s
+68  26/11/2020 Wellens syndrome                                             Dr. Aditya  (2018 Batch)
+                                                                            https://m.youtube.com/watch?v=P7nTvoGWpTI
+                                                                            Dr. Aditya  (2018 Batch)
+69  26/11/2020 PCA and CABG in MI management                                https://m.youtube.com/
+                                                                            watch?v=QMjlLbZIWKU&t=3s
+                                                                            Dr. Aditya  (2018 Batch)
+70  06/01/2020 Log book presentation                                        https://m.youtube.com/
+                                                                            watch?v=TUbMiDx_pyA&list=PLvYjjuT_
+                                                                            hEEQDtlHSAvFdRpCb5EBszwgR&index=112
+                                                                            Dr. Aditya  (2018 Batch)
+71  11/08/2020 Choice of Reperfusion in MI                                  https://m.youtube.com/
+                                                                            watch?v=BbQEgUpuP44&list=PLvYjjuT_
+                                                                            hEEQDtlHSAvFdRpCb5EBszwgR&index=36
+                                                                            Dr. Divya presentation and Dr. Aditya
+72  21/06/2020 CKD with thrombocytopenia                                    discussion
+                                                                            https://youtu.be/8MuoHgz_Y3w
+                                                                            Dr. Usha presentation and Dr. Aditya
+73  28/06/2020 Uremic Encephalopathy                                        discussion
+                                                                            https://youtu.be/ucBDBI1FYM4
+                                                                            Dr. Sushmita presentation and Dr. Aditya
+74  10/07/2020 Cor Pulmonale                                                discussion
+                                                                            https://youtu.be/xS_5DPtJAt4
+75  12/05/2020 Bilateral lower limb muscle weekness case presentation       Dr. Manasa (2018 Batch)
+                                                                            https://youtu.be/3VVH7w3rWSM
+76  13/08/2020 Tolvaptan efficacy in hyponatremia part 1                    Dr. Manasa (2018 Batch)
+                                                                            https://youtu.be/aP1OYoZTytU
+77  13/08/2020 Tolvaptan efficacy in hyponatremia part 2                    Dr. Manasa (2018 Batch)
+                                                                            https://youtu.be/ZuAWTzgAYRY
+78  13/08/2020 Tolvaptan efficacy in hyponatremia part 3                    Dr. Manasa (2018 Batch)
+                                                                            https://youtu.be/-D1Eubc5SI8
+79  13/08/2020 Tolvaptan efficacy in hyponatremia part 4                    Dr. Manasa (2018 Batch)
+                                                                            https://youtu.be/QY2Q3O8w9mA
+80  13/08/2020 Tolvaptan efficacy in hyponatremia part 5                    Dr. Manasa (2018 Batch)
+                                                                            https://youtu.be/0NkzkCNUHWU
+81  16/06/2020 A case of emphysematous pyelonephritis                       Dr. Aravind (2018 Batch)
+                                                                            https://youtu.be/SXdvCtXbUH4
+82  08/07/2020 A case of multiple liver abscess                             Dr. Aravind  (2018 Batch)
+                                                                            https://youtu.be/Hfh_l6mxos8
+83  11/07/2020 Thesis discussion of assessment of serum magnesium and its   Dr. Aravind (2018 Batch)
+               outcome in acute ischemic cerebrovascular accidents          https://youtu.be/a1bdvZRDQuU
+84  22/06/2020 Ischemic cerebro vascular accident, Right sided hemiparesis. Dr. Vamshi (2018 Batch)
+                                                                            Case presentation
+85  24/06/2020 Acute G.E with pre renal AKI                                 Dr. Vamshi (2018 Batch)
+                                                                            Case discussion.
+86  10/07/2020 Cor Pulmonale secondary to COPD                              Dr. Vamshi (2018 Batch)
+                                                                            case presentation
+87  28/12/2020 RENAL TUBULAR ACIDOSIS                                       Dr. Natasha Rao (2018 Batch)
+88  02/04/2020 THESIS UPDATE ON ROLE OF PSEUDOCHOLINESTERASE IN OPC         Dr. Sufiya Almas (2018 Batch)
+               PATIENTS                                                     https://youtu.be/YmJ9mwJ-4EU
+89  21/05/2020 ROLE OF PSEUDOCHOLINESTERASE IN OPC PATIENTS                 Dr. Sufiya Almas (2018 Batch
+                                                                            https://youtu.be/5V8lbNwS-Lk
+                                                                            Dr. Sufiya Almas (2018 Batch
+90  04/06/2020 CASE PRESENTATION ON AIDP PART 1 part 2                      https://youtu.be/5qjCgMwutXM
+                                                                            https://youtu.be/XmW3QzGC31s
+
+                                                                            Dr.  Satish  (2018 Batch))
+91  29/06/2020 TB Meningitis(Brain death) part 1,2,3                        https://youtu.be/2YwVQdjyi4s
+                                                                            https://youtu.be/kxdN4DyCNnI
+                                                                            https://youtu.be/HGK29KByLp0
+
+                                                                            Dr. Aashitha (2019)
+92  23/11/2020 POLYARTHALGIA                                                Dr. K Vaishnavi (2019)
+                                                                            Dr. Gadde Vamshi Krishna (2020)
+                                                                            https://youtu.be/L5lFTpAZwxc
+93  18-06-2020 CKD on MHD                                                   Dr. K Vaishnavi (2019)
+                                                                            https://youtu.be/zbVz5aUm8cM
+                                                                            Dr. K Vaishnavi (2019)
+94  18-06-2020 Jeevandhan Program                                           https://youtu.be/rUtji2iohHE
+
+                                                                            Dr. Aashitha (2019)
+
+               RECURRENT SEIZURES                                           https://www.youtube.com/watch?v=bqZdopSN_
+95  02/12/2020                                                              eI&feature=youtu.be
+               QUESTIONNAIRE
+                                                                            https://www.youtube.com/watch?v=Dk17_ 
+                                                                            HrzXIk&feature=youtu.be
+                                                                            Dr. Aashitha (2019)
+                                                                            https://www.youtube.com/watch?v=nBi- 
+                                                                            4bSBmww&feature=youtu.be
+
+                                                                            https://www.youtube.com/watch?v= _ 
+                                                                            6pHPnQ9lCTI&feature=youtu.be
+
+               HYPOGLYCEMIA                                                 https://www.youtube.com/watch?v=
+                                                                            DaWGKpSS1P4&feature=youtu.be
+96  02/12/2020
+                                                                            https://www.youtube.com/watch?v=nBi-
+                                                                            4bSBmww&feature=youtu.be
+
+                                                                            https://www.youtube.com/watch?v=
+                                                                            06X4T5Jm3hk&feature=youtu.be
+
+                                                                            https://www.youtube.com/watch?v=LvrA-
+                                                                            bhYugc&feature=youtu.be
+
+97  15/12/2020 INVOLUNTARY MOVEMENTS OF BILATERAL UPPER LIMBS               Dr. Aashitha (2019)
+                                                                            https://youtu.be/Sw1rTUtIw9k
+98  20/11/2020 TB                                                           S._Pradeep_Kumar_Goud (2020 Batch)
+                                                                            https://youtu.be/3TEw3ja5z7Q
+99  17/12/2020 Hyperkalemia                                                 S._Pradeep_Kumar_Goud (2020 Batch)
+                                                                            https://youtu.be/PXTRSsb6vV8
+100 21/11/2020 65 year old male with delirium                               Dr. Chandana Vishwanatham (2020 Batch)
+                                                                            https://youtu.be/_h4ZoKAoqPU
+101 09/12/2020 38year old male with ascites                                 Dr. Chandana Vishwanatham (2020 Batch)
+                                                                            https://youtu.be/M-Y6eRfB27k
+102 22/05/2020 Heart failure with                                           Dr. Nikitha (2019 Batch)
+               reduced ef case presentation                                 https://youtu.be/zzxTuzdUvwA
+103 14/08/2020 Thesis discussion: Urinary Sodium in Hypertensives           Dr. Nikitha (2019 Batch)
+                                                                            https://youtu.be/DFQtLqf9Sl0
+104 18/11/2020 Palpitations                                                 Dr. Nikitha (2019 Batch)
+                                                                            https://youtu.be/KzL9duml3YE
+105 21/11/2020 Delirium                                                     Dr. Nikitha (2019 Batch)
+                                                                            https://youtu.be/_D_S2yVVdSE
+
+106 25/11/2020 Bronchiectasis                                               Dr. Nikitha (2019 Batch)
+                                                                            Dr. Raveen (2020)
+                                                                            https://youtu.be/JGxVtuiPsGc
+107 11/8/2020  Bullous pemphigoid                                           Dr. Nikitha (2019 Batch)
+                                                                            https://youtu.be/_x5gGPyVQVM
+108 08/02/2020 Tuberculoma                                                  Dr. Nikitha (2019 Batch)
+                                                                            https://youtu.be/e_B_Upj1wjo
+                                                                            N. Ushasree (2019 Batch)
+109 12/06/2020 Uremic encephalopathy                                        https://youtu.be/7-JrpdO_Pwk
+                                                                            https://youtu.be/ucBDBI1FYM4
+
+110 22/06/2020 Urinary tract Infection                                      N. Ushasree (2019 Batch)
+                                                                            https://youtu.be/G4-xa31zEOA
+                                                                                         Dr. Manikrao Vinay (2020)
+    09/                                                                                  Dr. Aashitha (2019)
+111 11/  Metabolic syndrome with Acute Pancreatitis                                      Dr. N. Ushasree (2019)
+    2020                                                                                 Dr. Nikitha Shirine (2019)
+                                                                                         Dr. Divya Chaitanya (2019)
+                                                                                         https://youtu.be/9caUzjXYuqo
+    26/                                                                                  Dr. Laxma Reddy (2018)
+112 05/  Type 1 DM and DKA                                                               Case presentation
+    2020
+    03/                                                                                  Dr. Laxma Reddy (2018)
+113 09/  Cerebellar ataxia secondary to phenytoin toxicity                               Case presentation
+    2020
+    22/                                                                                  Dr. Laxma Reddy (2018)
+114 10/  Peripheral neuropathy secondary to alcohol                                      Case presentation
+    2020
+    07/                                                                                  Dr. Laxma Reddy (2018)
+115 11/  Atrial fibrillation                                                             https://youtu.be/c-6HWzXyzy8
+    2020
+    02/                                                                                  Dr. Sufiya Almas (2018 Batch)
+116 04/  THESIS UPDATE ON ROLE OF PSEUDOCHOLINESTERASE IN OPC PATIENTS                   https://youtu.be/YmJ9mwJ-4EU
+    2020
+    21/                                                                                  Dr. Sufiya Almas (2018 Batch)
+117 05/  ROLE OF PSEUDOCHOLINESTERASE IN OPC PATIENTS                                    https://youtu.be/5V8lbNwS-Lk
+    2020
+
+    04/                                                                                  Dr. Sufiya Almas (2018 Batch)
+118 06/  AIDP                                                                            https://youtu.be/5qjCgMwutXM
+    2020                                                                                 https://youtu.be/XmW3QzGC31s
+
+    18/                                                                                  Dr. Katta Manasa (2020 Batch)
+119 11/  Recurrent urosepsis in 65 year old male with recurrent CVA                      https://youtu.be/OZeOCUsjmIc
+    2020
+    17/                                                                                  Dr. Katta Manasa (2020 Batch)
+120 12/  diabetic foot with Non Healing ulcer in 56 year old male                        https://youtu.be/AtAVIUR-L9A
+    2020
+    10-                                                                                  Dr. Praneeth Vatti (2018)
+121 08-  ANTIVENOM IN SNAKE BITE                                                         https://youtu.be/j1AH9zQCaYY
+    2020
+    6-                                                                                   Dr. Praneeth Vatti (2018)
+122 08-  Acute Ischaemic Stroke                                                          https://youtu.be/IpNaeJe9MtE
+    2020
+    21/                                                                                  Dr. Zain Alam (2019)
+123 06/  Thesis - Assessment of hematological abnormalities in decompensated chronic     https://youtu.be/AL0BB0hnjl0
+    20   liver disease
+
+    10/                                                                                  Dr. Zain Alam (2019)
+124 09/  Hyponatremia and hypoglycaemia
+    20                                                                                   https://youtu.be/p-NxjbdoIC8
+    04/  Journal club-Prone Positioning in Severe Acute Respiratory Distress Syndrome
+125 03/                                                                                  Dr. Zain Alam (2019)
+    20   https://www.nejm.org/doi/full/10.1056/NEJMoa1214103
+    05/  Journal Club
+126 02/  RCT comparing ARNI with ACEI https://www.nejm.org/doi/full/10.1056/             Dr. Zain Alam (2019)
+    20   NEJMoa1409077
+    18/                                                                                  Dr. Rashmitha Rao (2019)
+127 06/  Thesis discussion on SAAG
+    2020                                                                                 https://www.youtube.com/
+                                                                                         watch?v=QlPrb1BSHGE&feature=youtu.be
+    18/                                                                                  DR.GADDE VAMSI KRISHNA https://youtu.be/
+128 11/  ATRIAL FIBRILLATION                                                             rp_Slx1bXOE
+    2020
+    30/                                                                                  DR.GADDE VAMSI KRISHNA
+129 11/  TRANSFUSION ASSOCIATED HEMOLYTIC REACTION                                       https://youtu.be/wgLwEDcQXPc
+    2020
+    02/                                                                                  Dr. K Vaishnavi (2019)
+130 07/  ACUTE PANCREATITIS
+    2020                                                                                 https://youtu.be/_DFxWzgF8_o
+
+    13/                                                                                  Dr. K Vaishnavi (2019)
+    08/                                                                                  https://youtu.be/_KT4OUp_yDw
+131 2020 GULLIAN BARRE SYNDROME
+                                                                                         https://youtu.be/Zv1kT09-05I
+
+                                                                                         Dr. Adepu Vaishnavi (2019)
+132 5/6/ Neuro Behcets
+    2020                                                                                 https://youtu.be/kWCzSvpq_5I
+
+    20/                                                                                  Dr. Vinay (2020)
+133 11/  SEIZURES WITH OLD CVA                                                           https://youtu.be/8d-kBU8bp3M
+    2020
+    03/                                                                                  Dr. Vinay(2020)
+134 12/  MELENA                                                                          https://youtu.be/rnakr06QpHg
+    2020
+    10/                                                                                  Dr. Vinay (2020)
+135 12/  UNCONTROLLED TYPE 2 DIABETES MELLITUS                                           https://youtu.be/htBsWPWTKHk
+    2020
+    17/                                                                                  Dr. Vinay (2020)
+136 12/  RIGHT SIDED PLEURAL EFFUSION                                                    https://youtu.be/mUygEb6iY6E
+    2020
+    10/                                                                                  Dr. Adepu Vaishnavi (2019)
+137 7/   Acute pancreatitis
+    2020                                                                                 https://youtu.be/xkodfioNnS0
+    2/                                                                                   Dr. Divya Chaitanya (2019)
+138 12/  Ischaemic  Stroke                                                              https://youtube.com/
+    2020                                                                                 playlist?list=PLvYjjuT_hEEQDtlHSAvFdRpCb5EBszwgR
+    15/                                                                                  Dr. Divya Chaitanya (2019)
+139 5/   Acute pancreatitis with chronic alcoholism                                      https://youtube.com/
+    2020                                                                                 playlist?list=PLvOgc9_v4PCKsIrVK4laA3_rUJOMPAYKJ
+    04-                                                                                  Dr. Shashi Kala (2020)
+140 12-  SEIZURES                                                                        https://youtu.be/6VQxzpGEDao
+    2020
+    17-                                                                                  Dr. Raveen Panuganti (2020)
+141 12-  WET BERI BERI
+    20                                                                                   https://youtu.be/F-HhXzLaqP8
+    29-                                                                                  Dr. Raveen Panuganti (2020)
+141 12-  RIGHT MCA STROKE
+    20                                                                                   https://youtu.be/hTzWEtkvTAQ
+    23-                                                                                  Dr. Raveen Panuganti (2020)
+142 12-  RIGHT HEART FAILUrE
+    20                                                                                   https://youtu.be/yNDnPG3EYGs
+    17/  Cardiogenic shock – pulmonary edema and pulmonary embolism – Mortality Meet
+143 12/                                                                                  DR. ARAVIND REDDY   (2018 Batch)
+    2019
+         central meet seminar
+    13/
+144 02/  FLUOROSIS                                                                       DR. ARAVIND REDDY  (2018 Batch)
+    2019
+
+    13/  Role of  amlodipine in controlling hypertension in stroke patients – Journal
+145 02/  club                                                                            DR. ARAVIND REDDY  (2018 Batch)
+    2019
+    19/                                                                                  Dr. Vamshi  (2018 Batch)
+146 02/  Acute Gastroenteritis with Acute cardiogenic pulmonary edema                    Mortality Meet
+    2019
+    10/  Renal resistive index as Diagnostic & follow up Indicator in cirrhosis of Liver Dr. Vamshi (2018 Batch)
+147 07/  with Hepatorenal syndrome & Refractory Ascites.                                 Departmental Seminar
+    2019
+    03/                                                                                  Dr. Vamshi (2018 Batch)
+148 09/  Organophoshorous poisoning (chlorpyriphos) with pulmonary embolism              Mortality Meet
+    2019
+    23/                                                                                  Dr. Vamshi (2018 Batch)
+149 10/  Hypothyroidism & Hoarseness of Voice                                            Integrated teaching
+    2019
+    06/  Thrombolysis in Angiographically proved Intermediate to High risk pulmonary     Dr. Vamshi (2018 Batch)
+150 11/  embolism.                                                                       Journal club
+    2019
+    27/                                                                                  Dr. Vamshi (2018 Batch)
+151 11/  Diarrhea in HIV patients                                                        Central seminar
+    2019
+    10-
+152 4-   THROMBOCYTOPENIA                                                                Dr. Natasha Rao (2018 Batch)
+    2019
+    28-
+153 8-   EXTRA ARTICULAR MANIFESTATION OF RHEUMATOID ARTHRITIS                           Dr. Natasha Rao (2018 Batch)
+    2019
+    31-
+154 7-   METABOLIC ACIDOSIS                                                              Dr. Natasha Rao (2018 Batch)
+    2019
+155 2-4- RAPIDLY PROGRESSIVE GLOMERULO NEPHRITIS ? GOOD PAUSTER SYNDROME                 Dr. Natasha Rao (2018 Batch)
+    2019
+    20-
+156 11-  DIARRHOEA(INTEGRATED TEACHING PROGRAMME)                                        Dr. Natasha Rao (2018 Batch)
+    2019
+    26/  CENTRAL MEET:                                                                   Dr. Aashitha (2019)
+157 08/  PARESIS WITH HYPERADRENERGIC CRISIS:                                            Dr. Rashmitha (2019)
+    2019 DIAGNOSTIC & THERAPEUTIC UNCERTINITY                                            Dr. E Keerthi Reddy ( 2017)
+    01/  MORBIDITY MEET:
+158 10/  60 YEAR WOMAN WITH ?THYROID MALIGNANCY WITH METASTASIS TO BRAIN AND SPINE       Dr. Aashitha (2019)
+    2019
+    26/                                                                                  Dr. Aashitha (2019)
+159 12/  BARRIERS TO RENAL TRANSPLANT                                                    Dr. Zain Alam (2019)
+    2019
+    05/  MORTALITY MEET:
+160 11/  INTERSTITIAL LUNG DISEASE                                                       K. Vaishnavi (2019)
+    2019
+    20/
+161 12/  High altitude Breathlessness Refractory to Descent                              Dr. Aditya, Dr. Srujan Reddy and Dr. M. Manasa
+    2018
+    07-                                                                                  Dr. Natasha Rao (2018 Batch)
+162 11-  HYPOCALCEMIA
+    2018
+    10-
+163 10-  DKA                                                                             Dr. Natasha Rao (2018 Batch)
+    2018
+    10-
+164 11-  54 YEAR OLD WITH DKA(MORTALITY AND MORBIDITY MEET )                             Dr. Natasha Rao (2018 Batch)
+    2018
+    19-
+165 9-   MEN                                                                             Dr. Natasha Rao (2018 Batch)
+    2018
+    21-
+166 11-  HYPERPARATHYROIDISM                                                             Dr. Natasha Rao (2018 Batch)
+    2018
+****   ****
+**** Medicine department presentations and publications  ****
+Details of Presentation by faculty members in Seminars, Conferences, Workshops
+in the last 4 years
+            1)    April 2017- March 2018
+2017:
+1) Invited to present on "evidence based medical education" at The 5th
+International Society for Evidence-Based Healthcare Congress 2016 (Best
+Evidence & Healthcare Decisions:Connecting the dots) will be held on December
+7-9, 2016 in Iternational Conventional Center Kish Island and the presentation
+is archived here: www.pitt.edu/~super1/lecture/lec54941/001.htm
+2) Invited to present at a Neuroscience conference workshop in October 2017 at
+Ravenshaw College, Cuttack with details archived here: https://www.google.com/
+url?sa=t&source=web&rct=j&url=https://cdn.ymaws.com/www.iayt.org/resource/
+collection/809EDF06-144F-40BA-8F04-5F8C520CF7D6/
+Art_of_Imperfect_brain_conference_brochure.pdf&ved=2ahUKEwijkrrYyOnuAhXKbn0KHS94DDIQFjAAegQIARAB&usg=AOvVaw0x_tUOWFkMJCU0vWfwmmmF
+
+
+And here:https://youtu.be/XWUMogh96SM
+ 
+3) Invited presentation on 20th January 2018 around "Patient centred learning
+and research" at the Chhattisgarh State level Workshop on "Health Research
+Ethics and Good Clinical Practice: Keeping up with Recent Trends", scheduled on
+23rd & 24th January 2018 at Shri Shankaracharya Institute of Medical Sciences
+( SSIMS), Bhilai, Chhattisgarh
+                    2) April 2018- March 2019, 
+Invited speaker at the BMJ conclave on September 21, 2019 around "case based
+research and case reporting as a tool" with details archived here https://
+youtu.be/YwkyUnpoGiI
+                  2)    April 2019- March 2020, 
+Invited speaker on  25th Jan 2020 for MECON Medical education conference 2020
+organized by AIIMS, Bhuvaneshwar. Presentation details archived here https://
+youtu.be/xvE5b8Xk3vM
+                  3)    April 2020- March 2021.
+Invited speaker on September 26, 2020 around "virtual patient centered
+learning" workshop organized by Med-Invade 2020 with details archived here:
+ https://youtu.be/5K_VHSSrouc
+Invited speaker on January 19, 2021 around "Evidence based medicine at the
+bedside and real time clinical audit" organized by Pharmacon society, India
+with details archived here https://youtu.be/1LjB5Lyous8
+ 
+
+S.NO DATE                                       TOPIC                              TYPE      PROGRAM 
+
+1.  26th December 2020Pulmonary Embolism Masquerading as High Altitude Pulmonary Edema Poster PresentationIma NATCON 2020 
+2.  15th January 2020�Profile of Electrocardiographic Changes in Scorpion Envenomation Paper Presentation GJRA - Global Journal for
+                         (https://1drv.ms/v/s!AuoOIas8ONvMgdV6OAthYwV6D358vQ?e=W8wnW4)                         Research Analysis 
+3.  December 4th –   Basic Life Support (BLS)                                          Workshop           American Heart Association
+     5th 2020                                                                                                 (AHA) 
+4.  December 4th –   Advanced Cardiac Life Support (ACLS)                              Workshop           American Heart Association
+     5th 2020                                                                                                  (AHA) 
+   1. Details of Seminars, Conferences, Workshops, Training Courses etc.,
+      Conducted during the  years 
+ 
+Low cost eco friendly conferences, workshops, training courses are conducted
+all the year round by the medicine department as per the mandate of our CBBLE
+research project toward continuing medical education and integrating it with
+medical practice. 
+ Sample conferences  from 2017 to 2021: https://
+medicinedepartment.blogspot.com/2021/03/2017-to-2021-eco-friendly-
+medicine.html?m=1
+Perennial training program outcomes from 2017
+here:
+https://medicinedepartment.blogspot.com/2021/03/medicine-department-training-
+programs.html?m=1
+
+
+Departmental Publications:
+ 
+2017:
+ 
+Amy Price, Rakesh Biswas, Akshay Anand. . (2017) Person-Centered Healthcare and
+Integrated Public Health. Integrative Medicine International, 52-56.
+https://www.karger.com/Article/FullText/468151
+ 
+2018:
+ 
+Collective Conversational Peer Review of Journal Submission: A Tool to
+Integrate Medical Education and Practice. Ann Neurosci. 2018 Jul; 25(2):
+112–119.
+Full text here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6103343/
+#!po=0.757576
+ 
+Podder, V.; Dhakal, B.; Shaik, G.U.S.; Sundar, K.; Sivapuram, M.S.; Chattu,
+V.K.; Biswas, R.    Developing a Case-Based Blended Learning Ecosystem to
+Optimize Precision Medicine: Reducing Overdiagnosis and Overtreatment.
+Healthcare 2018, 6, 78.
+Full text here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163835/
+ 
+Webb E, Vanan NK, Biswas R. Empirical treatment of tuberculosis: TB or not TB?.
+BMJ case reports. 2018 Jul 10;2018:bcr-2018. https://www.ncbi.nlm.nih.gov/
+pubmed/29991543
+
+, Vivek & Biswas, Rakesh & Sehgal, Nidhi. (2018). Elevated Hemidiaphragm and
+Shortness of Breath: Challenges in Clinicoradiologic Integration. Integrative
+Medicine International. 4. 223-229.  https://www.karger.com/Article/Abstract/
+494618
+ 
+2019:
+ 
+Podder V, Sivapuram MS, Gupta AK, Biswas R. Invited commentary: A patient of
+pulmonary embolism and online conversational learning among global medical
+students through a journal review platform. Medical Journal of Dr. DY Patil
+Vidyapeeth. 2019 May 1;12(3):281. http://www.mjdrdypv.org/
+article.asp?issn=2589-
+8302;year=2019;volume=12;issue=3;spage=281;epage=283;aulast=Podder
+
+
+Podder V, Price A, Sivapuram MS, Biswas R. Middle-aged man who could not afford
+an angioplasty. BMJ Case Reports CP. 2019 Mar 1;12(3):e227118. https://
+www.ncbi.nlm.nih.gov/pubmed/30936331
+
+2020:
+ 
+                                                                  JOURNAL                                     IMPACT
+                              �AUTHORS     TITLE NAME     VOLUME  / YEAR                    FACTOR
+
+Case Records in Kamineni Institute of Medical Dr. Aditya          Journal
+Sciences: High-Altitude Breathlessness        Samitinjay, Dr.     of Basic
+Refractory to Descent.                        Srujan Reddy, Dr.   and      Volume 5 Issue 2 July – December -
+(https://1drv.ms/b/                           Manasa Reddy &      Clinical 2018
+s!AuoOIas8ONvMgdV8hN96ulzwE8r5dQ?e=PwDP3D)    Aarti Sahu          Research
+                                                                  (JBCR)
+                                                                  Journal
+Antler Sign Of Pulmonary Venous Hypertension                      of Basic
+(https://1drv.ms/b/                           Dr. Aditya          and      Volume 5 Issue 2 July – December -
+s!AuoOIas8ONvMgdV9jxO9iOPru3F1HA?e=AyEuDL)    Samitinjay          Clinical 2018
+                                                                  Research
+                                                                  (JBCR)
+                                              Dr. Aditya
+Traumatic Subdural Haematoma: Integrating     Samitinjay          BMJ Case
+Case-Based Clinical Judgement With Guidelines Dr. Satya Revanth   reports, Volume 13,                         4.280
+(https://casereports.bmj.com/content/13/9/    Dr. Praveen         UK       Issue 9
+e233197)                                      Khairkar
+                                              Dr. Rakesh Biswas 
+                                                                  GJRA:
+Profile of Electrocardiographic Changes in    Dr. Aditya          Global
+Scorpion Envenomation                         Samitinjay          Journal  Volume 10                          5.956
+(https://doi.org/10.36106/gjra/2802621)       Dr. Natasha Rao     for      Issue 01                           (SJIF)
+                                              Dr. Srujan Reddy    Research
+                                                                  Analysis
+                                                                  For Peer
+                                              Dr. Aditya          Review
+Lady Windermere Syndrome with a Heavy Heart  Samitinjay          In Case
+                                              Dr. Zulfikar Ali    Reports
+                                                                  By MDPI
+
+ Posted by
+ caregiver7careseeker    at
+ 8:17 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _▼ _ February (14)
+                # Medicine_Department_roster_for_March_2021
+                # Medicine_department_project_on_resolving_diagnosti...
+                # Medicine_department_projects,_presentations,_publi...
+                # Medicine_department_presentations_and_publications_2
+                # Medicine_department_Presentations_and_Publications_1
+                # Medicine_department_projects_as_per_dsir_template
+                # Post_Graduate_Student’s_Seminar_presentations_from...
+                # Ongoing_and_completed_projects
+                # Medicine_paper_for_February_2021_bimonthly_blended...
+                # Blended_bimonthly_assessment_Dec_2020-Jan_2021_res...
+                # Ward_PGY3_duty_roster
+                # Ward_notes_3rd_February_2021_and_pending_information
+                # Current_ward_cases
+                # Medicine_department_time_table
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, July 20, 2020 *****
+
+
+**** Medical cognition research and CBBLE timeline 1 ****
+Medical cognition is an area of research made popular since this 1998 paper by
+Vimla Patel as a further development in the field of Medical Informatics
+particularly to "examine human-computer interaction in medical contexts and
+computer-mediated collaborative processes."
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC61330/
+
+It was a pleasure getting to know Prof Vimla since 2008 virtually through
+existing human computer interactive interfaces for social collaboration aka
+email groups and social media especially through her association with a
+National body that was developed to further medical Informatics research in
+India. 
+
+While the above paper used illustrations that were meant to be generalizable as
+per the prevailing paradigm there was another requirement in "medical
+cognition" that was evolving and waiting for quite a while having been
+addressed by other systems of medicine that didn't remain mainstream and that
+was around "answering multidimensional information needs" in individual
+patients and this was in someways a harbinger of developing a "case based
+blended learning ecosystem" aka CBBLE (pronounced "cable") that represented
+another pathway in medical cognition.  
+
+1998-99 CBBLE journey begins: With one CBBLE team member this began somewhere
+two decades back with the documentation of the case here:
+
+https://www.giejournal.org/article/S0016-5107(00)70398-1/fulltext
+
+The first author is currently the director of SGPGI, Lucknow as well as VC,
+KGMU, Lucknow. 
+
+ 2000: The same CBBLE team member changed institutes two decades back and
+shared one more case based experience from Pokhara, Nepal here:
+
+https://pubmed.ncbi.nlm.nih.gov/11762624/
+
+Slowly the realization dawned that individual case based experiences were
+different from the average data being  represented in Clinical trials where
+each of these individuals was just a number.
+
+2002: Contrary to what trial data projected, every individual was unique and
+had unique life trajectories and it was found that medical students were best
+suited to unearthing these trajectories as documented here: https://
+www.eubios.info/EJ124/ej124j.htm
+
+Some of these medical students who were now academic faculty, revisited this
+idea in the last CBBLE paper here: https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6163835/
+
+
+2007: It was gradually becoming clearer that current evidence based medicine
+needed a more meaningful methodology to answer individual patient requirements
+here: https://pubmed.ncbi.nlm.nih.gov/17683292/
+
+2008: And soon the first conceptual model for current CBBLE was shared here:
+ http://www.ncbi.nlm.nih.gov/pubmed/19018905
+
+It was called "user driven healthcare" UDHC and described a prevalent
+phenomenon evolving with the internet and the only difference with the later
+CBBLE appears to be that the term "blended learning" got added to the same
+process suggesting that the CBBLE had a strong component of offline connection
+and locality that was blended to requirements of online users. 
+
+The CBBLE idea as a subset of the UDHC phenomenon was to build a Case based
+reasoning database that could offer any individual patient data a platform for
+obtaining comparisons between other individual patients who had similar data
+patterns and then see if near matches of individual trajectories would offer
+similar outcome trajectories in those group of patients and this was inspired
+by a seminal paper on case based reasoning linked here: https://
+pubmed.ncbi.nlm.nih.gov/15533257/
+
+The pursuit of clinical problem solving using online user driven learning was a
+polymathic pluralistic activity and we derived a lot of lessons from other
+fields as illustrated in chapters of the UDHC book here 
+
+https://www.igi-global.com/chapter/user-driven-learning-environment-botany/
+49258
+
+2009: The model could be scaled to the last mile primary care and act as an
+efficient bridge between primary and tertiary, individual home, community
+collaborative center and academic institutions as proposed here:   https://
+pubmed.ncbi.nlm.nih.gov/19811603/
+
+2010-2020--
+
+Many such cases started getting logged by last mile workers in various parts of
+India particularly West Bengal and they were processed by a CBBLE that fed case
+based problems to a global forum for conversational learning as shared here:
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117104/
+
+The forum was made by global medical and engineering  students and there is
+more about them in the above article as well as in the UDHC book and journal
+issues here https://www.igi-global.com/journal/international-journal-user-
+driven-healthcare/41022 as well as their own web pages 
+
+here: https://www.missionarogya.com/p/mission-and-vision.html?m=1
+
+And here: blog.sbose.in/2012/08/ui-design-considerations-for-
+user.html?view=timeslide&m=1
+
+
+2012 the team presented our work in TEDx Kolkata here https://youtu.be/
+76AVUQOK9LM
+
+
+The Online links to some currently surviving patient records can be found in
+the online learning portfolios of the last mile worker users here below:
+
+https://736146.blogspot.com/?m=1
+
+(The number in the URL reflects the area pin code from where the last mile
+worker operates). 
+
+https://ebpc-udhc-debasishacharjee.blogspot.com/?m=1
+
+These last mile workers had begun a new genre of multilingual, deidentified
+online patient records that were partially structured and managed in most
+instances to convey individual patient requirements and their work was further
+shared globally in published case studies linked below:
+
+The paper below is a collated depiction of cases emailed by some of our last
+mile workers and how their differently structured patient histories were still
+useful to develop a learning ecosystem between the offline patient and online
+healthcare learner and helper. 
+
+https://www.researchgate.net/publication/265050836_Person-
+centered_healthcare_in_the_information_age_Experiences_from_a_user_driven_healthcare_network
+
+The paper below is a case study that highlights our workflow of sharing "open
+access patient records with de-identified patient documentation such as
+doctors’ notes, diagnostic test results and the patient’s perspective" toward
+improving their outcomes along with students learning outcomes. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6047727/
+
+The original online patient record blog that was foundational to the published
+case study is accessible here: https://ebpc-udhc-debasishacharjee.blogspot.com/
+2017/07/38-year-old-woman-suffering-from-tb.html?m=1
+
+With the steady progress of our last mile workers abilities to create web based
+logs of patient records the abilities of the medical students in our learning
+ecosystem remained at par by translating quite a few, perhaps 50-70 of these
+online patient records into journal publications accessible here https://
+pubmed.ncbi.nlm.nih.gov/?term=Rakesh+Biswas+
+
+2013 one of the activities of a team member who looked after the editorship of
+BMJ Case reports was to spread the word about case based learning and how every
+individual patient was an independent research project and below are links to
+some of the lectures delivered in 
+
+Manipal http://www.pitt.edu/~super1/lecture/lec50421/001.htm
+
+AMU http://www.pitt.edu/~super1/lecture/lec50661/001.htm
+
+https://www.amu.ac.in/about3.jsp?did=9352
+
+Bhopal PCOR 2014: http://www.pitt.edu/~super1/lecture/lec53081/001.htm
+
+Bangalore 2015 http://www.pitt.edu/~super1/lecture/lec53671/002.htm
+
+Delhi Banga Bhavan  2015 http://www.pitt.edu/~super1/lecture/lec53961/001.htm
+
+
+2015 was particularly important as one medical college started funding research
+assistants who were more conversant with Hindi to take this work forward and
+below are some of their work in their multilingual online learning portfolios 
+
+RA1: Hindi online patient record 
+
+kg83797.blogspot.com/?m=0
+
+RA2: Link to online patient logs:
+
+https://www.blogger.com/profile/06851455361260935925
+
+RA2: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/assessment-of-patient-
+information_28.html?m=1
+
+RA3: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/assessment-of-patient-
+information_87.html?m=1
+
+RA4: Link to online patient logs:
+
+https://www.blogger.com/profile/14713506954507734603
+
+RA4: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/assessment-of-patient-
+information.html?m=1
+
+RA5: Link to online patient logs:
+
+https://www.blogger.com/profile/08543457215724518158
+
+RA5: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/experience-patients-are-interviewed-
+by.html?m=1
+
+
+73 cases in this web based log book  from LNMCH courtesy, research assistant,
+ Kuldeep Gupta 
+
+globaludhc09.blogspot.com/?m=0
+
+46 cases in this web based log book  from LNMCH courtesy, research assistant,
+ Kuldeep Gupta
+
+ http://globaludhc07.blogspot.com/?m=0
+
+
+2016 end saw the migration to another beginning detailed in part 2 here http://
+medicinedepartment.blogspot.com/2021/06/evolution-of-model-forpatient-
+centered.html?m=1
+ Posted by
+ caregiver7careseeker    at
+ 10:11 PM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _▼ _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _▼ _ July (11)
+                # Medical_cognition_research_and_CBBLE_timeline_1
+                # Virtual_case_bank_Nephrology
+                # Virtual_case_bank_Hematology
+                # Virtual_case_bank_Cardiology
+                # Virtual_case_bank_Gastroenterology
+                # Virtual_case_bank_Respiratory_system
+                # Virtual_case_bank_from_global_CBBLE_elective_stude...
+                # Virtual_case_bank_Neurology
+                # Post_covid_transformation_of_medicine_summative_as...
+                # Virtual_Clinical_Long_and_Short_cases_Online_Quest...
+                # Virtual_case_based_assessment_post_covid
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

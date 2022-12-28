@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, November 22, 2021 *****
+
+
+
+**** Project "resolving diagnostic uncertainty in fever" Case report form link
+and Patient centered conversational learning ****
+Past projects around the above context in the links below :
+
+UG student thesis 2003:
+https://pubmed.ncbi.nlm.nih.gov/14994967/
+
+UG student thesis 2005:
+
+https://pubmed.ncbi.nlm.nih.gov/17576636/
+
+PG student thesis : 2012-13
+https://medicinedepartment.blogspot.com/2021/11/thesis-2012-2013-resolving-
+diagnostic.html?m=1
+
+Review of literature links for the above thesis :
+
+https://classworkdecjan.blogspot.com/2020/03/resources-for-fever-
+project.html?m=1
+
+Current project link :
+
+https://medicinedepartment.blogspot.com/2021/02/medicine-department-
+projects.html?m=0
+
+Current case report form link and beginning of November 19, 2021 discussion
+link below :
+
+Case report link : https://prashanthsharma101.blogspot.com/2021/11/a-case-of-
+39-year-old-male.html?m=1
+
+Conversational decision support system CDSS for the above case copied below :
+
+
+[11/21, 9:22 AM] : intern notes 
+
+
+39M AMC BED 1
+
+S
+
+
+- Continuous fever spikes present above 102 F associated with chills 
+C/o burning micturation subsides and increased frequency of urination,low
+backache increased on bending forward
+
+O- TEMP-101F
+Bp-110/70mmhg
+Pr-90bpm
+Cvs-s1,s2heard
+Rs- NVBS
+CNS-NAD
+
+A
+
+
+- Diagnosis is ? Acute pyelonephritis and urge incontinence .
+Dm-2 
+?clinical malaria
+
+Urine c/s - no growth 
+Sent repeat blood and urine c/s
+Smear for mp - negative.
+Repeat cue - no RBC casts and pus cells -8-10 .
+Xray kub was done in view of ??emphysematous pyelonephritis .
+
+
+P
+
+1.Tab.CIPROFLOXACIN 500 MG /BD
+2.Tab.PAN 40MG OD
+3.TAB.PCM 650mg QID
+4.Tab.AMLONG 5mg PO OD
+5.Tab.URISPAS PO BD
+6.INJ.HUMAN INSULIN
+7.Syp.CITRALKA 10ML IN ONE GLASS WATER POBD
+8.GRBS MONITORING
+9.INJ.FALCIGO 120MG IV STAT
+10.BP/PR/TEMP MONITORING
+
+[11/21, 9:22 AM] moderator : USG abdomen revealed any perinephric abscess?
+
+[11/21, 9:22 AM] PG Med: No sir it did not reveal any abscess, there is no loin
+tenderness on palpation
+
+[11/21, 9:22 AM] :  moderator
+Start him on iv Meropenem today asap
+
+11/21, 9:22 AM] PG Med: Ok sir
+
+[11/21, 9:23 AM] Moderator : Share his blood sugar trends since admission
+
+
+[11/21, 7:02 PM] Moderator : Why did we add falcigo when the localization was
+pointing towards UTI? 🤔
+
+[11/21, 7:17 PM] PG Med: Sir because of the spike every 12 hours ,
+
+[11/21, 7:19 PM] Moderator : Why didn't we think it was UTI
+
+[11/21, 7:21 PM]  PG Med: Yes sir his fever had chills each episode,true for
+uti, 
+We thought of malaria as well sir , inspite of antibiotics frequency or temp
+didn't come down
+
+[11/21, 7:21 PM] Moderator : So purely from our medical cognition research
+insight perspective one can conclude that in the face of diagnostic uncertainty
+that keeps continuously giving irritating alarms, doctors often tend to cover
+all the differential diagnostic possibilities and reduce the chances of their
+future regret?
+
+[11/21, 7:39 PM] PG Med: Sir may I ask, why did we choose meropenem for this
+patient?
+
+[11/21, 7:40 PM] moderator : 
+
+The answer is here 👉([11/21, 7:02 PM] Moderator : Why did we add falcigo when
+the localization was pointing towards UTI? 🤔)
+
+I didn't even notice that he had been started on empirical falcigo from
+yesterday evening
+
+Meropenem was the antibiotic escalation for the strong differential of UTI in
+the moderator's mind although rest of the team thought falcigo was good
+enough. 
+
+Medical cognition Inferential queries:
+
+Could we have held back on antibiotic escalation if the PG Med had voiced her
+query regarding meropenem earlier instead of immediately agreeing to switch
+over? 
+
+What really helped the patient? Falcigo or meropenem?   
+
+
+[https://1.bp.blogspot.com/-6roLhPGoXZ0/YZvJsz4dcmI/AAAAAAAAasU/
+XNEhxKIbc54vtRh3bxKG74pLkdEO1PAFgCLcBGAsYHQ/s320/IMG-20211122-WA0046.jpg]
+
+
+ 
+PG Med Yes he has a spike of 102 now
+
+11/22, 7:37 PM] Moderator : Subjectively?
+
+
+[11/22, 7:39 PM] PG Med: At the time of spike ,he is having chills sir ,but not
+as disabling as the rest of the times as per him, 
+Rest of the time he's comparatively more active
+
+
+[11/22, 7:39 PM] moderator : This sounds like malaria 🤔😬
+
+
+[11/22, 7:40 PM] moderator : Are we still continuing the Artemesin?
+
+
+[11/22, 7:40 PM] PG Med: Yes sir , but he already has taken 3 doses of falcigo
+so far
+
+
+[11/22, 7:40 PM] PG Med: The 48th hour dose is due tomorrow morning at 8 sir
+
+
+[11/22, 7:40 PM] Moderator : What is the continuation strategy for falcigo in
+toto?
+
+
+[11/22, 7:42 PM]  PG Med: Should have voiced about giving falcigo and notified
+the initial dip so that meropenem wouldn't have been started sir, 
+His loin pain is more musculoskeletal than pyelonephritis as he's having it on
+bending .
+
+
+[11/22, 7:47 PM] PG Med: 2.4mg/kg at 0,12,24 and 48 hrs sir
+
+
+[11/22, 7:49 PM] Moderator : Hmm that would have saved some meropenem. 
+How about reviewing the repeat urine culture and if negative for a second time
+we can stop meropenem?
+
+
+[11/22, 8:09 PM] Moderator : Yesterday in the 2016 group someone said the urine
+routine was showing 8-10 pus cells although the prior RBCs had receded. What
+could be the reason for that? He also gave a history of hematuria with his loin
+pain in the initial phases?
+
+
+[11/22, 8:43 PM] PG Med: Sir the transient haematuria can be due to uti itself,
+due to inflammation, his symptoms of burning micturition subsided when the
+repeat cue (complete urinary examination) came back negative for rbc as well
+
+
+[11/22, 8:47 PM] Moderator : But he had 8-10 pus cells. 
+
+How many pus cells did he have when he had 3-4 RBCs?
+
+
+[11/22, 10:21 PM] PG Med: On the day of admission he had 3-4 pus cells with 3-
+4 rbc's
+Repeated cue on Saturday has 8 to 10 pus cells ,with 1-2 rbc sir
+
+November 19, 2021
+
+Friday 
+
+Group discussion: 
+
+Context : PUO in a male diabetic with loin pain and lower urinary tract
+symptoms of urgency and burning 
+
+https://prashanthsharma101.blogspot.com/2021/11/a-case-of-39-year-old-
+male.html?m=1
+
+Presenters : Dr Vaishnavi, Dr Nikita, Dr Pooja (intern) and Dr (Soujanya 2017)
+
+
+Impact : 
+
+On learning ecosystem :
+
+Cognitive competency levels touched :
+
+Approach to clinical localization of disease pathology was done reasonably well
+and differential diagnostic hypothesis formulated in the face of high
+diagnostic and therapeutic uncertainty 
+
+On patient care outcomes :
+
+Empathic trust built with patient and relatives 
+
+Standard of care provided with provision for care continuity  
+
+Challenges met/not met : 
+
+Fever monitoring and post admission illness timeline was well supervised. 
+
+Imaging and labs for further  clinical localization of the PUO was driven by
+the discussion 
+
+Multiple therapeutic interventions were made for the differentials in the face
+of diagnostic uncertainty further driven by ongoing patient suffering and an
+attempt to gather the "medical cognition" learning points made here : 
+
+ Posted by
+ caregiver7careseeker    at
+ 6:02 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _▼ _ November (8)
+                # Rough_draft_of_internal_assessment_2017_batch_Sept...
+                # Project_:_Outcomes_of_bicarbonate_correction_in_se...
+                # Project_"resolving_diagnostic_uncertainty_in_fever...
+                # Thesis_2012-2013_Resolving_diagnostic_uncertainty_...
+                # Medicine_paper_for_Nov_2021_bimonthly_blended_asse...
+                # BDS_2018_II_-_INTERNAL_ASSESSMENT_EXAMINATION_q...
+                # Selected_answers_to_the_2017_internal_assessment_e...
+                # November_2021_weekly_log_and_outcomes_of_regular_p...
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

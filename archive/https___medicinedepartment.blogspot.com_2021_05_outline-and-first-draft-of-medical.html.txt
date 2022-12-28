@@ -1,0 +1,220 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, May 17, 2021 *****
+
+
+**** Outline and first draft of Medical education book chapter: Scholarship of
+Integration and the future of Medical education and research ****
+ 
+
+
+ 
+Our proposed approach – brief content outline (tentative): 
+(A) 
+(A)ssessed Need for the chapter in the context of medical education research,
+practice, publication, or scholarship. Word limit suggested, 400 to 500 words:
+Need 1: Very few people know what is "scholarship of Integration in medical
+education and research" and how it can be a tool to tackle the current problems
+in medical education and practice and one important need this chapter will
+address is to fill in that information gap. 
+Need 2: Very few people realize that Medical education research is a tool to
+eventually improve patient outcomes as patient is the ultimate beneficiary of
+Medical education and this chapter will again not only address this vital
+information gap but become instrumental in driving positive change in this
+direction. 
+Subguidelines1: Create interest and prepare the reader to proceed further.
+Scholarship of integration in medical education and research aims to
+disseminate back to society the fruits of academic discovery and translates
+medical education theory that developed from discoveries made by individual
+academics in countless individual members of society into a practice that again
+benefits the same or different individual members of society. For more click
+on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1891293/
+In this chapter we shall share how a group of medical students and their
+teachers spread out globally as well as across India have utilized the tool of
+"scholarly integration" to develop global health learning outcomes toward
+solving global health care problems in their local context. 
+Subguidelines 2: Build on the previous knowledge and experience of the readers.
+"Medicine has evolved through physicians would presenting interesting cases to
+a large audience to learn from the inputs of other physicians [ref Eur J Pers
+Centered Healthc 2013;1(2):385–93.]. From this interchange doctors would
+publish their cases and name the solution after themselves, without reference
+to the peers or patients who made the solution possible.  In this way, case
+reporting advanced science and medicine, but also evolved as an important
+instrument of physician fame.
+With the advent of open access and digital technology, traditional learning
+methods are supplemented with digital technology to provide a platform where
+value is added through the inclusion of an interested patient and a curious
+medical student who makes contributions to progressive value sensitive
+healthcare."
+Above quoted verbatim from (hope to change later):
+(ref www.ncbi.nlm.nih.gov/pmc/articles/PMC4587042/#!po=9.01639)
+Agency of Healthcare Research and Quality (AHRQ) defines care coordination as
+deliberately organizing patient care activities and sharing information among
+all of the participants concerned with a patient’s care to achieve safer and
+more effective care [McDonald K, Schultz E, Albin L, Pineda N, Lonhart J,
+Sudaram V, et al. Care coordination measures atlas. Updated June 2014. 2014.
+[cited 2014 Dec 28];(June). Available from: http://scholar.google.com/
+scholar?hl=en&btnG=Search&q=in-title:Coordination+Measures+Atlas#0]. 
+While patient-centered care coordination (PCCC) includes teamwork with medical
+providers, specialist consultants, home health care integration, healthcare
+Information technology enabled coordination [10], we have yet to see these
+amalgamated by others in ways that the general public and the vulnerable
+patient can consistently be empowered to participate in their own healthcare
+choices [11] and research innovation [12].
+Successful information infrastructures or living learning systems are shared,
+evolving, open, standardized and meet the needs of a heterogeneous population
+[13]. In literature, we see infrastructures as enablers of coordinated
+activities between people, processes and technology such that the interplay
+becomes the foundation that attracts others to use and participate in the
+network [14]. We appreciate the expansion of PCCC to strengthen this conceptual
+framework, where patients, providers, programs, health records; technology
+tools collaborate in the infrastructure to improve health. This work is
+labelled as ‘User driven healthcare’ or UDHC and aims to improve healthcare and
+medical diagnosis through clinical problem solving by utilizing concerted
+experiential learning in conversations between multiple users and stakeholders,
+primarily patients, health professionals, and other actors in a care giving
+collaborative network across a web interface [3].
+Above quoted verbatim from (hope to change later):
+(ref www.ncbi.nlm.nih.gov/pmc/articles/PMC4587042/#!po=9.01639)
+BRIEF
+Scholarship of integration in medical education and research aims to recognize
+societies’ contributions to the fruits of academic discovery through widespread
+dissemination to benefit other groups and individual members of society who can
+in turn multiply the construction of new knowledge and widespread
+implementation into practice.
+It is vital academic institutions and medical schools remain relevant in an era
+when the production of knowledge is increasingly recognized as a social
+collaborative activity. 
+(www.ncbi.nlm.nih.gov/pmc/articles/PMC1891293/ )
+In this article we share knowledge through a illustrative participative
+framework and include practical methods to guide institutional change along
+with a practical method to report and evaluate the scholarship of integration 
+CONTEXTUALIZE
+The patient's voice 1:
+https://shanthanjodavula.blogspot.com/2021/04/empathic-narrative-of-35-year-
+old-uc.html
+The patient's voice 2:
+https://medicinedepartment.blogspot.com/2021/04/empathic-narrative-in-
+inflammatory.html?m=1
+Questions:
+http://medicinedepartment.blogspot.com/2021/04/medicine-paper-for-april-2021-
+bimonthly.html?m=1
+Scholarly integration of medical education and research can benefit from
+reaching out to patients through health professional learners where every
+patient context provides  a universe in itself that is potentially connected. 
+DESCRIBE
+The questions detailed, in the link provided in the previous section, will be
+answered in the following manner:
+1.    The empathic details are evoked from the patient narratives.
+2.    Demonstration of the current MER approach to solving patient problems
+through the steps of disease localization in layers, beginning with
+macronanatomy (organ), microetiology (pathology / microbiology), and then
+finally deciding on disease solutions where paths diverge into various systems
+of medicine.
+3.    Some of these diversities may be well addressed by a Clinical Terminology
+System like SNOMED CT. India has already developed AYUSH Extensions for SNOMED
+CT and the Ministry of AYUSH is also hosting online electronic health records.
+EVALUATE
+Assigning interesting tasks to the readers to reflect and write down their
+personal impression. What is it that sparked them in this chapter? Why do they
+think so?  What else, the author could have done better?
+ 
+References (some already cited in text above) and Road Ahead:
+The current medical education is so narrow and restricted mostly to clinical
+and text book based (whereas the rate of doubling the medical knowledge is 72
+days) but how the real world scenario changing from research to innovation and
+tele-medicine to informatics for which the students are not prepared at all.
+Therefore, integration can be started early, even pre-med school where the
+integration becomes part of the learning and the assessment.
+There is one long standing lacuna in current medical education. An average
+student/scholar of Modern Medicine doesn't even know ABCs of AYUSH systems,
+whereas AYUSH scholars have a better idea on available contemporary modern
+practices. Isn't it a core need that scholars of modern medicine too need to
+know the basics of AYUSH systems, for the betterment of patients?
+The patients and culture comes with this as part of their preferences and could
+be included as such as well as the evidence for the preferences and the degree
+of harm and benefit or just add that for the medical professional working
+through these areas with mutual trust and  transparency is part of the
+knowledge.
+
+ Posted by
+ caregiver7careseeker    at
+ 10:01 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _▼ _ May (3)
+                # Online_blended_bimonthly_assignment_toward_summati...
+                # Covid_case_report_logs_from_May_2021
+                # Outline_and_first_draft_of_Medical_education_book_...
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

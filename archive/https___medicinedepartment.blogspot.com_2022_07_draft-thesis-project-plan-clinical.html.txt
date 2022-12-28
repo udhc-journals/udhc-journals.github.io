@@ -1,0 +1,274 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, July 24, 2022 *****
+
+
+
+**** Draft Thesis project plan: Clinical complexities in the management and
+outcomes of patients with significant anemia ****
+Detailed 2021 batch tentative thesis titles here: http://
+medicinedepartment.blogspot.com/2022/07/2021-20-allocated-thesis-and-
+other.html?m=1
+
+Problem statement/background :
+
+
+"Understanding anemia’s varied and complex etiology is crucial for developing
+effective interventions that address the context-specific causes of anemia." 
+
+"While iron deficiency ID remains a primary cause in many settings, the
+proportion of anemic individuals with ID varies by contextual factors, and poor
+iron nutrition cannot be assumed to be the primary cause in all cases.Given the
+complex etiology of anemia, the extent to which ID accounts for the anemia
+burden continues to be investigated."
+
+Quoted from : 
+
+
+Chaparro  CM, Suchdev  PS. 2019. Anemia epidemiology, pathophysiology, and
+etiology in low-and middle-income countries. Annals of the New York Academy of
+Sciences  1450: 15. Full text link at:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697587/
+
+AIM: 
+
+To navigate clinical complexity in patients with anemia and optimize their
+management toward reducing diagnostic and therapeutic uncertainty along with
+improvement in their anemia outcomes. 
+
+OBJECTIVES:
+• To assess various clinical and investigational characteristics of patients
+with anemia in relation to their clinical complexity and outcomes.
+• To analyse patient outcomes based on morbidity (physical, social &
+psychological limitations)
+PATIENTS AND METHODS:
+PLACE OF STUDY: Department of General medicine 
+
+STUDY PERIOD: November 2022- October 2024
+
+STUDY DESIGN : Non experimental (Observational) qualitative Prospective Study 
+
+SAMPLE SIZE: 50 patients 
+
+INCLUSION CRITERIA:
+
+• Anemia patients of any gender above or equal to 18yrs of age at the time of
+presentation.
+
+• Patients presenting with a combination of anemia and complex etiological
+possibilities where the diagnosis remains uncertain and treatment remains
+empirical. 
+
+For example a typical patient to be included may  have low hemoglobin and low
+serum ferritin with no history of blood loss or dietary indiscretions or a
+patient with low hemoglobin and high serum ferritin likely to have both iron
+deficiency as well as chronic inflammation. 
+
+
+EXCLUSION CRITERIA:
+
+1.Patients below 18 yrs of age (minors)
+
+2.Patients not capable of giving consent (mentally-ill patients)
+
+3.Patients not willing to participate in study (non-consenting patients) 
+
+
+PROFORMA (data to be captured) 
+
+
+Demographics
+
+Patient event data reflected in a narrative history of the  sequence of events
+leading to the current presentation and outcomes
+
+Body data from clinical general and systemic examination 
+
+Pallor 
+
+Lymphadenpathy 
+
+Nails 
+
+Organomegaly 
+
+Skin 
+
+Muscle mass 
+
+Mid arm circumference 
+
+Visceral fat 
+
+Body data from laboratory investigation :
+
+    * CBP with peripheral smear 
+    * Iron profile with serum ferritin 
+    * Serum albumin 
+    * Serum creatinine
+    * Special tests on indication :
+    * Thyroid function tests 
+    * Chest X-ray -PA view
+    * ECG
+    * 2D ECHO
+    * Bone marrow if indicated 
+Data from treatment instituted :
+
+Data from Patient reported outcomes :
+
+Daily functionality (in terms of routine activities)
+
+Daily diet in the form of meal images captured before consumption 
+
+Daily intake output where relevant such as complex anemias with renal failure
+and nutritional deficiency or anemia and chronic diarrhoea 
+
+Sample anemia with Clinical complexities case report forms linked below :
+
+
+https://battulapavithrarollno19.blogspot.com/2022/07/a-42-years-old-female-
+with-sob-on.html?m=1 (Hb 6.2 Similar issues once 5 years back. No blood loss
+and doubtful dietary indiscretions, treated empirically with iv iron) 
+
+https://harikrishnarollno55.blogspot.com/2022/07/65-year-old-with-multiple-
+ulcers-over.html?m=1 (Hb 4.8)
+
+https://venkata-phaneendra.blogspot.com/2022/02/13-yr-f-with-sickle-cell-
+crisis.html (Hb 8.6 would blood transfusion help to resolve the current acute
+bone pains presumably due to an acute sickle cell crisis?) 
+
+https://manikaraovinay.blogspot.com/2022/07/this-is-online-e-log-book-to-
+discuss.html?m=1 (Anemia of chronic inflammation due to multiple chronic
+perineal abscesses and or iron deficiency?)
+
+https://lasyapriyacherukupalli26.blogspot.com/2022/06/45-year-old-male-with-
+hyponatremia.html?m=1 (Sepsis, hyponatremia and anemia) 
+
+Clinical complexity consists of a few defining characteristics such as
+uncertainty, non linearity, unpredictability and yet an overall pattern leading
+to resolution through attractor states over time. (2) As physician attractors
+we are uniquely privileged to "be" with our patients regardless of the
+diagnosis and that is the only way we may know our patient's outcomes where our
+"being" with them is the most significant (and often overlooked) intervention. 
+
+
+SAMPLE MASTER CHART WITH LINKS TO PATIENTS E-LOG
+Link To Master Chart:
+https://drive.google.com/file/d/1qEvnrKR8DNYWp4TMdwPmMeORyFTWkcYT/
+view?usp=drivesdk
+
+PATIENT INFORMATION SHEET
+English:
+https://drive.google.com/file/d/12LLDgFBVfnTxDdNv5K715uSyLYPUEgrY/
+view?usp=drivesdk
+Telugu:
+https://drive.google.com/file/d/13Df9wCu9zhjECpPxcHEULSAphv6-tDHl/
+view?usp=drivesdk
+
+Template of this "patient information sheet" is borrowed from this website:
+https://www.ncbi.nlm.nih.gov/books/NBK261334/
+And modified accordingly to my thesis topic.
+
+REFERENCES:
+1) Chaparro  CM, Suchdev  PS. 2019. Anemia epidemiology, pathophysiology, and
+etiology in low-and middle-income countries. Annals of the New York Academy of
+Sciences  1450: 15. Full text link at:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697587/
+
+2) Plsek PE, Greenhalgh T. Complexity science: the challenge of complexity in
+health care. BMJ. 2001 Sep 15;323(7313):625–8. doi: 10.1136/bmj.323.7313.625.
+Full text : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121189/
+
+[https://blogger.googleusercontent.com/img/b/R29vZ2xl/
+AVvXsEiMM3K7q0JLx7FoF2xh495rKjl0tVr6NJmxP-
+liGqC9jNZ_ahuTpAOPCBY3gEQzVMDU0tzXLry0mbS3GoYw-Bw9ATp9FYEx8OEtlwl-
+_jGLAt8vM25fd7lUJFbM_ruamp7u0G5AfLz3MSFp4BVNJr9KrNAYXTIJRZGouDAxYqkHRKVxlVBOeEmuRl2O/
+w640-h212/IMG_20220724_205538.jpg]
+
+
+ Posted by
+ caregiver7careseeker    at
+ 8:27 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _▼ _ July (6)
+                # General_Medicine_CBME_NMC_format_log_book
+                # Draft_thesis_plan:Outcomes_of_monitoring_suspected...
+                # Draft_Thesis_project_plan:_Clinical_complexities_...
+                # CBME_General_Medicine_topics_and_subtopics_standar...
+                # Sarcopenia_diabetes_thesis_project_preliminary_syn...
+                # 2021-20_Allocated_thesis_and_other_project_plans_a...
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

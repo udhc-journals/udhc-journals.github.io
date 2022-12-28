@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, March 20, 2022 *****
+
+
+
+**** PhD MD program through a case based blended learning ecosystem CBBLE ****
+What requirement does this project address:
+
+WHY? 
+
+Current gap in translational research where bench researchers need to be driven
+by bedside questions to bridge patient requirements that often go unaddressed. 
+
+Currently most questions generated at the bedside by individual patients are
+handled by bedside MDs who may be able to deliver ready made solutions only if
+made available by bench researchers Phds. 
+
+However PhDs are currently not available at the bedside so that many questions
+that are generated uniquely through individual patient requirements are often
+ignored building up needless apathy detrimental to the learning ecosystem. 
+
+If PhDs are to spend more time at bedside gainfully toward developing precision
+medicine that caters to unique requirements in individual patients, it's very
+important to provide PhDs with skills that enable them to handle patients and
+make them equal partners in patient care. 
+
+HOW? 
+
+Proof of concept hypothesis :
+
+The proposed PhD MD program can enable potential trainees to achieve all the
+competencies that currently are possessed by general physicians in 3 years.
+This can be done in a patient centered manner, which will enable these trainees
+to achieve the same competencies in three years that currently Indian Medical
+graduates take 5+3 years of MBBS (5y)  and MD (residency 3y). In effect they
+will be working as apprenticed residents from day 1 of their MD training and
+learning certain essential basic sciences on the job contextually rather than
+spend time learning them out of the patient context as is the current norm in
+mbbs. All this is currently functional as part of a published elective program
+and case based blended learning ecosystem (referenced here : 
+
+https://medicinedepartment.blogspot.com/2022/02/dashboard-for-our-current-
+cbble-case.html?m=1
+
+https://adityasamitinjay.blogspot.com/2022/02/teaching-programme-case-based-
+blended.html?m=1)
+
+Inclusion eligibilty criteria :
+
+Masters in any discipline with strong commitment to healthcare research and
+practice 
+
+PhD in any discipline 
+
+
+
+Proof of concept evaluation after completion of the first pilot :
+
+The trainees after completion of three years of the MD training phase along
+with regular daily formative assessments available for transparent and
+accountable audit, will be finally evaluated in a blinded summative assessment
+that will be performed by clinical MDs (Professors from institutes of national
+importance again in a videographed patient centered interview that can be
+archived for future reference). 
+
+Once the final summative assessment is cleared by the PhD MD trainees at the
+end of three years, the Masters candidates will move to the PhD leg of this
+program for another three years where they shall integrate their bedside
+training with their masters level bench training. For the PhD candidates who
+enter this program, the PhD MD degree will be awarded and the newly passed out
+PhD MD will be employed by the institution where the candidate will continue to
+practice their bench and bedside skills as a part of the institutional CBBLE
+that they had gotten used to during their MD training phase. At no point will
+they be allowed to practice medicine outside their institutional CBBLE but this
+cohort of scientist physicians will be followed up on their bedside and bench
+achievements, which will be duly made transparent with full accountability to
+the public. 
+
+WHAT? 
+
+Expected outcomes :
+
+Creation of a high value human resource cohort of scientist physicians with
+predictably high value achievements in their future years in bench and bedside
+translational research working within their institutional CBBLE. 
+
+Attrition of trainees unable to take the first leg of the program that is
+residency as they may not be able to develop the aptitude for it. 
+
+Project plan :
+
+Step 1:
+
+Ethical committee review and approval 
+
+Step 2:
+
+Participant selection with a three month probation and trial run, allowing for
+significant number of drop outs that would be expected given the current
+novelty of the program that necessitates polymathic survival skills. 
+
+Step 3:
+
+MD training phase along with regular daily formative assessments available for
+transparent and accountable audit begins toward completion after 3 years 
+
+Online learning portfolios for formative assessments available in current CBBLE
+dashboard here here : 
+
+https://medicinedepartment.blogspot.com/2022/02/dashboard-for-our-current-
+cbble-case.html?m=1
+
+https://adityasamitinjay.blogspot.com/2022/02/teaching-programme-case-based-
+blended.html?m=1
+
+Step 4:
+
+Final evaluation in a blinded summative assessment that will be performed by
+clinical MDs (Professors from institutes of national importance again in a
+videographed patient centered interview that can be archived for future
+reference) at the end of the first leg of the program, which is three years
+(out of total six years for those who entered after their masters).
+
+Sample final summative assessment (actual formal university assessment
+conducted and videographed last year : 
+https://youtu.be/kGO7QUeeH-E)
+
+Step 5:
+
+Masters candidates will move to the PhD leg of this program for another three
+years where they shall integrate their bedside training with their masters
+level bench training. For the PhD candidates who enter this program, the PhD MD
+degree will be awarded and the newly passed out PhD MD will be employed by the
+institution where the candidate will continue to practice their bench and
+bedside skills as a part of the institutional CBBLE that they had gotten used
+to during their MD training phase
+
+SWOT analysis 
+
+SO WHAT? 
+
+Strengths:
+
+Creation of a high value human resource cohort of scientist physicians with
+predictably high value achievements in their future years in bench and bedside
+translational research working within their institutional CBBLE. 
+
+Weaknesses :
+
+Expected attrition of trainees unable to take the first leg of the program that
+is residency as they may not be able to develop the aptitude for it as this
+program would require polymathic skills. More about it here :  http://
+www.pitt.edu/~super1/lecture/lec54101/001.htm)
+
+Outcomes are dependent on the commitment of all CBBLE participants including
+not just trainees and immediate supervisors but all stakeholders taking care of
+the patient including hospital administration and considerable improvement will
+be necessary in all the stakeholders to be able to achieve our project
+objectives. 
+
+
+Opportunities:
+
+Creation of high value solutions developed by this cohort of bench-bedside
+scientist physicians that can be utilized globally 
+
+This approach can be scaled to various institutions in the nation resulting in
+improvement in the local research and learning ecosystems of those
+institutions 
+
+Threats:
+
+This is a potentially disruptive innovation with considerable leverage being
+transferred from a traditional healthcare training that thrives on retail of
+available solutions alone to a scientific evidence based precision medicine
+approach to also developing innovative solutions for individual patient
+requirements. This may immediately alienate multiple stakeholders such as
+traditional non evidence based, non transparent solo practitioners who may not
+be able to thrive in an ecosystem that values self directed life long learning
+and real time evidence based clinical audit of practice. 
+
+Further notes (formative reflections) on initiating this project :
+
+
+What I have been reviewing here is astounding. 
+
+We have a very good case for opening a PhD MD program because the current MD
+PhD program as devised in US is full of loopholes https://en.m.wikipedia.org/
+wiki/MD%E2%80%93PhD
+
+Although it's limited to Wikipedia and what we may be reviewing is just a tip
+of the iceberg we have only a few illustrious MD PhDs and one of them is
+serving a life sentence! 😨
+
+Again currently the blame is on this individual but it's likely to be the
+faulty market driven US education system that gave rise to that monstrous
+failure (and we must remember that there are perhaps many that are
+unreported). 
+
+The biggest issue is how did they allow him to pass the training program? 
+
+In our proposed system we shall have our PhD MD program connected to a CBBLE
+aka case based blended learning ecosystem with full transparency and
+accountability in training and practice from day 1 and we can pilot it here
+with IIT PhDs or MScs if we can set up a collaborative project.
+
+Further reading and further thoughts :
+
+
+
+https://annalsofneurosciences.org/journal/index.php/annal/article/view/521/2498
+
+We are not the first to embark on this journey :
+
+
+https://www.vagelos.columbia.edu/education/academic-programs/doctoral-degree-
+programs/3-year-phd-md-program
+
+Image copyright with website linked below :
+
+[https://blogger.googleusercontent.com/img/a/AVvXsEipwtwia-QdY3YDTiwGtnaT-
+02eHpauMO6-
+WxsubfmOnpsqd1lEsVjHvj2E2jtMEu6PMcOaYsUOUqJ_ac5WLG0G41aPGxF54jXAGqoXPlA_msC9l1G152tfTzviLBTdKAqWugzDxQJbb95EFHkzQc8KkU9uVuNGejpb6d9UrmKFKieFyH2zneFdxsyK=w410-
+h640]
+
+https://students-residents.aamc.org/md-phd-dual-degree-training/education-and-
+training-md-phd-programs
+
+ Posted by
+ caregiver7careseeker    at
+ 9:48 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _▼ _ March (3)
+                # PhD_MD_program_through_a_case_based_blended_learni...
+                # MBBS_2019_batch_March_2022_internal_assessment_que...
+                # Usage_and_creation_of_E_learning_resources_by_our_...
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

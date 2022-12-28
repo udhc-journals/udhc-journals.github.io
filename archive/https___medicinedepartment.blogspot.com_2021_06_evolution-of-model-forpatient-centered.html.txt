@@ -1,0 +1,423 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, June 21, 2021 *****
+
+
+**** Evolution of a model for patient centered, scholarship of integration in
+Medical education and research " ****
+The participatory case based blended learning ecosystem CBBLE framework that is
+a model for a patient centered, scholarship of integration in Medical
+education, has been actively evolving since a few decades in different medical
+colleges in India and has been described in detailed timeline below (and
+earlier as an illustration of evolving research around 'medical cognition')   :
+
+2002 Manipal, Pokhara : Contrary to what generalizeable randomized controlled
+trial data projected, every individual was unique and had unique life
+trajectories and it was found that medical students were best suited to
+unearthing these trajectories as documented here: https://www.eubios.info/
+EJ124/ej124j.htm
+
+Some of these medical students who were now academic faculty, revisited this
+idea in the last CBBLE paper here: https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6163835/
+
+
+2007 Manipal, Melaka : It was gradually becoming clearer that current evidence
+based medicine needed a more meaningful methodology to answer individual
+patient requirements here: https://pubmed.ncbi.nlm.nih.gov/17683292/
+
+2008: And soon the first conceptual model for current CBBLE was shared here:
+ http://www.ncbi.nlm.nih.gov/pubmed/19018905
+
+It was called "user driven healthcare" UDHC and described a prevalent
+phenomenon evolving with the internet and the only difference with the later
+CBBLE appears to be that the term "blended learning" got added to the same
+process suggesting that the CBBLE had a strong component of offline connection
+and locality that was blended to requirements of online users. 
+
+The CBBLE idea as a subset of the UDHC phenomenon was to build a Case based
+reasoning database that could offer any individual, a platform for obtaining
+comparisons between other individual patients who had similar data patterns and
+then see if near matches of individual trajectories would offer similar outcome
+trajectories in those group of patients and this was inspired by a seminal
+paper on case based reasoning linked here: https://pubmed.ncbi.nlm.nih.gov/
+15533257/
+
+The pursuit of clinical problem solving using online user driven learning was a
+polymathic pluralistic activity and we derived a lot of lessons from other
+fields as illustrated in chapters of the UDHC book here 
+
+https://www.igi-global.com/chapter/user-driven-learning-environment-botany/
+49258
+
+2009 PCMS Bhopal : The model could be scaled to the last mile primary care and
+act as an efficient bridge between primary and tertiary, individual home,
+community collaborative center and academic institutions as proposed here:
+  https://pubmed.ncbi.nlm.nih.gov/19811603/
+
+2010-2021 (Connecting multiple medical colleges with last mile patients)--
+
+Many such cases started getting logged by last mile workers in various parts of
+India particularly West Bengal and they were processed by a CBBLE that fed case
+based problems to a global forum for conversational learning as shared here:
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117104/
+
+2008-2014: PCMS, Bhopal 
+
+While one of the faculty coordinator for the CBBLE was in the above Medical
+College location, the actual forum was made by global medical and engineering
+ students and there is more about them in the above article as well as in the
+UDHC book and journal issues here https://www.igi-global.com/journal/
+international-journal-user-driven-healthcare/41022 as well as their own web
+pages 
+
+here: https://www.missionarogya.com/p/mission-and-vision.html?m=1
+
+And here: blog.sbose.in/2012/08/ui-design-considerations-for-
+user.html?view=timeslide&m=1
+
+
+2012 the team presented our work in TEDx Kolkata here https://youtu.be/
+76AVUQOK9LM
+
+One of the organizers of the conference, Mr Shoubhik Bose created a website for
+UDHC that is currently archived here :
+https://web.archive.org/web/20181119011847/http://www.udhc.co.in/
+
+It displayed a pseudonymisation "Telemedicine" workflow with patient names
+replaced by botanical names and patients asked to plant their namesakes. 
+
+https://web.archive.org/web/20180920234950/http://www.udhc.co.in/SOLUTION/
+solutionList.jsp
+
+There were issues (weaknesses) in the form of questions such as :
+
+Other than patients and caregivers what are the chances that others with
+malintent will be able to identify these patients? 
+
+These are still important issues that we are trying to grapple with and improve
+upon daily. 
+
+These health records were also multilingual with advice in Bengali (other than
+English as demonstrated here 
+https://web.archive.org/web/20160922040838/http://www.udhc.co.in/SOLUTION/
+viewSolution.jsp?solution_id=7&topic_id=166
+
+The Online links to other currently surviving patient records can be found in
+the online learning portfolios of the last mile worker users here below:
+
+https://736146.blogspot.com/?m=1
+
+(The number in the URL reflects the area pin code from where the last mile
+worker operates). 
+
+https://ebpc-udhc-debasishacharjee.blogspot.com/?m=1
+
+These last mile workers had begun a new genre of multilingual, deidentified
+online patient records that were partially structured and managed in most
+instances to convey individual patient requirements and their work was further
+shared globally in published case studies linked below:
+
+The paper below is a collated depiction of cases emailed by some of our last
+mile workers and how their differently structured patient histories were still
+useful to develop a learning ecosystem between the offline patient and online
+healthcare learner and helper. 
+
+https://www.researchgate.net/publication/265050836_Person-
+centered_healthcare_in_the_information_age_Experiences_from_a_user_driven_healthcare_network
+
+
+With the steady progress of our last mile workers abilities to create web based
+logs of patient records, the abilities of the medical students in our learning
+ecosystem remained at par by translating quite a few, perhaps 50-70 of these
+online patient records into journal publications accessible here https://
+pubmed.ncbi.nlm.nih.gov/?term=Rakesh+Biswas+
+
+2013 one of the activities of a team member who looked after the editorship of
+BMJ Case reports was to spread the word about case based learning and how every
+individual patient was an independent research project and below are links to
+some of the lectures delivered in 
+
+Manipal http://www.pitt.edu/~super1/lecture/lec50421/001.htm
+
+AMU http://www.pitt.edu/~super1/lecture/lec50661/001.htm
+
+https://www.amu.ac.in/about3.jsp?did=9352
+
+Bhopal PCOR 2014: http://www.pitt.edu/~super1/lecture/lec53081/001.htm
+
+Bangalore 2015 http://www.pitt.edu/~super1/lecture/lec53671/002.htm
+
+Delhi Banga Bhavan  2015 http://www.pitt.edu/~super1/lecture/lec53961/001.htm
+
+2014 year saw the inauguration of the BMJ Case reports Elective program
+(detailed here: https://casereports.bmj.com/pages/bmj-case-reports-student-
+electives/
+from PCMS Bhopal and hosted initial students from India and France (shared
+here: http://userdrivenhealthcare.blogspot.com/2014/09/positive-role-of-
+medical-electives-in.html?m=1, with their patient described in the lecture
+here: : http://www.pitt.edu/~super1/lecture/lec53081/001.htm ), before it
+shifted to another medical college, LNMCH, Bhopal where a group of students
+from US and India published their first global health case report here :
+ www.ncbi.nlm.nih.gov/pmc/articles/PMC4785487/
+
+
+2015 was particularly important as LNMCH was the first medical college that
+started funding research assistants who were more conversant with Hindi to take
+this work forward and below are some of their work in their multilingual online
+learning portfolios along with their assessments by the faculty coordinator :
+
+RA1: Hindi online patient record 
+
+kg83797.blogspot.com/?m=0
+
+RA2: Link to online patient logs:
+
+https://www.blogger.com/profile/06851455361260935925
+
+RA2: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/assessment-of-patient-
+information_28.html?m=1
+
+RA3: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/assessment-of-patient-
+information_87.html?m=1
+
+RA4: Link to online patient logs:
+
+https://www.blogger.com/profile/14713506954507734603
+
+RA4: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/assessment-of-patient-
+information.html?m=1
+
+RA5: Link to online patient logs:
+
+https://www.blogger.com/profile/08543457215724518158
+
+RA5: Link to one time assessment:
+
+userdrivenhealthcare.blogspot.com/2016/03/experience-patients-are-interviewed-
+by.html?m=1
+
+2016 saw another shift in base this time to a medical college in West Bengal,
+Durgapur where a few ideas around patient centered scholarship of integration
+in Medical education and research were consolidated in the form of the lectures
+below and shared in various forums such as medical education conferences
+organized by JIPMER, Pondicherry and "International Society for Evidence-Based
+Health Care" Kisch island around the same time. 
+
+Medical Education Curriculum: How do we change the game? http://www.pitt.edu/
+~super1/lecture/lec54091/001.htm, 
+
+Generalism in Medical Education:  What and Why? http://www.pitt.edu/~super1/
+lecture/lec54101/001.htm  
+
+Assessment of Generalist Learning Competency: http://www.pitt.edu/~super1/
+lecture/lec54111/002.htm 
+
+Current challenges in Evidence based Medical Education and the way forward :
+
+http://www.pitt.edu/~super1/lecture/lec54941/001.htm
+
+One of the fall outs of the above consolidated ideas was to action it in the
+form of a curriculum that would blend seamlessly with existing curricula and
+this was illustrated at that time here in the form of a "Case-Based-Online-
+Learning-Portfolio in an MBBS student of WBUHS" 
+https://medicinedepartment.blogspot.com/2016/?m=0
+
+The elective learning program was furthered here in this global health case
+study linked below, by two visiting medical students from UK and it highlights
+our workflow of sharing "open access patient records with de-identified patient
+documentation such as doctors’ notes, diagnostic test results and the patient’s
+perspective" toward improving their outcomes along with students learning
+outcomes. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6047727/
+
+The original online patient record blog prepared by our community health
+worker, that was foundational to the published case study is accessible here:
+ https://ebpc-udhc-debasishacharjee.blogspot.com/2017/07/38-year-old-woman-
+suffering-from-tb.html?m=1
+
+
+2017 location shifts to another medical college near Hyderabad and the CBBLE
+projects are further strengthened as detailed here:https://
+medicinedepartment.blogspot.com/2021/02/medicine-department-projects.html?m=0
+
+The BMJ Elective student visits continued and some of their videos below depict
+our current workflow for scholarship of integration in a vivid manner here :
+ https://youtu.be/xvE5b8Xk3vM (presented by our elective students in a medical
+education conference in AIIMS, Bhuvaneshwar, early 2020)
+
+
+And here: https://youtu.be/csF8VQbOYRo(presented by our elective student to a
+medical college in California, early 2021) 
+
+Other than a few of our patient centered case studies as Global health case
+reports linked below :
+
+Middle-aged man who could not afford an angioplasty. BMJ Case Reports CP. 2019
+Mar 1;12(3):e227118.https://www.ncbi.nlm.nih.gov/pubmed/30936331
+
+Traumatic Subdural Hematoma: Integrating Case Based Clinical Judgement with
+Guidelines:
+https://casereports.bmj.com/content/13/9/e233197
+
+Other than the BMJ Elective program students who added immense inputs to this
+'scholarship of integration' detailed in the institution project log linked
+above, the pandemic drove newer opportunities to explore online learning with
+our students that added considerable data to our work around scholarship of
+integration facilitated by the CBBLE tool as portrayed here :
+https://medicinedepartment.blogspot.com/2020/05/integrating-medical-education-
+and.html?m=0
+
+The pandemic made us take our classes live globally and we regularly connect
+with our students live during our 10:00 AM to 12:00 PM morning rounds as
+videoed and archived in the link below where we are presenting our cases to a
+global audience:
+
+https://youtu.be/5K_VHSSrouc
+
+https://youtu.be/1LjB5Lyous8
+
+And here's a sample of our regular class videos of case presentation lectures
+during our 2-4 PM sessions. 
+
+https://youtu.be/kj4YkpW9cXA
+
+https://youtu.be/Uz9baFCQ35s
+
+https://youtu.be/VjF9eGfOaSk
+
+https://youtu.be/F-HhXzLaqP8
+
+
+Here's a summary video of what we do 
+
+https://youtu.be/xvE5b8Xk3vM
+
+We can share recorded sessions in a more structured way rather than the
+impromptu manner in which it has been filmed but then we need a film maker who
+will do it for us. 
+
+Meanwhile till then our student user driven online learning portfolios that
+keep getting updated regularly in real time keeps reflecting their competencies
+that we have showcased in this link here : https://
+medicinedepartment.blogspot.com/2021/07/?m=0
+
+
+Above is the background that sets the stage for the description of the current
+framework for scholarship of integration with a most recent example in the next
+module.
+
+
+Please click on the link below to get back to the first layer of the chapter:
+
+https://medicinedepartment.blogspot.com/2021/06/draft-3a-scholarship-of-
+integration-and.html?m=1
+
+
+
+ Posted by
+ caregiver7careseeker    at
+ 9:43 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _▼ _ June (21)
+                # E_log_book_and_online_assessment_FAQs_and_Q&A_conv...
+                # Medicine_department_paper_for_June_2021_bimonthly...
+                # Book_chapter_:_Scholarship_of_Integration_and_the_...
+                # Introduction_to_evolution_of_human_language,_commu...
+                # Making_connections_between_different_ways_of_knowi...
+                # Evidence_based_medical_assessments_drive_student_l...
+                # Peer_to_peer_review/assessment_of_Online_assignmen...
+                # Scholarship_of_integration_driven_by_shared_Online...
+                # Gradual_integration_of_traditional_with_competency...
+                # Student_user_driven,_patient_centred_assessment_pr...
+                # Working_prototype_of_a_scholarly_integration_of_me...
+                # Evolution_of_a_model_for patient_centered,_scholar...
+                # National_Medical_Integration_and_the_role_of_schol...
+                # Pandemic_driven_acceleration_of_scholarly_integrat...
+                # Failed_political_integration_attempts_at_different...
+                # Individual_integration_of_different_roads_to_healing
+                # Brief_:_Scholarship_of_integration_in_Medical_ed...
+                # Introduction,_Draft_3_Scholarship_of_Integration_a...
+                # Abstract_for_book_chapter_on_"Scholarship_of_Integ...
+                # Conversational_learning_illustration_in_the_contex...
+                # Part_1_Contextualizing_the_need_for_a_framework_to...
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

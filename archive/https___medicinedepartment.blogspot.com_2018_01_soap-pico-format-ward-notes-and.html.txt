@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Tuesday, January 30, 2018 *****
+
+
+**** SOAP-PICO format ward notes and conversational learning ****
+Ward notes
+
+ICU
+
+Patient 60 M with diabetes and hypertension admitted with fever, hyperglycemia,
+acute renal failure, metabolic acidosis, severe shortness of breath and
+oliguria and urine routine showing pus cells and RBCs. CT abdomen showed
+emphysematous pyelonephritis with areas of consolidation nodules in both upper
+lobes.
+
+Incidental detection of left diaphragmatic palsy and mild mitral stenosis on
+echocardiography.
+
+Intervention: broad antibiotics to also cover nosocomial, supportive inotropes,
+ventilation
+
+Outcome: multiorgan failure and death
+
+Intrigue: Admiited in corporate Hyderabad 2 months back with similar issues,
+recovered (with a hefty bill) and discharged on tablet linezolid 500 mg for 12
+days. Son said he was in the habit of consuming the same tablet whenever he
+felt like it. Could this have led to the MDR organism that led to his death?
+
+70 M with right sided pleural effusion and altered sensorium and hyponatremia
+124-128 with reduced serum osmolality and increased urine sodium. Currently
+sensorium recovering although today's sodium was 122. Ecg shows Atrial
+fibrillation and rate controlled on metoprolol. Right upper limb soft signs of
+assymetric tone, CT head normal. Cranial MRI planned? Pleural fluid tapped
+twice suggestive of exudative with lymphocytic pleocytosis
+
+Intervention: first Gen Antibiotics for Pneumonia (still continuing),
+hypertonic saline, heart rate control and amiodarone, planned for pulmonary
+opinion for bronchoscopy or empirical antitubercular
+
+Outcome :
+
+Continues to be slightly drowsy though better but bed ridden
+
+Issues: diagnostic dilemma for the pleural effusion for TB vs malignancy
+
+20M with dengue and 30,000 platelets and progressive rise of PCV/HCT
+Intervention : Monitoring intake output and fluid support
+Outcome : fever chart? Subjectively better
+
+60F with hyperpyrexia and sterile pyuria with WBC 7000
+Intervention : IV broad spectrum antibiotics and iv artesunate, temperature
+monitoring and fever reduction
+Outcome? Evolving
+
+
+FMW: 50F Diabetes with neuropathic pains for blood sugar monitoring and oral
+hypoglycemic dose titration
+
+MMW 25M with acute ascending quadriparesis, myalgia with no apparent
+respiratory compromise
+Intervention : monitoring single breath count, breath holding time and
+respiratory rate (chart?), NSAIDs for myalgia (?CPK)
+Outcome: Power still grade 3+/5 in all four limbs
+
+
+Conversational Learning
+
+60M
+Pedal edema for 1month orthopnea for 1 day with decreased urineoutput for 1 day
+JVP raised cardiac apex down and out
+Heart failure with reduced ejection fraction with prostatomegaly
+Intervention propped up position
+Fluid and salt restriction anti platelets statins
+B blocker ace inhibitor
+Outcome pedal edema subsided sob subsided
+
+[1/28, 3:39 PM] Rakesh Biswas: Output is good 850ml with input 1lit sir
+[1/28, 3:39 PM] Rakesh Biswas: Good. What about his decreased urine output?
+What was and is the current intervention for that?
+[1/28, 3:39 PM] Rakesh Biswas: We are giving tamsulosin as advised by urologist
+[1/28, 3:39 PM] Rakesh Biswas: Advised to remove Foley's and want to observe
+today sir....tamsulosin is aplha blocker..so it relaxes the smooth muscles in
+prostate and bladder neck
+[1/28, 3:39 PM] Rakesh Biswas: So reduced urine output was due to urinary
+retention? Was he and is he still on a Foley's catheter? In which case how is
+Tamsulosin helping him?
+[1/28, 3:39 PM] Rakesh Biswas: I removed it sir today
+[1/28, 3:42 PM] Rakesh Biswas: 17F fever for 1 month
+Pedal edema for 10 days
+Petechae present in lower limbs
+Infective endocarditis
+Interventions
+Antibiotics
+Lasix
+Pcm
+Temp and vital monitoring
+Outcome
+Fever subsided
+Pedal edema subsided
+Petechiae vanishing
+[1/28, 3:42 PM] Rakesh Biswas: What supports your diagnosis of infective
+endocarditis? Can you share her fever chart? It appears that she became
+afebrile even from Day 1 of her hospital stay?
+[1/28, 3:44 PM] Rakesh Biswas: 59M with pedal edema
+With hypoglycemic attacks in morning
+CKD with dm2 with htn with ?TIA
+Intervention fluid and salt restriction
+CCB
+Lasix
+Antiplatelet
+Outcome
+GRBs 116
+No hypoglycemic attacks
+[1/28, 3:44 PM] Rakesh Biswas: It appeared to be recurrent hypoglycemia from
+the history rather than TIA. You didn't mention a very important intervention.
+You had withheld his oral hypoglycemic which was responsible for his
+hypoglycemia. Even withholding a prior intervention can be very important
+intervention in its own right.
+[1/28, 3:46 PM] Rakesh Biswas: 65M
+Fever for 1 wk sob for 3 days
+No fresh complain fever subsided sob subsided
+Pneumonia with malaria with dengue with ?oral candidiasis
+Intervention broad spectrum antibiotic
+Ivfluids
+Nebulization
+Potassium syrup o2 inhalation
+Temp charting
+Monitoring vitals
+Outcome fever subsided
+Sob subsided
+[1/28, 3:46 PM] Rakesh Biswas: So which one did this patient actually have
+although we appeared to have treated him for all possible causes such as
+malaria, typhoid etc?
+[1/28, 3:46 PM] Rakesh Biswas: Pneumonia sir
+[1/28, 3:46 PM] Rakesh Biswas: What about the smear taken yesterday from his
+tongue? Does it show candidal hyphae?
+[1/28, 3:46 PM] Rakesh Biswas: Malaria and dengue sir
+[1/28, 3:46 PM] Rakesh Biswas: What evidence do we have for pneumonia in him?
+[1/28, 3:46 PM] Rakesh Biswas: Which one did he have?
+[1/28, 3:46 PM] Rakesh Biswas: I will find out sir
+[1/28, 3:46 PM] Rakesh Biswas: First xray showed consolidation sir
+[1/28, 3:46 PM] Rakesh Biswas: Both sir...we gave artesunate
+[1/28, 3:46 PM] Rakesh Biswas: Can you share that chest X-ray?
+[1/28, 3:46 PM] Rakesh Biswas: No treatment for dengue
+[1/28, 3:46 PM] Rakesh Biswas: Yes sir
+[1/28, 3:50 PM] Rakesh Biswas: Doesn't look like either pneumonia or malaria?
+What about dengue? Any seropositivity there although again not reliable
+sensitivity, specificity.
+[1/28, 3:50 PM] Rakesh Biswas: Lb nagar report is positive
+[1/28, 3:50 PM] Rakesh Biswas: Our side no sir
+[1/28, 3:50 PM] Rakesh Biswas: Yes sir
+[1/28, 3:50 PM] Rakesh Biswas: Doesn't it look more like dengue?
+[1/28, 3:50 PM] Rakesh Biswas: 10000
+15000
+30000
+60000
+75000
+1.5 lakh
+[1/28, 3:50 PM] Rakesh Biswas: Yes sir
+[1/28, 3:50 PM] Rakesh Biswas: What was the trend of his platelet counts?
+[1/28, 3:53 PM] Rakesh Biswas: Please share his CT head
+[1/28, 3:53 PM] Rakesh Biswas: 55M with hemiplegia on rt side due to bleed
+Intervention
+Anti epileptic
+Anti platelet
+Statins
+Glycerol
+DVT stockings
+Physiotherapy
+Outcome fever present today temp 101 antipyretics given
+Power improved in rt upper limb 1/5
+Rt lower limb 3/5
+[1/28, 3:53 PM] Rakesh Biswas: What is the evidence for glycerol? Why
+antiepileptics? Did he have a seizure?
+[1/28, 3:53 PM] Rakesh Biswas: He did not have seizure sir....
+[1/28, 3:53 PM] Rakesh Biswas: Since when is he having the fever? Fever chart?
+[1/28, 3:53 PM] Rakesh Biswas: Yday night
+[1/28, 3:53 PM] Rakesh Biswas: Then why antiepileptics? Is there any role of
+prophylactic antiepileptic drugs in intracerebral hemorrhage?
+[1/28, 3:53 PM] Rakesh Biswas: Charting was not done properly sir....asked
+sisters to do it
+[1/28, 3:53 PM] Rakesh Biswas: Please share chart. Is it present in the charts
+that you already shared. Would be nice if you could have cropped the
+identifiers
+[1/28, 3:53 PM] Rakesh Biswas: Can antiplatelets be given in intracerebral
+hemorrhage?
+[1/28, 3:53 PM] Rakesh Biswas: Is the power 1/5 after improvement?
+[1/28, 3:53 PM] Rakesh Biswas: Yes sir
+[1/28, 3:53 PM] Rakesh Biswas: Power was initially 0/5 in lower limb...
+Prophylactically I advised sir
+[1/28, 3:53 PM] Rakesh Biswas: Why DVT stockings?
+[1/28, 3:53 PM] Rakesh Biswas: https://googleweblight.com/i?u=https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3215779/&hl=en-IN&grqid=mq3cOK46
+[1/28, 3:53 PM] Rakesh Biswas: So is was the stocking necessary. Didn't we
+unnecessarily add to his cost? Also please let me have your answers to the
+antiplatelets and antiepileptic query
+[1/28, 3:53 PM] Rakesh Biswas: When does a patient get DVT? After how many days
+of immobilization? Did you notice what we did on yesterday's rounds to prevent
+DVT and improve functionality? We made him sit up, I stand and walk. How's that
+for a logically more effective DVT prophylaxis?
+[1/28, 3:53 PM] Rakesh Biswas: Yes sir we did that and today he is moving his
+lower limb sitting
+[1/28, 3:53 PM] Rakesh Biswas: Also please let me have your answers to the
+antiplatelets and antiepileptic query
+[1/28, 3:53 PM] Rakesh Biswas: Anti epileptics I shared an article sir
+[1/28, 3:53 PM] Rakesh Biswas: So what is your interpretation of this study
+after critical appraisal?
+[1/28, 3:53 PM] Rakesh Biswas: We should give sir
+[1/28, 3:53 PM] Rakesh Biswas: Why?
+[1/28, 3:53 PM] Rakesh Biswas: " 11% of patients placed on a PAED had an early
+seizure versus 6.3% who not placed on a PAED."
+[1/28, 3:53 PM] Rakesh Biswas: What is the type of study?
+[1/28, 3:53 PM] Rakesh Biswas: Only reason to give is to reduce mortality
+[1/28, 3:53 PM]: How many did not die in the antiepileptic group vs the group
+that did not get the antiepileptic?
+[1/28, 3:53 PM] Otherwise all results were not significant
+[1/28, 3:53 PM] : "Death or hospice discharge was less common in patients
+prescribed a PAED (24% versus 46%, p = 0.02), but this difference was no longer
+significant after adjustment for multiple comparisons."
+[1/28, 3:53 PM]: So any other better evidence that you can search for?
+
+ Posted by
+ caregiver7careseeker    at
+ 6:42 PM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _▼ _ 2018 (3)
+          o _► _ November (2)
+          o _▼ _ January (1)
+                # SOAP-PICO_format_ward_notes_and_conversational_lea...
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

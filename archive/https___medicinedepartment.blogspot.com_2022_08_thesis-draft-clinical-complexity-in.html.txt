@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Friday, August 5, 2022 *****
+
+
+
+**** Thesis draft "Clinical complexity in Diabetes: Qualitative evaluation of
+patients, interventions and outcomes." ****
+Problem statement/Background:
+
+Among patients with diabetes, clinical complexity and treatment burden have
+increased over time." (1)
+
+"Piette and Kerr created a framework dividing multiple chronic conditions into
+three categories: (a) concordant (illnesses which share similar pathogenesis
+and management as diabetes such as cardiovascular disease), (b) discordant
+(where the illness is unrelated, yet whose management may be at odds with
+diabetes care, such as musculoskeletal disease or mental illness), and (c)
+dominant illnesses, whose severity overshadows diabetes care (such as end-stage
+renal failure or metastatic cancer)."(2) 
+
+
+"The ADA/AGS consensus breaks diabetes treatment goals into three strata based
+on the following patient characteristics: for patients with few co-existing
+chronic illnesses and good physical and cognitive functional status, they
+suggest a target A1c of under 7.5%, given their longer remaining life
+expectancy. Patients with multiple chronic conditions, two or more functional
+deficits in activities of daily living (ADLs), and/or mild cognitive impairment
+may be targeted to 8% or lower given their treatment burden, increased
+vulnerability to adverse effects from hypoglycemia, and intermediate life
+expectancy. Finally, a complex patient with poor health, greater than two
+deficits in ADLs, and dementia or other dominant illness, would be allowed a
+target A1c of 8.5% or lower." (3)
+
+
+
+AIM: 
+
+To navigate clinical complexity in patients with diabetes and optimize their
+management toward reducing diagnostic and therapeutic uncertainty along with
+improvement in their anemia outcomes. 
+
+OBJECTIVES:
+• To assess various clinical and investigational characteristics of patients
+with diabetes in relation to their clinical complexity and outcomes.
+• To analyse patient outcomes based on morbidity (physical, social &
+psychological limitations)
+
+PATIENTS AND METHODS:
+PLACE OF STUDY: Department of General medicine 
+
+STUDY PERIOD: November 2022- October 2024
+
+STUDY DESIGN : Non experimental (Observational) qualitative Study 
+
+SAMPLE SIZE: 50 patients 
+
+Methodology.and objectives :
+
+To be detailed after going through the sample cases linked below (and more). 
+
+INCLUSION CRITERIA:
+
+• Complex Diabetes patients of any gender above or equal to 18yrs of age at the
+time of presentation.
+
+Complex needs of the Diabetic patients would be assessed using the COmplex
+NEeds Case-finding Tool – 6 (CONECT-6), which evaluates the following
+variables: low perceived health; limitations due to pain; unmet needs; high
+self-perceived complexity; low income; and poor social support. With a
+threshold of two or more positive answers, the sensitivity was 90% and
+specificity 66%. The positive and negative predictive values were 49 and 95%
+respectively. (4)
+
+
+
+
+EXCLUSION CRITERIA:
+
+1.Patients below 18 yrs of age (minors)
+
+2.Patients not capable of giving consent (mentally-ill patients)
+
+3.Patients not willing to participate in study (non-consenting patients) kp
+
+4. Non complex diabetes 
+
+
+PROFORMA (data to be captured) 
+
+
+Demographics
+
+Patient event data reflected in a narrative history of the  sequence of events
+leading to the current presentation and outcomes
+
+Body data from clinical general and systemic examination 
+
+Pallor 
+
+Lymphadenpathy 
+
+Nails 
+
+Organomegaly 
+
+Skin 
+
+Muscle mass 
+
+Mid arm circumference 
+
+Visceral fat 
+
+Body data from laboratory investigation :
+
+    * CBP with peripheral smear 
+    * Iron profile with serum ferritin 
+    * Serum albumin 
+    * Serum creatinine
+    * Special tests on indication :
+    * Thyroid function tests 
+    * Chest X-ray -PA view
+    * ECG
+    * 2D ECHO
+    * Bone marrow if indicated 
+Data from treatment instituted :
+
+Data from Patient reported outcomes :
+
+Daily functionality (in terms of routine activities)
+
+Daily diet in the form of meal images captured before consumption 
+
+Daily intake output where relevant such as complex anemias with renal failure
+and nutritional deficiency or anemia and chronic diarrhoea 
+
+Sample diabetes with Clinical complexities case report forms linked below :
+
+http://mounikagadiparthirollno46.blogspot.com/2022/07/50-m-with-uncontrolled-
+dm-2.html (complex diabetes with chronic alcoholism) 
+
+
+https://tejasridevaruppala36.blogspot.com/2022/08/diabetic-foot-ulcer-with-
+ckd.html?m=1 (complex diabetes, problems yet to be listed and resolved) 
+
+https://tejasridevaruppala36.blogspot.com/2022/07/64yr-old-male-with-
+obstructive-uropathy.html?m=1
+
+(complex diabetes with renal pain and failure) 
+
+https://tejasridevaruppala36.blogspot.com/2022/06/a-55year-old-male-with-
+anasarca-and-sob.html?m=1 (complex diabetes with anasarca) 
+
+https://dongsarwarshreeya.blogspot.com/2022/08/45-yr-old-male-with-
+urosepsis.html?m=1 (complex diabetes with urosepsis) 
+
+https://didyalasushmitha37.blogspot.com/2022/07/dm-2.html?m=1(complex
+uncontrolled diabetes with alcoholism) 
+
+Clinical complexity consists of a few defining characteristics such as
+uncertainty, non linearity, unpredictability and yet an overall pattern leading
+to resolution through attractor states over time. (5) As physician attractors
+we are uniquely privileged to "be" with our patients regardless of the
+diagnosis and that is the only way we may know our patient's outcomes where our
+"being" with them is the most significant (and often overlooked) intervention. 
+
+
+Sample MASTER CHART WITH LINKS TO PATIENTS E-LOGs
+Link To Master Chart:
+https://drive.google.com/file/d/1qEvnrKR8DNYWp4TMdwPmMeORyFTWkcYT/
+view?usp=drivesdk
+
+PATIENT INFORMATION SHEET
+English:
+https://drive.google.com/file/d/12LLDgFBVfnTxDdNv5K715uSyLYPUEgrY/
+view?usp=drivesdk
+Telugu:
+https://drive.google.com/file/d/13Df9wCu9zhjECpPxcHEULSAphv6-tDHl/
+view?usp=drivesdk
+
+Template of this "patient information sheet" is borrowed from this website:
+https://www.ncbi.nlm.nih.gov/books/NBK261334/
+And modified accordingly to my thesis topic.
+References :
+1) Benning TJ, Heien HC, McCoy RG. Evolution of Clinical Complexity, Treatment
+Burden, Health Care Use, and Diabetes-Related Outcomes Among Commercial and
+Medicare Advantage Plan Beneficiaries With Diabetes in the U.S., 2006-2018.
+Diabetes Care. 2022 Aug 4:dc212623. https://pubmed.ncbi.nlm.nih.gov/35926104/
+2) Piette JD, Kerr EA. The impact of comorbid chronic conditions on diabetes
+care. Diabetes Care. 2006;29(3):725–31.
+3)Hackel JM: Patient-centered care for complex patients with type 2 diabetes
+mellitus—analysis of two cases. Clin Med Insights Endocrinol Diabetes 2013;6:
+47–61
+4)Hudon, C., Bisson, M., Dubois, MF. et al. CONECT-6: a case-finding tool to
+identify patients with complex health needs. BMC Health Serv Res 21, 157
+(2021).
+https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06154-4
+
+5) Plsek PE, Greenhalgh T. Complexity science: the challenge of complexity in
+health care. BMJ. 2001 Sep 15;323(7313):625–8. doi: 10.1136/bmj.323.7313.625.
+Full text : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121189/
+
+[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWLt3QjLbyG0bXJ-
+cfY1E0Wn64SX1Ykw4v7yYxTk7Y20yHD2Lk1FWg_nRLfpt2coiopTtgAYVJoq_SsXE6RnFkGdZHUtqicKMHq65Jl95rEtAmzfLCl69R41oEwn75iPG4J3klG8-
+tV6Ku_rIX3Tc4UJFB6iRk_sB9eXE9sy-NH-wNMPIYaruJ2B2/w640-h480/
+IMG20220705141951.jpg]
+
+
+
+ Posted by
+ caregiver7careseeker    at
+ 8:00 PM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _▼ _ August (7)
+                # 2021_MD_batch_Formative_assessment
+                # Plasma_exchange_as_an_intervention_toward_longevit...
+                # 2020_PG_formative_assessment
+                # Thesis_draft_"Clinical_complexity_in_Diabetes:_Qua...
+                # Resolving_diagnostic_and_therapeutic_uncertainties...
+                # Roll_30-58_UG_batch_2019_General_Medicine_ward_com...
+                # Roll_26-50_UG_batch_2020_General_Medicine_ward_com...
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

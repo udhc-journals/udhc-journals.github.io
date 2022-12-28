@@ -1,0 +1,566 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, February 14, 2021 *****
+
+
+**** Medicine department projects as per dsir template ****
+               Template to showcase departmental activities borrowed from
+               http://www.dsir.gov.in
+               MEDICINE DEPARTMENT:
+
+                  1. Research Undertaken
+
+                  1. Objectives of research being undertaken :
+
+          Objectives:
+
+
+          1) Answering multidimensional information needs in individual patients and health professionals  utilizing available IT and AI (case based reasoning) tools 
+
+          2) Integrating medical education and practice 
+
+          3) Developing a health care blended-learning ecosystem through a network of global multiple learner stakeholders that includes medical student and health professionals from
+          diverse disciplines catering to patients along with their relatives in rural and urban India so that they may benefit from this global learning toward their local caring.
+
+          4) Optimization of healthcare costs in a manner that can still provide highest quality of care in low resource settings. 
+
+           
+                  1. Memorandum of understanding 
+
+
+                  1. Objective of undertaking of research specified in MOA
+
+
+
+                  1. Major equipment procured during April2017-March2018,  April 2018- March 2019, April 2019- March 2020, and March 2020- March 2021.
+               S. No Equipment
+
+          1) Clinical Data capturing devices for every individual research assistant
+
+          2) Laboratory data capturing and interpreting devices  such as autoanalyzers 
+
+          3) Radio imaging data capturing and interpreting devices such as ultrasound, echocardiography, X-ray machines, CT scans and MRI 
+
+               Year of purchase Approx. cost
+
+          Awaiting hospital admin inputs 
+
+                  1.    Staff engaged in research
+                  1. Number of PhD ( 0 )
+
+                  1.  PG's ( 30 )
+
+
+                  1.  Total no. of Student &Teachers  personnel involved in Research Activities ( 35 )
+
+          Research assistants/Interns 100
+
+
+
+                  1. Areas of Research Undertaken:
+
+
+     Medical education 
+
+     Frugal bedside innovation 
+
+     Health Informatics 
+
+     Medical monitoring 
+
+     Medical cognition 
+
+     Clinical decision making 
+
+     Clinical problem solving 
+
+     Case based reasoning 
+
+          Medicine 2.0
+
+          E-health 
+
+          User driven healthcare 
+
+
+
+
+
+
+                  1. Completed Research projects from April 2017 to March 2021.
+
+     Title and scope of the project            Functional prototype for "Case based blended learning ecosystem CBBLE toward better medical education, decision making and better patient
+                                               outcomes
+     Sponsoring agent if any          �Current institution
+     Project Leader               
+                                            Dr. Rakesh Biswas and UG, PG team
+
+     Year in which started                  2017
+            
+     Duration in months                     36
+
+     Capital (Estimated in lakhs)           7
+
+     Recurring (Estimated in lakhs)         1
+
+     Total (Estimated in lakhs)             10
+
+     Foreign Exchange (in INR)                 0
+                                               Functional prototype archived in the publications below:
+     Remarks                                Healthcare 2018, Vol 6, 78.
+                                               Full text link here:
+                                               https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163835/
+
+
+     Title and scope of the project            Functional prototype for "Collective, user driven  conversational peer review of real time open access research submissions"
+     Sponsoring agent if any          �Current institution
+     Project Leader               
+                                            Dr. Rakesh Biswas and UG, PG team
+
+     Year in which started                  2017
+            
+     Duration in months                     24
+
+     Capital (Estimated in lakhs)           0
+
+     Recurring (Estimated in lakhs)         0
+
+     Total (Estimated in lakhs)             0
+
+     Foreign Exchange (in INR)                 0
+                                               Functional prototype archived and run here in the publications below:
+                                               Title: Collective Conversational Peer Review of Journal Submission: A Tool to Integrate Medical Education and Practice.
+
+                                               Authors: Poddar et al with corresponding author RB
+
+                                               Journal name and volume:
+
+                                               Annals of Neurosciences. 2018 Jul;
+
+                                               Vol 25(2): pages 112–119.
+     Remarks   
+                                               Impact factor: 2.04
+
+                                               Full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6103343/#!po=0.757576
+
+                                               2) Patient of pulmonary embolism and online conversational learning among global medical students through a journal review platform.
+
+                                               Authors: Poddar et al with corresponding author RB
+
+                                               Medical Journal of Dr. DY Patil Vidyapeeth. 2019 May 1;12(3):281.
+
+                                               Full text link: https://www.mjdrdypv.org/article.asp?issn=2589-8302;year=2019;volume=12;issue=3;spage=281;epage=283;aulast=Podder
+
+ Cited by: Sandra Moore
+Western University
+
+****** In her article 'The Enlightenment of Peer Review ******
+***** How Academic Librarians Can Utilize Open Peer Review Methods to Advance Information Literacy" *****
+DOI: https://doi.org/10.5206/elip.v3i1.8618
+Citation para:
+
+An innovafive OPR method known as "collective conversational peer review" (designed to integrate medical education and practice) exemplifies the use of an evolving creation process as a critical
+appraisal tool for submitted manuscripts, which simultaneously offers medical students publication credit and interactive training (Podder et al., 2018, p. 112). This type of dynamic peer review
+is an excellent example of a new information product giving participants a way to "articulate the traditional and emerging processes of information creation and dissemination in a particular
+discipline" (ACRL, 2016, p. 14). By collaborating with faculty across disciplines, academic librarians can incorporate these Innovative approaches to peer review as a creative method to implement
+the frame "Information Creation as a Process."
+
+
+
+                                    Functional prototype of "Online learning portfolios" through available user driven learning systems 
+     Title and scope of the project
+                                    More about it's scope in functional online learning portfolios archived here 
+                                    https://medicinedepartment.blogspot.com/2021/02/blended-bimonthly-assessment-dec-2020.html?m=0
+     Project Leader               
+     RB and UG, PG Team
+
+     Year in which started    2018
+            
+     Duration in months    24 months
+
+     Capital (Estimated in lakhs)   
+
+     Recurring (Estimated in lakhs)   
+
+     Total (Estimated in lakhs)   
+
+     Foreign Exchange (in INR)
+     Remarks: Functional prototype of a continuing medical education usage model
+
+
+               Title and scope of the project Frugal innovations prototype:
+               Digital and paper based fever charts and prediction analytics for better diagnosis and rational antibiotic use. Completed functional prototype of "fever pattern
+               recognition" through user driven data capture and analysis systems to reduce antibiotic misuse in the community 
+
+
+
+               Sponsoring agent if any   : Current Institute        
+
+
+               Project Leader               
+               RB with UG, PG Team
+
+
+
+               Year in which started    2017
+                      
+               Duration in months    72 months
+
+               Capital (Estimated in lakhs)    4
+
+
+               Recurring (Estimated in lakhs)    1
+
+               Total (Estimated in lakhs)    6
+
+               Foreign Exchange (in INR) NA
+               Remarks:   Based on prior work archived here:Integrating Hospital-Acquired Lessons into Community Health Practice: Optimizing Anti-Microbial Usage in Bangalore,  J
+               Contin Educ Health Prof. (US) 2007 Jun 18;27(2):105-110, https://pubmed.ncbi.nlm.nih.gov/17576636/
+
+               And archived here https://classworkdecjan.blogspot.com/2020/03/resources-for-fever-project.html?m=1
+
+               And blogged here by our elective students https://classworkdecjan.blogspot.com/2021/02/some-tech-for-just-fever-sign.html?m=1
+
+
+
+
+                                    Prototype: Womb to tomb patient records viewed through a virtual reality interface made open access after deidentification
+                                    More about it's scope here :
+     Title and scope of the project https://classworkdecjan.blogspot.com/2020/01/vr-art-in-ehrs.html 
+                                    The entire womb to tomb case record of a single patient is displayed in different layers that can be viewed using a virtual reality interface. A video
+                                    demo of the prototype is available here:https://youtu.be/yrJ0DfmRg8E
+
+     Project Leader               
+     Done by our elective student Avinash Gupta along with RB and UG, PG Team
+
+     Year in which started    2017
+            
+     Duration in months    30 months
+
+     Capital (Estimated in lakhs)   
+
+     Recurring (Estimated in lakhs)   
+
+     Total (Estimated in lakhs)   
+
+     Foreign Exchange (in INR)
+     Remarks: Presented at a Neuroscience conference workshop in 2017 archived here https://www.google.com/url?sa=t&source=web&rct=j&url=https://cdn.ymaws.com/www.iayt.org/resource/
+     collection/809EDF06-144F-40BA-8F04-5F8C520CF7D6/Art_of_Imperfect_brain_conference_brochure.pdf&ved=2ahUKEwijkrrYyOnuAhXKbn0KHS94DDIQFjAAegQIARAB&usg=AOvVaw0x_tUOWFkMJCU0vWfwmmmF
+
+     And here:https://youtu.be/XWUMogh96SM
+
+
+
+     Title and Frugal bedside Innovation -
+     scope of  Functional prototype of  "diaphragm based audio patient data capturing systems (stethoscope hack) to promote collaborative global learning with local patient data. More here:
+     the       https://classworkdecjan.blogspot.com/2020/01/stethoscope-hack.html 
+     project   Low cost quick hack to record and share auscultation sounds digitally for offline/online education and remote diagnosis.
+     Project Leader: Done by our elective student Avinash Gupta along with             RB and UG, PG Team
+
+     Year in which started    2018
+            
+     Duration in months    30 months
+
+     Capital (Estimated in lakhs)   
+
+     Recurring (Estimated in lakhs)   
+
+     Total (Estimated in lakhs)   
+
+     Foreign Exchange (in INR)
+     Remarks   
+
+
+     Title and scope of the project            Functional prototype of "graphical patient timeline at a glance" to enable quick optimal clinical decision making toward improved patient outcomes 
+
+     Sponsoring agent if any          �Current institution
+     Project Leader               
+                                            Dr. Rakesh Biswas with UG, PG Team
+
+     Year in which started                  2018
+            
+     Duration in months                     24
+
+     Capital (Estimated in lakhs)           0
+
+     Recurring (Estimated in lakhs)         0
+
+     Total (Estimated in lakhs)             0
+
+     Foreign Exchange (in INR)                 0
+     Remarks                                Frugal innovations at bedside. Frugal self funding.
+
+
+
+                                    Frugal Innovation for Obstructive Sleep Apnea by our elective student Avinash Gupta.
+     Title and scope of the project https://classworkdecjan.blogspot.com/2020/01/obstructive-sleep-apnea-low-cost-device.html 
+                                    A device to screen, diagnose, monitor and reduce damages caused by sleep apnea by utilizing low cost spo2 sensor and feedback/biofeedback.
+                                    https://classworkdecjan.blogspot.com/2021/02/sleep-study-obstructive-sleep-apnea.html 
+
+     Industry Partnerships:
+
+     1) With Arintra AI solutions based in Austin, TX 78731, USA toward building a Clinical AI platform for faster visit documentation through automation supported patient data capture.
+
+     Remarks: Project was  winner of Ayushman Bharat PMJAY Start-Up Grand Challenge, a call to action to generate cutting-edge solutions for supporting the National Health Authority, India
+     (NHA).
+
+
+                  1. ONGOING RESEARCH
+               Title and scope of the project            Resolving diagnostic and therapeutic uncertainty in diabetics with heart failure symptoms in a rural teaching hospital 
+               Sponsoring agent if any          �Current institution
+               Project Leader                Dr. Aditya Samitinjay, Postgraduate 
+                                                      Dr. Rakesh Biswas, Prof. & HOD 
+
+               Year in which started                  2018
+                      
+               Duration in months                     24
+
+               Capital (estimated in lakhs)              5
+
+               Recurring (estimated in lakhs) 0.5
+               Total (estimated in lakhs)     7
+               Foreign Exchange(in INR)
+               Remarks                     Echo machine as a tool (pre existing institutional capital)
+
+
+2018-2019 (ongoing)
+
+2) Scope 
+
+Resolving diagnostic and therapeutic uncertainty in patients with critical illness and hyponatremia in a rural teaching hospital 
+
+Sponsoring Agency: Current institution
+
+Project leader: MR (PG) and RB (guide)
+
+Year in which started: 2018
+
+Duration in months: 24
+
+Capital estimated in Lakhs: 10
+
+Laboratory testing infrastructure (pre existing institutional capital)
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+Total estimated in Lakhs: 12
+
+Foreign exchange in lakhs NA
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time.
+
+2019-20 (Ongoing)
+
+3)
+Scope:
+
+Resolving diagnostic and therapeutic uncertainty in patients with heart failure and preserved ejection fraction
+
+Sponsoring Agency: Current institution
+
+Project leader: AV (PG) and RB (guide)
+
+Year in which started: 2019
+
+Duration in months: 24
+
+Capital estimated in Lakhs: 5
+
+Echo machine as a tool (pre existing institutional capital)
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+Total estimated in Lakhs: 7
+
+Foreign exchange in lakhs NA
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time.
+
+2020-21
+
+4) Scope
+
+Resolving diagnostic and therapeutic uncertainty in unexplained pulmonary hypertension
+
+Sponsoring Agency: Current institution
+
+Project leader: VK (PG) and RB (guide)
+
+Year in which started: 2020
+
+Duration in months: 24
+
+Capital estimated in Lakhs: 5
+
+Echo machine as a tool (pre existing institutional capital)
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+Total estimated in Lakhs: 7
+
+Foreign exchange in lakhs NA
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time.
+
+
+5)
+
+Scope:
+
+Resolving diagnostic and therapeutic uncertainty in critically ill renal failure patients in a rural teaching hospital
+
+Sponsoring Agency: Current institution
+
+Project leader: KM (PG) and RB (guide)
+
+Year in which started: 2020
+
+Duration in months: 24
+
+Capital estimated in Lakhs: 10
+
+Laboratory testing infrastructure (pre existing institutional capital)
+
+Recurring estimated in Lakhs: 0.5 (annual maintenance of tool) and ancillary 0.5
+
+Total estimated in Lakhs: 12
+
+Foreign exchange in lakhs NA
+
+Remarks: Ongoing with findings soon to be shared in peer reviewed as well as non peer reviewed platforms from time to time.
+                  1.
+             1. Specific R&D achievements for past years: April2017-March18, 18-19, 19-20, April 20-March21)
+             1. New products/processes/methods/techniques developed:
+
+April 2017 to March 2018
+
+As mentioned in detail above we developed a 
+
+1) Usage model of a regular continuing medical education through practice based data driven by patient and health professional users aka CBBLE (based on concept of user driven healthcare
+published earlier extensively in books and journals by our team. 
+
+2) Developed an usage model functional prototype of Collective, user driven  conversational peer review of real time open access research submissions"
+
+2018-19
+
+2) Functional prototype of a
+"graphical patient timeline at a glance" to enable quick optimal clinical decision making toward improved patient outcomes 
+
+2019-2020
+
+3) frugal bedside innovations described above including fever pattern recognition and other  vital data pattern analysis from patient monitoring 
+
+
+
+             1. Improvements in existing products/processes/methods/techniques :
+
+Existing processes were successfully disrupted with our newer usage models 
+
+             1.  Societal outcome of the R&D activities undertaken:
+
+Improving of health professional and patient learning outcomes along with patient health outcomes 
+
+
+             1.  Import substitution (Give estimate of foreign exchange saved or likely to be saved per annum):
+
+NA
+
+             1.  Linkages with industry-projects carried out on their behalf (Give details) :
+
+Industry Partnerships:
+
+1) With Arintra AI solutions based in Austin, TX 78731, USA toward building a Clinical AI platform for faster visit documentation through automation supported patient data capture.
+
+Remarks: Project was  winner of Ayushman Bharat PMJAY Start-Up Grand Challenge, a call to action to generate cutting-edge solutions for supporting the National Health Authority, India (NHA).
+ Posted by
+ caregiver7careseeker    at
+ 9:30 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _▼ _ February (14)
+                # Medicine_Department_roster_for_March_2021
+                # Medicine_department_project_on_resolving_diagnosti...
+                # Medicine_department_projects,_presentations,_publi...
+                # Medicine_department_presentations_and_publications_2
+                # Medicine_department_Presentations_and_Publications_1
+                # Medicine_department_projects_as_per_dsir_template
+                # Post_Graduate_Student’s_Seminar_presentations_from...
+                # Ongoing_and_completed_projects
+                # Medicine_paper_for_February_2021_bimonthly_blended...
+                # Blended_bimonthly_assessment_Dec_2020-Jan_2021_res...
+                # Ward_PGY3_duty_roster
+                # Ward_notes_3rd_February_2021_and_pending_information
+                # Current_ward_cases
+                # Medicine_department_time_table
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

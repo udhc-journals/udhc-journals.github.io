@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+____
+
+**** Search This Blog ****
+[q                   ]
+[Search]
+****** Dr_Kulkarni_thesis ******
+
+**** DISSERTATION 2020-2022 ****
+
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+ _September_21,_2020_
+DISSERTATION 
+Dr. Saicharan Kulkarni pgy1 ( 2020 )
+TITLE_OF_THE_TOPIC_:
+ CLINICO-RADIOLOGICAL PROFILE, RISK FACTORS AND OUTCOMES IN PATIENTS WITH MOTOR
+WEAKNESS
+
+
+BRIEF RESUME OF THE INTENDED WORK
+Problem Representation 
+
+1)The repercussions of paralysis/weakness are enormous, both personally to the
+individual and to their family; and have huge economic costs to society.
+Paralysis takes many forms with multiple disorders causing paralysis, and
+multiple body systems often affected.(1,)
+ 
+2) Motor learning is considered crucial for rehabilitation in general. In
+stroke, motor learning does not refer to the acquisition of new skills, but to
+the re-learning process of a previously acquired movement pattern.(2)
+ 
+3) 3. Though both clinical evaluation and MRI are complimentary in detection
+and precise localization of the level of lesion in patients with cervical
+myelopathy, there is paucity of data comparing segment specific clinical
+features with the MRI abnormalities in cervical myelopathy.(3)
+ 
+ 4) In neurological rehabilitation, patients can be presented with diverse
+combinations of physical, cognitive, communicative and behavioural impairments,
+which may impact on rehabilitation potential.(4)
+ 
+5) A standardised assessment of neurological impairment may provide an
+opportunity to control differences in case-mix and so assist interpretation of
+functional gains in different populations.(5)
+Outcomes of motor paralysis/weakness usually are Normal function, affecting
+high level functions only, significant limitation but some useful function and
+little or no useful function(5)
+
+ 
+6.2  Aims and objectives of the study
+
+ AIM OF THE STUDY 
+1.To study the clinical Features and radiological features of the patient with
+motor Weakness 
+
+OBJECTIVES OF THE STUDY
+1. To study the Risk factors in patients with motor Weakness
+ 2. To study the outcome of the Patient with motor Weakness 
+  
+6.3 Study design of the topic
+Non experimental, Qualitative Study 
+ 
+  Inclusion criteria
+ 1.All patients with Motor Weakness
+ 2.All age groups more than 18years
+ 3.Patients of Both Genders
+
+Exclusion criteria
+ AGE GROUP LESS THAN 18 YEARS
+ 
+Sample size and duration of the study
+ Proposed No. of cases to be studied = 50
+November 2020- October 2022
+ 
+MATERIALS  &  METHODSS
+Sourceof the data :
+Department of General Medicine
+Kamineni institute of medical sciences,
+Narketpally, Nalgonda(Dist), Telangana.  
+ 
+  Investigations Required
+ 1. Complete blood picture
+2. Complete urine examination 
+3. Chest x ray
+4. ECG 
+5. MRI/CT SCAN
+6. Fasting blood sugar (in selected Pt’s)
+7. Post prandial blood sugar (in selected Pt’s)
+8. Serum Electrolytes 
+9. Fasting Lipid Profile (in selected Pt’s)
+10.HbA1C (in selected Pt’s) 
+11.2D-ECHO
+12.Carotid artery Doppler
+
+LINK FOR MASTER CHART : 
+master_chart
+
+PATIENT INFORMATION SHEET
+English:
+English_consent_form
+Telugu:
+Telugu_consent_form
+
+Template of this "patient information sheet" is borrowed from this website:
+https://www.ncbi.nlm.nih.gov/books/NBK261334/
+And modified accordingly to my thesis topic.
+
+                          ****** OBSERVATIONS ******
+ 
+A total of 50 patients with motor weakness and their clinical features,
+radiological features, risk factors and outcomes were included in the study.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table_No.1_:_ANALYSIS_OF_MOTOR_WEAKNESS_CASESBASED_ONAGE_(n=50)
+ 
+ 
+AGE (in years) Frequency Percentage(%)
+18-29          10        20%
+30-39          04        8%
+40-49          05        10%
+50-59          12        24%
+60-69          13        26%
+70 and above   06        12%
+Total          50        100%
+ 
+ 
+ 
+[file:///data/user/0/com.microsoft.office.word/files/temp/msohtmlclip/
+clip_image002.png]
+
+***** Table_No.2_:_ANALYSIS_OF_CASESBASED_ONGENDER_(n=50) *****
+ 
+                                        
+        Gender         Frequency                  Percentage(%)
+         Male                   31                     62%
+        Female                  19                     38%
+        Total                   50                     100%
+                                        
+    [file:///data/user/0/com.microsoft.office.word/files/temp/msohtmlclip/
+                              clip_image004.png]
+                                        
+Between Nov 2020 and Oct 2022, 50 patients with motor weakness/paralysis
+admitted at Kamineni Institute of Medical Sciences, Nalgonda were studied. The
+male to female ratio was 1.6:1 (n=50, Males-31: Females-19). Out of these
+patients only 38% (n=19) were ≤49 years and 62% (n=31) were >49 years. The
+maximum frequency of motor weakness was found for ages more than 49 years.
+                                        
+Table_No.3_:_ANALYSIS_OF_CASESBASEDCLINICAL_PROFILE(n=50)
+                                        
+      CLINICAL_PROFILE              Frequency               Percentage
+     RIGHT_HEMIPARESIS                 16                      32%
+      LEFT_HEMIPARESIS                 11                      22%
+        PARAPARESIS                    08                      16%
+       QUADREPARESIS                   07                      14%
+        MONOPARESIS                    04                       8%
+ CRANIAL_NERVE_(III_/_VII)             04                       8%
+           TOTAL                       50                      100%
+
+                                        
+ 
+ 
+ [file:///data/user/0/com.microsoft.office.word/files/temp/msohtmlclip/
+ clip_image006.png]
+
+
+ 
+ 
+In our study, Most common clinical feature was hemiplegia/hemiparesis. Fifty
+four percent (54%) patients had hemiplegia/hemiparesis. Among these left sided
+weakness was more common (59% patients had left sided hemiplegia/hemiparesis).
+ 
+Table_No.4_:_ANALYSIS_OF_CASESBASED_ONVASCULAR_INVOLVEMENT(n=50)    
+ 
+ETIOLOGY                  Frequency Percentage(%)
+Cerebrovascular_accidents 34        68%
+Non_Vascular_causes       16        32%
+Total                     50        100%
+ 
+ 
+[file:///data/user/0/com.microsoft.office.word/files/temp/msohtmlclip/
+clip_image008.png]
+ 
+Table_No.5:_ANALYSIS_OF_CASESBASED_ON_PREVIOUS_HISTORY_OF_STROKE/TIA(n=50)
+                                        
+               Previous_H/O_stroke Male     Female     Frequency
+               Present             8_(26%)  5 _(26.4%)13_(26%)
+               Absent              23_(74%) 14_(73.6%) 37_(74%)
+               Total               31_(62%) 19_(38%)   50_(100%)
+ 
+ 
+    [file:///data/user/0/com.microsoft.office.word/files/temp/msohtmlclip/
+                              clip_image010.png]
+                                        
+In our study, most common cause of motor weakness was cerebrovascular accidents
+(CVA). Sixty Eight percent (68%) patients had cerebrovascular accidents (CVA).
+Among these 26% (n=13) patients had past H/O of stroke/TIA.
+ 
+
+***** Table_No.6_:_ANALYSIS_OF_CASES_BASED_ON_DIABETES_&_HYPERTENSION_AS_RISK
+FACTORS_ (n=50) *****
+ 
+ 
+                  Male Female Frequency Percentage
+Diabetes_only     1    1      2         4%
+Hypertension_only 6    2      8         16%
+DM_&_HTN          5    3      8         16%
+No_DM_&_HTN       19   13     32        64%
+Total             31   19     50        100%
+ 
+References
+reference_links_(_Vancouver_style_)
+
+OBSERVATIONS_&_RESULTS_(_DOCUMENT)
+observations_and_results
+
+1)     Katoh S, el Masry WS. Motor recovery of patients presenting with motor
+paralysis and sensory sparing following cervical spinal cord injuries.
+Paraplegia. 1995 Sep;33(9):506-9. doi: 10.1038/sc.1995.110. PMID: 8524602.
+ 
+2)     Peckham PH, Kilgore KL. Challenges and opportunities in restoring
+function after paralysis. IEEE Trans Biomed Eng. 2013 Mar;60(3):602-9. doi:
+10.1109/TBME.2013.2245128. Epub 2013 Mar 7. PMID: 23481680; PMCID: PMC4046583.
+ 
+3)       Kumar, P. S., & Kalpana, R. Y. (2015). Clinico-radiological
+correlation in a cohort of cervical myelopathy patients. Journal of clinical
+and diagnostic research : JCDR, 9(1), TC01–TC7. https://doi.org/10.7860/JCDR/
+2015/10850.5378
+ 
+ 
+4)     https://www.kcl.ac.uk/cicelysaunders/resources/tools/nis
+ 
+5)     Asefa G, Meseret S. CT and clinical correlation of stroke diagnosis,
+pattern and clinical outcome among stroke patients visting Tikur Anbessa
+Hospital. Ethiop Med J. 2010 Apr;48(2):117-22. PMID: 20608015.
+ 
+
+ 
+
+
+Links To Patients E-log:
+
+BLOG LINK
+1. http://srujanareddykondamadugula.blogspot.com/2020/08/unit-3-general-
+medicine-case.html
+
+2. https://vsupriyareddy35.blogspot.com/2020/09/23yr-old-acute-infarct.html
+
+3. https://sreejaboga.blogspot.com/2020/09/is-online-e-log-book-to-discuss-
+our.html
+
+4. https://pamardeepika24.blogspot.com/2020/09/65-yr-old-male-with-acute-onset-
+of.html
+
+5. https://mahathireddybandari.blogspot.com/2020/09/55-f-with-right-sided-
+weakness-and.html
+
+6. https://drkulkarnithesis.blogspot.com/2020/10/65m-with-recurrent-cva-with-
+visual.html
+
+7. https://pravalikachithanuri.blogspot.com/2020/10/this-is-online-e-log-book-
+to-discuss_9.html?m=1
+
+8. https://harikachindam7.blogspot.com/2020/12/26-year-old-female-with-
+complaints-of.html
+
+9. https://mohithak.blogspot.com/2021/01/27year-old-male-with-
+ankylosing.html?m=1
+
+10. https://navyamallempalli.blogspot.com/2021/02/60-year-old-male-who-is-band-
+drummer.html
+
+11. http://jessusanjay.blogspot.com/2021/02/75-yrs-old-female-with-cva.html
+
+12. https://supriyareddy2396.blogspot.com/2021/02/55-yr-old-with-weakness-of-
+left-upper.html
+
+13. http://soumya9814.blogspot.com/2021/02/this-is-online-e-log-book-to-
+discuss.html
+
+14. http://nikhilreddykooluru.blogspot.com/2021/03/this-is-online-e-log-book-to-
+discuss.html
+
+15. https://archanareddy07.blogspot.com/2021/03/60m-with-cva.html
+
+16. https://sravyakandala.blogspot.com/2021/02/16-yo-male-with-lmn-facial-
+palsy.html
+
+17. https://swathibogari158.blogspot.com/2020/11/a-60-yer-old-female-cva-with-
+left.html?m=1
+
+18. https://swathibogari158.blogspot.com/2020/10/37-yr-old-male-came-with-co-
+tingling.html?m=1
+
+19. https://sushma29.blogspot.com/2020/10/acute-hemorrhagic-strokert-
+sided.html?m=1
+
+20. https://galinagajyothi.blogspot.com/2020/12/this-is-online-e-log-book-to-
+discuss_26.html?m=1
+
+21. https://chownikareddy.blogspot.com/2020/12/65-m-with-altered-sensorium-and-
+right.html?m=1
+
+22. https://shirisha19.blogspot.com/2020/12/18-year-old-man-from-singaram-
+presented.html?m=1
+
+23. https://nikhilreddykooluru.blogspot.com/2021/03/this-is-online-e-log-book-
+to-discuss_15.html?m=1
+
+24. https://amishajaiswal03eloggm.blogspot.com/2021/05/a-50-year-old-patient-
+with-cervical.html
+
+25. https://caseopinionsbyrollno05.blogspot.com/2021/06/case-of-38-year-old-
+male-with-acute-cva.html
+
+
+
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Comments ****
+   1. caregiver7careseekerOctober_12,_2020_at_9:06 PM
+      Thanks. Well done thesis blog.
+
+      Corrections in title
+
+      Instead of
+
+      "TOPIC : 
+
+      CLINICAL AND RADIOLOGICAL PROFILE, RISK FACTORS, AND OUTCOME IN THE
+      PATIENT OF MOTOR PARALYSIS IN RURAL MEDICAL COLLEGE"
+
+      Correct to
+
+
+      "TOPIC : 
+
+      CLINICO-RADIOLOGICAL PROFILE, RISK FACTORS, AND OUTCOMES IN PATIENTS OF
+      MOTOR PARALYSIS IN A RURAL MEDICAL COLLEGE"
+      ReplyDelete
+      Replies
+            Reply
+   2. caregiver7careseekerOctober_12,_2020_at_9:06 PM
+      Corrections in "expected outcomes"
+
+      Instead of
+
+      "EXPECTED OUTCOMES: (Based on NIS scale)
+
+      NORMAL FUNCTION
+
+      AFFECTING HIGH LEVEL FUNCTION ONLY
+
+      SIGNIFICANT LIMITATIONS, BUT SOME USEFUL FUNCTION 
+
+      LITTLE OR NO USEFUL FUNCTION, EFFECTIVELY LIMITING REHABILITATION 
+
+      UNKNOWN OR UNTESTABLE"
+
+      Correct to
+
+       EXPECTED Quantitative OUTCOMES: (Based on NIS scale)
+
+      Study the time taken to achieve NORMAL FUNCTION
+
+      Number of people with affection of HIGH LEVEL FUNCTION alone
+
+      Number of people with SIGNIFICANT Activity LIMITATIONS, BUT retaining
+      SOME USEFUL FUNCTION 
+
+      LITTLE OR NO USEFUL FUNCTION and it's qualitative EFFECT on LIMITING
+      REHABILITATION 
+
+      Number of patients with diagnostic and therapeutic uncertainty due to
+      resource constraints
+
+      Qualitative documentation of lived experiences in patients with motor
+      paralysis
+      ReplyDelete
+      Replies
+            Reply
+   3. caregiver7careseekerOctober_17,_2020_at_6:27 AM
+      Please cite the references in the text just after you quote them.
+      Remember you can't quote more than one or two lines from any reference.
+
+      The paragraph below appears to have been quoted from some reference?
+      Please cite that reference in the text. Please google and learn how to
+      cite references in text.
+
+      "Paralysis means loss of voluntary movement as a result of interruption
+      of one of the motor pathways at any point from the cerebrum to the muscle
+      fiber. A lesser degree of paralysis is spoken of as paresis. The word
+      plegia comes from a Greek word meaning "to strike," and the word palsy is
+      from an old French word that has the same meaning as paralysis."
+      ReplyDelete
+      Replies
+            Reply
+Add comment
+Load more...
+*** Post a Comment ***
+
+**** Popular posts from this blog ****
+**** Case_28_-_28_M_with_Quadreparesis ****
+
+ _October_22,_2021_
+[Image]
+  A 28 year old male came with chief complaints of sudden fall followed by
+weakness of both the lower limbs (paraplegia) and loss of hand grip 10 days
+back, associated with bowel and bladder incontinence. History of present
+illness: Patient was apparently asymptomatic 1 month back, following which he
+developed productive cough, low grade fever for which he underwent sputum
+studies and tested positive for AFB bacilli and started ATT - HRZE regimen, 2
+tab according to weight/PO/OD. He developed generalized weakness and myalgia 15
+days back. 10 days back, patient got up from bed and went to open the door and
+suddenly fell down, with no loss of consciousness and no froathing. Following
+which his brother got him up and since then Patient developed bowel and bladder
+incontinence. No sensory impairment. Past history : He is a known case of TB
+since 1month and on ATT - HRZE Not a known case of DM,HTN, ASTHMA, EPILEPSY,
+THYROID DISORDERS, STROKE, CAD. Personal history : Diet - mixed Appetite -
+Read_more
+
+**** Case_32_-_39M_WITH_ALTERED_SENSORIUM_AND_B/L_LOWER_LIMB_PARAPLEGIA_WITH
+INVOLUNTARY_MOVEMENTS_OF_UPPER_LIMBS_WITH_BED_SORES. ****
+
+ _March_16,_2022_
+[Image]
+  39M WITH ALTERED SENSORIUM AND B/L LOWER LIMB PARAPLEGIA WITH INVOLUNTARY
+MOVEMENTS OF UPPER LIMBS WITH BED SORES.  November 10, 2021 A 39 Yr old male ,
+electrician by occupation, with no significant medical history since childhood.
+Chief complaints:- **C/o decreased responsiveness since 2 days **Not eating
+since 2 days  **Decreased speech since 2 days--completely not talking since
+today morning. Past illness:- **8 months ago -- c/o low back ache , pain
+abdomen -- was told to have renal stones , meatal stenosis--underwent urethral
+dilatation in July 2021. ** August last week , 2021 -- c/o left lower limb
+weakness, slow gradually progressed to right LL -- B/L Paraplegia -- MRI was
+done --? Potts spine Used ATT for 15 days and stopped , due to nausea and loss
+of appetite, patient was bedridden since, then , used unani medication. **H.D
+was adviced 2 months ago - but didn't get it done due to fear of death ( among
+relatives deaths on H.D+) ** Since September 2021--Bed sores develope
+Read_more
+___Powered_by_Blogger
+Theme images by Michael_Elkan
+
+
+  Dr_Kulkarni_Sai_charan
+Visit_profile
+
+**** Archive ****
+
+    * March_20225
+    * November_20211
+    * October_202126
+    * April_20211
+    * March_20212
+    * October_20201
+    * September_20201
+**** Report_Abuse ****

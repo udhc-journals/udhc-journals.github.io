@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Thursday, December 1, 2016 *****
+
+
+**** THE LECTURE TOPICS OF M.B.B.S. STUDENTS in WBUHS MEDICINE ****
+As per the WBUHS schedule for Medicine downloaded here: http://www.wbuhs.ac.in/
+Syllabus/Syllabus_selection.asp,  lectures in Medicine generally are supposed
+to begin only from the 4th semester. Below are the details of the lecture
+topics pasted from the WBUHS site (as the site doesn't have provision for
+visualizing it through a link but one has to download a word file from http://
+www.wbuhs.ac.in/Syllabus/Syllabus_selection.asp
+
+
+
+THE LECTURE SCHEDULE OF M.B.B.S. STUDENTS
+SUBJECT: MEDICINE
+
+ ________________________________________________________________________________
+|4TH_&_5TH_SEMESTER______________________________________________________________|
+|SL.|T.B._AND_RESPIRATORY_DISEASES_______________________________________________|
+|1  |Introduction: Applied Anatomy, Physiology, Pathology and Microbiology,      |
+|___|Investigations______________________________________________________________|
+|2__|Pneumonias__________________________________________________________________|
+|3__|Lung_Abcess,_Bronchiectasis,_Empyema________________________________________|
+|4__|Bronchitis,_Emphysema_______________________________________________________|
+|5__|Bronchitis,_Emphysema_______________________________________________________|
+|6__|Asthma,_Tropical_Eosinophilia,_Interstitial_Lung_Diseases.__________________|
+|7__|Neoplasm_of_Lungs_And_Pleura________________________________________________|
+|8__|Neoplasm_of_Lungs_And_Pleura________________________________________________|
+|9__|Diseases_of_Pleura,_Pneumothorax,_Collapse_Of_Lungs_________________________|
+|10_|Pulmonary_TB_and_MDR_Tuberculosis___________________________________________|
+|11_|Pulmonary_TB_and_MDR_Tuberculosis___________________________________________|
+|12_|Other_Lung_Diseases_and_ARDS________________________________________________|
+|___|SKIN_AND_STD_DISEASES_______________________________________________________|
+|1  |Introduction: Applied Anatomy, Physiology, Biochemistry, Embryology,        |
+|___|Pathology_and_Microbiology._________________________________________________|
+|2__|Bacterial_Diseases_and_Tropical_Infections__________________________________|
+|3__|Bacterial_Diseases_and_Tropical_Infections__________________________________|
+|4__|T.B.,_Syphilis______________________________________________________________|
+|5__|Leprosy_____________________________________________________________________|
+|6  |Viral Skin Diseases: Herpis Simplex, Herpis Zoster, Warts, Molluscum        |
+|___|Contagiosum,_Condyloma_Acuminatum,_Exant_Hemata_____________________________|
+|7  |Parasitic Skin Diseases and Skin Diseases Due To Animal Organism: Scabies,  |
+|___|Pediculosis,_Insect_Bite,_Filariasis________________________________________|
+|8  |Parasitic Skin Diseases and Skin Diseases Due To Animal Organism: Scabies,  |
+|___|Pediculosis,_Insect_Bite,_Filariasis________________________________________|
+|9__|Fungal_Skin_Diseases:_Tinea,_Moniliasis,_Actinomycosis,_Rhinosporidosis_____|
+|10 |Dermatitis And Eczema, Skin Affection By Physical Agents (Heat, Light, Cold,|
+|___|Friction_etc.)______________________________________________________________|
+|11 |Dermatitis And Eczema, Skin Affection By Physical Agents (Heat, Light, Cold,|
+|___|Friction_etc.)______________________________________________________________|
+|___|GENERAL_MEDICINE_(GASTRO-INTESTINAL_SYSTEM)_________________________________|
+|1  |Introduction: Applied Anatomy, Physiology, Pathology and Microbiology,      |
+|___|Investigations______________________________________________________________|
+|2  |Diseases of mouth, oesophagus, dysphagia, hiatus hernia, pharyngeal pouch   |
+|___|(GORD)______________________________________________________________________|
+|3__|Peptic_ulcer_with_special_reference_to_H._pylori_infection__________________|
+|4__|Gastro-duodenal_bleeding:_hematemesis,_malaena______________________________|
+|5__|Malabsorption_syndrome______________________________________________________|
+|6__|Inflammatory_bowel_disease_and_peritoneal_disease___________________________|
+|7__|Diarrhoea,_dysenteries,_I.B.S.______________________________________________|
+|8  |Cirrhosis of liver, portal hypertension, ascites, jaundice, hepatic coma    |
+|___|(porto-systemic_encephalopathy)_____________________________________________|
+|9  |Cirrhosis of liver, portal hypertension, ascites, jaundice, hepatic coma    |
+|___|(porto-systemic_encephalopathy)_____________________________________________|
+|10_|Viral_hepatitis,_amoebic_hepatitis_&_abscess,_alcoholic_liver_disease_______|
+|11_|Viral_hepatitis,_amoebic_hepatitis_&_abscess,_alcoholic_liver_disease_______|
+|12_|Liver_tumours,_peritoneal_diseases__________________________________________|
+|13_|Diseases_of_Gall_Bladder_and_biliary_tract__________________________________|
+|14_|Diseases_of_Pancreas________________________________________________________|
+|15_|Recent_advances_in_Gastroenterology_________________________________________|
+|___|ENDOCRINOLOGY_______________________________________________________________|
+|1  |Introduction to endocrine diseases: Applied Anatomy, Physiology- hormone    |
+|___|receptors,_central_control_and_feedback_(positive_and_negative)_____________|
+|2__|Hypothalamic_and_pituitary_diseases_________________________________________|
+|3  |Diseases of thyroid and parathyroid including calcitonin secretion and      |
+|___|disorder____________________________________________________________________|
+|4  |Diseases of thyroid and parathyroid including calcitonin secretion and      |
+|___|disorder____________________________________________________________________|
+|5__|Disorders_of_sex_and_reproduction___________________________________________|
+|6__|Diseases_of_adrenals-_cortex_and_medulla____________________________________|
+|7__|Diseases_of_adrenals-_cortex_and_medulla____________________________________|
+|8  |Ectopic hormone secretion and endocrine treatment of malignancies, hormone  |
+|___|replacement_therapy.________________________________________________________|
+|9__|Chromosomal_disorders.______________________________________________________|
+|___|PSYCHIATRY__________________________________________________________________|
+|1  |Introduction and general aspects: Epidemiology, community psychiatry,       |
+|___|techniques_of_the_psychiatric_interview_and_psychiatric_history_taking______|
+|2  |Symptomatology: Symptoms and signs of psychiatric disorders- concept of     |
+|   |normality, identification and assessment of symptoms, subtle and gross signs|
+|   |of abnormal behaviour. Principles of treatment used in Psychiatry –       |
+|   |Psychotherapy, Behaviour therapy, cognitive therapy, physical treatment     |
+|   |including drugs, social treatment, E.C.T. psycho-surgery: “Psychiatric Fir|t
+|___|Aid”._____________________________________________________________________|
+|3__|-do-________________________________________________________________________|
+|4  |Etiology of mental disorders- giving balanced presentation of its           |
+|   |multifactorial causation (genetic endowment, somatic, psychological and     |
+|   |social)- predisposing precipitating and perpetuating factors. Classification|
+|___|of_psychiatric_disorders_and_concept_of_psychosomatic_diseases._____________|
+|5  |Organic psychiatric disorders- delirium, dementia, substance misuse         |
+|___|(alcoholism_and_drug_abuses)._______________________________________________|
+|6__|Schizophrenia_and_delusional_disorders______________________________________|
+|7  |Affective disorders-depression, mania, suicide and attempted suicide        |
+|___|(deliberate_self_harm)______________________________________________________|
+|8  |Neuroses and personality disorders- anxiety and neurosis, obsessional       |
+|___|neurosis,_hysterical_neurosis,_hypochondriacal_neurosis.____________________|
+|9  |Reaction to severe stress- acute stress reaction and post traumatic stress  |
+|   |disorders (PTSD), Eating disorders- anorexia nervosa, bulimia nervosa,      |
+|   |obesity sleep disorders, insomnia, parasomnias. Sexual dysfunction and      |
+|___|puerperal_psychosis_________________________________________________________|
+|10_|Mental_retardation_and_children’s_behaviour_problem_______________________|
+|11_|Community_psychiatry_ans_psychiatric_emergencies,_legal_aspect_of_psychiatry|
+|12 |Psychiatric prevention and mental health promotion and role of general      |
+|___|practitioner._______________________________________________________________|
+|6TH_&_7TH_SEMESTER______________________________________________________________|
+|___|SKIN_AND_STD________________________________________________________________|
+|1__|Bullous_dermatoses_and_tumours_of_skin______________________________________|
+|2  |Diseases associated with sebaceous glands (seborrhoeic dermatitis, Acne     |
+|   |vulgaris, Acne Rosacea, Pityriasis capititis), sweat glands, hairs and      |
+|___|nails.______________________________________________________________________|
+|3__|Cutaneous_manifestations_of_systemic_diseases_and_malignancy________________|
+|4__|Pigment_disorders___________________________________________________________|
+|5__|Diseases_of_mucous_membranes_(mouth_&_genitalia)____________________________|
+|6__|Skin_affections_in_Metabolic,_Nutritional,_Vascular_and_Endocrinal_disorders|
+|7  |Erythamato-squamous and lichenoid eruptions- psoriasis, pityriasis rosea,   |
+|___|exfoliating_dermatitis,_lichen_planus_and_other_lichenoid_eruptions_________|
+|8  |Congenital disorders-Naevi, albinism, Ichthyosis, keratodermas,             |
+|___|Epidermolysis_bullosa_______________________________________________________|
+|9__|Pruritus____________________________________________________________________|
+|10 |Principals of dermatological treatment including skin surgery and physical  |
+|___|treatment___________________________________________________________________|
+|___|HAEMATOLOGY_________________________________________________________________|
+|1__|Haemolytic_Anaemia__________________________________________________________|
+|2__|Approach_to_a_bleeding_patient______________________________________________|
+|3__|Iron_deficiency_Anaemia,_Macrocytic_Anaemia_________________________________|
+|4__|Leukaemias__________________________________________________________________|
+|5__|Leukaemias__________________________________________________________________|
+|6__|Lymphoma____________________________________________________________________|
+|7__|Haematological_manifestation_of_systemic_disorders__________________________|
+|8__|Haematoproliferative_disorder-_Multiple_Myeloma_____________________________|
+|9__|Aplastic_Anaemia____________________________________________________________|
+|10_|Transfusion_Medicine________________________________________________________|
+|___|DISEASES_OF_KIDNEY,_URETER_AND_BLADDER______________________________________|
+|1__|Introduction-_Pathophysiology_and_Investigations____________________________|
+|2__|Glomerulonephritis_and_acute_nephritic_syndrome_____________________________|
+|3__|Urinary_tract_infection_and_tubulo-interstitial_nephritis___________________|
+|4  |Renal affection in systemic diseases- SLE, Vasculitis, Diabetes, systemic   |
+|   |sclerosis, amyloidosis, multiple myeloma, haemolytic uraemic syndrome, gout,|
+|___|Hypertension,_Renal_artery_stenosis,_renal_vein_thrombosis__________________|
+|5  |Renal affection in systemic diseases- SLE, Vasculitis, Diabetes, systemic   |
+|   |sclerosis, amyloidosis, multiple myeloma, haemolytic uraemic syndrome, gout,|
+|___|Hypertension,_Renal_artery_stenosis,_renal_vein_thrombosis__________________|
+|6__|Calculi_and_Nephrocalcinosis,_Hydronephrosis,_Obstructive_uropathy__________|
+|7__|Acute_renal_failure_________________________________________________________|
+|8__|Dialysis____________________________________________________________________|
+|9__|Nephritic_syndrome__________________________________________________________|
+|10_|Chronic_renal_failure_and_fluid-electrolyte_balance,_Acidosis_and_alkalosis_|
+|11_|Chronic_renal_failure_and_fluid-electrolyte_balance,_Acidosis_and_alkalosis_|
+|12_|Cystic,_congenital_and_familial_diseases_of_kidneys_________________________|
+|13_|Drugs_and_kidneys___________________________________________________________|
+|14 |Tumours of the kidney and genitor-urinary tract, hypernephroma, Wilm’s    |
+|___|tumour,_renal_adenoma,_prostatic_adenoma_and_Ca-prostate,_testicular_tumours|
+|15_|Recent_advances_in_Nephrology_______________________________________________|
+|___|CARDIOVASCULAR_SYSTEM_______________________________________________________|
+|1  |Introduction: Applied Anatomy, Physiology, Pathology and Microbiology,      |
+|___|Investigations______________________________________________________________|
+|2__|Disorders_of_cardiac_rhythm_and_conduction__________________________________|
+|3__|Disorders_of_cardiac_rhythm_and_conduction__________________________________|
+|4__|Rheumatic_Fever_____________________________________________________________|
+|5__|Valvular_heart_diseases_____________________________________________________|
+|6__|Valvular_heart_diseases_____________________________________________________|
+|7__|Valvular_heart_diseases_____________________________________________________|
+|8__|Bacterial_Endocarditis______________________________________________________|
+|9__|Pericarditis_and_pericardial_effusion_______________________________________|
+|10_|I.H.D.______________________________________________________________________|
+|11_|I.H.D.______________________________________________________________________|
+|12_|Cardimyopathy,_Myocarditis__________________________________________________|
+|13_|Hypertension________________________________________________________________|
+|14_|Heart_failure_______________________________________________________________|
+|15_|Cor-pulmonale_______________________________________________________________|
+|16_|Congenital_heart_disease____________________________________________________|
+|17_|Recent_advances_in_Cardiology_______________________________________________|
+|___|METABOLIC_DISEASES_AND_NUTRITIONAL_DISEASES_________________________________|
+|1__|Introduction_and_Nutritional_Therapy________________________________________|
+|2__|Diabetes_Mellitus_complications,_C/F,_etiology,_management__________________|
+|3__|Diabetes_Mellitus_complications,_C/F,_etiology,_management__________________|
+|4__|Diabetes_Mellitus_complications,_C/F,_etiology,_management__________________|
+|5__|Disorders_of_lipid_metabolism_______________________________________________|
+|6__|Inborn_errors_carbohydrate,_amino_acid_metabolism,_Lyscaemal_storage_disease|
+|7__|Amyloidosis_and_porphyria___________________________________________________|
+|8__|Osteoporosis_and_osteomalacia_______________________________________________|
+|___|POISONING_AND_ADVERSE_DRUG_REACTIONS________________________________________|
+|1__|Introduction_and_General_Principles_of_management___________________________|
+|2__|corrosives-_H2SO4,_HCl,_HNO3,Carbolic_and_Oxalic_Acids,_NaOH________________|
+|3__|Phosphorus,_Organophosphorus_&_Chloride_____________________________________|
+|4  |Analgesics, salicylate, paracetamol, opium, inebrients, alcohol, chloroform,|
+|___|CH3OH_______________________________________________________________________|
+|5  |DHATURA, Cannabis, Vegetable irritants, aconite, Nux Vomica, Mushrooms,     |
+|___|Argemone_mexicanna_poisoning________________________________________________|
+|6__|CO_and_Phosgene_Gas_Cyanide_________________________________________________|
+|7__|Metallic:_As,_Hg,_Pb,_CuSO4,_Al,_Fe_________________________________________|
+|8__|Animals:_Scorpion,_Cantherides,_Snake_bites_________________________________|
+|9__|Psychotropic_drugs_and_Hypnotic_____________________________________________|
+|10 |Adverse drug reactions- definition, classification, factors and diseases    |
+|   |influencing drug reactions                                                  |
+|___|Monitoring_and_Reduction_of_adverse_drug_reactions__________________________|
+|___|INTENSIVE_CARE_MEDICINE_____________________________________________________|
+|1__|General_aspects_of_intensive_care,_O2_delivery_and_features_of_shock,_C.V.P.|
+|2__|Renal,_respiratory_failure_(ARDS),_Brain_death______________________________|
+|8TH_&_9TH_SEMESTER______________________________________________________________|
+|__|NEUROLOGY____________________________________________________________________|
+|1 |Introduction: Applied Anatomy, Physiology, Pathology and Microbiology,       |
+|__|Investigations_______________________________________________________________|
+|2_|Disorders_affecting_cranial_nerves___________________________________________|
+|3_|Coma_and_brain_death_________________________________________________________|
+|4_|Epilepsy_and_brain_tumours___________________________________________________|
+|5_|Cerebro-vascular_diseases____________________________________________________|
+|6 |Movement disorders- Parkinsonism and other disorders affecting the extra-    |
+|__|pyramidal_system_____________________________________________________________|
+|7_|Demyelinating_diseases_and_disorders_to_sleep________________________________|
+|8 |Infection of nervous system (Poliomyelitis, Pyogenic Meningitis, T.B.        |
+|  |Meningitis, fungal and other viral affection including encephalitis),        |
+|__|Syphilis_of_nervous_system___________________________________________________|
+|9_|Paraplegia_and_other_disorders_of_spinal_cord________________________________|
+|10|Peripheral_neuropathies______________________________________________________|
+|11|Degenerative_disorders-M.N.D._hereditary_ataxias_____________________________|
+|12|Myopathies,_myasthenia,_paramalignant_neurological_syndrome__________________|
+|13|Cervical_spondilosis_and_disc._Syndrome______________________________________|
+|14|Recent_advances_in_Neurology_________________________________________________|
+|__|RHEUMATOLOGY,_CONNECTIVE_TISSUE_AND_COLLAGEN_DISEASES._______________________|
+|1 |Introduction-anatomy, physiology and pathology (typical synovial joint       |
+|  |description)                                                                 |
+|__|Investigation________________________________________________________________|
+|2 |Osteoarthrosis and spondylo-arthopathies - ankylosing spondylitis, Reiter’s|
+|  |syndrome, reactive arthritis, enteropathic synovitis, juvenile chronic       |
+|__|arthritis_(Still’s_juvenile_R.A._Juvenile_ankylosing_spondylitis)._________|
+|3_|Infective_arthritis_–_pyogenic,_T.B._,VIRAL________________________________|
+|4_|Rheumatoid_arthritis_________________________________________________________|
+|5 |Crystal deposition diseases - Gout, pyrophosphate arthropathy acute calcific |
+|__|periarthritis._______________________________________________________________|
+|6 |Connective tissue diseases - S.L.E., systematic sclerosis (morphea CREST     |
+|  |syndrome polymyositis dermetomyositis, MCTD & vasculitis (PAN, polymyaligia  |
+|__|imatica_&_Giant_cell_arteritis)______________________________________________|
+|7_|Back_pain_&_disc_diseases_(acute_&_chronic)__________________________________|
+|8_|Recent_advances______________________________________________________________|
+|__|INFECTIONS_AND_TROPICAL_DISEASES_____________________________________________|
+|1_|Measles,_Mumps_______________________________________________________________|
+|2_|Dengue,_Diphtheria___________________________________________________________|
+|3_|Chicken_Pox,_Herpes__________________________________________________________|
+|4_|Small_Pox,_Plague,_Anthrax___________________________________________________|
+|_5|Whooping_cough_,_Influenza___________________________________________________|
+|6_|Tetanus,_Rabies______________________________________________________________|
+|7_|Typhoid,_Typhus______________________________________________________________|
+|8_|Cholera_&_Dysenteries_and_fluid_and_electrolyte_balance______________________|
+|9_|Malaria______________________________________________________________________|
+|10|Kala-azar____________________________________________________________________|
+|__|SKIN_AND_STD_________________________________________________________________|
+|1_|Discoid_lupus_,_PAN__________________________________________________________|
+|2_|Chancroid,_Granuloma_venereuma,_lymphogranuloma_venrereum____________________|
+|3_|Gonorrhoea,_Chlamydia_and_other_causes_of_urethritis_________________________|
+|4_|Sexually_transmitted_viral_disease.__________________________________________|
+|5_|STD_control_measures_and_aids_prevention.____________________________________|
+|__|GENERAL_MEDICINE_____________________________________________________________|
+|1 |STD/HIV interface ; AIDS and related disorders-definition, etiology          |
+|__|laboratory_diagnosis,_Immunology_____________________________________________|
+|2_|Clinical_features_of_HIV_infections_and_complications,_treatment_of_HIV______|
+
+
+MEDICINE
+****** Paper -I ******
+
+                                Full_Marks_-60
+                The_figures_in_the_margin_indicate_full_marks.
+  Candidates_are_required_to_give_their_answers_in_their_own_words_as_far_as
+                                 practicable.
+
+1.         Enumerate the causes of irregular pulse. Discuss the etiology &
+management of Atrial fibrillation.               
+                                                                       
+       2+2+6 = 10
+Or
+1. (a)    Outline the etiology, clinical features & management of Infective
+endocarditis.
+      2+4+4 = 10
+
+2.         Enumerate four common causes of haematemesis and malaena. How would
+you manage a case of haematemesis and malaena ?
+           3+7= 10
+Or
+2. (a)    Enumerate the different viruses causing hepatitis. What are the
+complication of vital hepatitis? How would you prevent Hepatitis 'BI infection?
+      3+3+4 = 10
+
+3.         How do you proceed to diagnose a case of Polyarthritis?
+                                       10
+Or
+3. (a)    Describe the clinical features of a case of acute falciparum malaria
+                       10
+
+4.         Answer any three
+                                                                               
+     (3 x 5) = 15
+
+i.                    Thrombolytic therapy in AMI
+ii.                  Diagnostic criteria of SLE.
+iii.                Bone changes in Chronic renal failure.
+iv.                Features of Vit B12 deficiency.
+v.                  Laboratory Diagnosis of Chronic Kala-azar.
+
+5.         Answer any three (Short notes)
+                                                                (3 x 5) = 15
+       i.     Cyanosis
+       ii.      G6PDdeficiency.
+       iii.     Granular Cast.
+       iv.     Acute gastroenteritis-treatment.
+       v.      Gene therapy.
+******   ******
+******   ******
+
+
+****** MEDICINE ******
+                                   Paper_-II
+                                Full_Marks_-60
+                The_figures_in_the_margin_indicate_full_marks.
+  Candidates_are_required_to_give_their_answers_in_their_own_words_as_far_as
+                                 practicable.
+
+1.         What are the causes of unilateral dullnes of the chest? How will you
+proceed to
+investigate a case of left sided pleural effusion?
+                                            3+7 = 10
+Or
+1 (a)     Discuss the causes of hyperresonant percussion note on chest?
+Outline the management of acute exacerbation of COPD?                  3+7 = 10
+
+2.         What are the causes of acute onset paraplegia? Discuss the clinical
+features of a case
+            of  Pott's disease of the spine producing paraplegia.
+                           3+ 7 = 10
+Or
+2 (a)     Outline the clinical features and management of Diabetic
+ketoacidosis.          4+6 = 10
+
+3.         Mention the causes of Haemolytic anaemia. Out line the management of
+Aplastic
+anaemia.                                                                                 
+4+6 = 10
+Or
+3 (a)     Discuss the clinical features and management of a case of Myxoedema.
+       6+4 = 10
+
+4.         Answer any three
+                                                                   
+            (3 x 5)=15.
+             i.  Common AIDS defining conditions
+ii. Complications of Fauceal diptheria.
+iii. Depression management.
+iv. Clinical features of Hypoglycemia.
+v. Role of CSF examination in medical disorders.
+
+5.         Short notes (any three)
+                                                                       
+           (3 x 5) = 15
+i. Psoriasis.
+ii. Hyperkalaemia.
+iii. Stevens Johnson Syndrome.
+iv. Oedema of lower limbs.
+
+v. Chorea. 
+
+
+ Posted by
+ caregiver7careseeker    at
+ 7:44 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _▼ _ 2016 (14)
+          o _▼ _ December (5)
+                # Case-Based-Online-Learning-Portfolio_in_an_MBBS_st...
+                # PCT_marks_of_2015_3rd_semester_Group_–_D_(Roll:_12...
+                # Medicine_final_MBBS_marks_distribution_WBUHS
+                # Time_line_for_a_WBUHS_medical_student's_learning_p...
+                # THE_LECTURE_TOPICS_OF_M.B.B.S._STUDENTS_in_WBUHS_M...
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

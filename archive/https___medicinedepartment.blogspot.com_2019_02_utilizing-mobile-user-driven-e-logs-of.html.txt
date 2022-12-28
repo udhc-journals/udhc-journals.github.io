@@ -1,0 +1,266 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, February 3, 2019 *****
+
+
+**** Utilizing mobile user driven E logs of patient data to improve hospital
+and community healthcare services ****
+Project Title: Utilizing mobile user driven E logs of patient data to improve
+hospital and community healthcare services through real time patient centered
+clinical audit with a collaborative blended learning ecosystem of patients,
+students and health professionals
+
+
+Introduction:
+There is a striking deficiency in medical learning competencies attained by
+medical faculty and students that are hardly ever reflected on or brought to
+notice in the course of caring for their patients. A biochemist may not know
+how the HbA1c values that s/he regularly facilitates in his lab is actually
+utilized by the clinician and patient and the clinician may not realize how the
+HbA1c values are actually generated in the lab.
+
+All medical students, doctors and health professional faculty need to have
+cognitive competencies to take care of primary requirements of a rapidly
+growing patient population but our current curriculum may not allow it's
+participants to realize why they need to learn what they are learning, how this
+knowledge may be applied by them to meet their patient requirements and if
+their training can allow them to answer queries that arise naturally and not as
+a result of an outdated curriculum that compels them toward non-contextual rote
+memorization.
+
+This dichotomy and gap between health education and practice badly affects
+current day healthcare where a large proportion of health professionals are in
+danger of becoming apathetic to patient requirements.
+
+To resolve the above mentioned problems in current medical education and
+healthcare, Medical council of India MCI has recently proposed a focus on
+developing competency in medical students is a small step to move forward in
+the direction of producing doctors confident and competent enough to meet the
+needs of our population.1
+
+Building on it further, we propose a patient-centered E log project with a
+‘learning team’ comprising of Medical students and experienced faculty engaged
+in blended collaborative learning around ‘individual patients.
+
+
+Methods:
+We shall utilize a mixed methods study design. In the course of a learning
+session for 3 years, a team of faculty and students from various departments in
+the hospital will be exposed to regular 'patient encounters' in the inpatient
+and outpatient wards of Kamineni Institute of Medical sciences, Narketpally.
+This team shall capture deidentified patient-data at the 'point of care' (in
+the form of history, images of clinical findings as well as radiology and lab
+data) and then subsequently share them to the online E-log platform specially
+created to facilitate communication and discussion to learn around the patient.
+
+The patients selected will have a sufficient level of clinical complexity
+likely to generate maximum learning outcomes in terms of patient centered
+learning questions which is detailed here.2
+
+The collected 'patient data' after processing in the discussion forum can be
+published online as a 'patient centered online health record' PCOHR in freely
+available publishing platforms suggested by our past published "online patient
+records" linked to our student's "online learning portfolios" here.3,4,5,6
+
+Subsequently the prepared 'online health record' web link for each individual
+patient is shared on to our online social-media based processing forum that has
+a current global membership of 1500+ members, many of who actively participate
+in solving patient problems posted to the forum.  
+
+All this patient centered 'data collection and processing' activity shall be
+subsequently documented in 'patient centered online health records' PCOHRs such
+as the one's shared above and this online record 7 and demonstrates how
+research publications are generated from them such as this.8
+
+Results/Expected Outcomes:
+This mixed methods study design will document results through qualitative
+thematic analysis of student-faculty learning insights, qualitative insights on
+patient-health-outcomes and quantitative estimates in terms of the number of
+validated participatory learning inputs contributed by each student and faculty
+and quantitative estimates of patient health in terms of QoL. The results of
+the impact evaluation of our PCOHR educational intervention strategy will be
+validated as per currently known paradigms. 9 An additional feature of note in
+our project is the utilization of online learning portfolios of students and
+faculty, which are generated partly automatically online from their documented
+participatory learning conversations in our currently active online case based
+blended learning ecosystem CBBLE. These portfolios will be thematically
+analyzed to assess the results/learning-outcomes of each faculty and student's
+learning activity. The portfolio based quantitative learning points generated
+around each patient will be compared with the results/outcomes obtained in
+terms of their respective patient improvement using quantitative QoL estimates
+(SF36 etc.).
+
+Discussion and Implications for Practice:
+The 'patient-centered learning' process will further involve learning feedback
+provided to the patient's primary caregiver by our 'case based blended learning
+learning ecosystem CBBLE managers and then noting the results in comparison to
+a 'control group' of patients whose providers receive no CBBLE feedback. Our
+hypothesis toward the expected outcome of this project is that the CBBLE team
+as well as their patients will have respectively better learning as well as QoL
+outcomes than the control group-team. A CBBLE nurtured and scaled in an
+appropriate patient centered manner can go a long way toward improving health
+professional learning as well as improving patient outcomes and the combination
+of the two will be instrumental in augmenting national capacity building and
+transforming healthcare.
+
+
+SWOT Analysis:
+
+Strengths: Promising solution to current felt need that can bridge gaps in
+healthcare learning competencies as well as address patient outcome
+complexities.
+
+Weaknesses: Quasi-experimental and complex study design and consequent
+potential of study sample selection bias. (Workarounds: ensure transparent and
+accountable online documentation of entire process that is naturally subject to
+external peer review in real time)
+
+Opportunities: Potential to scale into a sustainable model of practice based
+learning toward
+improving patient outcomes.
+
+Threats: Participant motivation leading to study attrition, patient privacy and
+confidentiality (Workarounds: regular motivational meets with participants of
+both groups with real-time transparent documentation of the interaction that
+transpires between all the stakeholders)
+
+References:
+   1. https://www.quora.com/Can-we-form-a-system-to-grade-the-doctors-as-per-
+      their-competency
+   2. http://www.pcori.org/research-we-support/pcor/
+   3. https://virtualmedicocases.blogspot.com/2018/03/9-year-old-girl-had-
+      developed-fever.html?m=1
+   4. http://keerthiereddy.blogspot.com/2017/12/spastic-quadriparesis-
+      mnd.html?m=1
+
+   1. http://allabouthyponatremia.blogspot.com/2018/11/heart-failure-
+      presenting-as-hyponatremia.html?m=1
+
+   1. http://derangedmedicine.com/cor-pulomonale-and-acute-exacerbation-of-
+      copd/
+   2. http://userdrivenhealthcare.blogspot.com/2016/03/udhc-case-study-from-
+      online-patient.html?m=1
+   3. http://casereports.bmj.com/content/2014/bcr-2013-202916.full
+   4. http://en.wikipedia.org/wiki/Impact_evaluation
+
+Other ongoing similar programs in our Institute:
+
+Blended learning electives:
+http://promotions.bmj.com/jnl/bmj-case-reports-student-electives-2
+
+Past Experience:
+Developing a Case-Based Blended Learning Ecosystem to Optimize Precision
+Medicine: Reducing Overdiagnosis and Overtreatment
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163835/
+
+Online patient records and online resident learning portfolios:
+https://medicinedepartment.blogspot.com/2019/01/utilizing-web-based-log-books-
+of-post.html?m=1
+
+More:
+http://www.ncbi.nlm.nih.gov/pubmed/?term=rakesh+biswas
+
+http://scholar.google.com/
+citations?hl=en&user=Sc3HgGAAAAAJ&view_op=list_works&sortby=pubdate
+
+Other References/Bibliography:
+
+Patient centered research and learning:
+http://www.pcori.org/research-we-support/pcor/
+
+Clinical Complexity:
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2327227/pdf/wpa010001.pdf
+
+http://www.ajmc.com/publications/issue/2012/2012-9-vol18-n9/impact-of-clinical-
+complexity-on-the-quality-of-diabetes-care/3
+
+Clinical complexity and teaching learning competencies: http://
+www.wpba4gps.co.uk/fileadmin/user_upload/secure/mindmaps/
+PDF_files_for_Competency/Medical_Complexity__Detail_.pdf
+
+Quasi Experimental studies and identifying causation between intervention and
+effect:
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380192/pdf/16.pdf
+
+https://www.academia.edu/1482786/
+How_investigating_mediators_and_moderators_helps_explain_intervention_effects
+
+ Posted by
+ caregiver7careseeker    at
+ 8:20 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _▼ _ 2019 (2)
+          o _▼ _ February (1)
+                # Utilizing_mobile_user_driven_E_logs_of_patient_dat...
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

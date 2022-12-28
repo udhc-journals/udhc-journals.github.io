@@ -1,0 +1,388 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, August 28, 2022 *****
+
+
+
+**** Plasma exchange as an intervention toward longevity: a journal club in our
+global CBBLE ****
+Conversational learning transcripts below that reflects the online journal club
+interactions and selective sampling and critical appraisal of the journal
+published study content and the camaraderie:
+
+
+
+[8/27, 1:19 AM] Sumit Global CBBLE: 
+
+https://twitter.com/davidasinclair/status/
+1562830261171421185?t=8zzZZcYjD4ejZ3qUIgy0TQ&s=19
+Context: David is one of the pioneers of longevity research.
+
+
+[8/27, 5:53 AM] Rakesh Biswas: Any links to the real paper for a proper
+appraisal in the PICO format?
+
+
+[8/27, 10:15 PM] Sumit Global CBBLE: It's in the tweet (the link at the end)
+
+
+[8/27, 10:19 PM] Rakesh Biswas: Can someone appraise it in the PICO format?
+@⁨Aashita KIMS PG⁩
+
+
+[8/27, 10:26 PM] Aashita KIMS SR : 
+
+Sure sir
+I’ll go through it
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+Quoting, 
+
+To investigate the effect of TPE, we examined blood samples before and after
+rounds of this clinical procedure
+P - 15 samples were included 
+I - Samples 1, 2, 4, 6, 7, and 8 were from old individuals 
+C - Samples 3 and 5 were from middle-aged people
+( I’m assuming the remaining samples belong to the younger age group but they
+haven’t  clearly mentioned their sample numbers)
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+Quoting, 
+
+Changes in 8-OHdG levels after TPE.Oxidative DNA damage gradually decreases and
+becomes statistically lower by the last round, in all patients.
+[8/27, 11:56 PM] Aashita KIMS PG: R0 is before TPE, R1 is 1 month afterwards
+and before the next round of TPE, and so on.
+
+
+[8/27, 11:56 PM] Aashita KIMS PG: 
+
+Quoting, 
+
+
+C. TPE decreases p16 levels in PBMCs of old and middle-aged people, 
+D. TPE upregulates the markers of lymphoid genes (T cells, B cells, NK cells)
+in old PBMCs. E The lymphoid:myeloid ratio is increased by the rounds of TPE.
+The myeloid:NK ratio is downregulated by TPE. The ratios of lymphoid:CD68 and
+NK:CD68 are elevated by the rounds of TPE. 
+
+These data show a rejuvenation of the lymphoid/myeloid balance, suggesting an
+improved capacity for productive immune responses
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+Quoting 
+
+Out of 507 proteins, 72 proteins were significantly different in their levels
+between the old and the young groups (> 1.75 fold change, p < 0.05). These 72
+proteins were analyzed further in the longitudinal TPE datasets by heat
+mapping, which revealed a gradual rejuvenation of the age-specific systemic
+proteome by subsequent rounds of TPE. Principal component analysis confirmed
+that each R0 proteome (before the first TPE) was closer to the old control
+group than to the young control group and shifted from the old toward the young
+group with the rounds of TPE
+
+
+[8/27, 11:56 PM] Aashita KIMS SR : 
+
+Quoting, 
+
+We also determined whether repetitive TPE may regulate the complement system
+including C3 and C1q, which play a key role in immune responses and also
+participate in non-immune crosstalks of cell–cell signaling pathways
+
+
+[8/27, 11:56 PM] Aashita KIMS PG: In our analysis, 13 proteins were related to
+the negative regulation of apoptosis and the levels of these proteins were
+higher in the old group than in the young. Consistent with better tissue
+homeostasis, the levels of these apoptotic inhibitors diminished over rounds of
+TPE, becoming closer to the young cohort
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+Quoting, 
+
+Considering these observations, we decided to analyze systemic levels of TDP43,
+which is the trigger of several neurological pathologies and becomes increased
+in the blood of patients with ALS, Parkinson’s disease (PD), frontotemporal
+dementia (FTD), and AD
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+
+Circulating TDP43 levels are higher in old than in young individuals
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+Summary: (Quoting) 
+
+
+Among 15 samples post TPE the oxidative dna damage reduces by each round of
+TPE.  TPE also increased the lymphoma myeloid balance basically improving the
+immune responses. It also regulates complement C3 and C1q.  Circulating TDP43
+were found to be higher in older ages but with TPE, TDP43 reduced gradually.
+
+
+[8/27, 11:56 PM] Aashita KIMS SR: 
+
+Quoting, 
+
+The effect of repetitive TPE on aged blood. Aged blood has the characteristics
+of chronic inflammation (inflammaging), increased PBMC DNA damage and
+senescence, and immune deregulation, all changes that promote the high risk of
+diseases. TPE resets the systemic milieu to a younger state by rapidly and
+significantly diluting the age-elevated inhibitors of the canonical signaling
+pathways that regulate tissue maintenance and repair.
+
+
+[8/28, 8:10 AM] Rakesh Biswas: Thanks. Also please share the direct link to the
+paper
+
+
+[8/28, 8:19 AM] Rakesh Biswas: Thanks 
+
+So to critically appraise this @⁨Sumit Global CBBLE⁩ , David Sinclair has
+currently just begun to show scientists looking at certain chemical changes
+demonstrable on Therapeutic plasma exchange (TPE) as reflected in his obtained
+outcomes that simply mention the chemical changes as a result of TPE but don't
+tell us what actually happened in terms of longevity in the participants who
+received TPE. 
+
+That may require a follow up of the same or more cohorts and one would also
+need to figure out the optimal frequency of TPE necessary to maintain the
+levels of the currently assumed healthy chemical balance. 
+
+In essence this was a phase 2 study that shows promise but there's a long way
+ahead
+
+
+[8/28, 8:24 AM] Sumit Global CBBLE: Interesting, thanks.
+
+Regarding you question, as I've previously stated: DNA damage is directly
+linked to DNA methylation clock which is a standard ageing biomarker by now
+(until something cheaper and more reliable comes along).
+
+So I guess we can say that TPE promises longevity (if this study replicates
+well in more trials)?
+
+I agree regarding your points on the optimal frequency exploration.
+
+
+[8/28, 8:26 AM] Sumit Global CBBLE: 
+
+And thanks for the detailed PICO analysis @⁨Aashita KIMS PG⁩
+
+
+[8/28, 8:27 AM] Sumit Global CBBLE: Thanks for simplifying the appraisal! 🙏
+
+
+[8/28, 8:30 AM] Rakesh Biswas: Yes it's promising but too early to draw
+conclusions. 
+
+Standard biomarkers are never standalone and have only been provided assumed
+causal associations in relation to more palpable clinical determinants such as
+morbidity, mortality, longevity and we would need to look again critically at
+those papers that have drawn causal association between oxidative DNA and
+patient outcomes
+
+
+[8/28, 8:32 AM] Rakesh Biswas: Thanks for sharing the paper and this journal
+club, which I shall be archiving.
+
+Please tell our audience here a little bit about yourself. 🙂
+
+
+[8/28, 8:37 AM] Sumit Global CBBLE: True, promising but not 100% confirmation.
+
+Here's the catch-22 with aging - good trials would need to run for 200 years
+(or atleast 150 if parallelized) to be perfectly sure of the outcomes given
+that the trials would need to run atleast twice the lifespan (repeating
+promising studies, or starting more studies in parallel that promise
+improvement in biomarkers to run them in their full length).
+
+So I guess, in our lifetimes we would need to rely on best biomarkers available
+that improve the well being of the species in a noticeable way.
+
+Are there other ways to be sure?
+
+About me in the next text ➡️
+
+
+[8/28, 8:40 AM] Rakesh Biswas: Got the link to the original here https://
+link.springer.com/article/10.1007/s11357-022-00645-w but also enjoyed the many
+comments in the twitter feed
+
+
+
+[8/28, 8:52 AM] Sumit Global CBBLE: Sinclair's YouTube podcast is great!
+
+
+
+[8/28, 8:54 AM] Rakesh Biswas: Please share that link too
+
+
+
+[8/28, 8:55 AM] Sumit Global CBBLE: https://youtube.com/c/DavidSinclairPodcast
+
+
+[8/28, 8:56 AM] Rakesh Biswas: Please share a link to your online learning
+portfolio. It could be a LinkedIn profile or anything. @⁨Aashita KIMS PG⁩ 's
+online learning portfolio is here👉https://ashiness3.blogspot.com/?m=1
+
+
+
+[8/28, 9:01 AM] Sumit Global CBBLE: https://youtube.com/channel/
+UCHA5edkpRK_M7nDHvg3Jp2g
+
+
+I tried doing this thing where I learnt a new field from the experts - was fun.
+It's limited to the design field though.
+
+
+
+[8/28, 9:09 AM] Sumit Global CBBLE: Sure sir. I'll tell the group about myself.
+
+Hi all, I'm Sumit Srivastava, primarily a technologist with extremely diverse
+interests.
+
+Every couple of years I pick a field that I know nothing about and immerse
+myself into it, learning from the best.
+
+Then overtime, I gradually accumulate knowledge in that field while also
+picking up new fields subsequently.
+
+This method has worked decently over the years for learning various different
+things.
+
+I've started noticing that a most problems have simple and logical solutions,
+even though they may seem complex at the first glance. 
+
+I picked up the field of medicine as a challenge a few years ago after working
+on some interesting things in brain computer interfaces.
+
+Now I love the field of medicine so much that I've started exploring
+interesting (and promising) sub fields of the vast knowledge available in
+medicine.
+
+As a child I knew that the my innate nature was that of curiosity - asking a
+lot of questions.
+
+I've tried to not let that die (it's super hard, because questioning everything
+comes at the cost of speed of doing things).
+
+Over time, you learn to question the things that matter the most.
+
+I've learnt that the best things to question are the things that people think
+are either "really obvious" or things that are "mostly unexplored".
+
+I take my inspiration from an excellent paper called you and your research by
+Dr. Richard W. Hamming, a pioneer in computer science.
+
+Even though I'm not a researcher - this is one of the most groundbreaking paper
+an ambitious individual can read in their lifetime (it's super long): https://
+medium.com/motivate-the-mind/you-and-your-research-b525e6125afd
+
+The global CBBLE is a social network currently with 156 members and can be
+joined through this link : https://chat.whatsapp.com/AEovRaJe7MF2dhVKDes95Z
+
+[https://blogger.googleusercontent.com/img/b/R29vZ2xl/
+AVvXsEjY7EFrKE6CkPuNlChWT93zUf1JDFKz8bMEAa4MPF58vkU3Dp6AYwClxafFFY-
+zAUpgDeS13o6IjTxRMMlYQ4CuLw6cnY8esHWB5i2hF7DB66gTAwz4xeS2gJz2Y0ScGUxLmxXSVHwQflR0027dXDJkjARAanH4pg6pKedN7CM7q5wgzcYQuUEfh7tU/
+w640-h596/IMG_20220828_205223.jpg]
+
+
+ Posted by
+ caregiver7careseeker    at
+ 8:25 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _▼ _ August (7)
+                # 2021_MD_batch_Formative_assessment
+                # Plasma_exchange_as_an_intervention_toward_longevit...
+                # 2020_PG_formative_assessment
+                # Thesis_draft_"Clinical_complexity_in_Diabetes:_Qua...
+                # Resolving_diagnostic_and_therapeutic_uncertainties...
+                # Roll_30-58_UG_batch_2019_General_Medicine_ward_com...
+                # Roll_26-50_UG_batch_2020_General_Medicine_ward_com...
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

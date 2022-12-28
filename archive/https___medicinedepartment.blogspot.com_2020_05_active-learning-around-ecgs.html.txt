@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Wednesday, May 27, 2020 *****
+
+
+
+**** Active learning around ECG of a middle aged man with continuous chest pain
+for few days ****
+The ECG with caption below was shared with the 8th semester students group even
+while seeing the patient in real time yesterday:
+
+[https://1.bp.blogspot.com/-wGxd3mmZxhk/Xs9HrE2QnXI/AAAAAAAAUAc/
+8ppBoL2i39EZXWHvPORUCFbIpCEeyQDfQCLcBGAsYHQ/s320/IMG_20200527_093620.jpg]
+
+
+
+ECG figure 1
+
+Seeing this patient right now in OPD complaining of 20 days of continuous chest
+pain for few days and asking him to get admitted in AMC for observation
+although I am 99% certain his pain is unrelated to his ECG. How?
+
+The first 8th semester student response arrived shortly in pm closely followed
+by other students  and following is the active learning discussion with them:
+
+Student 1:
+
+5/27/20, 10:00 AM – UG 2016: Monomorphic P wave preceding each QRS complex
+tells that that there is sinus rhythm. Normal PR Interval.  Normal QRS complex.
+Though, there appears to be tachycardia, but I don't know how to count/decipher
+without the boxes. Regular R-R interval. Axis is normal - (0 - 60 degrees),
+With a normal R wave progression in V1-V6
+
+5/27/20, 10:01 AM – UG 2016: Though there appears to be a wave before P wave in
+lead ll
+
+5/27/20, 10:01 AM – UG 2016: Sir what else do i look for ?
+
+5/27/20, 10:03 AM – UG 2106: Sir V4, V5, V6 donot appear normal
+
+5/27/20, 10:03 AM – GM Dept: Which ECG are you describing?
+
+5/27/20, 10:04 AM – UG 2016: Sir the one you sent on the group
+
+5/27/20, 10:05 AM – GM Dept: Good. Yes what is wrong here.
+
+5/27/20, 10:06 AM – UG 2016: ST depression ?
+
+5/27/20, 10:08 AM – GM Dept : And T wave?
+
+5/27/20, 10:08 AM – UG 2016: Inversion
+
+5/27/20, 10:10 AM – UG 2016 : T wave inversion is symmetrical or unsymmetrical
+sir ? Also sir, will the amplitudes of R wave in V5 and V6 added up to more
+than 35mm ? If they do, it could be LVH.
+
+5/27/20, 10:12 AM – GM Dept: Yes he has coronary artery disease and yet it's
+stable angina or even silent angina.
+Why? Because the ECG is not a resting ECG but taken after six minutes of
+exercise signifying a coronary artery blockage but he was never symptomatic due
+to it.
+His current 20 days of chest pain is on the right side and I just pressed on
+his right chest where he pointed to the pain and found it to be very tender
+suggesting a musculoskeletal chest pain
+
+5/27/20, 10:18 AM – UG 2016: Yes sir, stress ECG is a must as, at rest, the
+heart's compensatory mechanisms would be in action. Sir, is there a past
+history to any chronic disorders, in this patient ? And any finding in the
+blood tests ?
+
+5/27/20, 10:20 PM – GM Dept: Ecg taken today
+
+
+
+5/27/20, 10:20 PM – GM Dept: <Media omitted>
+
+5/28/20, 8:33 AM – UG 206: Good morning Sir, this ECG and 2D ECHO are of the pt
+with chest tenderness on rt side ?
+
+5/28/20, 9:01 AM – GM Dept: Yes
+
+5/28/20, 9:13 AM – UG 2016: Sir there is ST depression, T inversion and left
+Ventricular hypertrophy (as the sum of amplitude of R wave in V5, V6 > 35mm ).
+Other than that, i cannot seem to see anything wrong, HR = 70 b/m
+
+5/28/20, 9:14 AM – UG 2016: And ST depression doesn't seem that significant.
+But since we saw it in the stress ECG, it becomes clearer.
+
+5/28/20, 9:14 AM – UG 2016: And sir, I am not being able to understand the 2D
+echo.
+
+5/28/20, 9:19 AM – GM Dept: The main feature in that echo is the gross LVH
+which alone accounts for the ECG findings. In the absence of any significant
+hypertension this would be labeled as hypertrophic cardiomyopathy.
+
+5/28/20, 9:24 AM – UG 2016: Thank you sir. Does he have a h/o any chronic
+medical condition or medications which might have caused Hypertrophic
+Cardiomyopathy ?
+
+
+5/28/20, 10:20 AM – GM Dept : No. Didn't get a chance to document that.
+
+
+Student 2:
+
+
+
+"[5/27, 10:57 AM] MBBS 2016 UG 5: Good morning sir!
+
+[5/27, 10:57 AM] MBBS 2016 UG 5: Maybe the pain and the ECG are unrelated
+because he has the pain since 20 days
+
+[5/27, 10:58 AM] MBBS 2016 UG 5: And usually pains related to the heart don't
+last that long or goes away when they take medications or deep breaths
+
+[5/27, 10:17 PM] Post residency PG1:Yes he has coronary artery disease and yet
+it's stable angina or even silent angina.
+
+Why?
+
+Because the ECG is not a resting ECG but taken after six minutes of exercise
+signifying a coronary artery blockage but he was never symptomatic due to it.
+
+His current 20 days of chest pain is on the right side and I just pressed on
+his right chest where he pointed to the pain and found it to be very tender
+suggesting a musculoskeletal chest pain
+
+[5/28, 9:13 AM] MBBS 2016 UG 5: Sir so due to the ischemia he might've
+developed a muscle pain?
+
+[5/28, 9:14 AM] MBBS 2016 UG 5:Also sir. The fire accident is very disturbing.
+I hope no one was injured.
+
+[5/28, 9:18 AM] Post residency PG1: No ischemia to myocardium can't cause chest
+muscle pain.
+
+However if you check out the Echo then our initial assumptions of ischemia may
+not be true in accounting for his Ecg findings. The anatomic localization for
+those Ecg findings may shift from coronary disease to elsewhere in the heart
+
+[5/28, 9:23 AM] MBBS 2016 UG :Okay sir.
+Sir any chance we can maybe suspect any costochondritis?
+
+[5/28, 9:24 AM] MBBS 2016 UG 5: Did he have any history or trauma or muscle
+strain?
+
+[5/28, 10:01 AM] Post residency PG1:Yes that was the number one diagnosis for
+his pain due to the extreme tenderness noted in the right side of his chest.
+
+So this case illustrates that the patient can have Ecg findings due to a
+completely different reason whereas the chest pain symptoms could be due to a
+different reason"
+
+28/05/20, 10:06:27 AM] MBBS 2016 UG 5: Okay sir.
+Sir, I wanted to know, why was his initial ECG without the normal squares? Like
+why is that done?
+
+[28/05/20, 10:06:51 AM] MBBS 2016 UG 5: Okay sir.
+
+[28/05/20, 10:07:45 AM] Post residency PG1: That was a print out where they
+managed to blur the squares
+
+[28/05/20, 10:10:36 AM] MBBS 2016 UG 5 : 28/05/20, 10:11:09 AM] :Why is that
+done sir?
+Isn't it better to interpret with the squares? 🙈
+
+[28/05/20, 10:15:12 AM] Post residency PG1:ECGs are done on heat sensitive
+paper and are more of heat lines that can quickly vanish with time. Print outs
+as photocopies in regular paper are taken to increase the longevity of the ECG
+information and these print outs may miss the squares?
+
+[5/28, 11:30 AM] MBBS 2016 UG 5: Sir. Has the patient been discharged or is he
+undergoing any confirmatory tests?
+[5/28, 11:31 AM] MBBS 2016 UG 5
+: Because to confirm Costchondritis, the CRp should be raised
+
+[5/28, 11:31 AM] Post residency PG1: He had just come for an OPD. Stays nearby
+[5/28, 11:32 AM] Post residency PG1: CRP is a non specific marker of
+inflammation
+
+
+[5/28, 11:33 AM] MBBS 2016 UG 5
+: Sir in this blog there are many patients who inspite of having HOCM have
+always been diagnosed with costochondritis
+
+[5/28, 11:34 AM] Post residency PG1: Excellent find. Share the blog link so
+that it's easier to put on the active learning blog 👍👏👏
+
+[5/28, 11:34 AM] MBBS 2016 UG 5:
+
+ https://messageboard.4hcm.org/forum/hcma-general-forums/hcma-discussion/2918-
+costochondritis
+
+[5/28, 11:35 AM] MBBS 2016 UG 5:
+
+: So was the patient given anti inflammatory medication sir?
+
+[5/28, 11:35 AM] Post residency PG1: Yes
+
+Student 3:
+
+[5/27, 1:31 PM] MBBS 2016 UG1: Does he have a history of fever?
+[5/27, 1:33 PM] MBBS 2016 UG1: What is the character of his Chest pain? Does it
+vary with respiration? Is it relieved on sitting and leaning forward?
+[5/27, 10:19 PM] POST RESIDENCY PG1: Didn't ask
+[5/27, 10:20 PM] POST RESIDENCY PG 1: Ecg taken today : (image)
+
+
+
+[5/27, 10:27 PM] MBBS 2016 UG1: In V3, there appears to be an ST elevation and
+a U wave?
+[5/27, 10:29 PM] MBBS 2016 UG1: Yes. Have you looked at the Echo? Just your
+knowledge of anatomy and physiology should be enough to interpret it
+
+[5/27, 10:33 PM] MBBS 2016 UG1: Mitral regurgitation?
+
+[5/27, 10:36 PM] POST RESIDENCY PG1: No prominent left ventricular hypertrophy
+and that is the reason for his ECG changes even more than possibility of
+coronary artery disease. Even mild ST elevation that you pointed out is
+indicative of LVH
+
+[5/27, 10:36 PM] MBBS 2016 UG1 What is the reason sir?
+
+[5/27, 10:45 PM] POST RESIDENCY PG1: Didn't check his BP. If not hypertension
+then HOCM
+[5/27, 10:45 PM] MBBS 2016 UG1: Oh okay. Thank you.
+
+[5/28, 10:03 AM] MBBS 2016 UG1: Could this patient also have mitral regurg and/
+or SAM. Patients with HCM frequently have systolic anterior motion (SAM) of the
+mitral valve, which positions the mitral valve within the LVOT.
+
+[5/28, 10:05 AM] MBBS 2016 UG1: And in this ECG, there appear to be some Deeply
+inverted T waves (so-called "giant negative T waves") - seen in V4 - V6 in
+patients with the apical variant of HCM.
+
+[5/28, 10:10 AM] POST RESIDENCY PG1: Possible. I shall have to do the echo
+myself to confirm that.
+
+However even if the patient doesn't have all that it would still be HCM if not
+HOCM.
+
+Even without the LVOT obstruction, HCM can be equally problematic in terms of
+morbidity causing heart failure
+
+[5/28, 10:17 AM] MBBS 2016 UG1: 👍
+
+ Posted by
+ caregiver7careseeker    at
+ 10:22 PM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _▼ _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _▼ _ May (16)
+                # Three_patients_of_Hemiparesis:_Case_based_online_l...
+                # Active_learning_around_ECG_of_a_middle_aged_man_wi...
+                # Medicine_department_May_2020_attendance
+                # re:_Formative_and_summative_end_posting_assessment...
+                # re:_Case_based_online_learning_assignment_for_MBBS...
+                # re:_Active_learning_session_on_global_CBBLE_for_30...
+                # Paraparesis_Case_based_questions_and_conversationa...
+                # Frequently_asked_questions_around_case_based_onlin...
+                # Case_based_online_learning_assignment_for_8th_seme...
+                # Integrating_Medical_education_and_practice:_Online...
+                # A_medicine_PG_resident's_Web_log_book
+                # A_medicine_intern's_Web_log_book
+                # Web_log_driven_online_learning_portfolios_for_Dail...
+                # re:_Final_university_MD_Medicine_summative_assessm...
+                # Informed_Patient_Consent_and_Authorization
+                # A_daily_pragmatic_learning_roster_as_per_MCI_summa...
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

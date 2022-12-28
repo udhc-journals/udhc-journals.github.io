@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Tuesday, April 13, 2021 *****
+
+
+**** Medicine paper for April 2021 bimonthly blended assessment ****
+ 13/04/2021 11:00 AM 
+
+**** Answer all questions:                                                    
+ 
+ ****
+                    Max Marks: 100 (5 questions in total
+                    and 20 marks for each  answer) 
+                    Submit by:   25/4/2021               
+
+                    Below is an online formal question
+                    paper to be answered online using all
+                    available resources at your online
+                    disposal over a period of days and E
+                    logged in a manner demonstrated by past
+                    examinees in the link here https://
+                    medicinedepartment.blogspot.com/2021/
+                    02/blended-bimonthly-assessment-dec-
+                    2020.html?m=1
+          And here is a sample answer paper from the last exam here:
+           https://ashiness3.blogspot.com/2020/11/bimonthly-
+          assessment-for-month-of.html?m=1 please note that every
+          logged answer paper should contain the link to this current
+          "assignment/question paper" page and the patient context
+          for each answer as well as avoid plagiarism as illustrated
+          in the sample answer paper. 
+
+          A sample answer to the last question around sharing your
+          experiences can be seen here: https://onedrive.live.com/
+          view.aspx?resid=4EF578BAE67BA469!4180&ithint=file%2cdocx&authkey=!AOy7BpRTn42DBMo
+
+                    Questions plan and context:
+We are also utilizing this online assessment platform for a participatory
+action research strategy in "Scholarship of integration in Medical education
+research" as part of a commissioned book project and your online answers will
+also be analyzed and interpreted with that intent. 
+
+A brief word about the book project outline before we move into the stem of the
+question paper: Scholarship of integration in medical education and research
+aims to disseminate back to society the fruits of academic discovery and
+translates medical education theory that developed from discoveries made by
+individual academics in countless individual members of society into a practice
+that again benefits the same or different individual members of society. For
+more click on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1891293/
+
+The questions below cover the entire spectrum from medical humanities, anatomy,
+physiology to diagnostic, therapeutic uncertainty and computational tools
+popularly known as ML AI to resolve one disease theme and predictably move from
+symptoms to diagnosis and treatment challenges. 
+
+Most questions test the reading comprehension skills of the examinee and some
+prior familiarity with medical terms and strategies and also more importantly
+assesses their ability to use online search tools toward better expression of
+their learning points in the form of answers that are again made available open
+access for post publication peer review.
+
+In summary the answers to the following questions in this online question paper
+will assess the examinee's competencies in dealing with:
+
+Clinical problem solving 
+
+Medical terminologies familiarity including areas of anatomy, physiology,
+pathology, ML, AI 
+
+Empathy and medical humanities 
+
+Current EBM strategies for managing diagnostic and therapeutic uncertainty 
+
+                    Section 1) Please go through the
+                    patient data in the links below and
+                    answer the following questions:
+
+Anatomic and physiologic localization of symptomatology 
+
+In patient's own voice:
+
+Patient 1
+"I suffered from bad cramps and loose stool movements – and not the usual
+stomach cramps, it felt like someone was trying to tear out my insides.
+On top of that, I was constantly bloated, suffered from bad mouth ulcers, mood
+swings, hot and cold chills, weight loss, and the dreaded haemorrhoids. It was
+only in the last year that I started noticing a lot of blood in my stools
+(lovely I know). My whole body was in pain, from my joints to my muscles, and
+to my mental state. This led to me becoming quite depressed and anxious, making
+matters a whole lot worse."
+Patient 2:
+"I had just gotten back from a holiday with a group of my friends when I had to
+leave work. I was experiencing constant fever symptoms, I fainted a few times
+and I was going to the toilet about 15-20 times a day. Not only this but every
+time I had to use the toilet I was losing blood"
+Quoted above from: www.irishtimes.com/life-and-style/health-family/my-daily-
+routine-living-with-inflammatory-bowel-disease-1.3368509?mode=amp
+Patient 3
+"2004 and early 2005 were the the darkest days of my life. With no proper
+diagnosis and treatment, I was going nowhere. Every day was a challenge. I
+cloud barely drink a glass of fruit juice. No question of taking solid food.
+Just a bit of solid food in my mouth, it used to cause intense burning. If I
+managed to forcefully swallow some food, I used to vomit immediately. I was
+weighing 30kg, just skin and bones. Everyone lost hope, I was not knowing what
+went wrong and on top of that, everyone who came to see me used to say " your
+parents and doctors are putting all the efforts to make you healthy, but you
+don't seem to put any kind of effort or show any intension to get better. Looks
+like you are enjoying being sick and you want to remain sick.
+They were giving me all kinds of suggestions ' why don't you eat, why don't you
+get up from the bed etc etc. I felt inside ' if these people, even for a
+minute, go through, the kind of pain I'm bearing for years and, manage to live
+for a couple of days, I would listen to their suggestion.
+Suicidal thoughts were coming, I decided to end my life, luckily my mother came
+to my rescue and told me ' if you want to die, you should not die alone, I will
+also end my life along with you ' she said live and fight. That day I promised
+her, come what way, I'm not going to give up."
+Above quoted from: https://medicinedepartment.blogspot.com/2021/04/empathic-
+narrative-in-inflammatory.html?m=1
+In health professional's notes:
+Patient 4:
+"35/ M who works as a  mason presented to us with history of 
+1) bleeding per rectum -3-4 episodes / day for 2-3 days , associated with hard
+stools +
+Intermittently - for 5-6 months and he Was said to have anal fissure ,used sitz
+bath and ointment .
+No altered bowel habits at that time .
+
+Since December 2020- Patient complaining of - altered bowel habits ,for 10 days
+he passes  stools with normal  consistency and frequency then followed by hard
+stools for 2 days then followed by loose stools -small quantity ,associted with
+mucus + and blood , foul smelling stools ,2-3 episodes per day ,tenesmus + .no
+difficulty in flushing stools ,Relieves with fasting .These last  for one week
+, subsides with sitz bath and lignocaine topical application .
+Then recurrs again after 10-15 days .
+
+February 2021 - patient had 3 eipsodes of loose stools with severe pain
+abdomen-left iliac region ,non radiating , he was taken to local hospital ,
+Usg - pancreatitis ,Gastritis .
+Patient lost 5kgs   in 6 months .
+No fever ,no joint pains ,no vomitings ,no fresh bleed .
+Since 5 days before presenting in April 2021, Patient complaints of loose
+stools -small quantity , tenesmus + ,with mucus and blood .no pain abdomen"
+
+Above quoted from: https://sruthi995.blogspot.com/2021/04/is-online-e-log-book-
+to-discuss-our.html?m=1
+
+Question 1) What are the common themes emerging from these symptom narratives?
+Does the symptomatology related by the patient's own voice evoke more empathy
+than the one in the health professional notes? Are there studies correlating
+patient empathy generated in health professionals to disease outcomes or even
+the doctor patient relationship? 
+
+Question 2) One easily appreciable theme in all these narratives is the impact
+of the colonic pathology on the patient's psyche with severe symtomatologies
+precipitating suicidal depression. While the influence of somatic pathology on
+psyche is easy to appreciate are their studies demonstrating the influence of
+psyche and life events (that are often part of symptomatology narratives) on
+disease pathology manifesting in the soma? Please go through the article linked
+here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1774724/ and list the
+evidence for the fact that both chronic stress, in the form of adverse life
+events, and acute experimental stress can affect systemic immune and
+inflammatory function, and increase disease activity in humans with IBD.
+
+Diagnostic and therapeutic uncertainties 
+Diagnostic uncertainty:
+Patient 3:
+"I spent first 10 years of my life absolutely healthy. Started becoming sick
+after that. Saw few local doctors both allopathy/homeopathy, they said
+everything was fine, but I wasn't improving. Later met one of the leading
+gastroenterologist at ABCD Institute of Gastroenterology who diagnosed me as
+having TB in March 2001 and put on Anti Tuberculosis Treatment for 3 years that
+ended in march 2004.
+After 3 years of pain and suffering, I went from bad to worse. The doctor said
+' why did you come again, your treatment is over'.  I asked doctor the reason
+for not recovering he said ' it might not be TB, it might be some other
+disease, get admitted we will evaluate again'.
+I could not digest those words, I was seeing him every fifteen days for 3 years
+with all the tests and reports.
+2004 and early 2005 were the the darkest days of my life. With no proper
+diagnosis and treatment, I was going nowhere. Every day was a challenge."
+Above quoted from:
+https://medicinedepartment.blogspot.com/2021/04/empathic-narrative-in-
+inflammatory.html?m=1
+Patient 4:
+In this patient logged by our Intern here  http://sruthi995.blogspot.com/2021/
+04/is-online-e-log-book-to-discuss-our.html there was a debate among the health
+professional team managing him around what if they were missing a tuberculosis
+of the colon? What if the previous colonoscopy and biopsy had missed the
+diagnosis of tuberculosis especially as it hadn't been done by a
+Gastroenterologist but by a general surgeon? While a repeat colonoscopy and
+biopsy was planned again the expenses were too much to bear for the family
+members who left after promising to try getting the colonoscopy at a cheaper
+price from elsewhere and return to us for follow up. 
+Therapeutic uncertainty:
+Patient 1:
+"I was taking several different medications at a time for over four months, but
+the worst of them all was the steroid called prednisone (anyone who has been on
+these can sympathise with me). These are truly the worst steroids in the world,
+I gained so much weight, I suffered from moon face, which made me look like a
+chipmunk (and not a cute one). I started receiving Infliximab (Remicade)
+infusions every two months, which is an auto-immune suppressant drug used to
+treat IBD."
+Patient 2:
+"I thought I could get it under control quickly and everything would go back to
+the way it was. I was wrong. The first six months after diagnosis were hell on
+earth. I developed severe anxiety about leaving the house as a result of my
+illness and symptoms. I tried to return to work and then became depressed when
+I failed miserably. My relationship ended. I had no appetite and couldn’t put
+back on the weight which resulted in me feeling really badly about my body and
+appearance.
+I was taking steroids called Prednisone for the first three months and they
+made my face swell up, my hair fall out and also added massively to the anxiety
+and depression I was already dealing with. I began getting Infliximab
+(Remicade) infusions to suppress my immune system every eight weeks. That
+eventually had to be changed to every six weeks because my symptoms were still
+quite severe and the medication wasn’t lasting long enough.
+Fourteen months down the line after diagnosis I am still struggling. "
+Quoted above from: www.irishtimes.com/life-and-style/health-family/my-daily-
+routine-living-with-inflammatory-bowel-disease-1.3368509?mode=amp
+
+Question 3) What are the current computational advances to resolve diagnostic
+uncertainty for health professionals such as the one described in patient 4? Go
+through this article: https://bmcmedinformdecismak.biomedcentral.com/articles/
+10.1186/s12911-020-01277-w and list the differences in the endoscopy findings
+between ulcerative colitis and intestinal tuberculosis identified by the Random
+forest and CNN model. Go through the colonoscopic descriptions captured in the
+patient 4 online EMR linked above and share your insights on what could be the
+probable diagnosis. Please share your current general knowledge thoughts or
+similar past experiences in diagnostic uncertainty while dealing with patients
+with potential inflammatory bowel disease and how you resolved them. 
+
+Question 4)
+
+List the current therapeutic strategies for IBD and share your critical
+appraisal of a few RCTs around each option, not only those mentioned in the
+patient narratives above such as SAIDs like prednisolone and biologicals like
+infliximab but also NSAIDs such as meselamine and immunomodulators such as
+azathioprine. 
+
+Advocacy and pluralistic integration of available solutions as a therapeutic
+tool.
+
+Patient 3:
+
+ "I tried Allopathy, Ayurveda, Naturopathy, etc. They helped me to some extent,
+they helped to be alive, but not helped me to the extent I wanted. Then I
+thought let me try YOGA."
+
+Quoted from here:
+
+https://medicinedepartment.blogspot.com/2021/04/empathic-narrative-in-
+inflammatory.html?m=1
+ 
+Patient 5:
+
+"You see, it’s really difficult to live with Crohn’s or ulcerative_colitis as
+it is but in many cultures around the world, there is little to no acceptance
+of young people who have chronic illnesses. And even though I live in
+cosmopolitan New York City, I have had one foot in two cultures: the country of
+my origin, India, and the country of my birth, the United States. According to
+South Asian culture, I was supposed to be taking care of my widowed mother, not
+being a burden on her. I was supposed to be out working my Wall Street job and
+supporting my family, not being a frequent flyer on the IBD floor of my
+hospital. As the oldest child of the family with no father and no brothers, my
+role was to take care of my family, not be the person being constantly taken
+care of."
+
+Quoted from here :
+
+
+https://www.ibdrelief.com/ibd-stories/my-ibd-story-tina-aswani-omprakash
+
+Question 5) What is the role of the internet and it's patient users toward
+driving their own healthcare outcomes through timely sharing of their problems
+and pluralistic solution inputs from patient advocates and health
+professionals? What is the role of a doctor patient relationship in healing
+outcomes as demonstrated in some of the narratives? Please share your own
+experiences where you were part of one such relationship that worked positively
+or negatively for your patient. What is the role of computational ML AI in
+considerably expanding this "user driven healthcare" space? Please search for
+clinical decision support projects that begin with "applications that assign
+SNOMED CT codes to entered patient data which in turn trigger decision support
+information." 
+
+Check out how these can be further expanded using ML AI techniques to create
+knowledge graphs toward 
+
+"1) Named-Entity Recognition — given a patient’s initial complaint, the NER
+should tag medical and clinical entities.
+2) Classification — e.g. classify an initial patient chat as an informational
+session or requires a visit to a hospital.
+3) Diagnosis — ability to provide a diagnosis (with certain probability) given
+a chat session
+
+And many more here: medium.com/curai-tech/knowledge-graphs-for-clinical-
+management-part-i-42e00f49301c
+
+Finally to sign out on a note around the disease theme in this question paper,
+from your own user perspective, please critically appraise this paper that
+develops an "ontology encapsulating IBD physicians knowledge
+and describes different characteristics such as classification, medi-
+cation, the activity of the disease, diagnosis techniques and various
+other IBD attributes along with generating a knowledge graph by
+importing 560 patient records collected in their University Hospital
+ontology." 
+Full text here: https://www.researchgate.net/publication/
+344543102_Towards_an_Ontology_Representing_Characteristics_of_Inflammatory_Bowel_Disease
+
+
+Further reading:
+
+Book chapter:
+
+www.igi-global.com/chapter/stomodeum-proctodeum-email-narratives-clinical/49242
+
+Book:
+
+www.igi-global.com/book/user-driven-healthcare-narrative-medicine/41908
+
+
+ Posted by
+ caregiver7careseeker    at
+ 10:20 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _▼ _ April (6)
+                # LOR_from_Medicine_department
+                # Medicine_department_"patient_centered_learning"_el...
+                # Medicine_department_protocol_for_Virtual_MBBS_univ...
+                # Second_draft_of_SINGLE_CASE_STUDY_SEEDS_in_NEURODE...
+                # Medicine_paper_for_April_2021_bimonthly_blended_as...
+                # Empathic_narrative_in_inflammatory_bowel_disease
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

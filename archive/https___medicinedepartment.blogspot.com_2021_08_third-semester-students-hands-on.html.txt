@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, August 2, 2021 *****
+
+
+**** Third semester students, hands on learning around critical appraisal of
+research and evidence based medicine ****
+The following illustration is from our case based blended learning ecosystem,
+the online component of which happens in social media groups such as whatsapp. 
+
+Here is a previous working prototype linked from our book chapter:  
+http://medicinedepartment.blogspot.com/2021/06/working-prototype-of-
+scholarly.html?m=1 and here is another one in the past: www.ncbi.nlm.nih.gov/
+pmc/articles/PMC6163835/
+
+The section below is a discussion in the group by one of the students with roll
+number 35 among the 150 in their batch online dashboard linked here : 
+https://generalmedicinedepartment.blogspot.com/2021/08/bimonthly-formative-and-
+summative_2.html?m=1
+
+[7/29, 2:32 PM] Rishitha Kims 2019: 
+
+_Comparison of enoxaparin with placebo for the prevention of venous
+thromboembolism in acutely ill medical patients._
+
+https://pubmed.ncbi.nlm.nih.gov/10477777/
+
+*Patient* - 1102 hospitalized patients older than 40 years. The primary outcome
+could be assessed in 866 patients.
+
+Given 40 mg of enoxaparin, 20 mg of enoxaparin, or placebo subcutaneously once
+daily for 6 to 14 days. 
+
+*Intervention* - 
+~40 mg of enoxaparin : 291 / 866
+~20 mg of enoxaparin : 287 / 866
+
+*Comparator* - 
+~placebo : 288 / 866
+
+*Results* - 
+1. The incidence of venous thromboembolism was significantly lower in the group
+that received _40 mg_ of _enoxaparin_ [16 of 291 patients]  than in the group
+that received _placebo_ [43 of 288 patients]
+
+2. There was no significant difference in the incidence of venous
+thromboembolism between the group that received _20 mg_ of _enoxaparin_ (43 of
+287 patients] and the placebo group 
+
+3. The incidence of adverse effects did not differ significantly between the
+placebo group and either enoxaparin group.
+
+4. By day 110,
+-50 patients had died in the placebo group (13.9 percent)
+-51 had died in the 20-mg group (14.7 percent)
+-and 41 had died in the 40-mg group (11.4 percent); 
+the differences were not significant.
+
+
+
+
+[7/29, 3:27 PM] Rishitha Kims 2019: PICO-
+"Patient, Intervention, Comparator, Outcomes and :
+
+P stands for the number of patients in the human experiment that participated 
+
+I stands for number of people in the intervention group. 
+
+C stands for number of people in the "comparator" group ideally those who
+received placebo 
+
+O stands for outcome in each group of people.
+
+
+[7/29, 4:21 PM] Rakesh Biswas: Thanks Rishitha. 
+
+Very well done 👏👏
+
+So what are your learnings from this data?
+
+Although this is not in patients of DVT but still it was a very useful study
+because critically ill patients (especially as the recent covid patients that
+we saw) may develop thrombus formation in small vessels as a part of the septic
+inflammatory response. 
+
+Thanks for sharing this study in such a nice manner. Very useful. Do let me
+know your take home message and I shall let you know mine
+
+
+
+[7/29, 4:48 PM] Rishitha Kims 2019: Thank you sir. 
+
+So, 
+We can hereby conclude that prophylactic treatment with 40 mg of enoxaparin
+subcutaneously per day safely, effectively reduces the risk of venous
+thromboembolism in patients with acute medical illness. 
+
+Since the case study does not involve the condition of DVT, the subject needs
+to be studied further. 
+Hence, the following link would provide the relatable content. 
+
+https://pubmed.ncbi.nlm.nih.gov/23662321/
+
+
+[7/29, 4:59 PM] Rakesh Biswas: Alright now look at point 4
+
+What happened after 110 days inspite of treatment or no treatment (placebo)?
+
+Everyone of these groups an equal number of people died? So did the treatment
+really matter?
+
+
+
+[7/29, 5:30 PM] Rishitha Kims 2019: Sir, when the test statistic is not big
+enough to reject the hypothesis of no treatment effect, investigators often
+report no statistically significant difference. 
+The ability to detect a treatment effect with a given level of confidence
+depends on the size of the treatment effect, the variability within the
+population, and the *size of the samples* used in the study. Just as bigger
+samples make it more likely that you will be able to detect an effect, smaller
+sample sizes make it harder. 
+The distinction between positively demonstrating that a treatment had no effect
+and failing to demonstrate that it did have an effect is subtle but very
+important, especially in the light of the small numbers of subjects included in
+most clinical studies.
+I have compiled this information from :
+https://accessanesthesiology.mhmedical.com/
+content.aspx?bookid=665&sectionid=43745749
+
+A good maximum sample size is usually around 10% of the population, as long as
+this does not exceed 1000. 
+So in our research, the sample size is around 30% which can yield appropriate
+results and marginally equal in all the treatments.
+
+
+[7/29, 5:39 PM] Rakesh Biswas: Yes so assuming that the study you shared around
+anticoagulants in critical illness, had the right sample size, do you feel that
+it will be useful to anticoagulate all patients of critical illness in our ICUs
+as an equal number died in all groups regardless of their anticoagulation?
+
+
+[7/29, 6:58 PM] Rishitha Kims 2019: No sir. Many factors are taken into
+consideration to assess whether the treatment is efficient or not. 
+Sample size gets to be of major importance in clinical study.
+
+
+
+[7/29, 7:01 PM] Rakesh Biswas: Try to talk about the critical illness
+anticoagulant study that you shared. 
+
+What factors do you think suggests that anticoagulation could be useful in all
+critical illness patients ?
+[7/29, 7:09 PM] Rakesh Biswas: Is there something wrong with the sample size of
+the study you shared in PICO format?
+
+
+
+[7/29, 7:09 PM] Rishitha Kims 2019: No sir. The sample size is appropriate.
+
+
+
+[7/29, 7:12 PM] Rishitha Kims 2019: Because of the high risk of thrombotic
+complications (TCs) during SARS-CoV-2 infection, several scientific societies
+have proposed to increase the dose of preventive anticoagulation. 
+But,
+I think we cant only rely on sample size to assess whether the treatment would
+be effective without having appropriate information about relationship between
+the dose of anticoagulant therapy and the incidence of thrombotic
+complications.
+
+
+[7/29, 7:16 PM] Rakesh Biswas: So is this conclusion for another issue? 
+
+That of anticoagulants in critically ill Covid patients? Would you like to
+share any covid study with adequate and appropriate sample size where they have
+managed to scientifically prove that anticoagulation is effective in critically
+ill Covid patients? If you are not able to find one such well done study then
+can we conclude that scientific societies may not always base their guidleines
+on science but based on other factors such as market forces or convenience?
+
+
+[7/29, 7:20 PM] Rishitha Kims 2019: Yes sir. I have taken criticall ill COVID
+patients into consideration. 
+I could find a case study which says High-dose prophylactic anticoagulation is
+associated with a reduction in thrombotic complications in critically ill
+patients with COVID-19 without an increased risk of hemorrhage.
+
+This information has been taken from: 
+https://journal.chestnet.org/article/S0012-3692(21)00047-7/fulltext
+
+538 patients included, 
+104 patients experienced a total of 122 thrombotic complications. Pulmonary
+embolism accounted for 52% of the recorded TCs.
+
+
+[7/29, 7:20 PM] Rakesh Biswas: In response to your last paragraph here, the
+study that you shared in PICO format above did have appropriate information
+that you yourself pasted about the dose of anticoagulants and incidence of
+thrombotic complications?
+
+
+[7/29, 7:24 PM] Rishitha Kims 2019: Yes sir, the information i displayed about
+the dose and incidence is appropriate, as stated in the study.
+
+[7/29, 7:44 PM] Rakesh Biswas: In that case if the study was appropriate what
+would be your take home message from the study? 
+Should we anticoagulate all critically ill patients as it significantly reduces
+the incidence of pulmonary embolism over placebo or should we not anticoagulate
+because there is no significant difference in the mortality?
+
+[7/29, 7:45 PM] Rakesh Biswas: Please share it in the PICO format that you
+shared for the non covid study
+
+[7/29, 8:04 PM] Rishitha Kims 2019: Since the risk of thrombotic complications
+is high in critically ill patients, having Pulmonary embolism to contribute
+highest, we shall anticoagulate all critically ill patients over placebo
+irrespective of insignificant difference in the mortality in the above
+discussed case. 
+But it has been that the dose of anticoagulant to be increased progressively
+based on thrombotic risk factors that include obesity, high oxygen demand, need
+for mechanical ventilation, and biomarkers of major inflammation or
+hypercoagulability, despite the lack of evidence supporting this strategy.
+Because, despite the use of regular prophylactic anticoagulation, the
+proportion of hospitalized patients experiencing thrombotic complications
+ranges from 18% to 37%, say some studies as mentioned in this:
+https://journal.chestnet.org/article/S0012-3692(21)00047-7/fulltext
+
+[7/29, 8:05 PM] Rishitha Kims 2019: Sorry sir, but i am unable to compile data
+to assess this case study in the PICO format.
+
+[7/29, 8:18 PM] Rakesh Biswas: So then is the study worth it?
+
+[7/29, 8:21 PM] Rakesh Biswas: Why do you think those critically ill people are
+having pulmonary embolism and dying eventually after 110 days regardless of
+placebo or anticoagulant used? 
+
+Is it possible that it's not the coagulopathy which is killing them but the
+sepsis cascade which is also producing coagulopathy as a side effect?
+
+[7/29, 9:59 PM] Rishitha Kims 2019: Severe corona virus maintains common
+features to sepsis.
+Most critically ill patients admitted to ICU showed a dysregulated host
+response characterized by hyperinflammation, alterations in the coagulation,
+and dysregulation in the immune response that further contribute to MODS (Multi
+organ dysfunction failure), like occurs in sepsis. 
+
+Due to virus infection and to MODS in some cases, many patient have meet the
+Third International Consensus Definitions for Sepsis. 
+Some common characteristics with sepsis of respiratory origin, such as dense
+mucus secretions in airways, diffuse alveolar damage, increased pulmonary
+inflammation, and high levels of systemic proinflammatory cytokines and
+microthrombosis, probably as consequence of the increase in angiotensin II and
+angiotensin-converting enzyme 2 interaction and high levels of interleukin
+(IL)–6 and other proinflammatory cytokines contributing to *COAGULOPATHY.* 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467034/#!po=15.9091
+
+So, thereby we can say that coagulopathy is a side effect for the sepsis
+cascade because of the viral infection. 
+It is clear that hyperinflammation and coagulopathy contribute to disease
+severity and death in these patients.
+
+[7/29, 10:02 PM] Rakesh Biswas: Good read. 
+
+But the side effect of coagulopathy may not be responsible for the deaths,
+which are more likely due to the sepsis multi organ failure
+
+ Posted by
+ caregiver7careseeker    at
+ 9:33 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _▼ _ August (5)
+                # Page_n:_Competency_driven_assessment_and_testing_o...
+                # Medicine_Log_book_(paper_printed_version)_with_sam...
+                # Medicine_paper_for_Aug_2021_bimonthly_blended_asse...
+                # Workflow_for_the_MD_university_final_case_based_vi...
+                # Third_semester_students,_hands_on_learning_around_...
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

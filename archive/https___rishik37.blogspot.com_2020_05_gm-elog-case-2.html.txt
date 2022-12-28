@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+____
+
+**** Search This Blog ****
+[q                   ]
+[Search]
+[GM_Elog_Cases_]
+"This is an online E log book to discuss our patient's de-identified health
+data shared after taking his/her/guardian's signed informed consent.Here we
+discuss our individual patient's problems through series of inputs from
+available global online community of experts with an aim to solve those
+patient's clinical problems with collective current best evidence based
+inputs.This E log book also reflects my patient-centered online learning
+portfolio.
+
+**** GM Elog Case-2 ****
+
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ -
+ _May_22,_2020_
+****** RISHIK
+R.no: 37 ******
+
+****** 23 yr Old male with Bilateral Lower limb weakness.  ******
+
+I've been given this case to solve in an attempt to understand the topic of
+"patient clinical data analysis" to develop my competency in reading and
+comprehending clinical data including history, clinical findings,
+investigations and come up with a diagnosis and treatment plan.
+
+After going through the patient details as given by our Intern Mam through the
+following link..
+https://vaish7.blogspot.com/2020/05/medicine.html?m=1
+
+My analysis of the patient is as follows,
+
+***** Chief Complaints:  *****
+*****  *Bilateral Lower limb weakness.  *****
+Bilateral Lower limb weakness associated with Tingling and Numbness since 5
+days. 
+There is also H/O Sudden fall. 
+
+As described by the patient, there is intially Paraparesis that gradually
+developed into Paraplegia.
+
+**** Paraparesis can be due to ****
+1. Injury 
+- Which is ruled out as there is no H/O trauma. 
+
+2. Vitamin B12 deficiency
+- Which is ruled out as there is no Pallor suggestive of Anemina
+
+3. PVD
+- A sudden fall may be indicative of vascular cause probably due to stroke or
+ischemia or infarcts in the brain. 
+- However it can be ruled out as there is no signs of pain, claudication, skin
+changes in leg.
+
+4. Neuromuscular Problem 
+- Since there is tingling and numbness it is more of a nerve issue. 
+- O/E of CNS ,
+# Higher Mental Functions: 
+Patient is Conscious, Oriented to time place and person, Speech & Memory
+normal. 
+
+# Cranial Nerves: Intact
+
+# Motor System:
+                         Right.                      Left
+Bulk:               Normal.               Normal
+Tone: 
+           UL.        Normal.              Normal
+           LL.       HYPOTONIA     HYPOTONIA
+Power         
+           UL.          5/5.                     5/5
+           LL.           2/5.                    0/5
+Reflexes.  
+   Superficial reflexes
+                       Right.                     Left
+Corneal.            P                            P
+Conjunctival    P.                            P
+Abdominal.      P.                            P
+Plantar          Extensor          Extensor
+    Deep tendon reflexes 
+                          Right                     Left
+Biceps.                2+                         1+
+Triceps.              2+                         1+
+Supinator.         3+                         2+
+Knee                   3+                         2+
+Ankle.                 3+                         2+
+jaw jerk.             1+.                        1+
+Ankle clonus   PRESENT        Absent
+ 
+Primitive reflex - absent. 
+Involuntary movements - absent. 
+
+# Sensory System: Normal. 
+
+# Coordinaton: Normal
+
+# Gait: ??
+
+# Meningeal Signs: Absent
+
+From the Nervous system examination mentioned above it is evident that there is
+•B/L Hypotonia, Suggestive of LMN lesions
+•Hyper reflexia of Knee and Ankle reflex suggestive of lesion UMN lesion above
+L3,L4
+• Ankle clonus, suggestive of UMN lesion above S1,S2
+
+**** Investigations: ****
+MRI of Spine
+
+***** *Vomitings *****
+Though patient mentioned it as a Non projectile vomiting, it is difficult to
+rely on patients information who might not actually know what a projectile
+vomiting is like. 
+These Vomitings may be due to intracranial space occupying lesions which causes
+raised intracranial pressure and vomitings.
+
+**** Investigations: ****
+MRI of Brain
+[https://1.bp.blogspot.com/-AS6OVHWP7bI/XseBZv1dbZI/AAAAAAAAGws/
+Nhrlb_hlI3UQWN8kQBafPix8sZHh21VaQCK4BGAsYHg/IMG-20200508-WA0030.jpg]
+
+[https://1.bp.blogspot.com/-s94IaF0jKys/XseBZ-Pzg0I/AAAAAAAAGww/
+5prmRe88xY8T5kSAevdKMDZJpfX80E9cACK4BGAsYHg/IMG-20200508-WA0027.jpg]
+
+[https://1.bp.blogspot.com/-4N0uUM8Mc1A/XseBaKq_wfI/AAAAAAAAGw0/
+Waaph22jarM3VTou1loPSbYWMROqasy6QCK4BGAsYHg/IMG-20200508-WA0026.jpg]
+
+[https://1.bp.blogspot.com/-M1t7l_H3O7s/XseBaYXsdEI/AAAAAAAAGw4/
+amSjqNpbnU0dPqqOSlGmPkO1PZTS0YEowCK4BGAsYHg/IMG-20200508-WA0028.jpg]
+
+[https://1.bp.blogspot.com/-cmJuHuYwLIo/XseBarLjKUI/AAAAAAAAGw8/
+DaoewirXu9o1M3G3ALy4AHDKhvuu6t8GACK4BGAsYHg/IMG-20200508-WA0029.jpg]
+
+[https://1.bp.blogspot.com/-UhgJg9WF1Ik/XseBa9BrjDI/AAAAAAAAGxA/
+CtMPmDK9mu83tYj_2F58noVPTe9rL9r7gCK4BGAsYHg/Screenshot_20200515-084759_2.png]
+
+
+**** *Gluteal abcess  ****
+ Operated 5 months back
+**** *scrotal abcess  ****
+   Operated 10days back
+
+These two abcess are cold abcess as there is no signs of inflammation.
+
+**** Investigations: ****
+Scraping of the abcess peripherally and send for culture to isolate the
+organism causing abcess.
+
+**** Interpretation of Investigations: ****
+Upon going through the investigations it is found that
+There is significant enhancement which represents meningeal enhancement or
+exudates and following lesions in mri with multiple nodules in pulmonary
+apices  suggest of pulmonary kochs and disseminated tuberculosis. 
+
+So the patient is now found to have Tuberculosis but didn't have any classical
+findings of TB.
+
+As it is mentioned that patient has H/O Multiple Sex partners it is advised to
+go for HIV testing as HIV and TB co-exist. PLHIV are 21 (16-27) times at higher
+risk of developing TB¹. 
+
+TB Burden²
+[https://1.bp.blogspot.com/-tED5GvtcO24/XseDDHKquVI/AAAAAAAAGyU/
+jByg6MyvxS8AkU5RDVo5zZeCFGyNYBQNgCK4BGAsYHg/s320/Screenshot_20200522-
+121544__01.jpg]
+
+
+
+**** Further analysis: ****
+•As the patient is found to have disseminated TB, it is important to ruleout TB
+Spine (Potts Spine)
+Potts spine may cause Potts paraplegia involving both the lower limbs. 
+•Its is also important to ruleout Spondylodiscitis as M.tuberculosis is one of
+the main causative organism³.
+
+**** Discussion: ****
+•Anatomical location of the casue is most likely at the level of L3,L4. 
+However there must be lesion involving more than one level since the patient
+has features of both UMN & LMN lesions. 
+
+•Etiologically it can be due to Disseminated TB
+Potts paraplegia is yet to be evaluated and ruled out. 
+
+•Pathologically the cause can be due to Clod abscess caused by MTB extending to
+more than one level 
+i.e, Above and At the level of L4,L5.
+
+**** Therapeutic Options: ****
+•Medical management
+Manage TB : ATT + Rest + Taylars Brace for 18-24 months
+•Surgical management
+Anterolateral Decompression. 
+(Indicated if, No improvement with 3-6 weeks of treatment, Symptoms worsen
+during treatment, Bowel and Bladder involvement). 
+
+UPDATE :
+
+•On further follow up, Upper limb reflexes were found to be exaggerated which
+made us to think again regarding the site of lesion, 
+
+•All the features of CNS examination now point towards UMN lesion (Hypotonia,
+though  not a feature of UMN lesion, can be seen in acute cases of UMN lesions
+due to Spinal Shock). 
+
+•So now the lesion can be anywhere from Cerebral cortex to down the
+Corticospinal tracts. 
+
+•However here the patient has Involvement of Upper and Lower limbs without any
+involvement of abdominal muscles in between, we can rule out the lesion in the
+tracts. 
+If the lesion is in Tracts then there should be involvement of all the muscles
+below the lesion which is not happening in our patient. 
+
+• Now we can think that the lesion is in the cerebral cortex in the motor area.
+
+• As Upper and Lower limbs are involved the lesion must be in the motor area
+controlling these regions, i.e., in the medial part of the Motor Homenculus.
+
+Motor Homenculus⁴ 
+
+[https://1.bp.blogspot.com/-u5InWBYR_18/Xs1Pv8W0sBI/AAAAAAAAGz0/
+oDw7RYY4t2w6FlmhYfQVGMYIR99C9aIDQCK4BGAsYHg/s320/images.jpeg]
+
+
+As we can see from the above picture that the Upper and Lower limb regions are
+side by side a lesion in that region of the Motor Cortex can lead to
+involvement of Upper and Lower limbs. 
+
+• The next Question is
+WHAT IS THE CAUSE OF LESION?
+ As the patient has Tuberculosis the MTB can cause a lesion in that area. 
+
+HOW DOES IT SPREAD TO THAT AREA?
+ It is through a Blood borne spread through the ACA. 
+
+Diagnosis :
+
+TUBERCULAR_ACA_VASCULITIS_in_the_medial_Homenculus_area_of_cerebral_cortex
+
+
+Cerebral Vasculitis secondary to Tuberculosis in previous literature
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4606267/
+*** References:  ***
+1. India TB Report 2019, 
+    https://tbcindia.gov.in
+2. https://tbfacts.org/tb-statistics-india/
+3. https://en.m.wikipedia.org/wiki/Spondylodiscitis
+4. https://images.app.goo.gl/H5F68XnaVVq6Fp8s8
+
+
+
+
+
+
+
+
+
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Comments ****
+   1. RishikMay_22,_2020_at_10:14 PM
+      [5/22, 10:46 AM] : Gud Morning Sir,
+      In our case of 23 yr patient with lower limb weakness
+      Why was an MRI of spine not done?
+      It is also possible that he might have Potts paraplegia, Presence of
+      Ankle clonus and exaggerated DTR are earliest neurological signs
+      indicating a SC compression.
+      [5/22, 10:48 AM] : Also it would be better to have an Orthopedic opinion
+      to rule out Potts paraplegia. Because if it is there and is not
+      identified it would involve Bowel and Bladder in long term and if it's
+      Potts paraplegia it can be managed surgically.
+      [5/22, 10:50 AM] : Also Gait is to be evaluated to see if there is any TB
+      spondylitis
+      [5/22, 4:28 PM] Rakesh Sir KIMS: Orthopedic opinion for Potts paraplegia?
+      ��
+
+      Well their opinion is only asked if we want them to operate, otherwise we
+      need to make the diagnosis for them ourselves first
+      [5/22, 4:30 PM] Rakesh Sir KIMS: Ask Hitesh to share with you the MR
+      spine images.
+
+      The MRI spine lumbar vertebral involvement is mentioned in his mri report
+      that is already in the log.
+
+      However that may not be causing his paraparesis. Can you tell why?
+      [5/22, 4:31 PM] Rakesh Sir KIMS: Ask Hitesh to share his gait video or at
+      least mention what was his gait like
+      [5/22, 4:31 PM] : Sure sir
+      [5/22, 4:31 PM] : May be it's not compressing the cord
+      [5/22, 4:32 PM] Rakesh Sir KIMS: Ok so back to the first question
+      [5/22, 4:33 PM] : Sir but the lesion is definitely peripheral na Sir
+      [5/22, 4:34 PM] : If it's a central lesion the presentation would be far
+      different with involvement of other structures
+      [5/22, 4:35 PM] : There is a chace of disc inflammation spondylodiscitis
+      [5/22, 4:35 PM] : But that is usually more common in immunocompromised
+      patients
+      [5/22, 4:35 PM] : I think we also need to assess the patients HIV status
+      tooo
+      [5/22, 4:36 PM] : To consider few other differentials
+      [5/22, 4:43 PM] Rakesh Sir KIMS: Yes so the most basic thing in mbbs
+      neurology that we need to learn to distinguish is between peripheral LMN
+      lesion and central UMN lesion.
+
+      What does his clinical features suggest?
+      [5/22, 4:46 PM] : Sir
+      From the Nervous system examination mentioned above it is evident that
+      there is
+      •B/L Hypotonia, Suggestive of LMN lesions
+      •Hyper reflexia of Knee and Ankle reflex suggestive of lesion UMN lesion
+      above L3,L4
+      • Ankle clonus, suggestive of UMN lesion above S1,S2
+      [5/22, 4:47 PM] : I think there is lesion just above L3,L4 in the spinal
+      cord that reflects as UMN lesion for the levels below it.
+      [5/22, 4:50 PM] Rakesh Sir KIMS: Good above L3, L4 where?
+      [5/22, 4:59 PM] : Just above L3,L4 but not likely disturbing the L2
+      Because if L2 in involved in the lesion then
+      There should be sensory loss on antero lateral aspect of thigh upto level
+      of knee(Lateral cutaneous nerve of thigh-L2,3)
+      Also loss of sensation over the medial aspect of thigh( Obturator nerve-
+      L2,3,4)
+      [5/22, 5:00 PM] : As there is no sensory deficit it is likely that the
+      sensations are preserved due to normal L2
+      [5/22, 5:04 PM] : Also involvement of L3,4 explain the weakness in lower
+      limb caused due to loss of motor fibers of obturator nerve to thigh
+      muscle
+      ReplyDelete
+      Replies
+            Reply
+Add comment
+Load more...
+*** Post a Comment ***
+
+
+**** Popular posts from this blog ****
+**** GM_Elog_Case-7 ****
+ -
+ _August_27,_2021_
+[Image]
+RISHIK R NO 37 A 30yr Old Female with ? Osteomalacia This is an online E log
+book to discuss our patient's de-identified health data shared after taking
+his/her/guardian's signed informed consent.  Here we discuss our individual
+patient's problems through series of inputs from available global online
+community of experts with an aim to solve those patient's clinical problems
+with collective current best evidence based inputs.  This E log book also
+reflects my patient-centered online learning portfolio and your valuable inputs
+on the comment box is welcome I've been given this case to solve in an attempt
+to understand the topic of "patient clinical data analysis" to develop my
+competency in reading and comprehending clinical data including history,
+clinical findings, investigations and come up with a diagnosis and treatment
+plan CASE A 30yr old female, Daily wage Labourer by occupation came to OPD with
+cheif complaints of Pain in B/L Lower limbs since 2 yea
+Read_more
+
+**** Final_Exam_Long_Case ****
+ -
+ _April_26,_2021_
+[Image]
+Hall Ticket No: 1601006042 This is an online e logbook to discuss our patients
+deidentified health data shared after taking her/guardian's signed informed
+consent Here we discuss our individual patient problems through series of
+inputs from available global online community of experts with an aim to solve
+those patients clinical problems with collective current best evidence based
+inputs This E log also reflects my patient centre’s online learning portfolio
+and valuable inputs on the comment box is welcome. CASE A 50yr old
+female,farmer by occupation, resident of suryapet came with chief complaints of
+weakness in left upper and lower limbs since 3 days. History of present
+illness: Patient was apparently asymptomatic 3 days back ,then she developed
+dizziness which was sudden in onset .Then she developed weakness in her left
+upper and lower limbs followed by fall.Weakness was sudden in onset and
+progressed rapidly to a state where she was unable to move her left lower limb
+and left u
+Read_more
+
+**** GM_Elog_Case-5 ****
+ -
+ _July_01,_2021_
+[Image]
+RISHIK  R No 37 A 55yr OLD MALE WITH ANASARCA SECONDARY TO RIGHT HEART FAILURE
+This is an online E log book to discuss our patient's de-identified health data
+shared after taking his/her/guardian's signed informed consent.  Here we
+discuss our individual patient's problems through series of inputs from
+available global online community of experts with an aim to solve those
+patient's clinical problems with collective current best evidence based
+inputs.  This E log book also reflects my patient-centered online learning
+portfolio and your valuable inputs on the comment box is welcome I've been
+given this case to solve in an attempt to understand the topic of "patient
+clinical data analysis" to develop my competency in reading and comprehending
+clinical data including history, clinical findings, investigations and come up
+with a diagnosis and treatment plan A 55y/M Barber by occupation came to OPD
+with Chief Complaints of   • Pedal Edema since 1 month  • Abdom
+Read_more
+___Powered_by_Blogger
+Theme images by Michael_Elkan
+
+[My_photo]
+  Rishik
+Visit_profile
+
+**** Archive ****
+
+    * 2021_10
+          o August_3
+          o July_3
+          o April_2
+          o March_2
+    * 2020_2
+          o May_2
+                # GM_Elog_Case-2
+                # GM_Elog_Case-1
+Show more Show less
+**** Report_Abuse ****

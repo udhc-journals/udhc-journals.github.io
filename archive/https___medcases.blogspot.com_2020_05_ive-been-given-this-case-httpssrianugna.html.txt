@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+__
+Search
+
+**** Search This Blog ****
+[q                   ]
+ [Submit]
+****** Medical_cases ******
+MEDICINE LOG BOOK BY SAI BHAVANA SANA - ROLL NUMBER - 146 This is an online E
+log book to discuss our patient's de-identified health data shared after taking
+his/her/guardian's signed informed consent. Here, we discuss our individual
+patient's problems through series of inputs from available global online
+community of experts with an aim to solve those patient's clinical problems
+with collective current best evidence based inputs
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+ _May_22,_2020_
+**** PARAPARESIS ****
+"I've been given this case
+ https://srianugna.blogspot.com/2020/05/hello-everyone.htmll
+https://youtu.be/3VVH7w3rWSM
+ to solve in an attempt to understand the topic of "paraparesis."
+
+This may develop my competency in
+
+a) reading and comprehending clinical data related to "paraparesis" including
+history, clinical findings, investigations
+
+b) come up with a diagnosis such as:
+1) Anatomical location of the root cause
+2) Physiological functional disability
+3) Biochemical abnormalities that could be a root cause at a molecular level
+4) Pathology that could reflect the root cause at a cellular level
+
+c) a treatment plan for each of these patients of paraparesis that can have a
+pharmacological and non pharmacological component.
+
+d) learning the scientific basis of diagnostic and therapeutic approach in
+terms of past collective experiences and experiments (aka evidence based
+medicine).
+
+Following is my analysis of patient's problem.
+
+Patient is 18 year old came with the complaint of bilateral lower limb weakness
+which is chronic and insidious and progressive in nature.With this complaint of
+weakness what comes to my mind is invovement of nervous system.
+****
+Neurological_cause_of_weakness_can_be_related_to_following_anatomical
+structures, ****
+[https://1.bp.blogspot.com/-AM6_2b4tmk8/XseBrzHErxI/AAAAAAAAFes/
+4VdsnDbr8ssOjWd4qGYfaw0ZOjN7Oh5aQCLcBGAsYHQ/s400/Picture1.png]
+Any lesion in the motor system can lead to :
+[https://teachmephysiology.com/wp-content/uploads/2017/07/
+1426_Corticospinal_Pathway-468x1024.jpg]
+    * plegia 
+    * paresis - In this patient it is paraplegia(bilateral lower limb weakness)
+    * involuntary movements
+**** UPPER_MOTOR_NEURON  ****
+A neuron that extends from cerebral cortex(motor) to brainstem or spinal cord
+is known as upper motor neuron.
+
+If there is lesion in this area, patient can present with following signs and
+symptoms:
+
+    * mostly distal muscle involvement
+    * apraxia
+    * flexor weakness in lower limb
+    * no muscle atrophy
+    * hypertonia 
+    * spasticity(clasp knife spasticity)
+    * deep tendon reflexes are exaggerated
+    * babinki is present
+    * clonus:sustained
+    *  abdominal reflexes are absent  
+(This image is taken from   https://teachmephysiology.com/nervous-system/motor-
+system/upper-motor-neurone/ )             
+History related to present case
+    * history of difficulty in performing squatting
+    * history of wearing and holding of chappal
+    * no history of difficulty in buttoning and unbuttoning shirt -suggestive
+      of no distal muscle involvement in upper limb
+    * no history of difficulty in combing hair-suggestive of no proximal muscle
+      involvement on upper limbs
+    * muscle atrophy is present-not suggestive of UMN lesion
+    * hypotonia is present-not suggestive of UMN lesion
+    * reflexes are absent-not suggestive of UMN lesion
+Therefore, due to above finding I ELIMINATE UPPER MOTOR NEURON LESION.
+****  BASAL_GANGLIA ****
+Basal ganglia is mainly involved voluntary control of movements.Lesion is the
+basal ganglia can present as following:
+    * Athetosis
+    * Chorea
+    * Ballismus
+    * Dystonia
+    * Resting tremors
+    * Bradykinesia
+    * Rigidity
+History related to present case
+
+ Patient did not have any of the above conditions, so I RULE OUT LESION OF
+BASAL GANGLIA.
+**** CEREBELLUM ****
+Cerebellum is mainly involved in motor learning,sense of body position,fine
+movement coordination,balance and equilibrium.
+
+
+Lesion in cerebellum can present with following signs:
+    * [Nonmotor_Functions_of_the_Cerebellum:_An_Introduction_|_American_...]
+    * Dysmetria
+    * Dysdiadokinasia
+    * Gait abnormalities
+    * Hypotonia
+    * Dysarthria 
+    * Nystagmus
+    * Intension tremors
+    * Pendular knee jerk
+
+History related to present case
+    * ataxic gait is not present  (For more informaation about gait- https://
+      stanfordmedicine25.stanford.edu/the25/gait.html)
+    * no history of any other above mentioned signs
+Therefore, due to above findings,I RULE OUT CEREBELLAR INVOLVEMENT.
+(This image is taken from http://www.ajnr.org/content/37/6/1005)
+**** LOWER_MOTOR_NEURON ****
+ A neuron that extends from spinal cord or brainstem to muscle is know as lower
+motor neuron.
+
+If there is lesion this area, patient can present with following signs and
+symptoms: 
+    * mostly proximal muscle are involved
+    * atrophy of mucles
+    * flaccidity
+    * hypotonia
+    * deep tendon reflexes are reduced or absent
+    * babinski is negative
+    * fasiculations and fibrillations are present
+History related to the present case   
+
+    * history of weakness in proximal region followed by distal region (lower
+      limb) is present
+    * atrophy is present
+    * deep tendon reflexes are absent(areflexia)
+These features are suggestive of LOWER MOTOR NEURON LESION.
+
+ As this is LMN  lesion next step is to know at which site of lower motor
+neuron pathology is present.
+[https://1.bp.blogspot.com/-bsvZTd6NRDg/XsfqO1VoTCI/AAAAAAAAFfA/
+ESsU4H_Xwwwi7HesjKuaAcd2Q26_NIBCQCLcBGAsYHQ/s640/Picture3.png]
+    signs_and_symptoms
+
+[https://1.bp.blogspot.com/-BtROBQoxmBo/XsgAIgSvfbI/AAAAAAAAFfM/
+nP3muiUXWFwHyPJif2ZqE5JNippXe0uYQCLcBGAsYHQ/s640/Picture4.png]
+
+History related to present case                              
+
+    * history of symmetrical weakness of lower limbs
+    * history of proximal muscle weakness followed by distal muscle weakness 
+    * no history of loss of sensation( no H/O numbness,tingling,pin and needles
+      sensation,burning pain,tight band like pressure and insensitivity to
+      cold)
+    * areflexia is present
+DIFFERENTIAL DIAGNOSIS:
+
+    * Myopathy
+    * Demyelinating peripheral neuropathy
+**** Demyelinating_peripheral_neuropathy ****
+It is the involvement of demyelinated neurons.In the present case as it is
+chronic paraplegia it could be CIPD.
+
+Signs and symptoms
+    * Both proximal and distal weakness
+    * Areflexia
+    * No atrophy
+    * Motor system is predominent than sensory
+Investigations
+    * CSF analysis-increase in protiens
+    * EMG and NCS-latency and decreased conduction velocity
+Investigation that is performed is EMG which showed normal.
+As EMG is normal there is no invovement of peripheral nerves.So I RULE OUT
+CIPD.
+
+
+*** MYOPATHY ***
+[https://1.bp.blogspot.com/-_XfN-OGGNck/XsgILondq-I/AAAAAAAAFfY/
+iCnRfJbgnMsQ26N1x6csbwAexJ3k7mSHgCLcBGAsYHQ/s1600/Picture5.png]
+                                                                             
+                                              
+History related to present case
+    * history of persistent bilateral weakness of proximal lower limb followed
+      by distal
+    * buckling gait
+    * no history of any drug intake
+    * history of pedal edema is present 
+    * cardiomyopathy is present
+Differential diagnosis
+    * Polymyositis
+    * Hypothyriodism
+    * Becker muscular dystrophy
+Investigations:
+
+ I would like to order following investigations:
+    * Thyroid profile
+    * muscle biopsy to find any inflammatory cause
+    * Chest X -ray
+    * CPK
+    * EMG
+    * genetic testing for becker muscular dystrophy
+Investigations that are done are
+
+    * Muscle biopsy 
+
+
+[https://1.bp.blogspot.com/-XjhdUsKQIHM/XsgYxNJInTI/AAAAAAAAFfo/
+uaCCb07aZTwHXAdkAPm427USR1PACl06wCLcBGAsYHQ/s320/22.jpg][https://
+1.bp.blogspot.com/-iu-kS_7dBi8/XsgYu7tkopI/AAAAAAAAFfk/FRM305a9oewP6yQAhm80H5-
+kBxJzcnfCQCLcBGAsYHQ/s320/11.jpg][https://1.bp.blogspot.com/-ItMxGMroT-4/
+XsgYyRp7EvI/AAAAAAAAFfs/pDNfuRVFMSwYAICxsKPdduIIGZLFisL5wCLcBGAsYHQ/s320/
+44.jpg]
+
+
+Muscle biopsy rules out polymyopathy.
+**** BECKER_MUSCULAR_DYSTROPHY ****
+It is a X-linked recessive inherited dystrophy characterized by weakness and
+wasting of skeletal and cardiac muscles.It is caused by DMD gene mutation.It
+has variable disease onset.
+Signs_and_symptoms
+    * muscle wasting
+    * cardiomyopathy 
+    * arrythmias
+    * scoliosis
+    * features of myopathy
+Investigations
+    * CK-MB
+    * EMG
+    * Muscle biopsy
+    * Chest x-ray
+    * genetic testing
+Treatment
+    * Physiotherapy
+https://rarediseases.info.nih.gov/diseases/5900/becker-muscular-dystrophy
+
+Edits:
+
+As NCS are normal,I rule out CIPD.
+
+Reference:
+
+The above mentioned  information, charts and tables are written after watching
+Marrow and  reading, and understanding from Harrison's principles of internal
+medicine.
+Michael J. Aminoff. Neurological Causes of Weakness and Paralysis and Numbness,
+tingling, and sensory loss.In:D.L Kasper, S.L. Hauser,D.L.Longo, J.L.Jameson,
+J.Loscalzo, A.S.Fausi. Harrison's principles of internal medicine.20th ed. New
+York: McGraw-Hill;2018.Pg 135-143
+
+Daniel H. Lowenstein; Joseph B. Martin; Stephen L. Hauser. Approach to patient
+with neurological disease. In:D.L Kasper, S.L. Hauser,D.L.Longo, J.L.Jameson,
+J.Loscalzo, A.S.Fausi. Harrison's principles of internal medicine.20th ed. New
+York: McGraw-Hill;2018.Pg 3025-3030
+
+Anthony A. Amato; Richard J. Barohn. Peripheral neuropathy. In:D.L Kasper, S.L.
+Hauser,D.L.Longo, J.L.Jameson, J.Loscalzo, A.S.Fausi. Harrison's principles of
+internal medicine.20th ed. New York: McGraw-Hill;2018.Pg 3204-3225.
+
+.
+ 
+
+
+
+
+
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Comments ****
+   1. caregiver7careseekerMay_26,_2020_at_8:34 AM
+      👍"As EMG is normal there is no invovement of peripheral nerves.So I RULE
+      OUT CIPD."
+
+      This will be NCV not EMG
+      ReplyDelete
+      Replies
+         1. Sai_BhavanaMay_26,_2020_at_8:52 PM
+            I will change it sir
+            Delete
+            Replies
+                  Reply
+            Reply
+   2. donald_boykinsMarch_19,_2021_at_8:03 AM
+      My name is Donald boykins , and I am here to appreciate Dr Akhigbe for
+      using his herbal medicine to cure my Herpes virus. Is about 3 years and 6
+      months now I have been living with this virus and it has been a serious
+      problem to me, I was so confused cause i have been taking several drugs
+      to be cured but all of my effort was in vain,one morning I was browsing
+      through the internet then I saw several testimonies about Dr. Akhigbe
+      curing people from Herpes virus and immediately i contacted Dr. Akhigbe
+      on his email: drrealakhigbe@gmail.com, i told him about my troubles and
+      he told me that i must be cured, he gave me some instructions and which i
+      rightly followed. so he prepared a herbal medicine and sent it to me
+      which i used for 2 weeks and i was cured everything was like a dream to
+      me and my Herpes virus was totally gone, dr .Akhigbe, God bless you and
+      give you more power and ability for more cure.I don't know if there is
+      anyone out there suffering for herpes virus or any of these
+      diseases..DIABETES, CANCER,  HIV/AIDS, HERPES HEPATITiS A AND B. FEVER,
+      EPILEPSY, MENINGITIS, DENGUE SCHIZOPHRENIA, PROSTATE, THYROID, BACTERIA,
+      MALARIA, DICK AND BREAST ENLARGEMENT,MULTIPLE SCLEROSIS, TUBERCULOSIS,
+      DIARRHEA, POLIO, LOW BLOOD PRESSURE,  INSOMNIA,ARTHMA, LUPUS,  RABIES,
+      JOINT PAIN, STOMACH PAIN, HYPEROPIA, ANTI VIRUS, MUSCULAR DYSTROPHY,
+      HEART DISEASE, CHRONIC DISEASE,EPILEPSY, LUPUS, STROKE, SPINAL CORD
+      INJURY, ECZEMA, KIDNEY DISEASE, ACME,  KAWASAKI, BACK PAIN etc. why don't
+      you contact dr.Akhigbe today and be free from your diseases because he is
+      very good and honest Doctor and he is also called the godfather of herbal
+      root contact him via email; drrealakhigbe@gmail.com or whatsApp him on   
+                       +2348025012866
+      website https:drrealakhigbe.weebly.com  
+      ReplyDelete
+      Replies
+            Reply
+Add comment
+Load more...
+*** Post a Comment ***
+
+**** Popular Posts ****
+[Image]
+
+ _January_25,_2022_
+**** 74yrs_old_male_patient_came_to_casualty_with_C/O_SOB_since_7days,_C/
+O_giddiness_since_7days_C/O_pedal_Edema_since_6days ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+
+[Image]
+
+ _January_30,_2022_
+**** This_is_a_case_of_a_58_year_old_male_patient,a_daily_wage_worker_by
+occupation ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+___Powered_by_Blogger
+
+
+  Sai_Bhavana
+      Hello everyone. I am UG student (4th year mbbs) from KIMS.This blog is
+      mainly on medical cases which I have encountered during my course.
+Visit_profile
+
+**** Archive ****
+
+    * 2022_3
+          o January_3
+    * 2021_9
+          o December_7
+          o April_2
+    * 2020_14
+          o July_1
+          o June_1
+          o May_12
+                # Case_discussion_on_myocarditis
+                # Case_discussion_on_paraparesis_case
+                # Case_discussion_on_right_ventricular_failure
+                # Case_discussion_of_peripheral_neuropathy_case
+                # Case_discussion_on_mitral_stenosis
+                # TELE_MEDICINE
+                # HEART_FAILURE_2
+                # HEART_FAILURE
+                # PARAPARESIS_3
+                # Paraparesis_2
+                # PARAPARESIS
+                # CASE_DISCUSSION
+    * 2019_1
+          o November_1
+Show more Show less
+**** Report_Abuse ****

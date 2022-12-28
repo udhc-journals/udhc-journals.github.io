@@ -1,0 +1,325 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+__
+Search
+
+**** Search This Blog ****
+[q                   ]
+ [Submit]
+****** Medical_cases ******
+MEDICINE LOG BOOK BY SAI BHAVANA SANA - ROLL NUMBER - 146 This is an online E
+log book to discuss our patient's de-identified health data shared after taking
+his/her/guardian's signed informed consent. Here, we discuss our individual
+patient's problems through series of inputs from available global online
+community of experts with an aim to solve those patient's clinical problems
+with collective current best evidence based inputs
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+ _May_28,_2020_
+**** HEART FAILURE ****
+I have been given this case to solve in an attempt to understand the topic of
+"Patient Clinical Data Analysis" to develop my competency in reading and
+comprehending clinical data including history, clinical findings,
+investigations and diagnosis with a treatment plan.
+
+You can find the entire real patient clinical problem in the following link:
+https://madhur116.blogspot.com/2020/05/on-1452020.html?m=1
+
+Following is my analysis of the patient's problem. The problems in the order of
+priority I found are:
+    * Shortness of breath since 2 weeks
+    * Fatigue since 2 weeks
+    * Pedal edema since 2 weeks
+****** SHORTNESS OF BREATH (DYSPNEA) ******
+Patient presented with shortness of breath which is acute in onset, NYHA class
+3 initially and class 2 after treatment.
+Some of the structures (differential) related to dyspnea are:
+    * Cardiac
+    * Respiratory
+    * Anemia
+    * Renal
+    * Metabolic
+    * Neuromuscular
+    * Drugs
+Based_on_history_and_examination
+    * No history of cough ,cold and wheeze. This excludes respiratory cause of
+      dyspnea
+    * No history of facial puffiness and oliguria.So there is no renal
+      involvement.
+    * No history of chronic use of drugs such as NSAIDs, steroids.
+    * No history of muscle pain,muscle loss, tingling and numbness.This
+      excludes neuromuscular involvement.
+    * Not a known case of diabetes mellitus
+    * History of fatigue and PND are present.
+From the above details I think there might beanemia_or_cardiac_pathology
+****** PEDAL EDEMA ******
+Patient presented with progressive bilateral pitting type of pedal edema
+extending up to the knees.
+Differential diagnosis for pitting type of pedal edema are:
+    * Heart failure 
+    * Kidney failure 
+    * Liver failure
+Based_on_history_and_examination
+    * No history of periorbital edema and oliguria, so there is no renal
+      involvement.
+    * Ascites is present but not prominent as pedal edema.so there might not be
+      hepatic pathology.
+From the above details I think there iscardiac_pathology.
+
+****** CARDIAC_PATHOLOGY ******
+After analyzing the above complaints I am of the opinion that there is some
+cardiac pathology.What could be the pathology???
+
+In this case patient has fatigue, dyspnea, pedal edema which are cardinal
+features of HEART FAILURE. Next question that arises is, Is it Right heart
+failure or Left heart failure?? 
+    * Symptoms of left heart failure are fatigue and dyspnea.
+    * Symptoms of right heart failure are pedal edema, ascites.
+Patient has features of both,so it must beCONGESTIVE CARDIAC FAILURE.Possible
+explanation is, left ventricular failure has lead to increase in pressures in
+left atrium which lead to increase in pressures in pulmonary veins and arteries
+leading to right heart failure.
+
+Next question that arises is whether it is systolic failure or diastolic
+failure?To know this 2D echo is performed.
+Findings of 2D ECHO is:
+    * Ejection fraction -27% - which suggests it is systolic failure(heart
+      failure due to reduced ejection fraction).
+**** HEART FAILURE DUE REDUCED EJECTION FRACTION ****
+As we now know it is HFrEF , we should find the cause for this.Some of the
+important causes are:
+    * Myocardial infraction
+    * valvular heart disease
+    * non ischemic dilated cardiomyopathy
+Based_on_the_history_and_examination
+    * There is no history of chest pain
+    * There is no history of syncope
+    * There is no history of palpitations
+From this history we can eliminate MI (as there is no chest pain ),MS and AS
+( as there is no chest pain,syncope,palpitation which are cardinal features).My
+differential diagnosis is left with NON-ISCHEMIC DILATED CARDIOMYOPATHY and 
+MITRAL REGURGITATION.
+To know the exact cause, investigations that are performed is:
+**** 2D ECHO ****
+    * EF -27%
+    * global hypokinesia
+    * all chambers are dilated
+    * severe LV dysfunction
+    * severe MR
+    * trivial AR
+    * mild TR
+    * no MS/AS
+    * no pulmonary emboli and LV clots
+    * mild pulmonary artery hypertension
+    * IVC dilates not collapsing
+As all the chambers are dilated MR and TR are also present.Based on the above
+findings,my diagnosis is NON-ISCHEMIC DILATED CARDIOMYOPATHY.
+What might be the etiology related to it???It could be inflammatory
+cardiomyopathy or alcohol induced dilated cardiomyopathy.
+Patient also has a history of fever with chills 1 month back. So I think there
+might be some infective cause of myocarditis. To know the exactly which
+organism is involved, following investigations can be done.
+    * ECG 
+    * 2D ECHO
+    * Serum levels of troponin
+    * Creatinine phosphokinase fractions
+    * MRI
+    * Immunohistochemistry
+    * PCR
+Since most common cause of myocarditis is due to viral etiology , I am of the
+opinion it might be viral myocarditis.
+
+**** TREATMENT ****
+Pharmacological treatment
+    * Captopril
+    * Candesarten
+    * Valcyclovir
+    * Gancyclovir
+    * Interferon beta
+    * treatment that is given :Tab.lasix 80mg...40mg...40mg
+                                      Tab.isosorbide mononitrate10mg bd
+                                             Tab.hydralazine 25mg
+                                             Tab. Telma20mg
+Non pharmacological treatment 
+    * reduce physical activity
+    * reduce salt intake
+    * fluid restriction
+https://www.intechopen.com/books/cardiomyopathies-types-and-treatments/
+infective-cardiomyopathy
+
+
+
+
+
+
+
+
+
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Comments ****
+   1. Sai_BhavanaMay_29,_2020_at_4:16 AM
+      [29/05/20, 8:38:19 AM] MBBS 2016 student : Sir I have doubt. It may not
+      be related to this case but by seeing his foot I felt that there is
+      increase is space between great toe and 2nd toe.
+      Just wondering is there any reason or it is normal
+      https://madhur116.blogspot.com/2020/05/on-1452020.html
+
+      ￼
+
+      [29/05/20, 9:14:24 AM] Post residency pg 1: Excellent observation. 👍👏👏
+
+      We missed this. This could mean the gene that did that to his foot may
+      also have been responsible for the faulty muscle expression in his
+      myocardium that may have coincided with a febrile illness to manifest as
+      heart failure?
+
+      [29/05/20, 9:15:09 AM] MBBS 2016 student: But was that all of sudden or
+      is it from birth
+
+      [29/05/20, 9:15:54 AM] MBBS 2016 student: If it is from birth then why
+      did he didn’t have symptoms before
+
+      [29/05/20, 9:18:28 AM] Post residency pg 1: Good question again. Possibly
+      the febrile illness precipitated it?
+
+      [29/05/20, 9:34:43 AM]MBBS 2016 student:Maybe sir
+      Attachments area
+      ReplyDelete
+      Replies
+            Reply
+   2. Sai_BhavanaMay_29,_2020_at_4:29 AM
+      [29/05/20, 12:08:07 PM] MBBS 2016 student : Where was the apex beat felt
+      ?
+
+      [29/05/20, 12:08:30 PM] MBBS 2016 student: Was S3 heart?
+
+      [29/05/20, 12:44:23 PM] Intern 2015 1: Actually we didn't see the case
+      for the first time... when he came for a review I saw the case..
+
+      [29/05/20, 12:44:46 PM] Intern 2015 1:It was at the left 5 th
+      intercoastal space..
+
+      [29/05/20, 12:44:52 PM] Intern 2015 1: No 3 rd hs
+
+      [29/05/20, 12:45:11 PM] MBBS 2016 student : Ok mam
+
+      [29/05/20, 12:45:44 PM] MBBS 2016 student : And how was it diagnosed as
+      viral origin myocarditis
+
+      [29/05/20, 12:46:37 PM] Intern 2015 1: Because few days before he was
+      suffering from viral fever
+
+      [29/05/20, 12:46:52 PM] MBBS 2016 student : Malaria??
+
+      [29/05/20, 12:47:13 PM] Intern 2015 1: Later there could be viral
+      myocarditis...
+
+      [29/05/20, 12:47:19 PM] MBBS 2016 student: It is mentioned as treatment
+      with antimalarials
+
+      [29/05/20, 12:47:23 PM] Intern 2015 1: That's why we thought of it
+
+      [29/05/20, 12:47:42 PM] Intern 2015 1: Some rmp gave it seems
+
+      [29/05/20, 12:48:12 PM] Intern 2015 1: Not diagnosed as malaria.
+
+      [29/05/20, 12:48:16 PM] Intern 2015 1: No documents
+
+      [29/05/20, 12:48:21 PM] MBBS 2016 student: Okk
+      ReplyDelete
+      Replies
+            Reply
+Add comment
+Load more...
+*** Post a Comment ***
+
+**** Popular Posts ****
+[Image]
+
+ _January_25,_2022_
+**** 74yrs_old_male_patient_came_to_casualty_with_C/O_SOB_since_7days,_C/
+O_giddiness_since_7days_C/O_pedal_Edema_since_6days ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+
+[Image]
+
+ _January_30,_2022_
+**** This_is_a_case_of_a_58_year_old_male_patient,a_daily_wage_worker_by
+occupation ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+___Powered_by_Blogger
+
+
+  Sai_Bhavana
+      Hello everyone. I am UG student (4th year mbbs) from KIMS.This blog is
+      mainly on medical cases which I have encountered during my course.
+Visit_profile
+
+**** Archive ****
+
+    * 2022_3
+          o January_3
+    * 2021_9
+          o December_7
+          o April_2
+    * 2020_14
+          o July_1
+          o June_1
+          o May_12
+                # Case_discussion_on_myocarditis
+                # Case_discussion_on_paraparesis_case
+                # Case_discussion_on_right_ventricular_failure
+                # Case_discussion_of_peripheral_neuropathy_case
+                # Case_discussion_on_mitral_stenosis
+                # TELE_MEDICINE
+                # HEART_FAILURE_2
+                # HEART_FAILURE
+                # PARAPARESIS_3
+                # Paraparesis_2
+                # PARAPARESIS
+                # CASE_DISCUSSION
+    * 2019_1
+          o November_1
+Show more Show less
+**** Report_Abuse ****

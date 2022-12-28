@@ -1,0 +1,1008 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Sunday, February 28, 2021 *****
+
+
+**** Medicine department project on resolving diagnostic and therapeutic
+uncertainty in patients with hyponatremia ****
+Project OUTCOMEs from 2018-2021 documented by Dr Manasa, MD medicine Resident
+from 2018
+
+For more Medicine department projects please click here: https://
+medicinedepartment.blogspot.com/2021/02/medicine-department-projects.html?m=0
+
+
+
+
+
+                               
+         
+
+– DISTRIBUTIUON OF HYPONATREMIA CASES IN 
+                   IN DIFFERENT AGE GROUPS
+
+
+Age group  No. of cases Percentage
+(in years) (n=60)
+13 -39     4            7
+40 – 59  28           46
+60 -79     24           40
+80 – 99  4            7
+Total      60           100
+
+
+
+
+
+DISTRIBUTION OF HYPONATREMIA CASES BASED ON SERUM SODIUM LEVEL  
+Serum Sodium (in meq/l) No. of cases Percentage
+                        n=60
+100 – 109             2            3
+110 – 119             19           32
+120  - 129             39           65
+TOTAL                   60           100
+                                      
+
+FIGURE 9 – PERCENTAGE DISTRIBUTION OF HYPONATREMIA CASES BASED ON SERUM SODIUM
+LEVEl
+
+
+
+
+
+
+FIGURE 10 – FREQUENCY DISTRIBUTION OF HYPONATREMIA CASES BASED ON SERUM SODIUM
+LEVEL
+
+
+Out of the 60 hyponatremia patients studied, only 2 patients have severe
+Hyponatremia, majority of patients have mild asympomatic hyponatremia.
+Most of the cases of mild hyponatremia are secondary to chronic kidney 
+Disease.
+
+
+
+
+
+                  TABLE 4 – ETIOLOGY OF HYPONATREMIA
+
+ETIOLOGY  OF HYPONATREMIA         NO.OF CASES (n=60) percentage
+Vomitings + loose stools           4                  6
+Dehydration secondary to vomitings 7                  12
+Diarrhoea                          1                  2
+Chronic liver disease              1                  2
+Cerebral salt wasting syndrome     4                  6
+Chronic kidney disease             13                 22
+Hyperglycemia                      2                  3
+Dehydration                        3                  5
+Dialated cardiomyopathy            2                  3
+Diuretics                          6                  10
+Post TURP hyponatremia             1                  2
+SIADH                              9                  15
+Anti psychotic drugs               1                  2
+Mixed causes                       6                  10
+TOTAL                              60                 100
+
+
+
+FIGURE 11 – ETIOLOGY OF HYPONATREMIA
+
+
+
+TABLE 5 – MIXED CAUSES OF HYPONATREMIA
+
+Mixed causes of hyponatremia         No.of cases
+CCF + CLD + CKD                      1
+Hypothyroidism +thiazides            2
+Hypothyroidism + vomitings           1
+Vomitings+ thiazides+ hypothyroidism 1
+CKD + thiazides                      1
+Total                                6
+
+
+FIGURE 12 – FREQUENCY DISTRIBUTION OF MIXED CAUSES OF HYPONATREMIA
+
+
+Most common cause of hyponatremia in present study is 
+Hypervolumic hyponatremia secondary to chronic kidney 
+Disease. Second most common cause being SIADH followed by 
+Hypovolemia which is secondary to vomitings,loose stools and 
+Dehydration. 
+Hypothyroidism alone rarely causes hyponatremia. Hypothyroidism
+Need to be severe (myxedema coma) to cause hyponatremia.
+ Most of the mixed Causes of hyponatremia are associated 
+with hypothyroidism. In most of the mixed causes of hyponatremia 
+which one actually lead to hyponatremia remains Unclear.
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 6 – PRIMARY DISEASES ASSOCIATED WITH HYPONATREMIA
+
+Primary diseases associated with hyponatremia No. of cases Percentage (%)
+1. Acute gastroenteritis                      5            8
+2.Chronic kidney disease                      9            15
+3. Cerebro vascular accident                  4            7
+4. surgical causes of vomitings              4            12
+5.food poisoning                              4            12
+5. Hypertention on thiazide diuretics         6            10
+6. Pulmonary tuberculosis                     3            5
+7. Meningitis                                 4            7
+8. Uncontrolled diabetes                      2            3
+9. AKI with hyponatremia                      2            3
+10. Heart failure                             3            5
+11. CCF + CKD + CLD                           1            2
+12. Hypothyroidism                           2            3
+13. Miscellaneous                             11           18s
+14. TOTAL                                     60           100
+
+
+FIGURE 13 – PERCENTAGE DISTRIBUTION OF PRIMARY DISEASES ASSOCIATED WITH
+HYPONATREMIA
+Primary cause of hyponatremia in most of the cases chronic kidney 
+Disease followed by SIADH .Dehydration Secondary to vomitings, loose 
+stools and sepsis also contributed to large number of hyponatremia 
+cases. Surgical causes like Renal colic, appendicitis, intestional  
+obstruction and pyloric stenosis are the causes of vomiting which lead to 
+hyponatremia in the study group
+
+TABLE 7 – MISCELLANEOUS PRIMARY DISEASES ASSOCIATED WITH HYPONATREMIA
+Primary diseases associated with hyponatremia        No. of cases ( n = 12 )
+1. Septic arthritis with dehydration                 1
+2. Dengue shock syndrome                             1
+3. Acute subarchnoid hemorrage                       1
+4. Encephalitis                                      1
+5. Necrotising fasciitis with pyogenic brain abscess 1
+6. CLD with hepatorenal syndrome                     1
+7. Schzophrenia                                      1
+8. SIADH secondary to antidepressants                1
+9. Post TURP hyponatremia                            1
+11. CVA with hypertention and hypothyroidism         1
+12. CVA causing SIADH                                1
+TOTAL                                                12
+
+
+TABLE 8 – DISTRIBUTION OF CASES BASED ON TONICITY OF    HYPONATREMIA
+Tonicity   No. of cases(n=60) percentage
+Hypertonic 3                  5
+Isotonic   0                  0
+Hypotonic  57                 95
+Total      60                 100
+
+Most of the cases of hyponatremia are hypotonic which includes 
+Hypovolemic, euvolemic and hypervolemic causes of hyponatremia. 
+Isotonic hyponatremia is considered as pseudohyponatremia. Hypertonic 
+Causes of hyponatremia are secondary to hyperglycemia.
+
+
+
+
+
+
+FIGURE 14 – PERCENTAGE DISTRIBUTION OF HYPONATREMIA CASES BASED ON TONICITY
+
+
+FIGURE 15 – FREQUENCY DISTRIBUTION OF HYPONATREMIA CASES BASED ON TONICITY
+
+TABLE 9 – DISTRIBUTION OF HYPONATREMIA CASES BASED ON VOLUME STATUS
+
+Volume Status           No. Of  Cases( n=60)percentage
+Hypervolemic            22                   37
+Euvolemic               9                    15
+Hypovolemic             26                   43
+Hypertonic Hyponatremia 3                    5
+TOTAL                   60                   100
+
+FIGURE 16– PERCENTAGE DISTRIBUTION OF HYPONATREMIA CASES BASED ON VOLUME STATUS
+
+
+FIGURE 17 – FREQUENCY DISTRIBUTION OF HYPONATREMIA CASES BASED ON VOLUME STATUS
+
+Hypovolumic and hypervolumic hyponatremia cases are much higher 
+Compared to euvolemic cases
+
+
+
+
+
+
+
+
+
+TABLE 10– DISTRIBUTION OF HYPONATREMIA CASES BASED ON CHRONICITY
+
+Chronicity of hyponatremia No. of cases percentage
+                           n=60
+Acute Hyponatremia         20           33
+Chronic Hyponatremia       40           67
+TOTAL                      60           100
+
+
+
+FIGURE 18 – PERCENTAGE DISTRIBUTION OF HYPONATREMIA CASES BASED ON CHRONICITY
+FIGURE 19 – FREQUENCY DISTRIBUTION OF HYPONATREMIA CASES BASED ON CHRONICITY
+
+Out of the 60 hyponatremia patients studied, 40 are chronic hyponatremia 
+Patients and 20 are acute hyponatremia cases.
+
+
+
+
+
+
+
+
+
+
+TABLE 11 – TREATMENT OF HYPONATREMIA
+
+TREATMENT  GIVEN                         NO.OF CASES(n=60) percentage
+0.9% NaCl                                 8                 13
+0.9% NaCl  and 3% NaCl                   11                18
+Fluid restriction + diuretics             11                18
+Fluid restriction  + Tolvaptan           5                 8
+Fluid restriction +  increase dialysis   6                 10
+ultrafiltrate
+I.V  insulin                             2                 3
+Stop thiazides                            11                18
+3% NaCl + T.Tolvaptan + fluid restriction 3                 6
+T.TYROXINE + i.v fluids/diuretics         3                 6
+TOTAL                                     60                100
+
+
+
+
+
+FIGURE 20 – TREATMENT OF HYPONATREMIA
+
+Fluids like 0.9% NaCl were given to patients with hypovolumic 
+Hyponatremia who have signs of dehydration. 3% NaCl was given to 
+Patients with severe  hypovolemic hyponatremia who have neurological 
+Symptoms. Diuretics were given to patients with hypervolumic 
+Hyponatremia. Fluid restriction and vaptans were used in SIADH.
+Insulin and thyroxine supplementation were used in hyperglycaemia and
+Hypothyroidism respectively.
+
+
+TABLE 12 – DISTRIBUTION OF HYPONATREMIA CASES BASED ON OUTCOME
+
+Outcome                No. of cases Percentage
+                       n=60
+Symptomatically better 36           60
+Same status            8            13
+Asymptomatic           15           25
+Died                   1            2
+TOTAL                  60           100
+
+
+
+
+
+
+
+
+FIGURE 21 – PERCENTAGE DISTRIBUTION OF HYPONATREMIA CASES BASED ON OUTCOME
+
+
+
+
+                       DISCUSSION
+The present study included patients with serum sodium less than 
+130meq/l. there were 42 males and 18 females with ratio of 2.3 : 1 .
+In general, more number of males were admitted in KIMS, Narketpally 
+When compared to females . so no conclusion was made on this 
+Difference in incidence.
+
+In present study, hyponatremia was seen more commomly in patients
+ above 45 years of age than in younger patients. youngest patient with 
+hyponatremia in our study is of 25 years age. Eldest patient is of 87 years 
+age. Incidence of hyponatremia is higher in elderly patients similar 
+trend was also observed by Hochman (9) and Vurgese (10) in their study
+
+The hydration status in the present study was noted based on clinical 
+Examination like capillary refilling time, jugular venous pulse, blood 
+Pressure, pressure or absence of pedal edema and IVC (inferior vena 
+Cava diameter) .Hydration status was divided into euvolumic, 
+Hypovolemic and hypervolemic states. In the present study 26 patients 
+Were hypovolemic, 22 patients were hypervolemic and 9 patients were
+Euvolumic representing 43%, 37% and 15% respectively.
+
+
+
+
+TABLE : 13
+Hyponatremia Hochman( %) Anderson (%) Present study(%)
+Euvolumia    50          34           15
+Hypovolumia  30.5        35           43
+Hypervolumia 19.5        31           37
+
+
+In the present study hypervolumic cases are more compared to Hochman 
+Study. Most of them are secondary to chronic kidney disease as in our 
+Hospital locality (Nalgonda district) renal failure is commonly which was 
+Thought to be due to fluorosis. Hypovolemia cases slightly higher than 
+Both the studies. Most of the hypovolemic cases are due to vomitings, 
+Loose stools and dehydration. Study also includes surgical causes of 
+Vomiting which leads to hyponatremia.
+Euvolumic cases are less compared to Hochman and Anderson studies
+In the present study may due to underdiagnosis of adrenal insufficiency 
+In our hospital setting and also relatively more cases of ESRD (end stage
+Renal disease) which contribute to hypervolumic hyponatremia. 
+
+The mean age was 58.4 years. The commonest age group affected was
+40 to 79 years. The commonest cause of hyponatremia was chronic 
+Kidney disease and vomitings,loose stools and dehydration. Next 
+Common cause was SIADH which was secondary to pneumonia,
+Pulmonary tuberculosis and sub arachnoid hemorrhage.
+
+In study done by vurgese, the incidence of hyponatremia was 3.6%
+With the defnation of hyponatremia as serum sodium levels less than
+Or equal to 130meq/l. the study population consisted of 66 patients with
+56% 
+males and 44 % females. The mean age was 57.07 years. The 
+Commonest age group affected was 45 to 64 years (72.8 %) and the least
+Affected group was 12 to 25 years.
+
+TABLE 14 
+                            Vurgese       Present study
+Study population
+Male                        56%           70 %
+Female                      44%           30 %
+Mean age                    57.95 years   58.4 years
+>45 years with hyponatremia 72.8 %        83 %
+Common causes               SIADH         Chronic kidney disease
+Other causes                Renal failure SIADH
+                            CCF
+
+
+Hyponatremia cases in the present study were also distributed based on 
+serum sodium level. Most of the cases of hyponatremia are with the 
+serum sodium level between the range of 120 to 129 meq/l (39 patients 
+out of 60 ). most of the cases with mild hyponatremia are hypervolemic 
+secondary to chronic kidney disease.
+
+
+In the present study, In patients with euvolumic hyponatremia, 9 patients 
+
+satisfied the criteria to diagnose SIADH. They had low serum osmolality, 
+
+high urine osmolality and high urine sodium. However, in brain injury
+
+cases like cerebral sinus venous thrombosis (CSVT) if patient presents 
+
+with hyponatremia probable diagnosis of hyponatremia can be kept as 
+
+SIADH or cerebral salt wasting syndrome. Clear cut differentiation
+
+Between SIADH and cerebral salt wasting syndrome will be very difficult 
+
+In the first 24 hours as important differentiating feature between SIADH 
+
+And cerebral salt wasting syndrome is urine output.
+
+
+Hypovolemic cases of hyponatremia are secondary to acute 
+
+Gastroenteritis mostly due to Ecoli, salmonella and staph aureus.
+
+Surgical causes of vomiting like intestional obstruction, pyloric stenosis,
+
+Appendicitis and renal colic also contributed to hypovolemic causes of 
+
+Hyponatremia. Thiazide diuretics usuage in patients with hypertention 
+
+And chronic renal disease also contributed to hypovolemic 
+
+hyponatremia.
+
+Hyponatremia secondary to anti psychotic drugs presented with 
+
+increased thirst, patient drank 6 to 7 litres of water for 2 days and 
+
+passed only 1 to 2 litres of urine each day for 2 days.
+
+
+Thyroid function tests and adrenal function
+
+Thyroid function tests and random serum cortisol test was done in all
+ 
+this patients. There are 2 cases of hypothyroidism, in both the patients
+
+ cause of hypothyroidism is mixed. In one patient cause of hyponatremia 
+
+ is both hypothyroidism and thiazide diuretics volume status in this
+
+patient is hypovolemic. In another case cause of cause of hyponatremia 
+is both hypothyroidism and vomitings secondary to acute illness like 
+
+dengue. 
+
+Patients with hypovolemic hyponatremia are 26 patients (43 %) among 
+
+60 Patients of hyponatremia. Cause of hypovolemic hyponatremia is 
+
+Mostly dehydration. Other cause of hypovolemic hyponatremia is 
+
+Cerebral salt wasting syndrome. In present study there are 4 cases of
+
+Hypovolemic hyponatremia are cerebral salt wasting syndrome.
+
+Majority of cases in  present study are of hypervolumic hyponatremia
+
+Chronic kidney disease is the major cause of hypervolumic 
+
+Hyponatremia. Other causes are dilated cardiomyopathy, chronic liver 
+
+Disease and mixed causes like CCF + CLD +CKD. Patients with mild 
+
+hyponatremia are almost always asymptomatic. Severe hyponatremia is 
+
+usually associated with central nervous system symptoms and can be 
+
+life-threatening. Diagnostic evaluation of patients with hyponatremia is
+
+ directed toward identifying the extracellular fluid volume status, the 
+
+neurological symptoms and signs, the severity and duration of 
+
+hyponatremia, the rate at which hyponatremia developed. The first step
+
+ to determine the probable cause of hyponatremia is the differentiation of 
+
+the hypervasopressinemic and non-hypervasopressinemic 
+
+hyponatremias with measurement of plasma osmolality, glucose, lipids 
+
+and proteins. For further differential diagnosis of hyponatremia, the
+
+ determination of urine osmolality, the clinical assessment of 
+
+extracellular fluid volume status and the measurement of urine sodium 
+
+concentration provide important information. The most important
+
+ representative of euvolemic hyponatremias is SIADH. The diagnosis of 
+
+SIADH is based on the exclusion of other hyponatremic conditions; low 
+
+plasma osmolality (<275 mosmol/kg) and inappropriate urine 
+
+concentration (urine osmolality >100 mosmol/kg) are of pathognomic 
+
+value. Acute (<48 hrs) severe hyponatremia (<120 mmol/l) necessitates 
+
+emergency care with rapid restoration of normal osmotic milieu
+
+ (1 mmol/l/hr increase rate of serum sodium). Patients with chronic 
+
+symptomatic hyponatremia have a high risk of osmotic demyelination 
+
+syndrome in brain if rapid correction of the plasma sodium occurs 
+
+(maximal rate of correction of serum sodium should be 0.5 mmol/l/hr or
+
+ less). The conventional treatments for chronic asymptomatic 
+
+hyponatremia (except hypovolemic patients) include water restriction 
+
+and/or the use of demeclocycline or lithium or furosemide and salt 
+
+supplementation. Vasopressin receptor antagonists have opened a new
+
+ forthcoming therapeutic era. V2 receptor antagonists, such as 
+
+lixivaptan, tolvaptan, satavaptan and the V2+V1A receptor antagonist 
+
+conivaptan promote the electrolyte-sparing excretion of free water and 
+
+lead to increased serum sodium
+
+
+
+
+
+TREATMENT AND MONITORING
+
+Monitoring of sodium was done on a 6 hourly to12 hourly basis in most 
+
+Of the patients with symptomatic and severe hyponatremia. 
+
+Fluid correction depended on the type, cause and presence of 
+
+symptoms.
+
+The mean rate of correction was adequate and comparable with most of 
+
+The international studies. Normal saline alone, 3% saline, fluid 
+
+restriction, + duration, dialysis, steroids alone and in combination were 
+
+used to treat symptomatic and severe hyponatremia.
+
+ Excessive antidiuretic hormone and continued fluid intake are the 
+
+pathogenetic causes of these hyponatremias. Whereas hypovolemic 
+
+hyponatremia is best corrected by isotonic saline, conventional 
+
+proposals for euvolemic and hypervolemic hyponatremia consist of the 
+
+following: fluid restriction, lithium carbonate, demeclocycline, urea and 
+
+loop diuretic. None of these nonspecific treatments is entirely 
+
+satisfactory. Recently a new class of pharmacological agents -orally 
+
+available vasopressin antagonists, collectively called vaptans- have 
+
+been described. A number of clinical trials using vaptans have been 
+
+performed already. They showed vaptans to be effective, specific and 
+
+safe in the treatment of euvolemic and hypervolemic hyponatremia.  
+
+vaptans generally had favorable effects on fluid balance
+
+ also. To date two vaptans, ie, conivaptan and tolvaptan, have been 
+
+marketed in the United States for the treatment of euvolemic and 
+
+hypervolemic hyponatremia, whereas tolvaptan has been marketed in 
+
+Europe with the limitation of euvolemic hyponatremia. Although these 
+
+drugs have a good safety profile, caution should be used, and treatment 
+
+should be initiated in a hospital setting in order to closely monitor
+
+ patients and avoid overly rapid correction or overcorrection. Vaptans 
+
+can be considered a new effective tool for the treatment of euvolemic 
+
+and hypervolemic hyponatremia. Nevertheless, more comparative 
+
+research of vaptans vs other therapies on clinical grounds is needed to 
+
+more accurately assess the value of these drugs in the treatment of 
+
+hyponatremia. Acute hyponatremia causes serious brain swelling that 
+
+can lead to permanent disability or death. A 4-6 mEq/l increase in serum
+
+ sodium is sufficient to reverse impending herniation. Brain swelling is 
+
+minimal in chronic hyponatremia, and to avoid osmotic demyelination,
+
+ correction should not exceed 8 mEq/l/day. In high-risk patients, 
+
+correction should not exceed 4-6 mEq/l/day. Inadvertent overcorrection
+
+ of hyponatremia is common and preventable by controlling unwanted 
+
+urinary water losses with desmopressin. Even mild chronic 
+
+hyponatremia is associated with increased mortality, attention deficit, 
+
+gait instability, osteoporosis, and fractures, but it is not known if the 
+
+correction of mild hyponatremia improves outcomes.
+
+ Controlled trials are needed to identify affordable treatments for 
+
+hyponatremia that reduce the need for hospitalization, decrease hospital
+
+ length of stay, and decrease morbidity. Such trials could also help
+
+ answer the question of whether hyponatremia causes excess mortality
+
+ or whether it is simply a marker for severe, lethal, underlying disease
+
+
+
+                               CONCLUSIONS
+
+   1. Asymptomatic hyponatremia is more common than symptomatic 
+
+         Hyponatremia
+
+   1. Renal failure,dehydration and SIADH formed the largest subgroup in the
+      study
+
+   1. Drugs, especially thiazide diuretics are common cause of 
+
+Hyponatremia
+
+   1. Incidence of hyponatremia is higher in patients aged above 
+
+45years 
+
+   1. Symptoms of hyponatremia increased with severity of 
+
+Hyponatremia
+
+   1. Neurological symptoms like headache, seizures and altered 
+
+Sensorium are commonly seen in severe hyponatremia patients
+
+   1. To distinguish between SIADH and cerebral salt wasting syndrome
+
+In patients of hyponatremia with head injury is difficult  
+
+                       REFERENCES
+
+   1. Rafat, C., Flamant, M., Gaudry, S. et al. Hyponatremia in the intensive
+      care unit: How to avoid a Zugzwang situation?. Ann. Intensive Care 5, 39
+      (2015).
+
+   1. Sahay M, Sahay R. Hyponatremia: A practical approach. Indian J Endocrinol
+      Metab. 2014;18(6):760-771.
+
+   1. Rondon H, Badireddy M. Hyponatremia. [Updated 2020 Sep 10]. In:
+      StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2020
+      Jan
+
+   1. Zieg J. Pathophysiology of Hyponatremia in Children. Front Pediatr.
+      2017;5:213. Published 2017 Oct 16. 
+
+   1. Lee JJ, Kilonzo K, Nistico A, Yeates K. Management of hyponatremia. CMAJ.
+      2014;186(8):E281-E286.
+
+   1. Schrier RW, Bansal S. Diagnosis and management of hyponatremia in acute
+      illness. Curr Opin Crit Care. 2008;14(6):627-634.
+
+   1. Weismann D, Schneider A, Höybye C. Clinical aspects of symptomatic
+      hyponatremia. Endocr Connect. 2016;5(5):R35-R43. 
+
+   1. Dineen R, Thompson CJ, Sherlock M. Hyponatraemia - presentations and
+      management. Clin Med (Lond). 2017;17(3):263-269.
+
+   1. Hochman I, Cabili S, Peer G. Hyponatremia in internal medicine ward
+      patients: cause, treatment and prognosis. Isr J Med Sci 1989; 25: 73 – 6.
+
+   1. Vurgese TA,Radakrishnan ,Mapkar .Frequency and etiology of hyponatremia
+      in adult hospitalised patients in medical wards of a general hospital in
+      Kuwait.kuwait medical journal 2006:38(3):211-213
+
+   1. Gross P. Treatment of hyponatremia. Intern Med. 2008;47(10):885-91. doi:
+      10.2169/internalmedicine.47.0918. Epub 2008 May 15. PMID: 18480571. Peri
+      A. 
+
+   1. Clinical review: the use of vaptans in clinical endocrinology. J Clin
+      Endocrinol Metab. 2013 Apr;98(4):1321-32.
+
+   1. Laczi F. A hyponatraemiás állapotok etiológiája, diagnosztikája és
+      terápiája
+
+   1. Burst V. Etiology and Epidemiology of Hyponatremia. Front Horm Res.
+      2019;52:24-35. doi: 10.1159/000493234. Epub 2019 Jan 15.
+
+   1. Lu X, Wang X. Hyponatremia induced by antiepileptic drugs in patients
+      with epilepsy. Expert Opin Drug Saf. 2017 Jan;16(1):77-87. doi: 10.1080/
+      14740338.2017.1248399. Epub 2016 Oct 27. 
+
+   1. Adrogué HJ, Madias NE. The challenge of hyponatremia. J Am Soc Nephrol.
+      2012 Jul;23(7):1140-8.
+
+   1. Sterns RH, Nigwekar SU, Hix JK. The treatment of hyponatremia. Semin
+      Nephrol. 2009 May;29(3):282-99.
+
+   1. George JC, Zafar W, Bucaloiu ID, Chang AR. Risk Factors and Outcomes of
+      Rapid Correction of Severe Hyponatremia. Clin J Am Soc Nephrol. 2018 Jul
+      6;13(7):984-992.
+
+   1. John S, Thuluvath PJ. Hyponatremia in cirrhosis: pathophysiology and
+      management. World J Gastroenterol. 2015 Mar 21;21(11):3197-205.
+
+
+   1. Liamis G, Barkas F, Megapanou E, Christopoulou E, Makri A, Makaritsis K,
+      Ntaios G, Elisaf M, Milionis H. Hyponatremia in Acute Stroke Patients:
+      Pathophysiology, Clinical Significance, and Management Options. Eur
+      Neurol. 2019;82(1-3):32-40.
+
+   1. Gross P, Pusl T. Hyponatriämie [Causes, diagnosis and differential
+      diagnosis of hyponatremia]. Dtsch Med Wochenschr. 2016 Oct;141(21):1543-
+      1548. German. 
+
+   1. Chen Z, Jia Q, Liu C. Association of Hyponatremia and Risk of Short- and
+      Long-Term Mortality in Patients with Stroke: A Systematic Review and
+      Meta-Analysis. J Stroke Cerebrovasc Dis. 2019 Jun;28(6):1674-1683.
+
+
+   1. Dineen R, Thompson CJ, Sherlock M. Hyponatraemia - presentations and
+      management. Clin Med (Lond). 2017 Jun;17(3):263-269.
+
+   1. Tee K, Dang J. The suspect - SIADH. Aust Fam Physician. 2017 Sep;46(9):
+      677-68
+
+
+   1. Lunøe M, Overgaard-Steensen C. [Prevention of hospital-acquired
+      hyponatremia]. Ugeskr Laeger. 2014 Sep 1;176(36):V03140182. 
+
+   1. Braun MM, Barstow CH, Pyzocha NJ. Diagnosis and management of sodium
+      disorders: hyponatremia and hypernatremia. Am Fam Physician. 2015 Mar
+      1;91(5):299-307. PMID: 25822386.
+
+   1. Feld LG, Neuspiel DR, Foster BA, Leu MG, Garber MD, Austin K, Basu RK,
+      Conway EE Jr, Fehr JJ, Hawkins C, Kaplan RL, Rowe EV, Waseem M, Moritz
+      ML; SUBCOMMITTEE ON FLUID AND ELECTROLYTE THERAPY. Clinical Practice
+      Guideline: Maintenance Intravenous Fluids in Children. Pediatrics. 2018
+      Dec;142(6):e20183083. 
+
+
+   1. Jones DP. Syndrome of Inappropriate Secretion of Antidiuretic Hormone and
+      Hyponatremia. Pediatr Rev. 2018 Jan;39(1):27-35.
+
+   1. Tanındı A, Töre HF. Hiponatremi tedavisinde Vaptan kullanımı [Use of
+      "Vaptans" in treatment of hyponatremia]. Turk Kardiyol Dern Ars. 2015
+      Apr;43(3):292-301. Turkish. 
+
+   1. Rondon-Berrios H. Urea for Chronic Hyponatremia. Blood Purif. 2020;49(1-
+      2):212-218. Epub 2019 Dec 18.
+
+   1. Jang CM, Jung YK. [Hyponatremia in Liver Cirrhosis]. Korean J
+      Gastroenterol. 2018 Aug 25;72(2):74-78. Korean. 
+
+   1. Ackermann D. Therapie von Aszites, Hyponatriämie und hepatorenalem
+      Syndrom bei der Leberzirrhose [Treatment of ascites, hyponatremia and
+      hepatorenal syndrome in liver cirrhosis]. Ther Umsch. 2009 Nov;66(11):
+      747-51. German. 
+
+   1. Thomas DR, Cote TR, Lawhorne L, Levenson SA, Rubenstein LZ, Smith DA,
+      Stefanacci RG, Tangalos EG, Morley JE; Dehydration Council. Understanding
+      clinical dehydration and its treatment. J Am Med Dir Assoc. 2008 Jun;9
+      (5):292-301. 
+
+   1. Grant P, Ayuk J, Bouloux PM, Cohen M, Cranston I, Murray RD, Rees A,
+      Thatcher N, Grossman A. The diagnosis and management of inpatient
+      hyponatraemia and SIADH. Eur J Clin Invest. 2015 Aug;45(8):888-94. 
+
+   1. Verbalis JG, Grossman A, Höybye C, Runkle I. Review and analysis of
+      differing regulatory indications and expert panel guidelines for the
+      treatment of hyponatremia. Curr Med Res Opin. 2014 Jul;30(7):1201-7.
+
+   1. Kitchlu A, Rosner MH. Hyponatremia in patients with cancer. Curr Opin
+      Nephrol Hypertens. 2019 Sep;28(5):433-440. 
+
+   1. Pfennig CL, Slovis CM. Sodium disorders in the emergency department: a
+      review of hyponatremia and hypernatremia. Emerg Med Pract. 2012 Oct;14
+      (10):1-26. Epub 2012 Sep 20. 
+
+   1. Lee A, Jo YH, Kim K, Ahn S, Oh YK, Lee H, Shin J, Chin HJ, Na KY, Lee JB,
+      Baek SH, Kim S. Efficacy and safety of rapid intermittent correction
+      compared with slow continuous correction with hypertonic saline in
+      patients with moderately severe or severe symptomatic hyponatremia: study
+      protocol for a randomized controlled trial (SALSA trial). Trials. 2017
+      Mar 29;18(1):147. 
+
+   1. Patterson JH. The impact of hyponatremia. Pharmacotherapy. 2011 May;31(5
+      Suppl):5S-8S. 
+
+   1. McNab S. Intravenous maintenance fluid therapy in children. J Paediatr
+      Child Health. 2016 Feb;52(2):137-40. 
+
+   1. Aylwin S, Burst V, Peri A, Runkle I, Thatcher N. 'Dos and don'ts' in the
+      management of hyponatremia. Curr Med Res Opin. 2015;31(9):1755-61.
+
+   1.  Ball SG, Iqbal Z. Diagnosis and treatment of hyponatraemia. Best Pract
+      Res Clin Endocrinol Metab. 2016 Mar;30(2):161-73.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            PROFORMA
+S.no                   sex Ipno.                 DOA
+Age                                                                    DOD
+Weight
+Primary diagnosis
+H/o present illness
+
+SNO. SYMPTOMS               STETUS DURATION
+1    Nausea                 Y N
+2    Vomiting               Y N
+3    Headache               Y N
+4    Altered mineral status Y N
+5    Hiccups                Y N
+6    Seizures               Y N
+7    Others                 y N
+
+If others please specify
+
+Diet habits:
+         Fluid intake
+         Decreased intake
+
+
+SNO.s   comorbid conditions status   duration specify
+1       Diabetis mellitus   Y   N
+2       Hypertension        Y   N
+3       cardiovascular      Y   N
+4       Renal problems      Y   N
+5       Endocrine          Y   N
+6       respiratory         Y   N
+    7 neurological              
+     gastrointestinal
+9       Others              y   N
+
+CURRENT  MEDICATIONS
+
+s.no Drug name duration Dosage/day Causes  hypontremia
+1                                  Y N
+2                                  Y N
+3                                  Y N
+4                                  Y N
+5                                  Y N
+6                                  y N
+
+CLINICAL FINDINGS
+
+Pulse rate
+Blood pressure 
+Volume status at the time of admission;  hypo/hyper/euvolumic   
+Oedema      y/n
+Dehydration                 y/n
+Ascitis /paedal edema
+Others
+
+BIOCHEMICAL PARAMETERS(AT THE TIME OF ADMISSION)
+
+Serum sodium level
+Urine spot sodium
+Serum osmolarity
+Serum urea
+Grbs
+Random serum cortisol      done/not done
+Tft:   done/not done
+Tsh :   free t4 
+
+TREATMENT GIVEN
+Infusion plan
+Diuretics       y/n
+Fluid restriction       y/n
+Specific  drugs if given
+Other treatment
+
+OUTCOME
+Asymptomatic/symptomatically better/same status
+Discharged/discharged at request/lama/reffered to higher centre
+ hyponatremia cause:
+  possible secondary cause
+
+
+
+
+                             CONSENT FORM
+Thesis title ; Etiology, management and outcome in patients with hyponatremia
+in ICU KIMS, Narketpally
+I/We, relative of patient have read and understood the information provided in
+the “ patient information sheet “ and have been informed and explained the
+purpose and nature of the study in the language I understand.
+Iam aware of the fact that I may not derive any benefit from the study and that
+I reserve the right to opt out of the study at any point of time
+I willingly agree to participate in this study.
+
+Patient’s sign / thumb impression                witness’s sign
+
+Name;                                                          Name;
+Date;                                                            Date;
+Resident’s sign;
+Resident’s name;
+Date
+
+
+
+
+ Posted by
+ caregiver7careseeker    at
+ 7:28 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _▼ _ February (14)
+                # Medicine_Department_roster_for_March_2021
+                # Medicine_department_project_on_resolving_diagnosti...
+                # Medicine_department_projects,_presentations,_publi...
+                # Medicine_department_presentations_and_publications_2
+                # Medicine_department_Presentations_and_Publications_1
+                # Medicine_department_projects_as_per_dsir_template
+                # Post_Graduate_Student’s_Seminar_presentations_from...
+                # Ongoing_and_completed_projects
+                # Medicine_paper_for_February_2021_bimonthly_blended...
+                # Blended_bimonthly_assessment_Dec_2020-Jan_2021_res...
+                # Ward_PGY3_duty_roster
+                # Ward_notes_3rd_February_2021_and_pending_information
+                # Current_ward_cases
+                # Medicine_department_time_table
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

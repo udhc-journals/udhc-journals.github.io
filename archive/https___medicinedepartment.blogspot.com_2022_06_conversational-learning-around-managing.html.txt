@@ -1,0 +1,677 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Thursday, June 2, 2022 *****
+
+
+**** Conversational learning around "managing clinical organizational and organ
+systems complexity using QI tools ****
+ 
+Some prior references to understand the conversational  data below :
+
+Conversational learning :
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117104/
+
+CBBLE : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163835/
+
+UDHC : https://pubmed.ncbi.nlm.nih.gov/19018905/
+
+Case based reasoning :
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/15533257/
+
+Medical Cognition :
+
+https://www.sciencedirect.com/science/article/pii/S1532046402000096#BIB3
+
+Clinical complexity :
+
+https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1050-6
+
+Research sampling techniques used:
+
+Non probability sampling :
+
+https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch13/nonprob/5214898-eng.htm
+
+Snowball sampling :
+
+https://www.statisticshowto.com/probability-and-statistics/statistics-
+definitions/snowball-sampling/#:~:
+text=Snowball%20sampling%20is%20where%20research,and%20becomes%20larger%20and%20larger.
+
+4/13/22, 7:41 PM - Vivek Poddar 3: Hi I am here 🙏
+
+4/13/22, 7:42 PM - Kims Aditya Samitinjay: Hi Vivek. So happy to have you.
+
+4/13/22, 7:42 PM - Kims Aditya Samitinjay: First off, happy to work with this
+excellent team here. Dr. Manikanta will join shortly
+
+4/13/22, 7:46 PM - Rakesh Biswas: Add Saptarshi as he made a very good case
+report of a patient with CKD and Spondyloarthropathy.
+
+CKD and spondyloarthropathy and CKD and spondylodiscitis are two separate
+issues and will need to be handled differently
+
+4/13/22, 7:47 PM - Kims Aditya Samitinjay: I don't have his contact sir.
+4/13/22, 7:56 PM - Kims Aditya Samitinjay: Dr. Saptarshi. Pleasure 👍🏽
+4/13/22, 7:57 PM - Saptarshi Saha BMJ Elective: Sir, I am not a Doctor yet.
+Just an ordinary student.
+4/13/22, 8:00 PM - Kims Aditya Samitinjay: Let's hope you bring us to your
+level of enthusiasm. Please share your case report here.
+
+4/13/22, 8:23 PM - Rakesh Biswas: Let's begin by reviewing the literature and
+developing our understanding of the term clinical complexity.
+
+4/13/22, 9:21 PM - Kims Aditya Samitinjay added Manikanta Achuta Elective
+
+4/13/22, 9:23 PM - Rakesh Biswas: "The MRC’s approach to complexity has thus
+shifted considerably – both in terms of where the complexity is assumed to lie
+(from the intervention to the system to the interaction between the two) and in
+relation to how best to study it (from the randomised controlled trial atop an
+assumed hierarchy of evidence to a genuinely pluralistic approach that gives
+appropriate weight to real-world case studies)."
+
+
+https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1089-4
+
+
+4/17/22, 7:13 PM - Rakesh Biswas: Theme :
+
+Resolving organizational clinical complexity through quality improvement tools
+in a case based blended learning ecosystem
+
+4/17/22, 7:32 PM - Kims Aditya Samitinjay: Okay sir. The key term is
+Organizational Complexity. What all qualify under this?
+
+4/17/22, 7:37 PM - Rakesh Biswas: The key phrase is organizational clinical
+complexity. 
+
+Review the literature around it and share what you learn
+
+4/17/22, 7:39 PM - Rakesh Biswas: For example "academics" or academic learning
+in medicine teaching learning programs is nothing but a tool to handle
+organizational clinical complexity. 
+
+It reduces the complexity by reducing it to it's simpler parts and enables
+focused solutions
+
+Organizational Clinical complexity :
+
+4/17/22, 8:02 PM - What all qualify :
+
+Can look at this as an input output system with a number of layers like a
+neural network and let's say the input begins at 
+
+a) Casualty : relate the recent events that portray organizational clinical
+complexity where  a fine example would be the recent lady with dka and
+abdominal pain who came at midnight and the medicine PG finally diagnosed
+ectopic pregnancy inspite of so many other red herrings and the "powers that
+be" rewarded him with a three month suspension order along with the other PGs
+involved in the case management due to their delay in diagnosing a clinically
+complex case which I am sure many wouldn't have been able to especially keeping
+awake all night
+
+Wards : 
+
+Acute and Chronic and acute on chronic representational case studies that will
+highlight how we over the years have encountered organizational clinical
+complexity and tried to deal with it and how our recent QI lens or other tools
+can augment our abilities to deal with it better
+
+4/17/22, 8:06 PM - Kims Aditya Samitinjay: Sir, why are we publishing this ?
+What are the exact goals and likely outcomes of publishing this paper
+
+4/17/22, 8:09 PM - Rakesh Biswas: Good question. 
+
+Is publishing a tool toward resolving a broader canvas of "organizational
+clinical complexity" that is nothing but our lives?
+
+4/17/22, 8:11 PM - Kims Aditya Samitinjay: Great argument. Does it require
+publishing though ? What have we achieved by publishing the TBI case and NTM
+case and now the CVID case in our own ecosystem?
+
+4/17/22, 8:19 PM - Rakesh Biswas: Good question. 
+
+I think the question should be what have "I" and "We" gained by publishing the
+cases that you mentioned. 
+
+What you all have gained are a few publications to show in your CV. 
+
+What I have currently gained from your recent publications is a great
+collective perspective of how the same problem that I was seeing alone also
+looks through other's lenses. That is what "I" have gained currently. 
+
+But again this is our current gain and depending on the near future turn of
+events you cannot be sure that your current publications won't become a
+landmark because no one may have seen the problems that you describe in the
+manner that you did?
+
+
+4/17/22, 8:20 PM - Kims Aditya Samitinjay: I just reviewed the alt metrics of
+both of our articles sir and they have been downloaded and read over 10,000
+times sure. But where do you think those audiences exist? Most likely first
+world countries (who can get access to expensive journals like BMJ), where it
+is unlikely to matter much sir ?
+
+
+4/17/22, 8:25 PM - Rakesh Biswas: In a complex organizational neural network,
+the individual actors comprising the powers that be) are just a few nodes in
+the synapses that make up the bounty of clinical organizational complexity in
+all it's finery. 
+
+Once you get to see the finery you get to solve the problems arising from it
+without having to untangle the layers. We publish to also show the world this
+finery. 
+
+I agree that we are currently targeting low impact platforms which is what most
+journals have become and these days social media (eg quora etc) may have better
+impact. Well I personally prefer publishing in quora but then I wouldn't get
+this team there and so have to settle for lower impact journal platforms
+
+
+4/17/22, 8:36 PM - Kims Aditya Samitinjay: Hard ask but is there any evidence
+to support your statement that keeping yjem untangled will bring about change?
+
+I'm more of a disruptive kind of guy and nearly 4 years of low seniority
+experience is telling me this has to be disrupted by naming them in the paper.
+
+
+4/17/22, 8:42 PM - Rakesh Biswas: The point that I'm trying to make is that in
+complex systems it's not the individual nodes that matter much and their impact
+may be hyped to an extent but the network continues to function just as well
+even when these individual nodes die or are removed or moved. 
+
+So in systems thinking and problem solving one needs to look at the synapses
+
+4/17/22, 9:28 PM - Rakesh Biswas: Let's follow the money and trace it at its
+input source (rca) or else we shall simply continue to keep wandering in the
+deep hidden layers. 
+
+Check out the images here https://www.google.com/
+search?q=input+output+Complexity+neural+network+hidden+layers&client=ms-
+android-
+oppo&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0rZyKppv3AhVdRmwGHc0vBpIQ_AUoAXoECAIQAQ&biw=360&bih=566&dpr=2#imgrc=u_442l1hkQNORM
+
+
+4/17/22, 9:32 PM - Kims Aditya Samitinjay: Okay sir.
+
+
+4/17/22, 9:33 PM - Rakesh Biswas: @91965xxxx if you recall our past renal
+transplant patient who was nearly dying due to pulmonary edema and hypertensive
+LVF it was our elective student @9779817xxxxxx who enabled us to break through
+this system flaw of low resources by outsourcing nearly 88,000 through online
+fund raising. 
+
+One of the other reasons we want to keep publishing our daily workflow is to
+make such local system impacts other than the global system impacts that I
+alluded to earlier
+
+
+4/17/22, 9:34 PM - Kims Aditya Samitinjay: Yes sir
+
+
+
+
+
+Organ systems clinical complexity :
+
+4/13/22, 9:52 PM - Karnati Vaishnavi KIMs Med PG:
+
+https://karnativaishnavi.blogspot.com/2021/11/chronic-back-pain-in-ckd-
+patients-who.html
+
+Previous case reports of infective spondylodiscitis
+
+
+4/13/22, 9:54 PM - Rakesh Biswas: When did you upload the latest as third case
+into your blog? Today?
+
+
+4/13/22, 9:56 PM - Karnati Vaishnavi KIMs Med PG: Yes sir just now
+
+
+4/13/22, 10:00 PM - Rakesh Biswas: There are many more cases we have seen of
+bone infections related to dialysis 
+
+One was the young man with hip pain and upper femoral involvement with
+infection and consequent disability 
+
+Another man with elephantiasis of upper limbs also initially complained for a
+long time with upper dorsal pain before his focus shifted to his refractory
+heart failure. @9194933xxxxx Did we finally discharge him recently?
+
+
+4/13/22, 10:01 PM - Rakesh Biswas: We saw it here around 8 PM
+
+4/13/22, 10:24 PM - Karnati Vaishnavi KIMs Med PG: I know the patient with hip
+septic arthritis sir .
+https://poreddyjahnavi128.blogspot.com/2021/12/general-medicine.html?m=1
+
+
+4/13/22, 11:32 PM - Sai Charan Kulakarni Kims Med: Unfortunately he expired
+recently sir.
+
+4/13/22, 8:00 PM - Saptarshi Saha BMJ Elective: https://
+ssahamedicalcases.blogspot.com/2022/02/fluorosis-and-renal-stones.html
+4/13/22, 8:01 PM - Saptarshi Saha BMJ Elective: Sir, here is the link.
+4/13/22, 8:06 PM - Kims Aditya Samitinjay: @919493xxxxxx please share all the
+fluorosis and spondylodiscitis case links here.
+
+4/13/22, 8:07 PM - Kims Aditya Samitinjay: https://saichennuru.blogspot.com/
+2021/09/45-year-old-male-patient-with-back-pain.html?m=1
+
+
+4/13/22, 8:07 PM - Kims Aditya Samitinjay: https://
+medicineelogcasesturpusharathchandra.blogspot.com/2022/02/65y-male-with-co-
+anuria.html?m=1
+
+
+4/13/22, 8:07 PM - Kims Aditya Samitinjay: https://
+karnativaishnavi.blogspot.com/2021/11/chronic-back-pain-in-ckd-patients-
+who.html?m=1
+
+
+4/13/22, 8:08 PM - Kims Aditya Samitinjay: 4
+4/13/22, 8:08 PM - Rakesh Biswas: Aren't all the links in KVs blog draft ?
+
+4/13/22, 8:08 PM - Kims Aditya Samitinjay: No sir. Not all.
+
+4/13/22, 8:08 PM - Rakesh Biswas: This is spondyloarthropathy not infective
+discitis. 
+
+We should not mix up the two
+
+4/13/22, 8:11 PM - Rakesh Biswas: Yes only 3
+
+When did she upload the latest as third case into her blog? Today?
+
+4/13/22, 8:11 PM - Kims Aditya Samitinjay: Of course yes sir.
+
+4/13/22, 8:12 PM - Kims Aditya Samitinjay: This is our theme?
+
+4/13/22, 8:12 PM - Kims Aditya Samitinjay added Karnati Vaishnavi KIMs Med PG
+
+4/13/22, 8:15 PM - Rakesh Biswas: I didn't have it that way in mind
+
+4/13/22, 8:18 PM - Rakesh Biswas: Let's dissect each case to see if a common
+theme emerges
+
+4/13/22, 8:20 PM - Sai Charan Kulakarni Kims Med: http://
+saikishan20.blogspot.com/2022/04/a-45-yr-old-female-with-shortness-of.html
+
+4/13/22, 8:21 PM - Sai Charan Kulakarni Kims Med: http://
+1601006180.blogspot.com/2022/03/pain-in-bl-knees.html
+
+4/14/22, 12:32 AM - Kims Aditya Samitinjay: From Uptodate - "Drinking water is
+not safe for use in hemodialysis applications and must, therefore, be treated
+further at the point of use. Healthy individuals seldom have a weekly water
+intake of more than 14 liters (ie, 2 L/day). However, a typical hemodialysis
+prescription (thrice weekly for four hours per session with a dialysate flow
+rate of 800 mL/min) exposes the patient to more than 500 liters of water per
+week across the semi-permeable membrane of the hemodialyzer. Because of this
+substantially higher exposure to contaminants in water, additional treatment of
+water used for preparation of dialysis fluid is required."
+
+
+4/14/22, 12:32 AM - Kims Aditya Samitinjay: @9194933xxxxccc Can you please find
+out where the water for hemodialysis is sourced from
+
+4/14/22, 12:33 AM - Kims Aditya Samitinjay: ?
+
+4/14/22, 12:34 AM - Kims Aditya Samitinjay: This may present as a clinical
+complexity (improper application of an intervention to a system ?)
+
+4/14/22, 7:07 AM - Rakesh Biswas: He was fine when we met him in the rounds
+last week! When did this happen? 😳
+
+4/14/22, 8:25 AM - Sai Charan Kulakarni Kims Med: He came on 11th sir. 12th
+morning he expired sir.
+
+4/14/22, 8:56 AM - Rakesh Biswas: Cause of death?
+4/14/22, 1:35 PM - Avinash Gupta Nepal: This message was deleted
+4/14/22, 1:35 PM - Avinash Gupta Nepal: This message was deleted
+4/14/22, 1:37 PM - Avinash Gupta Nepal: This message was deleted
+4/14/22, 1:41 PM - Avinash Gupta Nepal: This message was deleted
+4/14/22, 1:43 PM - Avinash Gupta Nepal: IMG-20220414-WA0029.jpg (file attached)
+May be lack of medication compliance causing failed eradication of bone
+infections leading to septic shock. 
+
+The data in case log is latest upto first week feb.
+
+
+4/14/22, 1:46 PM - Avinash Gupta Nepal: So lack of data doesn't allow to make
+better guess.
+
+4/14/22, 1:51 PM - Avinash Gupta Nepal: Tried but could not trace find data for
+this patient in local cbble group
+
+
+4/14/22, 4:19 PM - Rakesh Biswas: Yes @9194xxxxx8 may be able to help with
+subsequent data
+
+
+4/17/22, 5:47 PM - Kims Aditya Samitinjay: Any progress made here?
+
+
+4/17/22, 5:59 PM - Rakesh Biswas: A lot of complex data to be assimilated,
+interpreted and shared meaningfully assuming all that data is already well
+captured.
+
+4/17/22, 6:06 PM - Kims Aditya Samitinjay: I'm hoping for a theme to emerge, so
+that all assimilation and interpretion can be based on the background of that
+theme sir.
+
+
+4/17/22, 6:06 PM - Kims Aditya Samitinjay: @9194933xxxcc and @9183746xcccxx the
+architects for this.
+
+
+4/17/22, 6:53 PM - Karnati Vaishnavi KIMs Med PG: Theme could be Challenges and
+difficulties faced in management of chronic kidney disease on Hemodialysis in
+tertiary care center sir ?
+Main issues i observed were sir
+
+1) Wide range of  Infections ranging from post dialysis fever to severe
+infections like infective endocarditis, spondylodiscitis, Central line sepsis 
+2) Chronic malnutrition and loss of appetite
+3) Frequency of hemodialysis is also low , and problem with arranging PRBC
+everytime .
+Chronic anemia further worsening heart failure.
+4) Non compliance to anti hypertensives 
+5) Repeated admissions for htn emergency and pulmonary edema
+6) Erythropoietin and iron sucrose given once in every 15 days or one month
+maximum.
+7) Ckd and  Bicarbonate therapy in itself a huge issue
+
+
+4/17/22, 6:53 PM - Karnati Vaishnavi KIMs Med PG: <Media omitted>
+08 HIC CME AIG - Dr Rekha 23-3-2022.pdf
+4/17/22, 6:54 PM - Karnati Vaishnavi KIMs Med PG: This is an article shared by
+Dr Faraz for infection control measures in hemodialysis unit
+
+
+4/17/22, 7:06 PM - Kims Aditya Samitinjay: I think your points 3, 4 and 5 make
+realise that one of the biggest challenges is the incredibly low rates of Renal
+transplants we do, all over the country. I think that is the number 1 clinical
+complexity that needs to be solved.
+
+
+4/17/22, 7:09 PM - Kims Aditya Samitinjay: Except point 1, I have witnessed 2
+to 6 from close quarters. A renal transplant was considered but was impossible
+
+
+
+4/17/22, 10:00 PM - Karnati Vaishnavi KIMs Med PG: I truly agree with this sir
+. Nothing can change the way most hospitals function in the country and all
+they do is blame a doctor for it or reward them . All they care about is do IP
+and discharge patient.
+
+
+4/17/22, 10:00 PM - Karnati Vaishnavi KIMs Med PG: There are many loops to this
+sir. Not just the money issue ,which is always a big factor . But starting from
+aarogyasri package , which has to be improved definitely . In outside countries
+everyone gets dialysed 3 times per week . But we have limitations here.
+
+2) And to cover for complications associated with dialysis. 
+Most of the packages are just day care and wouldn't cover medications
+
+
+3) I guess  anemia is a huge problem sir. I dont know we often neglect it . But
+so many times , patients are vexed of getting donors , and simply won't show up
+/delay next hemodialysis
+Moreover management here won't  allow ,blood from other blood banks . So it's
+again a huge issue to get healthy donors .
+
+
+4) Av fistulas have to be done more faster , as central lines are culprit for
+all those infections .
+Apparently it takes 1-2 months to get a fistula at our place . Have to take
+prior appointment for Doppler 2 weeks before.
+Some one month later he gets fistula and that takes again 6 weeks to mature .
+Failure rate again very high. 
+
+Why can't we publish in quora sir ? 
+I think publishing it in wider platforms and in simple understandable language 
+where many people (non-medicos ) can understand, would hit larger audience sir
+.
+
+
+4/17/22, 10:01 PM - Rakesh Biswas: This is a link to some basic ideas about
+neural networks that may help in everyone's analogous understanding of
+organizational clinical complexity 👇
+
+
+https://www.r-bloggers.com/2019/01/understanding-the-magic-of-neural-networks/
+amp/
+
+
+4/17/22, 10:02 PM - Kims Aditya Samitinjay: Great points. Ultimately the people
+in power should read it and the audience in Quora are usually not?
+
+
+4/17/22, 10:02 PM - Kims Aditya Samitinjay: We should publish it on Page 1 in
+The Hindu and The Times of India.
+4/17/22, 10:04 PM - Karnati Vaishnavi KIMs Med PG: Haha they might not allow it
+sir😅
+4/17/22, 10:04 PM - Karnati Vaishnavi KIMs Med PG: May be social media
+4/17/22, 10:04 PM - Kims Aditya Samitinjay: Thank you sir.
+4/17/22, 10:06 PM - Rakesh Biswas: Thanks @9183746xxxx
+
+Will need you to do an rca of each point that you mentioned with your building
+the weights and synapses to join the dots toward the rca (root cause
+analysis). 
+
+@9188852xxxx how do you compare the resources and organizational clinical
+complexity with the place where you did your pg from. Would be great if you can
+also introduce yourself to the group. 
+
+The problem with quora, twitter is that they are dependent on single user
+handles to publish while journal platforms encourage a much more polished
+version with a multi author paper driven by the kind of team based learning
+that you are hopefully witnessing here
+
+
+4/17/22, 10:10 PM - Karnati Vaishnavi KIMs Med PG: Okay sir . I ll link the
+underlying problems and their root causes
+
+
+4/17/22, 10:11 PM - Rakesh Biswas: Build a diagram based on the neural network
+complexity framework shared above
+
+
+4/17/22, 10:18 PM - Rakesh Biswas: @919652xxxxc Those apparently powerful
+individuals are a product of system hype and are essentially puppets to other
+complexly synapsed nodes driving them. You already know there is no such thing
+as free will
+
+
+4/17/22, 10:20 PM - Kims Aditya Samitinjay: Yes sir I agree with you. Only
+concern is that instead of several small nodes, one large dominant node has
+taken over (greed and power)
+
+
+4/17/22, 10:21 PM - Rakesh Biswas: That large dominant node is driven by a
+complex synapse of many hidden nodes who need to be traced and repaired
+
+
+4/17/22, 10:38 PM - Rakesh Biswas: @918374610190 The review of literature
+around this https://www.researchgate.net/figure/Neural-net-visualization-of-
+Clinical-data-attributes_fig2_337971816 may help
+
+
+4/17/22, 10:49 PM - Karnati Vaishnavi KIMs Med PG: Thank you sir. Will try to
+make one
+
+
+4/18/22, 10:37 AM - Rakesh Biswas: This patient is currently Hale and hearty in
+the ward. @9194xxxxx Should have corrected @9779817xxxx
+
+4/18/22, 10:51 AM - Avinash Gupta Nepal: Thanks sir! That's great update
+
+
+
+5/23/22, 12:29 PM - Kims Aditya Samitinjay: Clinical Complexity - Preliminary
+Problem List.docx (file attached) and pasted below :
+
+****** Case 1 - https://poreddyjahnavi128.blogspot.com/2021/12/general-
+medicine.html ******
+
+   1. Individual level – What is the cause of CKD in this young man ? What are
+      the factors which inhibited a full and thorough work-up of all his
+      problems ?
+   2. Family level – Why did the patient stop medication due to a distressing
+      event in his familial life ? What are the factors that led to this and
+      what can be done ?
+   3. Community level – What role did the community have in his disease process
+      ?
+   4. Ecosystem/Medical system level – What are the prevalent factors which led
+      to ESRD in a young patient ? How did the medical fraternity fail in
+      providing care to this patient ?
+****** Case 2 - https://saisurya100.blogspot.com/2021/10/32-yr-old-man-with-
+ckd-on-mhd-with.html ******
+
+   1. Individual level – What is the cause of CKD in this young man ? What are
+      the factors which inhibited a full and thorough work-up of all his
+      problems ?
+   2. Family level – What role did the family have on his disease process? What
+      effect did the patient’s problems have on his family ?
+   3. Community level – What role did the community have in his disease process
+      ?
+   4. Ecosystem/Medical system level – What are the prevalent factors which led
+      to ESRD in a young patient ? How did the medical fraternity fail in
+      providing care to this patient ?
+****** Case 3 - https://saichennuru.blogspot.com/2021/09/45-year-old-male-
+patient-with-back-pain.html ******
+
+   1. Individual level – What is the cause of CKD in this young man ? Why did
+      this patient develop diabetes at a young age ?
+   2. Family level – What role did the family have on his disease process? What
+      effect did the patient’s problems have on his family ?
+   3. Community level – What factors in the community precipitated diabetes and
+      CKD in this patient ?
+   4. Ecosystem/Medical system level – What can be done to improve access to
+      primary, secondary, and tertiary health care at the ecosystem level ?
+****** Case 4 - https://nikhithapulipeta130.blogspot.com/2022/02/50ym-follow-
+up-case.html ******
+
+   1. Individual level – What is the cause of CKD in this young man ? Why did
+      this patient develop diabetes at a young age ?
+   2. Family level – What role did the family have on his disease process? What
+      effect did the patient’s problems have on his family ?
+   3. Community level – What factors in the community precipitated diabetes and
+      CKD in this patient ?
+   4. Ecosystem/Medical system level – What can be done to improve access to
+      primary, secondary, and tertiary health care at the ecosystem level ?
+
+***** Common questions to all patients *****
+   1. 4 young to middle aged men – Common theme – Fairly active lifestyle and
+      then biochemically found to have kidney injury, drastic change in life
+      with sudden initiation of dialysis (or even MHD) in all of them.
+   2. All 4 went on to develop osteopathologies. What factors at the levels
+      mentioned above may have contributed to these ?
+   3. At each level, how was institution of care impeded ? What factors can we
+      modify and what are beyond our control ?
+
+
+
+
+5/23/22, 12:30 PM - Kims Aditya Samitinjay: Preliminary set of questions for
+this project. Of the top of my head, considered issues at various levels
+affecting healthcare, such as individual, family. community levels etc. These
+are just preliminary questions and will be glad to discuss modifications and
+quickly set this project up and rolling.
+
+
+5/23/22, 1:09 PM - Sai Charan Kulakarni Kims Med: Okay sir wil go through once
+5/23/22, 2:21 PM - Rakesh Biswas: 👏
+5/23/22, 2:24 PM - Rakesh Biswas: Thanks. 
+
+Sharing this in the larger group in case we can get a few more students into
+this project who may be able to contribute
+5/23/22, 2:27 PM - Kims Aditya Samitinjay: Yes sir. Please do.
+
+
+ Posted by
+ caregiver7careseeker    at
+ 11:06 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _▼ _ June (5)
+                # Medicine_lectures_archived_over_the_years
+                # Learning_competency_objectives_and_outcomes_in_"Th...
+                # Linking_students,_faculty_and_global_citizen_scien...
+                # Brief_chart_on_time_allotted,_competencies_tested_...
+                # Conversational_learning_around_"managing_clinical_...
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

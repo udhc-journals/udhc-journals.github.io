@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Wednesday, June 2, 2021 *****
+
+
+**** Part 1 Contextualizing the need for a framework toward scholarly
+integration of Medical education and research ****
+ To put the current disintegration of Medical education and practice into
+context, we need to first understand individual patient requirements and
+societal requirements to gain further insights into medical practice and how it
+can be integrated with medical education. 
+
+We share below an illustrative example from one of our online expert patients
+that we have published before here: https://pubmed.ncbi.nlm.nih.gov/19018905/
+
+The layer of Individual patient experience
+(Medical practice) : 
+
+Patient’s voice – (in italics)
+It all started in the summer of... when I
+returned from a long weekend . . . it was
+cool and rainy there.
+
+I ate too many gravy coated potato fries,
+drove home in damp clothes, and caught
+what I thought was the flu.
+
+It didn’t respond to my usual cure of lying on
+the sofa and watching four rented videos.
+
+In a few weeks I noticed some black and
+blue marks on my arm and panicked when
+I didn’t stop bleeding from a small cut.
+My days became a struggle to continue life,
+as I once knew it and understand why
+my body was betraying me.
+
+(Medical Education) A medical students related lecture notes although
+apparently distant  from the above patient context:
+
+Physiology of Haemostasis
+The cessation of bleeding from damaged
+blood vessel. After vessel injury, process of
+haemostasis takes place in two phases:
+Primary:
+1. Vessel wall contraction
+2. Platelet aggregation & plugging of injured
+area
+Secondary:
+3. Formation of an insoluble fibrin clot
+because of activation of clotting system
+What are the abnormalities of haemostasis
+that may have caused abnormal bleeding
+in this patient?
+Haemorrhagic diseases can result from
+abnormalities of:
+Blood vessels
+Platelets
+Clotting systems
+Diseases affecting the smaller blood vessels
+& platelets produce the clinical picture of
+purpura.
+Integrating medical education and practice:
+
+The practice passage above  begins an individual
+clinical encounter with an audience (us) and we
+notice that the initial queries generated
+even by a patient are always something
+like: 
+
+Where is the problem? (a physician’s
+morphologic diagnosis)
+
+Why is the problem (a physician’s etiologic
+diagnosis) 
+
+and this is mostly answered by
+pathophysiologic rationale that patients are
+not expected to know (and may not
+understand even through Internet
+searches).
+However, this is what physician’s are
+expected to know as a result of their
+training (and improve on with experience).
+The most basic of these is the knowledge
+of anatomy that takes time to change
+unlike empirical evidence in medicine that
+has proven to have a very short shelf life.
+
+A physician by virtue of this basic knowledge
+of macro- and microanatomy is able to
+quickly grasp other information that keeps
+adding to his lifelong day-to-day learning in
+medicine.
+
+It can often happen that what the physician had held as rote memorized facts
+(education) to apply to the current patient at hand (practice) may often fall
+short when it actually comes to deal with diagnostic and therapeutic
+uncertainty. 
+
+Let's return to the same patient centered example to check the challenges
+around integrating therapeutic uncertainty 
+Patient voice 2:
+"The haematologist suggested prednisone,
+the drug of choice. I was wary of the
+side effects, but this seemed to be the
+best option.
+
+For three weeks I endured the brain fog,
+sleepless nights, and anxiety, hoping the
+drug would be a quick fix. It wasn’t.
+
+There was only a slight rise in my platelet
+count, then a fall. He then suggested IVIg."
+
+Most physicians elect to not treat patients
+unless their platelet count is below
+50 000 L-1 or bleeding manifestations are
+present.
+
+Only 15%-25% of patients on steroids are
+expected to have lasting remission;
+The remainders have disease characterized by
+frequent relapses and remissions.
+Thiagarajan, P. (2006) Platelet disorders, E-medicine from web MD,
+Web document last downloaded on August 16, 2007.
+
+We enter the zone of empirical evidence that
+tells us what intervention to choose for our
+patient at hand utilizing population-based
+data from collective experimentation.
+
+
+The layer of Individual experience
+Surviving and healing phase
+
+Patient voice :
+
+"The next round of IVIg was less successful in
+raising my counts. The round after that had
+almost no effect. I agreed to have my
+spleen removed, hoping again for a quick
+fix and to put an end to the endless round
+of doctor appointments, hospitalizations
+and the constant fear of bumping my head
+and dying. Before I left for the hospital I
+placed my will on my dresser."
+
+Collective experience and its
+conceptual layers
+
+IV (Intravenous) IgG (Immunoglobulin G)
+(0.8–1 g kg-1 for 2 d) can cause adverse
+effects of IgG include fever, nausea,
+vomiting, and, occasionally, renal failure.
+Chronic ITP patients who fail to maintain
+normal platelet count are eligible for Elective
+Splenectomy. Splenectomy is effective
+because it removes the major
+site of destruction and the major source
+of antiplatelet antibody synthesis.
+Approximately 10%-20% of patients
+who undergo splenectomy remain
+thrombocytopenic and continue to have a
+bleeding risk.
+
+Patient voice :
+My surgery was successful in that I survived,
+my spleen was removed and the wound
+eventually healed. However, it was not
+successful in raising my platelet count.
+
+Three weeks after the surgery I had as few
+platelets as before the operation. Now I
+was without a spleen bruised, and still on
+the seizure meds.
+
+Collective experience and its
+conceptual layers:
+
+A number of treatments have been
+proposed for splenectomy and steroid
+failures. Most of them are not based on placebo-
+controlled studies, and evaluating the
+efficacy of these treatments in a disease
+associated with spontaneous remissions
+and relapse is difficult.
+
+Other treatment regimes:
+High dose corticosteroids (iv)
+High dose iv Ig
+Rituximab
+iv Anti-RhD
+Danazol, colchicine
+Vinca alkaloids
+Immunosuppresive drugs: Azathioprine,
+Cyclosporine, Dapsone
+
+Patient Voice 
+
+My hematologist recommended Danazol...
+No luck . . . Colchicine failed too. We even
+tried another course of IVIg hoping that my
+body would respond to it differently now
+that I didn’t have a spleen. It responded
+differently all right. I was hospitalized
+following one of the treatments for a
+nosebleed that didn’t stop. I went to an ITP
+specialist in . . . and he berated my local
+hematologist for not putting me in the
+hospital.
+
+I reluctantly agreed to a course of vincristine
+(chemotherapy) followed by a series of Prosorba.
+A blood cleansing treatments. They sneaked
+in more of the dreaded prednisone.
+At the same time I also took up alternative wellness techniques that gradually
+began to enrich my life. I returned to work at the end of March, part
+time wearing a wig, on the day that my short-term disability insurance ended.
+My counts were still low, but I was thrilled to have parts of my life back. In
+a few weeks, I began full time work again.
+The above expert patient has subsequently published another paper with our team
+members where she elaborated on her cure and the integration of
+multidisciplinary interventions that was brought about to effect it. She
+subsequently utilized the power of online integration to provide a voice to
+similar stories from many patients around the world. 
+
+Reference link:
+https://www.irma-international.org/article/caught-middle-divide-between-
+conventional/52621/
+
+
+Please click on the link below to get back to the first layer of the chapter:
+
+https://medicinedepartment.blogspot.com/2021/06/draft-3a-scholarship-of-
+integration-and.html?m=1
+
+
+ Posted by
+ caregiver7careseeker    at
+ 2:05 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _▼ _ June (21)
+                # E_log_book_and_online_assessment_FAQs_and_Q&A_conv...
+                # Medicine_department_paper_for_June_2021_bimonthly...
+                # Book_chapter_:_Scholarship_of_Integration_and_the_...
+                # Introduction_to_evolution_of_human_language,_commu...
+                # Making_connections_between_different_ways_of_knowi...
+                # Evidence_based_medical_assessments_drive_student_l...
+                # Peer_to_peer_review/assessment_of_Online_assignmen...
+                # Scholarship_of_integration_driven_by_shared_Online...
+                # Gradual_integration_of_traditional_with_competency...
+                # Student_user_driven,_patient_centred_assessment_pr...
+                # Working_prototype_of_a_scholarly_integration_of_me...
+                # Evolution_of_a_model_for patient_centered,_scholar...
+                # National_Medical_Integration_and_the_role_of_schol...
+                # Pandemic_driven_acceleration_of_scholarly_integrat...
+                # Failed_political_integration_attempts_at_different...
+                # Individual_integration_of_different_roads_to_healing
+                # Brief_:_Scholarship_of_integration_in_Medical_ed...
+                # Introduction,_Draft_3_Scholarship_of_Integration_a...
+                # Abstract_for_book_chapter_on_"Scholarship_of_Integ...
+                # Conversational_learning_illustration_in_the_contex...
+                # Part_1_Contextualizing_the_need_for_a_framework_to...
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

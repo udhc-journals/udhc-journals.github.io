@@ -1,0 +1,3193 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, October 3, 2022 *****
+
+
+
+**** From competence based dynamic ontology to a static ontology for medical
+education ****
+Please refer to our previous post on competence based education that was more
+to do with creating a competence based dynamic ontology here: https://
+medicinedepartment.blogspot.com/2022/07/cbme-general-medicine-topics-
+and.html?m=0, 
+although the topics and subtopics below can still be utilized to create a
+dynamic user driven ontology that we shall share in another post with links to
+all the user driven projects that are ongoing in medicine department. 
+
+
+IM1.1
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the epidemiology, pathogenesis clinical
+evolution and course of common causes of heart disease including: rheumatic/
+valvular, ischemic, hypertrophic inflammatory
+
+
+
+
+IM1.2
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the genetic basis of some forms of heart failure
+
+
+IM1.3
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the aetiology microbiology pathogenies and
+clinical evolution of rheumatic fever, criteria, degree of rheumatic activity
+and rheumatic valvular heart disease and its complications including infective
+endocarditis
+
+
+IM1.4
+
+
+Topic: Heart Failure
+
+
+Subtopic: Stage heart failure
+
+
+IM1.5
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe, discuss and differentiate the processes involved in R V &
+LV  heart failure, systolic vs diastolic failure
+
+
+IM1.6
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the compensatory mechanisms involved in heart
+failure including cardiac remodelling and neurohormonal adaptations
+
+
+
+
+IM1.7
+
+
+Topic: Heart Failure
+
+
+Subtopic: Enumerate, describe and discuss the factors that exacerbate heart
+failure dietary factors drugs etc.
+
+
+
+
+IM1.8
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the pathogenesis and development of common
+arrythmias involved in heart failure particularly atrial fibrillation
+
+
+
+
+IM1.9
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the clinical presentation and features,
+diagnosis, recognition and management of acute rheumatic fever
+
+
+
+
+IM1.10
+
+
+Topic: Heart Failure
+
+
+Subtopic: Elicit document and present an appropriate history that will
+establish the diagnosis, cause and severity of heart failure including:
+presenting complaints, precipitating and exacerbating factors, risk factors
+exercise tolerance, changes in sleep patterns, features suggestive of infective
+endocarditis
+
+
+
+
+IM1.11
+
+
+Topic: Heart Failure
+
+
+Subtopic: Perform and demonstrate a systematic examination based on the history
+that will help establish the diagnosis and estimate its severity including:
+measurement of pulse, blood pressure and respiratory rate, jugular venous forms
+and pulses, peripheral pulses, conjunctiva and fundus, lung, cardiac
+examination including palpation and auscultation with identification of heart
+sounds and murmurs, abdominal distension and splenic palpation
+
+
+
+
+IM1.12
+
+
+Topic: Heart Failure
+
+
+Subtopic: Demonstrate peripheral pulse, volume, character, quality and
+variation in various causes of heart failure
+
+
+
+
+IM1.13
+
+
+Topic: Heart Failure
+
+
+Subtopic: Measure the blood pressure accurately, recognise and discuss
+alterations in blood pressure in valvular heart disease and other causes of
+heart failure and cardiac tamponade
+
+
+
+
+IM1.14
+
+
+Topic: Heart Failure
+
+
+Subtopic: Demonstrate and measure jugular venous distension
+
+
+
+
+IM1.15
+
+
+Topic: Heart Failure
+
+
+Subtopic: Identify and describe the timing, pitch quality conduction and
+significance of precordial murmurs and their variations
+
+
+
+
+
+
+
+
+
+
+IM1.16
+
+
+Topic: Heart Failure
+
+
+Subtopic: Generate a differential diagnosis based on the clinical presentation
+and prioritise it based on the most likely diagnosis
+
+
+
+
+IM1.17
+
+
+Topic: Heart Failure
+
+
+Subtopic: Order and interpret diagnostic testing based on the clinical
+diagnosis including 12 lead ECG, Chest radiograph, blood cultures
+
+
+
+
+IM1.18
+
+
+Topic: Heart Failure
+
+
+Subtopic: Perform and interpret a 12 lead ECG
+
+
+
+
+IM1.19
+
+
+Topic: Heart Failure
+
+
+Subtopic: Enumerate the indications for and describe the findings of heart
+failure with the following conditions including: 2D echocardiography, brain
+natriuretic peptide, exercise testing, nuclear medicine testing and coronary
+angiogram
+
+
+
+
+IM1.20
+
+
+Topic: Heart Failure
+
+
+Subtopic: Determine the severity of valvular heart disease based on the
+clinical and laboratory and imaging features and determine the level of
+intervention required including surgery
+
+
+
+
+IM1.21
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss and identify the clinical features of acute and
+subacute endocarditis, echocardiographic findings, blood culture and
+sensitivity and therapy
+
+
+
+
+IM1.22
+
+
+Topic: Heart Failure
+
+
+Subtopic: Assist and demonstrate the proper technique in collecting specimen
+for blood culture
+
+
+
+
+IM1.23
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe, prescribe and communicate non pharmacologic management of
+heart failure including sodium restriction, physical activity and limitations
+
+
+
+
+IM1.24
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the pharmacology of drugs including indications,
+contraindications in the management of heart failure including diuretics, ACE
+inhibitors, Beta blockers, aldosterone antagonists and cardiac glycosides
+
+
+
+
+IM1.25
+
+
+Topic: Heart Failure
+
+
+Subtopic: Enumerate the indications for valvuloplasty, valvotomy, coronary
+revascularization and cardiac transplantation
+
+
+
+
+IM1.26
+
+
+Topic: Heart Failure
+
+
+Subtopic: Develop document and present a management plan for patients with
+heart failure based on type of failure, underlying aetiology
+
+
+
+
+IM1.27
+
+
+Topic: Heart Failure
+
+
+Subtopic: Describe and discuss the role of penicillin prophylaxis in the
+prevention of rheumatic heart disease
+
+
+
+
+
+
+IM1.28
+
+
+Topic: Heart Failure
+
+
+Subtopic: Enumerate the causes of adult presentations of congenital heart
+disease and describe the distinguishing features between cyanotic and acyanotic
+heart disease
+
+
+
+
+IM1.29
+
+
+Topic: Heart Failure
+
+
+Subtopic: Elicit document and present an appropriate history, demonstrate
+correctly general examination, relevant clinical findings and formulate
+document and present a management plan for an adult patient presenting with a
+common form of congenital heart disease
+
+
+
+
+IM1.30
+
+
+Topic: Heart Failure
+
+Subtopic: Administer an intramuscular injection with an appropriate
+ explanation to the patient
+
+
+
+
+
+IM 2.1
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Discuss and describe the epidemiology, antecedents and risk factors
+for atherosclerosis and ischemic heart disease
+
+
+
+
+
+
+IM 2.2 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Discuss the aetiology of risk factors both modifiable and non
+modifiable of atherosclerosis and IHD
+
+
+
+
+
+
+IM2.3 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Discuss and describe the lipid cycle and the role of dyslipidemia in
+the pathogenesis of atherosclerosis
+
+
+
+
+
+
+IM2.4 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Discuss and describe the pathogenesis natural history, evolution and
+complications of atherosclerosis and IHD
+
+
+
+
+
+
+IM 2.5 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Define the various acute coronary syndromes and describe their
+evolution, natural history and outcomes
+
+
+
+
+
+
+IM 2.6 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Elicit document and present an appropriate history that includes
+onset evolution, presentation risk factors, family history, comorbid
+conditions, complications, medication, history of atherosclerosis, IHD and
+coronary syndromes
+
+
+
+
+
+
+IM 2.7 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Perform, demonstrate and document a physical examination including a
+vascular and cardiac examination that is appropriate for the clinical
+presentation 
+
+
+
+
+IM 2.8 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Generate document and present a differential diagnosis based on
+
+
+The clinical presentation and prioritise based on “cannot miss”, most
+
+
+Likely diagnosis and severity
+
+
+
+
+IM 2.9 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- Distinguish and differentiate between stable and unstable angina and
+Ami based on clinical presentation 
+
+
+
+
+
+
+IM 2.10
+
+
+Topic:-Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Order, perform and interpret an ECG
+
+
+
+
+
+
+IM 2.11
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- order and interpret a Chest X-ray and markers of acute myocardial
+infarction
+
+
+
+
+IM 2.12 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-
+
+
+Choose and interpret a lipid profile and identify the desirable lipid profile
+in the clinical context
+
+
+
+
+
+
+IM 2.13
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-
+
+
+Discuss and enumerate the indications for and findings on echocardiogram,
+stress testing and coronary angiogram
+
+
+
+
+IM 2.14
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- 
+
+
+Discuss and describe the indications for admission to a coronary care unit and
+supportive therapy for a patient with acute coronary syndrome
+
+
+
+
+IM 2.15
+
+
+Topic:-Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-
+
+
+Discuss and describe the medications used in patients with an acute coronary
+syndrome based on the clinical presentation
+
+
+
+
+IM 2.16 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- Discuss and describe the indications for acute thrombolysis, PTCA
+and CABG
+
+
+
+
+IM 2.17 
+
+
+Topic:-Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Discuss and describe the indications and methods of cardiac
+rehabilitation
+
+
+
+
+IM 2.18
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- Discuss and describe the indications, formulations, doses, side
+effects and monitoring for drugs used in the management of dyslipidemia
+
+
+
+
+IM 2.19 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- Discuss and describe the pathogenesis, recognition and management of
+complications of acute coronary syndromes
+
+
+Including arrhythmias, shock, LV dysfunction, papillary muscle
+
+
+Rupture and pericarditis
+
+
+
+
+IM 2.20 
+
+
+Topic:-Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Discuss and describe the assessment and relief of pain in acute
+
+
+Coronary syndromes
+
+
+
+
+IM 2.21 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-
+
+
+Observe and participate in a controlled environment an ACLS program
+
+
+
+
+IM 2.22
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- Perform and demonstrate in a mannequin BLS
+
+
+
+
+IM 2.23
+
+
+Topic:-Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:-Describe and discuss the indications for nitrates, anti platelet
+agents, gpIIb IIIa inhibitors, beta blockers, ACE inhibitors etc in the
+management of coronary syndromes
+
+
+
+
+IM 2.24 
+
+
+Topic:- Acute Myocardial Infarction/ IHD
+
+
+
+
+Subtopic:- Counsel and communicate to patients with empathy lifestyle changes
+in atherosclerosis / post coronary syndromes
+
+
+
+
+
+
+
+TOPIC 3 – PNEUMONIA 
+
+
+
+
+IM3.1
+
+Topic : pneumonia
+
+Subtopic : community acquired pneumonia, nosocomial pneumonia and aspiration
+pneumonia
+
+
+IM3.2
+
+Topic : pneumonia
+
+Subtopic : aetiologies of various kinds of pneumonia and their microbiology
+depending on the setting and immune status of the host
+
+
+IM3.3
+
+Topic : pneumonia
+
+Subtopic : pathogenesis, presentation, natural history and complications of
+pneumonia
+
+
+IM3.4
+
+Topic : pneumonia
+
+Subtopic : evolution, risk factors including immune status and occupational
+risk
+
+
+IM3.5
+
+Topic : pneumonia
+
+Subtopic : physical examination including general examination and appropriate
+examination of the lungs that establishes the diagnosis, complications and
+severity of disease
+
+
+IM3.6
+
+Topic : pneumonia
+
+Subtopic : differential diagnosis based on the clinical features, and
+prioritise the diagnosis based on the presentation
+
+
+IM3.7
+
+Topic : pneumonia
+
+Subtopic : interpret diagnostic tests based on the clinical presentation
+including: CBC, Chest X ray PA view, Mantoux, sputum gram stain, sputum culture
+and sensitivity, pleural fluid examination and culture, HIV testing and ABG
+
+
+
+
+IM3.8
+
+Topic : pneumonia
+
+Subtopic : arterial blood gas examination
+
+
+IM3.9
+
+Topic : pneumonia
+
+Subtopic : pleural fluid analysis
+
+
+IM3.10
+
+Topic : pneumonia
+
+Subtopic : blood culture
+
+
+IM3.11
+
+Topic : pneumonia
+
+Subtopic : HRCT, Viral cultures, PCR and specialised testing
+
+
+IM3.12
+
+Topic : pneumonia
+
+Subtopic : aetiology, an appropriate empirical antimicrobial based on the
+pharmacology and antimicrobial spectrum
+
+
+IM3.13
+
+Topic : pneumonia
+
+Subtopic : culture and sensitivity appropriate empaling antimicrobial based on
+the pharmacology and antimicrobial spectrum
+
+
+IM3.14
+
+Topic : pneumonia
+
+Subtopic :  sputum gram stain and AFB
+
+
+IM3.15
+
+Topic : pneumonia
+
+Subtopic : the indications for hospitalisation in patients with pneumonia
+
+
+IM3.16
+
+Topic : pneumonia
+
+Subtopic : the indications for isolation and barrier nursing in patients with
+pneumonia
+
+
+IM3.17
+
+Topic : pneumonia
+
+Subtopic : the supportive therapy in patients with pneumonia including oxygen
+use and indications for ventilation
+
+
+
+
+IM3.18
+
+Topic : pneumonia
+
+Subtopic : counsel patient on family on the diagnosis and therapy of pneumonia
+
+
+IM3.19
+
+Topic : pneumonia
+
+Subtopic : indications and communicate to patients on pneumococcal and
+influenza vaccines
+
+
+IM4.1
+
+Topic: Fever and febrile syndromes
+
+Describe and discuss the febrile response and the influence of host immune
+status, risk factors and comorbidities on the febrile response
+
+IM4.25 Communicate to the patient and family the diagnosis and treatment
+
+
+
+IM5.1
+
+TOPIC- LIVER DISEASE
+
+The physiologic and biochemical basis of hyperbilirubinemia 
+
+
+IM5.2
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC  - the aetiology and pathophysiology of liver injury 
+
+
+IM5.3
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC – the pathologic changes in various forms of liver disease 
+
+
+IM5.4
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC  - Epidemiology, microbiology, immunology and clinical evolution of
+infective (viral) hepatitis 
+
+
+IM5.5
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC -  The pathophysiology and clinical evolution of alcoholic liver
+disease
+
+
+IM5.6
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC – The pathophysiology, clinical evolution and complications of
+cirrhosis and portal hypertension including ascites, spontaneous bacterial
+peritonitis, hepatorenal syndrome and hepatic encephalopathy
+
+
+ IM5.7
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC- The causes and pathophysiology of drug induced liver injury 
+
+
+ IM5.8
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC- The pathophysiology, clinical evolution and complications
+cholelithiasis and cholecystitis 
+
+
+IM5.9
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC – Elicit document and present a medical history that helps delineate
+the aetiology of the current presentation and includes clinical presentation,
+risk factors, drug use, sexual history, vaccination history and family history 
+
+
+IM5.10 
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC – systematic examination that establishes the diagnosis and severity
+that includes nutritional status, mental status, jaundice, abdominal distension
+ascites, features of portosystemic hypertension and hepatic encephalopathy 
+
+
+IM5.11
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC-  Generate a differential diagnosis and prioritise based on clinical
+features that suggest a specific aetiology for the presenting symptom 
+
+
+IM5.12 
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC- Choose and interpret appropriate diagnostic tests including: CBC,
+bilirubin,function tests.
+
+
+IM5.13 
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC -  Enumerate the indications for ultrasound and other imaging studies
+including MRCP and ERCP and describe the findings in liver disease 
+
+
+IM5.14
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC-  Outline a diagnostic approach to liver disease based on
+hyperbilirubinemia, liver function changes and hepatitis serology
+
+
+IM.15
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC- Assist in the performance and interpret the findings of an ascitic
+fluid analysis
+
+
+IM5.16 
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC- The management of hepatitis, cirrhosis, portal hypertension, ascites
+spontaneous, bacterial peritonitis and hepatic encephalopathy 
+
+
+IM5.17  
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC- Enumerate the indications, precautions and counsel patients on
+vaccination for hepatitis
+
+
+IM5.18
+
+TOPIC- LIVER DISEASE
+
+SUBTOPIC – Enumerate the indications for hepatic transplantation
+
+Topic: HIV
+
+IM6.1 Describe and discuss the symptoms and signs of acute HIV seroconversion
+
+Topic: Rheumatologic problems
+
+IM7.1 Describe the pathophysiology of autoimmune disease
+
+IM 8.1
+
+
+Topic:- HYPERTENSION
+
+
+
+
+Subtopic:-Describe and discuss the epidemiology, aetiology and the prevalence
+of primary and secondary hypertension
+
+
+
+
+IM 8.2
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Describe and discuss the pathophysiology of hypertension
+
+
+
+
+
+
+IM 8.3
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Describe and discuss the genetic basis of hypertension
+
+
+
+
+IM8.4
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Define and classify hypertension
+
+
+
+
+IM 8.5 
+
+
+Topic:- HYPERTENSION
+
+
+
+
+Subtopic:-Describe and discuss the differences between primary and
+
+
+Secondary hypertension
+
+
+
+
+IM 8.6
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Define, describe and discuss and recognise hypertensive urgency
+
+
+
+
+
+
+IM 8.7
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Describe and discuss the clinical manifestations of the various
+aetiologies of secondary causes of hypertension
+
+
+
+
+IM 8.8 
+
+
+Topic:-HYPERTENSION 
+
+
+
+
+Subtopic:-Describe, discuss and identify target organ damage due to
+hypertension
+
+
+
+
+IM 8.9
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Elicit document and present a medical history that includes: duration
+and levels, symptoms, comorbidities, lifestyle, risk factors, family history,
+psychosocial and environmental factors, dietary assessment, previous and
+concomitant therapy
+
+
+
+
+IM 8.10
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:- Perform a systematic examination that includes : an accurate of
+measurement of blood pressure, fundus examination, examination of vasculature
+and heart
+
+
+
+
+IM 8.11
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:-Generate a differential diagnosis and prioritise based on clinical
+features that suggest a specific aetiology
+
+
+
+
+IM 8.12
+
+
+Topic:- HYPERTENSION 
+
+
+Subtopic:-Describe the appropriate diagnostic work up based on the presumed
+aetiology
+
+
+
+
+IM 8.13
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:- Enumerate the indications for and interpret the results of : CBC,
+Urine routine, BUN, Cr, Electrolytes, Uric acid, ECG
+
+
+
+
+
+
+IM 8.14
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:- Develop an appropriate treatment plan for essential hypertension
+
+
+
+
+IM 8.15
+
+
+Topic:- HYPERTENSION
+
+
+Subtopic:-Recognise, prioritise and manage hypertensive emergencies
+
+
+
+
+IM 8.16
+
+
+Topic:- HYPERTENSION 
+
+
+
+
+Subtopic:- Develop and communicate to the patient lifestyle modification
+
+
+Including weight reduction, moderation of alcohol intake, physical
+
+
+Activity and sodium intake
+
+
+
+
+IM 8.17
+
+
+Topic:- HYPERTENSION 
+
+
+Subtopic:-Perform and interpret a 12 lead ECG
+
+
+
+
+IM 8.18
+
+
+Topic:- HYPERTENSION
+
+Subtopic:-Incorporate patient preferences in the management of HTN
+
+
+
+
+
+
+
+TOPIC 09 - ANEMIA
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.1 Define, describe and classify anemia based on red blood cell size and
+reticulocyte count ? 
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.2 Describe and discuss the morphological characteristics, aetiology and
+prevalence of each of the causes of anemia
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.3 Elicit document and present a medical history that includes symptoms,
+risk factors including GI bleeding, prior history, medications, menstrual
+history, and family history
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.4 Perform a systematic examination that includes : general examination for
+pallor, oral examination, DOAP session of hyper dynamic circulation, lymph node
+and splenic examination
+
+
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : 
+
+
+IM9.5 Generate a differential diagnosis and prioritise based on clinical
+features that suggest a specific aetiology
+
+
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : 
+
+
+IM9.6 Describe the appropriate diagnostic work up based on the
+
+
+Presumed aetiology
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.7 Describe and discuss the meaning and utility of various components
+
+
+Of the hemogram
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.8 Describe and discuss the various tests for iron deficiency
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.9 Order and interpret tests for anemia including hemogram, red cell
+
+
+Indices, reticulocyte count, iron studies, B12 and folate
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : 
+
+
+IM9.10 Describe, perform and interpret a peripheral smear and stool occult
+
+
+Blood
+
+
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : 
+
+
+IM9.11 Describe the indications and interpret the results of a bone marrow
+aspirations and biopsy
+
+
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : 
+
+
+IM9.12 Describe, develop a diagnostic plan to determine the aetiology of anemia
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.13 Prescribe replacement therapy with iron, B12, folate
+
+
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : IM9.14 Describe the national programs for anemia prevention
+
+
+
+
+TOPIC :ANEMIA
+
+
+SUBTOPIC : IM9.15 Communicate the diagnosis and the treatment appropriately to
+patients
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.16 Incorporate patient preferences in the management of anemia
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC: 
+
+
+IM9.17 Describe the indications for blood transfusion and the appropriate use
+of blood components
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.18 Describe the precautions required necessary when performing a blood
+transfusion
+
+
+
+
+TOPIC : ANEMIA
+
+
+SUBTOPIC : 
+
+
+IM9.19 Assist in a blood transfusion
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : 
+
+
+IM9.20 Communicate and counsel patients with methods to prevent
+
+
+Nutritional anemia
+
+
+
+
+TOPIC : ANEMIA 
+
+
+SUBTOPIC : IM9.21 Determine the need for specialist consultation
+
+
+Topic: Acute Kidney Injury and Chronic renal failure
+
+IM10.1 Define, describe and differentiate between acute and chronic renal 
+failure
+
+
+
+
+
+
+TOPIC 11 – DIABETES MELLITUS
+
+
+IM11.1
+
+Topic:- DIABETES MELLITUS
+
+ 
+
+Subtopic:- Define and classify diabetes
+
+
+IM 11.2
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:-Describe and discuss the epidemiology and pathogenesis and risk
+factors and clinical evolution of type 1 diabetes
+
+
+IM 11.3
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:- Describe and discuss the epidemiology and pathogenesis and risk
+
+factors economic impact and clinical evolution of type 2 diabetes
+
+
+IM 11.4
+
+Topic:-DIABETES MELLITUS
+
+
+Subtopic:- Describe and discuss the genetic background and the influence of
+
+the environment on diabetes
+
+
+IM 11.5
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:-Describe and discuss the pathogenesis and temporal evolution of
+
+microvascular and macro-vascular complications of diabetes
+
+
+IM 11.6
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:- Describe and discuss the pathogenesis and precipitating factors,
+
+recognition and management of diabetic emergencies
+
+
+
+IM 11.7
+
+Topic:-DIABETES MELLITUS
+
+
+Subtopic:- Elicit document and present a medical history that will
+differentiate the aetiologies of diabetes including risk factors, precipitating
+factors, lifestyle, nutritional history, family history, medication history,
+co-morbidities and target organ disease
+
+
+IM 11.8
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:-Perform a systematic examination that establishes the diagnosis and
+severity that includes skin, peripheral pulses, blood pressure measurement,
+fundus examination, detailed examination of the foot (pulses, nervous and
+deformities and injuries)
+
+
+IM 11.9 
+
+Topic:- DIABETES MELLITUS
+
+
+Sub topic :- Describe and recognise the clinical features of patients who
+present with a diabetic emergency
+
+
+
+IM 11.10 
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:- Generate a differential diagnosis and prioritise based on clinical
+features that suggest a specific aetiology
+
+
+IM 11.11
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:-Order and interpret laboratory tests to diagnose diabetes and its
+complications including: glucoses, glucose tolerance test,glycosylated
+hemoglobin, urinary micro albumin, ECG, electrolytes ABG, ketones, renal
+function tests and lipid profile
+
+
+
+IM 11.12
+
+Topic:- DIABETES MELLITUS 
+
+
+Sub topic:- Perform and interpret a capillary blood glucose test
+
+
+
+IM 11.13 
+
+Topic :- DIABETES MELLITUS
+
+ 
+
+Subtopic:-Perform and interpret a urinary ketone estimation with a dipstick
+
+
+
+
+IM 11.14
+
+Topic:- DIABETES MELLITUS 
+
+
+Subtopic:-Recognise the presentation of hypoglycaemia and outline the
+
+principles on its therapy
+
+
+IM 11.15
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic :- Recognise the presentation of diabetic emergencies and outline the
+
+principles of therapy
+
+
+IM 11.16
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:- Discuss and describe the pharmacologic therapies for diabetes their
+
+indications, contraindications, adverse reactions and interactions
+
+
+
+IM 11.17 
+
+Topic:- DIABETES MELLITUS 
+
+
+Subtopic:-Outline a therapeutic approach to therapy of T2Diabetes based on
+
+presentation, severity and complications in a cost effective manner
+
+
+
+
+IM 11.18
+
+Topic:- DIABETES MELLITUS 
+
+
+Subtopic:-Describe and discuss the pharmacology, indications, adverse reactions
+and interactions of drugs used in the prevention and treatment of target organ
+damage and complications of Type II Diabetes including neuropathy, nephropathy,
+retinopathy, hypertension, dyslipidemia and cardiovascular disease
+
+
+IM 11.19
+
+Topic:- DIABETES MELLITUS 
+
+
+Subtopic:- Demonstrate and counsel patients on the correct technique to
+administer insulin
+
+
+
+IM 11.20 
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:-Demonstrate to and counsel patients on the correct technique of self
+monitoring of blood glucoses
+
+
+IM 11.21 
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:- Recognise the importance of patient preference while selecting
+therapy for diabetes
+
+
+
+IM 11.22
+
+Topic:- DIABETES MELLITUS 
+
+
+Subtopic:-Enumerate the causes of hypoglycaemia and describe the counter
+hormone response and the initial approach and treatment
+
+
+
+IM 11.23
+
+Topic:- DIABETES MELLITUS
+
+
+Subtopic:-Describe the precipitating causes, pathophysiology, recognition,
+clinical features, diagnosis, stabilisation and
+
+management of diabetic ketoacidosis
+
+
+
+IM 11.24
+
+Topic:- DIABETES MELLITUS 
+
+
+Subtopic:- Describe the precipitating causes, pathophysiology, recognition,
+clinical features, diagnosis, stabilisation and management of Hyperosmolar non
+ketotic state
+
+
+
+TOPIC 12 - THYROID
+
+
+IM 12.1
+
+
+Topic : Thyroid
+
+
+Subtopic : epidemiology and pathogenesis of hypothyroidism and hyperthyroidism
+including the influence of iodine deficiency and autoimmunity in the
+pathogenesis of thyroid disease
+
+
+
+
+IM 12.2
+
+
+Topic : Thyroid
+
+
+Subtopic: Genetic basis of some forms of thyroid dysfunction
+
+
+
+
+IM12.3
+
+
+Topic : Thyroid
+
+
+Subtopic : Physiology of the hypothalamopituitary – thyroid axis, principles of
+thyroid function testing and alterations in physiologic function
+
+
+
+
+IM12.4 
+
+
+Topic : Thyroid
+
+
+Subtopic : Principles of radio iodine uptake in the diagnosis of thyroid
+disorder
+
+
+
+
+M12.5
+
+
+Topic : Thyroid 
+
+
+Subtopic : Document and present an appropriate history that will establish the
+diagnosis cause of thyroid dysfunction and its severity
+
+
+
+
+IM12.6
+
+
+Topic : Thyroid 
+
+
+Subtopic : Perform and demonstrate a systematic examination based on the
+history that will help establish the diagnosis and severity including systemic
+signs of thyrotoxicosis and hypothyroidism, palpation of the pulse rate and
+rhythm abnormalities neck palpation of thyroid and lymph nodes and
+cardiovascular findings.
+
+
+
+
+IM12.7 
+
+
+Topic : Thyroid 
+
+
+Subtopic :  The correct technique to palpate the thyroid
+
+
+
+
+IM12.8
+
+
+Topic : Thyroid
+
+
+Subtopic : Generate a differential diagnosis based on the clinical presentation
+and prioritise it based on the most likely diagnosis
+
+
+
+
+IM12.9
+
+
+Topic : Thyroid 
+
+
+Subtopic : Order and interpret diagnostic testing based on the clinical
+diagnosis including CBC, thyroid function tests and ECG and radio iodine uptake
+and scan
+
+
+
+
+IM12.10
+
+
+Topic : Thyroid
+
+
+Subtopic : Identify atrial fibrillation, pericardial effusion and bradycardia
+on ECG
+
+
+
+
+IM12.11
+
+
+Topic : Thyroid
+
+
+Subtopic :  Interpreting thyroid function tests in hypo and hyperthyroidism
+
+
+
+
+IM12.12
+
+
+Topic : Thyroid
+
+
+Subtopic : The iodisation programs of the government of India
+
+
+
+
+IM12.13
+
+
+Topic : Thyroid
+
+
+Subtopic : Pharmacology, indications, adverse reaction, interactions of
+thyroxine and antithyroid drugs
+
+
+
+
+IM12.14
+
+
+Topic : Thyroid
+
+Subtopic : Write and communicate to the patient appropriately a prescription
+for thyroxine based on age, sex, and clinical and biochemical status
+
+
+IM12.15
+
+Topic : Thyroid
+
+Subtopic: The indications of thionamide therapy, radio iodine therapy and
+surgery in the management of thyrotoxicosis
+
+
+
+
+
+IM13.1
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the clinical epidemiology and inherited & modifiable risk
+factors for common malignancies in India
+
+
+
+
+IM13.2
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the genetic basis of selected cancers
+
+
+
+
+IM13.3
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the relationship between infection and cancers
+
+
+
+
+IM13.4
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the natural history, presentation, course, complications
+and cause of death for common cancers
+
+
+
+
+IM13.5
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the common issues encountered in patients at the end of
+life and principles of management
+
+
+
+
+IM13.6
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe and distinguish the difference between curative and
+palliative care in patients with cancer
+
+
+
+
+IM13.7
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Elicit document and present a history that will help establish the
+aetiology of cancer and includes the appropriate risk factors, duration and
+evolution 
+
+
+
+
+IM13.8
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Perform and demonstrate a physical examination that includes an
+appropriate general and local examination that excludes the diagnosis, extent
+spread and complications of cancer
+
+
+
+
+IM13.9
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Demonstrate in a mannequin the correct technique for performing
+breast exam rectal examination and cervical examination and Pap smear 
+
+
+
+
+IM13.10
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Generate a differential diagnosis based on the presenting symptoms
+and clinical features and prioritise based on the most likely diagnosis
+
+
+
+
+IM13.11
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Order and interpret diagnostic testing based on the clinical
+diagnosis including CBC and stool occult blood and prostate specific antigen 
+
+
+
+
+IM13.12
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the indications and interpret the results of Chest X Ray,
+mammogram, skin and tissue biopsies and tumor markers used in common cancers
+
+
+
+
+IM13.13
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe and assess pain and suffering objectively in a patient with
+cancer
+
+
+
+
+
+
+IM13.14
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the indications for surgery, radiation and chemotherapy for
+common malignancies 
+
+
+
+
+IM13.15
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the need, tests involved, their utility in the prevention
+of common malignancies 
+
+
+
+
+IM13.16
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Demonstrate an understanding and needs and preferences of patients
+when choosing curative and palliative therapy
+
+
+
+
+IM13.17
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe and enumerate the indications, use, side effects of
+narcotics in pain alleviation in patients with cancer
+
+
+
+
+IM13.18
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe and discuss the ethical and the medico legal issues
+involved in end of life care
+
+
+IM13.19
+
+
+Topic: COMMON MALIGNANCIES
+
+
+
+
+Subtopic:- Describe the therapies used in alleviating suffering in patients at
+the end of life 
+
+Topic: Obesity
+
+IM14.1 Define and measure obesity as it relates to the Indian population
+
+Topic: GI bleeding
+
+IM15.1 Enumerate, describe and discuss the aetiology of upper and lower 
+GI bleeding
+
+
+
+
+
+
+IM 16   Diarrheal disorder  
+
+
+
+
+
+
+IM16.1
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Describe and discuss the aetiology of acute and chronic diarrhea
+including infectious and non infectious causes
+
+
+
+
+
+
+IM16.2
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Describe and discuss the acute systemic consequences of diarrhea
+including its impact on fluid balance
+
+
+
+
+
+
+IM16.3
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Describe and discuss the chronic effects of diarrhea including
+malabsorption
+
+
+
+
+
+
+IM16.4
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Elicit and document and present an appropriate history that includes
+the natural history, dietary history, travel , sexual history and other
+concomitant illnesse
+
+
+
+
+
+
+IM16.5
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Perform, document and demonstrate a physical examination based on the
+history that includes general examination, including an appropriate abdominal
+examination
+
+
+
+
+IM16.6
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Distinguish between diarrhea and dysentery based on clinical features
+
+
+
+
+IM16.7
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Generate a differential diagnosis based on the presenting symptoms
+and clinical features and prioritise based on the most likely diagnosis
+
+
+
+
+IM16.8
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Choose and interpret diagnostic tests based on the clinical
+diagnosis including complete blood count, and stool examination
+
+
+
+
+IM16.9
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Identify common parasitic causes of diarrhea under the microscope in
+a stool specimen
+
+
+
+
+
+
+IM16.10
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Identify vibrio cholera in a hanging drop specimen
+
+
+
+
+IM16.11
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Enumerate the indications for stool cultures and blood cultures in
+patients with acute diarrhea
+
+
+
+
+
+
+IM16.12
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Enumerate and discuss the indications for further investigations
+ including antibodies, colonoscopy, diagnostic imaging and biopsy in the
+diagnosis of chronic diarrhea
+
+
+
+
+
+
+IM16.13
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Describe and enumerate the indications, pharmacology and side effects
+of pharmacotherapy for parasitic causes of diarrhea
+
+
+
+
+
+
+IM16.14
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Describe and enumerate the indications, pharmacology and side effects
+of pharmacotherapy for bacterial and viral diarrhea
+
+
+
+
+IM16.15
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic  : Distinguish based on the clinical presentation Crohn’s disease from
+Ulcerative Colitis
+
+
+
+
+IM16.16
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic : Describe and enumerate the indications, pharmacology and side
+effects of pharmacotherapy including immunotherapy
+
+
+
+
+IM16.17
+
+
+Topic: Diarrheal disorder  
+
+
+Subtopic :Describe and enumerate the indications for surgery in inflammatory
+bowel disease
+
+
+
+
+
+
+
+
+IM17.1
+
+
+TOPIC- HEADACHE
+
+
+Define and classify headache and describe the presenting features,
+ precipitating factors, aggravating and relieving factors of various kinds of
+headache
+
+
+
+
+IM17.2
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC  - Elicit and document and present an appropriate history including
+ aura, precipitating aggravating and relieving factors, associated symptoms
+that help identify the cause of headaches 
+
+
+IM17.3
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC -  Classify migraine and describe the distinguishing features between
+ classical and non classical forms of migraine
+
+
+
+
+
+
+IM17.4
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC  - Perform and demonstrate a general neurologic examination and a
+ focused examination for signs of intracranial tension including neck  signs of
+meningitis
+
+
+
+
+IM17.5
+
+
+TOPIC-HEADACHE
+
+
+SUBTOPIC-Generate document and present a differential diagnosis based on  the
+clinical features and prioritise the diagnosis based on the presentation.
+
+
+
+
+IM17.6
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC -Choose and interpret diagnostic testing based on the clinical
+ diagnosis including imaging
+
+
+
+
+
+
+ IM17.7
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC-Enumerate the indications and describe the findings in the CSF in 
+
+
+Patients with meningitis
+
+
+
+
+
+
+ IM17.8
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC-Demonstrate in a mannequin or equivalent the
+
+
+Correct technique for performing a lumbar puncture
+
+
+
+
+
+
+IM17.9
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC – Interpret the CSF findings when presented with various parameters
+ of CSF fluid analysis
+
+
+
+
+
+
+
+
+IM17.10 
+
+
+TOPIC-HEADACHE
+
+
+SUBTOPIC -  Enumerate the indications for emergency care admission and
+ immediate supportive care in patients with headache
+
+
+
+
+IM17.11
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC-Describe the indications, pharmacology, dose, side effects of
+ abortive therapy in migraine
+
+
+
+
+
+
+
+
+IM17.12 
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC- Describe the indications, pharmacology, dose, side effects of
+ prophylactic therapy in migraine
+
+
+
+IM17.13 
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC – Describe the pharmacology, dose, adverse reactions and regimens  of
+drugs used in the treatment of bacterial, tubercular and viral meningitis.
+
+
+
+IM17.14
+
+
+TOPIC- HEADACHE
+
+
+SUBTOPIC-Counsel patients with migraine and tension headache on lifestyle
+ changes and need for prophylactic therapy
+
+Topic: Cerebrovascular accident
+
+IM18.1 Describe the functional and the vascular
+anatomy of the brain
+
+Topic: Movement disorders
+
+IM19.1 Describe the functional anatomy of the locomotor system of the 
+brain
+
+Topic: Envenomation
+
+IM20.1 Enumerate the local poisonous snakes 
+and describe the distinguishing marks of each
+
+
+
+
+
+IM21.1
+
+
+Topic: Poisoning
+
+
+Subtopic : Describe the initial approach to the stabilisation of the patient
+who presents with poisoning. 
+
+
+
+
+IM21.2
+
+
+Topic: Poisoning
+
+
+Subtopic :Enumerate the common plant poisons seen in your area and describe
+their toxicology, clinical features, prognosis and specific approach to
+detoxification 
+
+
+
+
+IM21.3
+
+
+Topic: Poisoning
+
+
+Subtopic : Enumerate the common corrosives used in your area and describe their
+toxicology, clinical features, prognosis and approach to therapy
+
+
+
+
+IM21.4
+
+
+Topic: Poisoning
+
+
+Subtopic : Enumerate the commonly observed drug overdose in your area and
+describe their toxicology, clinical features, prognosis and approach to therapy
+
+
+
+
+IM21.5
+
+
+Topic: Poisoning
+
+
+Subtopic : Observe and describe the functions and role of a poison center in
+suspected poisoning
+
+
+
+
+IM21.6
+
+
+Topic: Poisoning
+
+
+Subtopic : Describe the medico legal aspects of suspected suicidal or homicidal
+poisoning and demonstrate the correct procedure to write a medico legal report
+on a suspected poisoning
+
+
+
+
+IM21.7
+
+
+Topic: Poisoning
+
+
+Subtopic : Counsel family members of a patient with suspected poisoning about
+the clinical and medico legal aspects with empathy
+
+
+
+
+IM21.8
+
+
+Topic: Poisoning
+
+
+Subtopic : Enumerate the indications for psychiatric consultation and describe
+the precautions to be taken in a patient with suspected suicidal ideation /
+gesture
+
+
+
+
+
+IM22 Mineral, Fluid Electrolyte and Acid base Disorder   
+
+
+
+
+IM22.1
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder   
+
+
+Subtopic : Enumerate the causes of hypercalcemia and distinguish the features
+of PTH vs non PTH mediated hl
+
+
+
+
+IM22.2
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic  : Describe the aetiology, clinical manifestations, diagnosis and
+clinical approach to primary hyperparathyroidism
+
+
+
+
+IM22.3
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic :Describe the approach to the management of hypercalcemia
+
+
+
+
+
+IM22.4
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic : Enumerate the components and describe the genetic basis of the
+multiple endocrine neoplasia syndrome
+
+
+
+
+IM22.5
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+Subtopic :Enumerate the causes and describe the clinical features and the
+correct approach to the diagnosis and management of the patient with
+hyponatremia
+
+
+
+
+
+
+
+
+IM22.6
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic :Enumerate the causes and describe the clinical and laboratory
+features and the correct approach to the diagnosis and management of the
+patient with hyponatremia
+
+
+
+
+
+
+
+
+IM22.7
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic : Enumerate the causes and describe the clinical and laboratory
+features and the correct approach to the diagnosis and management of the
+patient with hypokalemia
+
+
+
+
+
+
+IM22.8
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic :Enumerate the causes and describe the clinical and laboratory
+features and the correct approach to the diagnosis and management of the
+patient with hyperkalemia
+
+
+
+
+
+
+
+
+
+
+IM22.9
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic : Enumerate the causes and describe the clinical and laboratory
+features of metabolic acidosis
+
+
+
+
+IM22.10
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic :Enumerate the causes of describe the clinical and laboratory features
+of metabolic alkalosis
+
+
+
+
+IM22.11
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic : Enumerate the causes and describe the clinical and laboratory
+features of respiratory acidosis
+
+
+
+
+IM22.12
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic : Enumerate the causes and describe the clinical and laboratory
+features of respiratory alkalosis
+
+
+
+
+IM22.13
+
+
+Topic: Mineral, Fluid Electrolyte and Acid base Disorder
+
+
+Subtopic : Identify the underlying acid based disorder based on an ABG report
+and clinical situation
+
+
+
+TOPIC 23 – NUTRITION AND VITAMINE DEFICIENCIES 
+
+
+IM23.1
+
+
+Topic : Nutrition and vitamin deficiencies Subtopic :Discuss and describe the
+methods of nutritional assessment in an adult and calculation of caloric
+requirements during illnesses .
+
+
+
+
+IM23.2 
+
+
+Topic :Nutrition and Vitamin deficiencies 
+
+
+Subtopic :Discuss and describe the causes and consequences of protein caloric
+malnutrition in the hospital KK  
+
+
+
+
+IM23.3
+
+
+Topic : Nutrition and Vitamin deficiencies Subtopic : Discuss and describe the
+aetiology, causes, clinical manifestations, complications, diagnosis and
+management of common vitamin deficiencies .
+
+
+
+
+ IM23.4
+
+
+Topic : Nutrition and Vitamin deficiencies Subtopic :Enumerate the indications
+for enteral and parenteral nutrition in critically ill patients 
+
+
+
+
+IM23.5
+
+Topic : Nutrition and Vitamin deficiencies
+Subtopic :Counsel and communicate to patients in a simulated environment with
+illness on an appropriate balanced diet.
+Topic: Geriatrics
+IM24.1 Describe and discuss the epidemiology, pathogenesis, clinical evolution,
+presentation and course of common diseases in the elderly
+
+25.1 Topic: Miscellaneous Infections :
+immune status, risk factors and comorbidities on zoonotic diseases (e.g.
+Leptospirosis, Rabies) and non-febrile infectious disease (e.g. Tetanus)
+
+26.1 Topic: The role of the physician in the community
+IM26.2 Describe and discuss the commitment to lifelong learning as an important
+part of physician growth IM26.3 Describe and discuss the role of non
+maleficence as a guiding principle in patient care IM26.4 Describe and discuss
+the role of autonomy and shared responsibility as a guiding principle in
+patient care IM26.5 Describe and discuss the role of beneficence of a guiding
+principle in patient care  IM26.6 Describe and discuss the role of a physician
+in health care system
+IM26.7 Describe and discuss the role of justice as a guiding principle in
+patient care IM26.8 Identify discuss medicolegal, socioeconomic and ethical
+issues as it pertains to organ donation IM26.9 Identify, discuss and defend
+medicolegal, sociocultural, economic and ethical issues as it pertains to
+rights, equity and justice in access to health care IM26.10 Identify, discuss
+and defend medicolegal, socio-cultural and ethical issues as it pertains to
+confidentiality in patient care
+IM26.49 Administer informed consent and approriately adress patient queries to
+a patient
+[https://blogger.googleusercontent.com/img/b/R29vZ2xl/
+AVvXsEika8njlhrOSbofCegzm511nSta0CB5sNZeaC7r6DFf4b83gJo_Z0eKSartbTUG4vCCzKHx8MBSbxBdb9_si2g_mqgohFUU1rPfbgjXvvWbKFaUVhGFOCRf4_nfVJ6jNFhmUiJk8s6rZgTwYKUMK3GoEUtVUD5ND4LhydKGqwYvF4XYDFYkNVVXb08N/
+w640-h480/IMG20220908095006.jpg]
+
+
+ Posted by
+ caregiver7careseeker    at
+ 10:53 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _▼ _ October (5)
+                # 2018_online_learning_portfolio_assessment_(partial)
+                # Departmental_Senior_Resident_online_learning_portf...
+                # NMC_topic_and_subtopic_codes
+                # From_competence_based_dynamic_ontology_to_a_static...
+                # Current_state_of_Case_Report_PaJR_poem_(2_States)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

@@ -1,0 +1,580 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+____
+
+**** Search This Blog ****
+[q                   ]
+[Search]
+****** Clinical_Logs ******
+A compilation of my medical years
+
+**** CLINICAL PROBLEM SOLVING – NEURODEGENERATIVE DISEASE ****
+
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ -
+ _January_19,_2022_
+
+For this year’s clinical problem-solving conference, I have chosen the case on
+neurodegenerative diseases.
+This is the link to the semi-structured case:  A_58_year_old_man_with
+unexplanied_dementia,_slurring_of_speech_and_urinary_incontinence_since_6
+months_and_forgetfulness_since_3_months_(jabeenahmed300.blogspot.com)
+In this ELog, I have attempted to answer the following questions:
+   1. What is the timeline of symptoms seen in this patient? What is the
+      mechanism of the symptoms?
+   2. What are the currently approved treatments for this condition?
+   3. What are the future prospects in the treatment of this condition?
+QUESTION_1:_Timeline_and_Mechanism_of_Symptoms
+[https://blogger.googleusercontent.com/img/a/
+AVvXsEjNXSBAUXwUXeuJSu8rzijuXlxJROXaELuWfdOmbBYMySWswaTfQDEGMWaD-
+2mpzr3RUmhkzvTnoaLlk1NRJInCOnoLFioVU4J8LeXvQI6XKou9Lf6k_iEb3YkMhaZ2Nxtb2lk2kFywPZ-
+0cZsm95p7fcW8uXJnMjECB1HkQ9rlPU4h2o1g-4cr6fwTkA=s16000]
+
+The timeline and progression of the symptoms is indicative of Alzheimer's
+Disease. 
+A. Slurred speech and  Delay in response to commands: This is seen when the
+temporal lobe (specifically the language processing and speech centres) begin
+to deteriorate. 
+B. Apathy: This could be due to the disease spreading to the anterior cingulate
+cortex 
+                     
+          "Apathy in AD is associated with gray matter atrophy in the
+          anterior cingulate cortex and the left supplementary motor
+          area
+          People with AD and apathy also have more white matter
+          hyperintensities and a mixed pattern of reduced and
+          elevated blood flow in different regions, thereby
+          suggesting that the brain may be trying to compensate for
+          the reduced blood flow. People with dementia and apathy
+          also show a blunted response to d-amphetamine, suggesting
+          problems with the brain reward system"
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3299979/
+      
+      C. Hallucinations, Sleep disturbances, Memory loss: These are common
+symptoms in middle-to-late stage AD.  Memory loss, specifically, has been
+hypothesized to be caused by the decline of MTL function.
+         "As the disease progresses, delusions, hallucinations, and
+     aggression become more common, whereas apathy is the most persistent
+     and frequent NPS throughout all the stages of AD. Additionally,
+     circadian sleep-wake rhythms become exaggerated as compared with the
+     phase shifts associated with normal aging."
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3299979/ 
+      
+     "Memory impairments appear to be significantly correlated with medial
+     temporal lobe atrophy and hypoactivation."
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5684784/ 
+ 
+            
+       D. Urinary incontinence: The mechanism of this symptom is very unclear.
+It could be due to amyloid deposits in the micturition centers of the brain,
+causing loss of signal. Urinary incontinence can also be attributed to the
+progressing cognitive decline: It is possible that the patient fails to
+recognize the need to micturate, or is unable to reach the appropriate place in
+time.
+
+       E. Dysphagia: The patient showed aversion to both food and water. 
+
+     "Swallowing disorders of the AD group may result from sensory
+     impairment in relation to dysfunctions in the temporoparietal areas,
+     whereas the swallowing disorders of VaD group may primarily be caused
+     by motor impairments due to disruptions in the corticobulbar
+     tract. AD with EPS predominantly shows rigidity and bradykinesia."
+https://journals.lww.com/alzheimerjournal/Abstract/2009/04000/
+Dysphagia_in_Patients_With_Dementia__Alzheimer.13.aspx 
+
+
+
+QUESTION_2:_Currently_Approved_Treatments
+This patient was treated with Donepezil - Cholinesterase inhibitor (10mg/day
+which was increased to 20mg/day).
+The currently accepted drug treatments for AD include:
+
+1.   Cholinesterase_inhibitors: Efficacy_and_safety_of_rivastigmine_in_patients
+with_Alzheimer’s_disease:_international_randomized_controlled_trial_(nih.gov)
+ 
+P – N = 725 – Mild to moderately severe AD
+I – with Rivastigmine 243 – High dose, 243 – Low dose
+C – 239 placebo
+O –Patients taking placebo experienced a decline in cognitive function. 55%
+(86/157) of those in the higher dose group improved from baseline measurements
+compared with 45% (93/205) of those treated with placebo (analysis of observed
+cases).
+ 
+2.   Memantine_(NMDA_receptor_blocker): Memantine_treatment_in_patients_with
+moderate_to_severe_Alzheimer_disease_already_receiving_donepezil:_a_randomized
+controlled_trial_-_PubMed_(nih.gov)
+ 
+P – 404 patients; Moderate to severe AD
+I – 203 with Memantine (20mg/day)
+C – 201 with placebo
+O –Stable doses of donepezil + memantine resulted in significantly better
+outcomes than placebo on measures of cognition, activities of daily living,
+global outcome, and behavior and was well tolerated.
+ 
+3.   Suvorexant_(Orexin_receptor_antagonist): Polysomnographic_assessment_of
+suvorexant_in_patients_with_probable_Alzheimer's_disease_dementia_and_insomnia:
+a_randomized_trial_(nih.gov)
+ 
+P – N= 285; Patients suffering from insomnia in mild-to-moderate Alzheimers
+I – 142 with suvorexant
+C – 143 with placebo
+O –  At week 4, the mean improvement‐from‐baseline in TST was 73 minutes for
+suvorexant and 45 minutes for placebo. The number (%) of patients with ≥50
+minute improvement in TST at week 4 was 83 (62%) of 135 in the suvorexant group
+and 62 (45%) of 139 in the placebo group.
+
+QUESTION_3:_Potential_Drug_Therapies
+There have been numerous drug trials targeting different steps in AD pathology.
+These include disease-modifying therapies as well as symptomatic therapies. 
+
+                                                                      Source
+
+    1.   BACE_INHIBITORS_AND_GAMMA_SECRETASE_INHIBITORS
+ 
+β-site APP cleaving enzyme 1 (BACE1), which is thought to be essential for the
+production of Aβ peptides. Inhibition of the enzymes that produce the Aβ
+peptide from its precursor, amyloid precursor protein (APP) can help prevent
+the first step of AD - accumulation of amyloid plaques. BACE inhibitors have
+been thought to improve cognitive and functional performance by suppressing Aβ
+production. Small molecule BACE inhibitors (Elenbecestat) are being evaluated
+in a Phase III study in early AD patients with confirmed brain amyloid using
+positron emission tomography (PET) and/or cerebrospinal fluid (CSF) assessment.
+                         From_<https://f1000research.com/articles/7-1161 
+                         From_<https://www.ncbi.nlm.nih.gov  
+ 
+2.   GAMMA_OSCILLATION
+ 
+Gamma oscillation, a high-frequency brainwave rhythm, is associated with inter-
+neuronal communication in virtually all brain networks and may help to
+distinguish between true and false memories. Recently, researchers at the
+Massachusetts Institute of Technology found that induction of gamma-frequency
+oscillations led to reduced Aβ deposition and improved cognitive outcomes in an
+AD mouse model.
+  
+               From <https://f1000research.com/articles/7-1161/v1>
+              Sederberg PB, Schulze-Bonhage A, Madsen JR, et al. Gamma
+oscillations distinguish true from false                memories. Psychol Sci.
+2007;18(11):927-932. doi:10.1111/j.1467-9280.2007.02003.x
+ 
+3.   BEXAROTENE
+ 
+Bexarotene, an anticancer drug approved by the U.S. Food and Drug
+Administration, selectively targets the primary nucleation step in Aβ42
+aggregation. It delays the formation of toxic species in neuroblastoma cells,
+and completely suppresses Aβ42 deposition and its consequences in a
+Caenorhabditis elegans model of Aβ42-mediated toxicity. These results suggest
+that the prevention of the primary nucleation of Aβ42 by compounds such as
+bexarotene could reduce the risk of the onset of Alzheimer's disease.
+
+ https://pubmed.ncbi.nlm.nih.gov/26933687/
+4.   HUMAN_BRICHOS_DOMAIN
+A molecular chaperone, a human Brichos domain, can specifically inhibit this
+catalytic cycle and limit human Aβ42 toxicity. It has been demonstrated in
+vitro that Brichos binds to the surfaces of fibrils, thereby redirecting the
+aggregation reaction to a pathway that involves the minimal formation of beta-
+amyloid oligomers.
+
+ https://pubmed.ncbi.nlm.nih.gov/25686087/
+
+5.   IMMUNOTHERAPY
+ 
+Immunotherapy involves the injection of an antibody that targets abnormal Aβ
+and facilitates its removal from the brain. Immunotherapy against Aβ has proven
+to be ineffective unless it is used during the early stages of AD.
+ The selective immunological blockade of specific biding sites for Aβ might be
+an effective approach at an early stage of AD. In one such study conducted in
+OBX-mice, immunization with the fragments of extracellular domains of α7-
+subtype of the acetylcholine or prion receptors, evident improvement has been
+observed in both spatial memory and morphology of cortical and hippocampal
+neurons as well as Aβ level lowering. The antibodies to these fragments had to
+be noticed to exert obvious protective effects on hippocampal cells culture as
+well.
+ 
+ The potential clinical benefit of immunomodulatory treatment in the earliest
+stages of AD is dependent on the rate of cognitive decline as well as the
+severity of the neuroinflammatory response. The activation states of microglia
+and the neuroinflammatory environment are constantly changing throughout the
+course of AD progression. Therefore, when choosing the target of modulation,
+the timing of intervention is highly important.
+
+ 
+6.   ANTI-INFLAMMATORY
+ 
+This targets the neuroinflammatory pathology in AD. Modulation of cytokine
+systems has been shown to correct dysregulated neuroinflammation in mouse
+models of AD and restore efficient Aβ clearance. However, the nature of these
+cytokines (pro- or anti-inflammatory) along with the specific timing of
+intervention is also critically important in the outcome.
+ 
+Epidemiological studies suggest that sustained combinatorial NSAID usage can
+reduce the risk of AD onset by as much as 80% and numerous NSAID compounds have
+been efficient in reducing microglial activation and amyloid burden in animal
+models of AD. However, NSAID treatment could be protective if initiated before
+clinical symptom onset but harmful after the development of cognitive
+impairment.
+ 
+Numerous cytokine suppressive anti-inflammatory drugs derived from plant
+polyphenols, including curcumin, apigenin, and resveratrol, carry strong
+preclinical evidence as potential AD therapies. These compounds inhibit nuclear
+factor kappa B activity and decrease the production of pro-inflammatory
+cytokines. Recently etanercept, a TNFα inhibitor, was shown to be well
+tolerated a provide some therapeutic benefit in an initial phase-II AD clinical
+trial
+ 
+ https://onlinelibrary.wiley.com/doi/10.1111/jnc.13411
+7.   EXOSOMES
+Exosomes, a form of nanoscale vesicle, are commonly found in the biological
+fluids and tissues of the central nervous system. They carry a small amount of
+molecular genetic material and proteins that play key roles in intercellular
+communication.
+In cellular and animal models of AD, exosomes have been shown to carry and
+spread toxic Aβ and hyperphosphorylated tau, between neural cells and may then
+induce cell apoptosis, thus resulting in the loss of neurons. On the other
+hand, exosomes may also exert positive actions, including the reduction of
+brain amyloid-beta, or the transfer of neuroprotective substances between
+neural cells. For example, the up-regulation of exosomes containing nSMase2
+secretion enhances Aβ uptake in microglia and significantly reduces the
+extracellular levels of Aβ.
+ 
+Since neuron-derived exosomes (NDEs) exist in both cerebrospinal fluid and
+peripheral blood, targeting changes in the exosomes during the pathogenesis of
+AD might provide a new alternative approach with which to treat AD.
+ 
+A research study showed that the intravenous delivery of Mesenchymal Stem Cells
+allowed transport across the blood-brain barrier and subsequent migration to
+sites of neural injury without inducing tumorigenic or immune responses. MSCs
+can exert their action through exosomes.
+MSCs have also been shown to promote cognitive function in various pathological
+conditions, including neuro-regeneration, neuroprotection, the reduction of Aβ
+deposits and tau-related cell death, and the down-regulation of pro-
+inflammatory cytokines. 
+                   From_<https://www.ncbi.nlm.nih.gov  
+8. TARGETING_TAU_PHOSPHORYLATION
+Another step that can be targeted in AD pathology is tau hyperphosphorylation
+and NFT formation. Several potential therapeutic approaches have been
+identified: modulation of tau phosphorylation, prevention of tau aggregation,
+promotion of tau clearance by intracellular and extracellular proteolysis and
+phagocytosis, and anti-tau-directed immunotherapies. Only a few drugs that
+target tau phosphorylation and aggregation have reached late-stage clinical
+trials. This may be due to differences in structure, conformation, and
+complexity of changes during AD of tau protein compared to Aβ (while Aβ
+consists of 36–42 amino acids, the human central nervous system expresses six
+tau isoforms that comprise from 352 to 441 amino acids with four sequence
+repeats in normal). Moreover, changes in Aβ and tau during the progression of
+AD are very different. Extracellular Aβ modifications during AD progression
+involve slow polymerization into oligomers that further aggregate. Initial tau
+modifications in AD progression are intracellular. Therefore, targeting tau
+protein as the therapeutic approach proves to be more complex than targeting
+Aβ. 
+                         https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6839593/
+9.   UNCONVENTIONAL_METHODS_-_AROMATHERAPY
+    
+     Unconventional methods like aromatherapy and light therapy have also shown
+promising results in improving sleep, abstract function, and conceptual
+understanding in AD patients. It has been suggested that aromatherapy may bring
+some feeling of relief and the ability to act on outside influences that can
+help cope with the obstacle to action in senile dementia.
+
+ The action of aromatherapy begins from a smell molecule combined with an
+acceptor peculiar to each specific odor. The smell molecule passes along the
+nasal cavity and adheres to the olfactory epithelium. The stimulus is
+transmitted to the hippocampus or cerebral limbic system and amygdaloid body
+through the olfactory nerve system currently concentrated on the olfactory
+epithelium. The odor is recognized and the stimulus sends information to the
+hypothalamus on which it was projected by the cerebral limbic system, which
+then adjusts the autonomic nervous system and the internal secretory system,
+guiding a series of vital reactions in the hippocampus or amygdaloid body, such
+as the discharge of neurotransmitters.
+ 
+This_study explored the effects of aromatherapy on cognitive functions of AD
+and dementia patients. The oils used in aromatherapy were lemon, rosemary,
+lavender, and orange. The lemon and rosemary mix was believed to activate the
+sympathetic nervous system to strengthen concentration and memory, whereas the
+lavender and orange fragrance activated the parasympathetic nervous system to
+calm patients' anxiety. The mixtures used in the mornings and evenings were
+changed to synchronize the autonomic nervous system to the circadian rhythm:
+the sympathetic nervous system works predominantly after stimulation by
+rosemary–lemon oil in the morning, whereas the parasympathetic nerve system
+works predominantly after activation by the lavender–orange oil at night.
+ 
+The study concluded that a significant improvement was seen in GBSS-J-A-13
+(abstract function) in the mild-moderate AD group. Some improvement was seen in
+the overall score for the TDAS and in concept understanding in all patient
+groups. 
+            https://onlinelibrary.wiley.com/doi/10.1111/j.1479-
+8301.2009.00299.x
+
+
+ DISCUSSION
+ The pathogenesis of AD has 3 components - Accumulation of Aß amyloids,
+Formation of neurofibrillary tangles, and Neuroinflammation.
+1._Aß_amyloids_and_tau_proteins
+ Amyloid Precursor Protein (APP) is an integral membrane protein expressed
+mainly in synapses of neurons. It regulates synapse formation, synaptic
+plasticity, antimicrobial activity, and iron export. APP is cleaved by ß
+secretase to produce APP C99, which undergoes further cleavages by gamma-
+secretase to produce amyloid ß peptides. Disruption of this cleavage process,
+specifical mutations in gamma and beta-secretases, can lead to the abnormal
+production of Aβ. Aβ can then trigger a cascade leading to synaptic damage and
+neuron loss. 
+[Drug_treatments_in_Alzheimer’s_disease_(nih.gov)]
+ 
+
+
+
+Tau proteins are microtubule-associated proteins, predominantly expressed in
+neurons of the CNS. One of the main functions of tau proteins is to modulate
+the stability of axonal microtubules by interacting with tubulin and promoting
+its assembly into microtubules. It does this by 2 mechanisms: isoforms and
+phosphorylation. Tau protein also regulates microtubule-mediated axonal
+transport. Non-cellular functions of tau include negatively regulating long-
+term memory and facilitating habituation. This can explain the linkage between
+tauopathies and cognitive impairment.  Abnormal amyloid plaque can induce the
+phosphorylation of tau protein, which then spreads almost infectiously via
+microtubule transport to neighboring neurons, leading to neuronal death.
+[https://f1000research.com/articles/7-1161/v1]
+ In early AD, the first detectable signs that can be observed in a structural
+MRI are atrophy in the middle temporal lobe (affecting especially the
+hippocampus), and a decrease in the thickness of the cerebral cortex in regions
+that are vulnerable to AD. In asymptomatic carriers of APP mutations, a
+decrease in hippocampal volume can be identified 2–3 years before the onset of
+dementia and, in elderly people, this alteration can be detected up to six
+years before [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6888399/]
+Memory impairments appear to be significantly correlated with medial temporal
+lobe atrophy and hypoactivation. [https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5684784/]
+As the disease progresses, delusions, hallucinations, and aggression become
+more common, whereas apathy is the most persistent and frequent NPS throughout
+all the stages of AD. Additionally, circadian sleep-wake rhythms become
+exaggerated as compared with the phase shifts associated with normal aging.
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3299979/]
+Swallowing disorders of the AD group may result from sensory impairment in
+relation to dysfunctions in the temporoparietal areas, whereas the swallowing
+disorders of VaD group may primarily be caused by motor impairments due to
+disruptions in the corticobulbar tract. AD with EPS predominantly shows
+rigidity and bradykinesia. [https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC3299979/]
+
+2._Neurofibrillary_Tangles
+Neurofibrillary tangles are formed by hyperphosphorylation of the
+aforementioned microtubule-associated protein tau, causing it to aggregate in
+an insoluble form. These aggregations of hyperphosphorylated tau protein are
+referred to as PHF or "paired helical filaments".
+Intracellular lesions known as pretangles develop when tau is phosphorylated
+excessively and on improper amino acid residues. These lesions, over time,
+develop into filamentous neurofibrillary tangles (NFTs) which interfere with
+numerous intracellular functions. In asymptomatic patients, the presence of
+neurofibrillary tangles tends to be limited to the entorhinal cortex, while in
+symptomatic subjects, tangles are much more widespread. 
+A recent study looked for a correlation between the quantitative aspects of
+Alzheimer's disease and aggression frequently found in Alzheimer's patients. It
+was found that only an increase in neurofibrillary tangle load was associated
+with the severity of aggression and chronic aggression in Alzheimer's patients.
+This indicates a correlation between NFT load and the severity of aggression.
+  
+   1.  Lee H. G.; Perry G.; Moreira P. I.; Garrett M. R.; Liu Q.; Zhu X. W.;
+      et al. (2005). "Tau phosphorylation in Alzheimer's disease: pathogen or
+      protector?". Trends in Molecular Medicine. 11 (4): 164–169. doi:10.1016/
+      j.molmed.2005.02.008. hdl:10316/4769. PMID 15823754.
+   2. ^ Kitazawa, Masashi; Medeiros, Rodrigo; LaFerla, Frank M.
+      (2012). "Transgenic_Mouse_Models_of_Alzheimer_Disease:_Developing_a
+      Better_Model_as_a_Tool_for_Therapeutic_Interventions". Current
+      Pharmaceutical Design. 18 (8): 1131–1147. doi:10.2174/
+      138161212799315786. ISSN 1381-6128. PMC 4437619. PMID 22288400.
+   3. ^ Jump_up_to:a b c Klein R. L.; Lin W. L.; Dickson D. W.; Lewis J.;
+      Hutton M.; Duff K.; et al. (2004). "Rapid_neurofibrillary_tangle
+      formation_after_localized_gene_transfer_of_mutated_tau". American Journal
+      of Pathology. 164 (1): 347–353. doi:10.1016/S0002-9440(10)63124-
+      0. PMC 1602230. PMID 14695347.
+
+3._Inflammation
+
+a._General_Mechanism
+
+
+ 
+ 
+b._Macrophage_Activation_Theory
+
+
+ 
+ 
+c._Astrocytes
+Astrocytes may be more efficient in Aβ1–42 uptake than microglia and show a
+preference for uptake of neurotoxic oligomeric Aβ rather than the fibrillary
+formation.
+Even though astrocytes are primarily supportive of neuronal function, they can
+also secrete early-phase pro-inflammatory cytokines in conditions of brain
+injury that can exacerbate neuroinflammation and neurodegeneration. Thus,
+therapies targeting neuroinflammation must keep in mind the contribution of
+astrocytes in the progression of the disease.
+[ https://onlinelibrary.wiley.com/doi/10.1111/jnc.13411]
+ 
+
+
+REFERENCES
+1.   Murphy MP, LeVine H 3rd. Alzheimer's disease and the amyloid-beta
+peptide. J Alzheimers Dis. 2010;19(1):311-323. doi:10.3233/JAD-2010-1221
+2.   Briggs R, Kennelly SP, O'Neill D. Drug treatments in Alzheimer's
+disease. Clin Med (Lond). 2016;16(3):247-253. doi:10.7861/clinmedicine.16-3-247
+3.   Bondi MW, Edmonds EC, Salmon DP. Alzheimer's Disease: Past, Present, and
+Future. J Int Neuropsychol Soc. 2017;23(9-10):818-831. doi:10.1017/
+S135561771700100X
+4.   Lloret A, Esteve D, Lloret MA, et al. When Does Alzheimer's Disease Really
+Start? The Role of Biomarkers. Int J Mol Sci. 2019;20(22):5536. Published 2019
+Nov 6. doi:10.3390/ijms20225536
+5.   Fox NC, Crum WR, Scahill RI, Stevens JM, Janssen JC, Rossor MN. Imaging of
+onset and progression of Alzheimer's disease with voxel-compression mapping of
+serial magnetic resonance images. Lancet. 2001;358(9277):201-205. doi:10.1016/
+S0140-6736(01)05408-3
+6.   Minter, M.R., Taylor, J.M. and Crack, P.J. (2016), The contribution of
+neuroinflammation to amyloid toxicity in Alzheimer's disease. J. Neurochem.,
+136: 457-474.  https://doi.org/10.1111/jnc.13411
+7.   Weller J and Budson A. Current understanding of Alzheimer’s disease
+diagnosis and treatment [version 1; peer review: 2
+approved]. F1000Research 2018, 7(F1000 Faculty Rev):1161 ( https://doi.org/
+10.12688/f1000research.14506.1)
+8.   Buzsáki G, Wang XJ. Mechanisms of gamma oscillations. Annu Rev Neurosci.
+2012;35:203-225. doi:10.1146/annurev-neuro-062111-150444
+9.   Sederberg PB, Schulze-Bonhage A, Madsen JR, et al. Gamma oscillations
+distinguish true from false memories. Psychol Sci. 2007;18(11):927-932. doi:
+10.1111/j.1467-9280.2007.02003.x
+10. Lloret A, Esteve D, Lloret MA, et al. When Does   Alzheimer's Disease
+Really Start? The Role of   Biomarkers. Int J Mol Sci. 2019;20(22):5536.
+Published   2019 Nov 6. doi:10.3390/ijms20225536
+11.Bobkova N, Vorobyov V. The brain compensatory mechanisms and Alzheimer's
+disease progression: a new protective strategy. Neural Regen Res. 2015;10(5):
+696-697. doi:10.4103/1673-5374.156954
+12.Elmaleh DR, Farlow MR, Conti PS, Tompkins RG,   Kundakovic L, Tanzi RE.
+Developing Effective   Alzheimer's Disease Therapies: Clinical Experience and 
+ Future Directions. J Alzheimers Dis. 2019;71(3):715-732.   doi:10.3233/JAD-
+190507
+13. Schneider A, Mandelkow E. Tau-based treatment strategies in
+neurodegenerative diseases. Neurotherapeutics. 2008;5(3):443-457. doi:10.1016/
+j.nurt.2008.05.006
+14. Šimić G, Babić Leko M, Wray S, et al. Tau Protein Hyperphosphorylation and
+Aggregation in Alzheimer's Disease and Other Tauopathies, and Possible
+Neuroprotective Strategies. Biomolecules. 2016;6(1):6. Published 2016 Jan 6.
+doi:10.3390/biom6010006
+15. JIMBO, D., KIMURA, Y., TANIGUCHI, M., INOUE, M. and URAKAMI, K. (2009),
+Effect of aromatherapy on patients with Alzheimer's disease. Psychogeriatrics,
+9: 173-179.  https://doi.org/10.1111/j.1479-8301.2009.00299.x
+16. Briggs R, Kennelly SP, O'Neill D. Drug treatments in Alzheimer's
+disease. Clin Med (Lond). 2016;16(3):247-253. doi:10.7861/clinmedicine.16-3-247
+17. Chia S, Habchi J, Michaels TCT, et al. SAR by kinetics for drug discovery
+in protein misfolding diseases. Proc Natl Acad Sci U S A. 2018;115(41):10245-
+10250. doi:10.1073/pnas.1807884115
+18.   Cohen SIA, Arosio P, Presto J, et al. A molecular chaperone breaks the
+catalytic cycle that generates toxic Aβ oligomers. Nat Struct Mol Biol. 2015;22
+(3):207-213. doi:10.1038/nsmb.2971
+19.  Lyketsos CG, Carrillo MC, Ryan JM, et al. Neuropsychiatric symptoms in
+Alzheimer's disease. Alzheimer's Dement. 2011;7(5):532-539. doi:10.1016/
+j.jalz.2011.05.2410
+20.  Mantzavinos V, Alexiou A. Biomarkers for Alzheimer's  Disease
+Diagnosis. Curr Alzheimer Res. 2017;14(11):1149-1154. doi:10.2174/
+1567205014666170203125942
+21.Toepper M. Dissociating Normal Aging from Alzheimer's Disease: A View from
+Cognitive Neuroscience. J Alzheimers Dis. 2017;57(2):331-352. doi:10.3233/JAD-
+161099
+22.  Suh, Mee Kyung MS* †; Kim, HyangHee PhD† ‡; Na, Duk L. MD* Dysphagia in
+Patients With Dementia, Alzheimer Disease & Associated Disorders: April 2009 -
+Volume 23 - Issue 2 - p 178-184
+  doi: 10.1097/WAD.0b013e318192a539
+23.  Differentiating_Facial_Weakness_Caused_by_Bell's_Palsy_vs._Acute_Stroke_-
+JEMS
+24. Wardlaw JM, Valdés Hernández MC, Muñoz-Maniega S. What are white matter
+hyperintensities made of? Relevance to vascular cognitive impairment [published
+correction appears in J Am Heart Assoc. 2016 Jan 13;5(1):e002006]. J Am Heart
+Assoc. 2015;4(6):001140. Published 2015 Jun 23. doi:10.1161/JAHA.114.001140
+25. Yin Q, Ji X, Lv R, et al. Targetting Exosomes as a New Biomarker and
+Therapeutic Approach for Alzheimer's Disease. Clin Interv Aging. 2020;15:195-
+205. Published 2020 Feb 13. doi:10.2147/CIA.S240400
+26. Ra JC, Shin IS, Kim SH, et al. Safety of intravenous infusion of human
+adipose tissue-derived mesenchymal stem cells in animals and humans. Stem Cells
+Dev. 2011;20(8):1297-1308. doi:10.1089/scd.2010.0466
+ 
+ 
+ 
+
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Popular posts from this blog ****
+**** 53F_With_Uncontrolled_Hand_Movements ****
+ -
+ _September_13,_2022_
+[Image]
+NOTE: THIS IS AN ONLINE E LOGBOOK TO DISCUSS OUR PATIENT'S DE-IDENTIFIED HEALTH
+DATA SHARED AFTER TAKING HIS/HER GUARDIAN'S SIGNED INFORMED CONSENT. HERE WE
+DISCUSS OUR INDIVIDUAL PATIENT'S PROBLEMS THROUGH A SERIES OF INPUTS FROM THE
+AVAILABLE GLOBAL ONLINE COMMUNITY OF EXPERTS INTENDING TO SOLVE THOSE CLINICAL
+PROBLEMS WITH COLLECTIVE CURRENT BEST EVIDENCE-BASED INPUT. A 53F woman, who
+works as a teacher complains of uncontrolled movements in fingers and toes
+since 7 years.  HISTORY OF PRESENT ILLNESS: Patient was apparently asymptomatic
+7 years back. She then developed slight movements in her fingers and toes that
+were not under her control. These movements lasted for 10-15 minutes and
+occurred 2-3 times in an hour. The frequency has now increased. There is no
+associated weakness. These tremors are of low amplitude and high frequency.
+They are also present during sleep. Episodic in nature. Occur and resolve
+spontaneously. No triggers. Aggravated on stretching arms. No re
+Read_more
+
+**** 47M_with_Uncontrolled_Hand_Movements ****
+ -
+ _September_23,_2022_
+[Image]
+  NOTE: THIS IS AN ONLINE E LOGBOOK TO DISCUSS OUR PATIENT'S DE-IDENTIFIED
+HEALTH DATA SHARED AFTER TAKING HIS/HER GUARDIAN'S SIGNED INFORMED CONSENT.
+HERE WE DISCUSS OUR INDIVIDUAL PATIENT'S PROBLEMS THROUGH A SERIES OF INPUTS
+FROM THE AVAILABLE GLOBAL ONLINE COMMUNITY OF EXPERTS INTENDING TO SOLVE THOSE
+CLINICAL PROBLEMS WITH COLLECTIVE CURRENT BEST EVIDENCE-BASED INPUT. The
+patient presented with chief complaints of  uncontrolled movements in fingers
+and toes since 3-4 years.  Inability to talk properly since 3 years Difficulty
+in swallowing since 2 years Urinary incontinence HISTORY OF PRESENTING ILLNESS:
+These movements used to occur 1-2 times a day in the beginning, now increased
+to 5-6 times a day. The severity and frequency seem to be increasing day by
+day. Movements were also present in his sleep. There is no weakness or loss of
+grip when these movements occur. No triggers, no relieving factors.  The
+movements in his fingers were clearly seen when he was walking. C
+Read_more
+___Powered_by_Blogger
+Theme images by Maliketh
+
+
+Visit_profile
+***** Followers *****
+
+**** Archive ****
+
+    * September_20225
+    * March_20221
+    * January_20221
+    * July_20216
+    * June_20212
+**** Report_Abuse ****

@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Saturday, March 6, 2021 *****
+
+
+**** 100 common diseases logged into our own EMRs over one month ****
+ 
+100 common diseases logged into our own EMRs over  one month (14th June to 20th
+July 2020) mined by Avinash using SNOMED CT and finally edited by me. The
+numbers on the right is the weight of their recurrence in our EMRs (intern E
+log group) 
+
+Renal failure
+10
+
+Stroke
+10
+
+Viral fever
+8
+
+Anemia
+7
+
+Atherosclerosis
+7
+
+Diabetes Mellitus
+6
+
+Myocardial infarction
+6
+
+Osteoporosis
+6
+
+TB
+6
+
+Heart failure
+5
+
+Acute ischemic stroke
+4
+
+CKD
+4
+
+Hyponatremia
+
+Peripheral Neuropathy 
+
+Cor Pulmonale
+3
+
+Diarrhea
+3
+
+Gangrene
+3
+
+Hemolysis 
+3
+
+HIV
+3
+
+Hypertension
+3
+
+Metabolic Syndrome
+3
+
+Nephrotic syndrome
+3
+
+paraparesis
+3
+
+Peripheral Vascular Diseases
+3
+
+Quadriparesis
+
+Seizures
+3
+
+Sepsis
+3
+
+Multiorgan failure 
+
+SLE
+3
+
+Urinary Tract Infections
+3
+
+Acidosis
+2
+
+Valvular heart disease 
+2
+
+Acute rheumatic fever
+2
+
+Cirrhosis of liver 2
+
+Liver failure 
+
+pyelonephritis
+2
+
+Guilain Barre syndrome
+2
+
+Headache
+2
+
+Hyperuricemia
+2
+
+Hypokalemia
+2
+
+Immunocompromised state 
+2
+
+involuntary movements
+2
+
+Kidney Failure
+2
+
+LMN facial nerve palsy
+2
+
+Pancreatitis, Acute
+2
+
+pleural effusion
+2
+
+Pneumonia
+
+Vascular thrombosis
+
+Acute flaccid paralysis
+1
+
+Acute Inflammatory Demyelinating Polyradiculoneuropathy
+1
+
+Acute Ischaemic Stroke
+1
+
+Alcoholism
+1
+
+Allergies
+1
+
+Amenorrhea
+1
+
+Anemia, Aplastic
+1
+
+Anemia, Hemolytic
+1
+
+Autonomic dysfunction
+1
+
+Coronary Artery Disease
+1
+
+Cushings syndrome
+1
+
+Chronic hepatitis 
+
+HCV, HBV, autoimmune 
+1
+
+Congenital heart disease 
+
+Portal hypertension 
+
+leukemia
+1
+
+low back ache
+1
+
+lung consolidation
+1
+
+Malnutrition
+1
+
+Marfanoid syndrome
+1
+
+megaloblastic anemia
+1
+
+Meningitis 
+1
+
+Hyperkalemia
+1
+
+nutritional anemia
+1
+
+nutritional deficiencies
+1
+
+obsessive compulsive disorder
+1
+
+Parkinsons
+1
+
+Poisoning
+1
+
+Chronic Obstructive Pulmonary Disease, COPD 
+
+recurrent URTIs
+1
+
+Schizoaffective disorder
+1
+
+Shock
+1
+
+sickle cell disease
+1
+
+Stomach and duodenal Ulcer
+1
+
+Non ulcer dyspepsia 
+
+Irritable bowel syndrome 
+
+Tuberculosis, Meningeal
+1
+
+Vomitings
+1
+ Posted by
+ caregiver7careseeker    at
+ 9:56 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _▼ _ March (16)
+                # Learning_competencies_of_Intern_2015_MBBS_batch_in...
+                # Competency_based_practical_assessment_timeline_in_...
+                # Competency_based_final_university_MBBS_Medicine_su...
+                # Competency_based_practical_assessment_vs_Tradition...
+                # The_current_structure_of_ward_OPD_casualty_and_ICU...
+                # 2016_batch_MBBS_Competency_driven_evidence_based_f...
+                # Medicine_paper_for_March_2021_bimonthly_blended_as...
+                # 2017_to_2021_Eco_friendly_Medicine_department_samp...
+                # 2021_Ecofriendly_regular_asynchronous_case_confere...
+                # 2020_Ecofriendly_regular_asynchronous_case_confere...
+                # Medicine_department_Elective_training_programs_fro...
+                # re:_2019_Ecofriendly_regular_asynchronous_case_con...
+                # Citation_of_Functional_prototype_for_"Collective,_...
+                # 100_common_diseases_logged_into_our_own_EMRs_over_...
+                # 2018_Ecofriendly_regular_asynchronous_case_confere...
+                # Ecofriendly_conferences_asynchronous_online_for_2017
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

@@ -1,0 +1,305 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Thursday, August 4, 2022 *****
+
+
+
+**** Resolving diagnostic and therapeutic uncertainties around patients with
+undiagnosed undifferentiated fever ****
+Problem statement :
+
+"Fever is a common complaint in healthcare settings with various possible
+aetiologies including infection, connective_tissue_disorders, malignancies, and
+a number of miscellaneous conditions. The cause of fever may not be immediately
+obvious because of non-specific clinical manifestations and a lack of
+specificity in initial laboratory findings. The condition is referred to as
+undifferentiated fever and there is a broad differential diagnosis, usually
+influenced by the geographical location. Further laboratory investigations are
+usually undertaken to determine the cause of fever. Sometimes, despite
+iinvestigation, undifferentiated fevers remain undiagnosed, and whilst some
+undiagnosed undifferentiated fevers (UUDFs) resolve spontaneously, others may
+be associated with considerable morbidity and even mortality."
+
+Quoted from :
+Susilawati TN, McBride WJ. Undiagnosed undifferentiated fever in Far North
+Queensland, Australia: a retrospective study. Int J Infect Dis. 2014;27:59–64.
+Epub 2014/09/01. doi: 10.1016/j.ijid.2014.05.022 pmid:25173425.
+Full text link :https://www.sciencedirect.com/science/article/pii/
+S1201971214015501
+
+"Acute undifferentiated fever defined as any febrile illness for ≤ 14 days
+without evidence of localized infection."
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4347325/
+
+"Current clinical guidelines provide guidance on how to manage severe illness,
+common localizing infections like pneumonia and urinary tract infections, as
+well as malaria. How to manage other cases of acute febrile illness is less
+clear and is the focus of this review. Without an etiologic diagnosis,
+clinicians frequently prescribe empiric antibiotics that may be unnecessary or
+inadequate."
+
+https://www.sciencedirect.com/science/article/abs/pii/S0001706X21004642
+
+
+In the past, to help community practitioners resolve their diagnostic questions
+and reduce the unnecessary use of antibiotics for viral fevers, thus helping to
+contain antibiotic resistance, we have suggested fever-charting and monitoring
+fever patterns for two days.
+
+Biswas R, Dineshan V, Narasimhamurthy NS, Kasthuri AS. Integrating hospital-
+acquired lessons into community health practice: optimizing antimicrobial use
+in Bangalore. J Contin Educ Health Prof. 2007 Spring;27(2):105-10
+https://pubmed.ncbi.nlm.nih.gov/17576636/
+
+
+AIM:
+
+To reduce diagnostic and therapeutic uncertainity while managing patients with
+acute febrile illness 
+
+OBJECTIVES:
+
+1. To identify various uncertainities during organ system localisation in
+patients with unexplained fever during various points in the course of illness
+beginning with their presentation to the hospital. 
+
+
+2. To identify the role of fever diagnostic uncertainties in precipitation of
+antibiotic overuse due to therapeutic uncertainty 
+
+3) To identify possible correctable  factors to resolve diagnostic and
+therapeutic uncertainty in patients with fever and thus promote antibiotic
+stewardship 
+
+
+
+PATIENTS AND METHODS:
+
+PLACE OF STUDY: GENERAL MEDICINE DEPARTMENT
+
+STUDY PERIOD: November 2022- October 2024
+
+STUDY DESIGN: Prospective, Observational, qualitative study
+
+STUDY PERIOD – over 2 years 
+
+SAMPLE SIZE - 100 patients
+
+SAMPLE POPULATION -Patients of age 18-50 yrs attending Medicine Department in
+kamineni institute of medical sciences
+
+INCLUSION CRITERIA:
+
+1. Written informed consent from each patient or legal guardian prior to
+enrollment.
+
+Patients Age 18 and above 
+
+2. Recent-onset fever (within one to five days) 
+
+3. Poorly localizable symptoms to organ systems  such as myalgia, arthralgia,
+generalised body pains, frontal headache, cold associated with chills and rigor
+etc 
+
+
+•The study will be submitted for approval by the ethics committee
+
+•All patient satisfying the inclusion criteria will be enrolled in the
+study.
+
+•A written informed consent will be taken from the patients prior to
+the start of the study
+
+EXCLUSION CRITERIA:
+
+1. Patient below 18 years of age(minors)
+2. Patients not capable of giving consent (mentally ill patients)
+3. Patients not willing to give consent for study
+
+PROFORMA (data to be captured) 
+
+
+Demographics
+
+Patient event data reflected in a narrative history of the  sequence of events
+leading to the current presentation and outcomes
+
+Data from clinical general and systemic examination 
+
+Pallor 
+
+Lymphadenpathy 
+
+Nails 
+
+Organomegaly 
+
+Skin 
+
+Muscle mass 
+
+Mid arm circumference 
+
+Visceral fat 
+
+Data from laboratory investigation :
+
+    * CBP with peripheral smear 
+    * Iron profile with serum ferritin 
+    * Serum albumin 
+    * Serum creatinine
+    * Special tests on indication :
+    * Thyroid function tests 
+    * Chest X-ray -PA view
+    * ECG
+    * 2D ECHO
+    * Bone marrow if indicated 
+
+Data from treatment instituted :
+
+Data from Patient reported outcomes :
+
+Daily functionality (in terms of daily physical  activities)
+
+Daily diet in the form of meal images captured before consumption 
+
+Daily intake output
+
+
+
+****** Sample thesis case report links: ******
+
+
+https://drkulkarnimd.blogspot.com/2022/08/45m-with-fever-slurring-of-
+speech.html?m=1 (Initial diagnostic uncertainty influencing of higher end
+antibacterials and antimalarials) 
+
+
+Clinical complexity consists of a few defining characteristics such as
+uncertainty, non linearity, unpredictability and yet an overall pattern leading
+to resolution through attractor states over time. (2) As physician attractors
+we are uniquely privileged to "be" with our patients regardless of the
+diagnosis and that is the only way we may know our patient's outcomes where our
+"being" with them is the most significant (and often overlooked) intervention. 
+
+
+SAMPLE MASTER CHART WITH LINKS TO PATIENTS E-LOG
+Link To Master Chart:
+https://drive.google.com/file/d/1qEvnrKR8DNYWp4TMdwPmMeORyFTWkcYT/
+view?usp=drivesdk
+
+PATIENT INFORMATION SHEET
+English:
+https://drive.google.com/file/d/12LLDgFBVfnTxDdNv5K715uSyLYPUEgrY/
+view?usp=drivesdk
+Telugu:
+https://drive.google.com/file/d/13Df9wCu9zhj_ECpPxcHEULSAphv6-tDHl/
+view?usp=drivesdk
+
+Template of this "patient information sheet" is borrowed from this website:
+https://www.ncbi.nlm.nih.gov/books/NBK261334/
+And modified accordingly to my thesis topic.
+
+REFERENCES:
+1) Biswas R, Dineshan V, Narasimhamurthy NS, Kasthuri AS. Integrating hospital-
+acquired lessons into community health practice: optimizing antimicrobial use
+in Bangalore. J Contin Educ Health Prof. 2007 Spring;27(2):105-10
+https://pubmed.ncbi.nlm.nih.gov/17576636/
+
+2) Susilawati TN, McBride WJ. Undiagnosed undifferentiated fever in Far North
+Queensland, Australia: a retrospective study. Int J Infect Dis. 2014;27:59–64
+
+[https://blogger.googleusercontent.com/img/b/R29vZ2xl/
+AVvXsEivsq3e3Zk54FnyQpF2_MVW0kHs0MTV5oXKRaVbq_EWt9dpmrzNF_LZHPNzl5fRAtqDvtdPYOCwQCZTWVQVQo0Nu1JrTMH262b3xGko-
+AWrnBug0s7PRi0blv93tsQnkmolGWyyAHfDcYRPGAj4c3m3XQzRiwTuasftMHH_GEuR5ee2Nt4hIiwuleOm/
+w422-h640/IMG_20220804_185019.jpg]
+
+
+ Posted by
+ caregiver7careseeker    at
+ 6:47 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _▼ _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _▼ _ August (7)
+                # 2021_MD_batch_Formative_assessment
+                # Plasma_exchange_as_an_intervention_toward_longevit...
+                # 2020_PG_formative_assessment
+                # Thesis_draft_"Clinical_complexity_in_Diabetes:_Qua...
+                # Resolving_diagnostic_and_therapeutic_uncertainties...
+                # Roll_30-58_UG_batch_2019_General_Medicine_ward_com...
+                # Roll_26-50_UG_batch_2020_General_Medicine_ward_com...
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _► _ 2021 (92)
+          o _► _ December (3)
+          o _► _ November (8)
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+

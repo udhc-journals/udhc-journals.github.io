@@ -1,0 +1,694 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+__
+Search
+
+**** Search This Blog ****
+[q                   ]
+ [Submit]
+****** Medical_cases ******
+MEDICINE LOG BOOK BY SAI BHAVANA SANA - ROLL NUMBER - 146 This is an online E
+log book to discuss our patient's de-identified health data shared after taking
+his/her/guardian's signed informed consent. Here, we discuss our individual
+patient's problems through series of inputs from available global online
+community of experts with an aim to solve those patient's clinical problems
+with collective current best evidence based inputs
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+ _May_15,_2020_
+**** CASE DISCUSSION ****
+
+I have been given this case to solve in an attempt to understand the topic of
+"Patient Clinical Data Analysis" to develop my competency in reading and
+comprehending clinical data including history, clinical findings,
+investigations and diagnosis with a treatment plan.
+
+You can find the entire real patient clinical problem in the following link:
+http://classworkdecjan.blogspot.com/2019/05/42-f-with-severe-regular-edema-
+with_17.html#comment-form
+
+Following is my analysis of the patient's problem. The problems in the order of
+priority I found are:
+    * Swelling(edema)
+    * Severe headache
+    * Muscle weakness
+    * Mouth ulcers
+    * Sensory processing disorder
+    * Excessive hair growth
+*** Swelling ***
+Swelling is present since 1 year age. It is mostly present on face and abdomen.
+Swelling aggravated on exposure to smoke, emotional stress,physical activity,
+certain drugs such as sulfa drugs, anti-malarials, and by taking foods such as
+fava beans. Swelling was associated with fatigue, breathing problems and
+tachycardia.
+
+She also presented with severe jaundice at the time of birth.Urine is reduced
+(oliguria) and yellow in color.
+
+She also had hemolytic episodes after a history of travelling.
+
+**** Differential_Diagnosis_for_swelling ****
+
+    * Cardiac failure
+    * Kidney problems
+    * Chronic severe anemia
+
+**** Diagnosis ****
+
+This above mentioned complaints are the features seen in increased oxidative
+stress. It is seen in a genetic disorder - G6PD deficiency.
+
+   1. She developed hemolytic episodes(swelling) after exposure to the
+      triggering factors.
+   2. Jaundice at birth can be explained by hemolysis 
+   3. Excessive destruction of RBC can also damage kidney.This explains
+      oliguria in the patient.
+   4. Due to decreased levels of hemoglobin, oxygen to the tissues also reduced
+      leading to breathing difficulties
+   5. Due to oxidative stress ,there may be amyloid plaques in brain which
+      explains loss of memory.
+****  G6PD_Deficiency ****
+Pathophysiology
+Normally due to metabolic processes free radicals are released. To neutralize
+these free radicals, body produces anti-oxidants such as glutathione. This
+glutathione in reduced state donate electrons to the free radical and gets
+converted into oxidized glutathione.
+
+[https://www.mdpi.com/ijms/ijms-21-00950/article_deploy/html/images/ijms-21-
+00950-g008.png]
+The oxidized glutathione in the presence of glutathione reductase gets
+converted into reduced glutathione by converting NADPH to NADP. To replenish
+the NADPH, G6PD is used. G6PD reduces NADP to NADPH by oxidizing G6P(metabolite
+of glucose).
+
+In case of G6PD deficiency which is X-linked recessive disorder,
+
+Decreased levels of G6PD
+↓
+Decreased NADPH
+↓
+Decreased production of reduced glutathione
+
+Due to the absence of glutathione, there is increase in free radicals leading
+to oxidative stress. Free radical causes hemolysis and hemoglobin molecules are
+damaged. Damaged hemoglobin precipitates in RBC leading to the formation of
+heinz bodies. Macrophages recognize the heinz bodies and engulf them, leading
+to the formation of bite cells. Often, only old RBCs are at risk of lysis.
+Therefore, hemolytic episodes are limited when young RBCs are formed.
+
+Triggering_factor_in_this_case
+    * foods-fava beans 
+    * drugs-antimalarials
+    * infections- pt also had a history of pneumonia.Chronic infection triggers
+      immune cells to to fight against the organism.This leads to release of
+      free radicals which damage healthy cells and cause inflammation.In case
+      of oxidative stress (which pt as due to G6PD deficiency),it triggers te
+      inflammatory response more and releases more free radicals and cycle
+      repeats which worsens the symptoms.
+    * smoke
+    * exertion
+
+Investigations
+
+
+Complete blood picture:
+    * decrease in hemoglobin
+    * increase in reticulocytes(to compensate the loss of RBC)
+    * increase in LDH
+    * increase in bilirubin 
+    * decrease in haptoglobulin
+
+Peripheral smear:
+
+    * bite cells 
+    * heinz bodies
+Enzyme detection - G6PD level should be detected
+
+Genetic test-she underwent genetic testing at the age of 33yrs and was
+conformed by G6PD deficiency.
+
+Treatment
+    * She has taken ribose for swelling 
+    * Avoid exposure to triggering factors 
+    * She is taking serine which helped her in treatment of oliguria.
+     others
+    * Salt restriction 
+    * Blood transfusions 
+    * antioxidant vitamins
+*** Severe Headache ***
+She has severe headache since 2 years of age. Headache is sudden in onset and
+very severe. She develops aura before developing headache.
+Aura - she develops rainbow colors, temporary blindness
+           left hand numbness
+           falling to left side (ataxia)
+           stuttering of speech
+           vertigo 
+Severe headache was aggravated with menses, excess stress and use of birth-
+control pills.
+At the age of 34 years she had one episode of headache on the left side and was
+associated with nasal discharge for ten minutes.
+
+**** Diagnosis ****
+
+In the above mentioned complaints, patient may be suffering from hemiplegic
+migraine.
+
+**** Hemiplegic_Migraine ****
+Mutations in genes can lead to break down of body's ability to make certain
+proteins without which nerves cells have trouble in sending or receiving
+signals(serotonin).
+
+Triggering_factors_in_this_case
+    * Intense physical activity 
+    * Skipping of meals 
+    * Travelling
+    * Exposure to smoke
+    * Stress
+    * Use of birth control pills
+    * Decreased sleep
+
+Investigations
+
+    * CT and MRI 
+    * Tests of heart and blood vessels to rule out blood clots
+
+
+Treatment 
+
+She has taken triptans for migraine.
+
+ Other medications that can be used are CGRP inhibitors.
+*** Muscle Weakness ***
+She develops muscle weakness fatigue on exertion. 
+**** Differential_Diagnosis ****
+    * AMPD-1 deficiency 
+    * Anemia
+**** AMPD-1_Deficiency ****
+It is inherited autosomal recessive disorder caused due to mutations in AMPD-
+1 gene. This gene makes enzyme AMP deaminase which plays a role in producing
+energy in skeletal muscles. Mutations in this gene disturbs the function of AMP
+deaminase leading to muscle problems.
+
+
+Investigations
+
+Genetic test: She was diagnosed for AMPD-1 deficiency heterzygous.
+
+Treatment
+
+She has been taking ribose - 2grams every hour in water.
+Other medications which can be used are citrate monohydrate.
+**** Mouth Ulcers ****
+She develops mouth and vaginal ulcers when exposed to stress.These were more
+often until she took pnemonia vacccine at the age of 28 years.She also has
+blurring of vision ang head ache.She also has a history of  longterm knee and
+hip pain.She also had butterfly rash on the face.
+***
+Differential_Diagnosis ***
+    * SLE
+    * Behcet's disease
+**** Behcet's_Disease ****
+It is a rare disorder that causes blood vessel inflammation throughout the
+body.It is often associated with many mutation.It presents as mouth ulcers,eye
+problems,skin rashes and joint pains.
+
+Investigations
+    * Mouth sores which has recurred 3 times in 12 months.
+    * Blood tests 
+    * Pathergy test
+    * Tests to rule out SLE.
+    * Genetic testing
+Treatment
+    * Colchicine
+    * Corticosteroids
+    * Medications that supress immune system
+
+
+*** Sensory processing disorder ***
+    * higher pain tolerance
+    * uncomfortable with physical contact 
+    * feels angry 
+    * used to throw tantrums
+
+These features are suggestive of sensory process disorder.
+
+**** Excessive hair growth ****
+She has excessive hair growth on face, neck, toes and legs since childhood.
+She has chronic abdominal pain at the time of menses.
+*** Differential_Diagnosis ***
+    * Congenital adrenal hyperplasia
+    * PCOS
+Investigations
+    * Cortisol level -elevated
+    * CT scan - showed multiple ovarian cysts.
+Treatment
+    * Spironolactone
+    * Eflornithine
+    * Anti androgens
+    * electrolysis
+References - Various internet sources
+                      Avinash Sir's case
+
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+
+**** Comments ****
+   1. caregiver7careseekerMay_15,_2020_at_11:04 AM
+
+
+      What is the efficacy of the various interventions she has been using and
+      what is the sensitivity and specificity of the various diagnostic
+      interventions she has undergone?
+
+      What other history, clinical findings and investigations would you need
+      to solve her problem.
+      ReplyDelete
+      Replies
+            Reply
+   2. caregiver7careseekerMay_16,_2020_at_8:00 AM
+      [5/16, 8:19 PM] +91: Other things that can be asked are
+      1)Nattokinase can worsen bleeding disorders.Will that not affect her as
+      she has VWF mutations
+      2)why is she consuming salt?Does that not lead to more swelling
+      3)She has history of rashes and joint pain.So she should be also
+      suspected for SLE and RA.She should be investigated for that.
+      4)she has been prescribed by colchicine this can have effect on muscle
+      (muscle damage)
+
+      [5/16, 8:24 PM] +91: Alternatively for colchicine for treatment of Behcet
+      corticosteroids can also be used
+      [5/16, 8:24 PM] +91 : Or any medications that can suppress immune
+      response
+      [5/16, 8:28 PM] Rakesh Biswas: 1) Why is she on nattokinase? How was it
+      supposed to be helping her even if it may not harm her (although you are
+      suggesting it might harm too)?
+
+      2) Good question. Why do some people crave salt? What are the underlying
+      metabolic mechanisms?
+
+      3) What are the most important clinical and or lab data to diagnose SLE
+      or RA? Are these mentioned in the data provided in her online record?
+
+      4) What is the most important clinical and or lab data that can make us
+      diagnose Behchets? What can this diagnosis do to help solve her multiple
+      issues?
+
+      5) What was the cochicine prescribed for?
+      [5/16, 8:28 PM] Rakesh Biswas: What are her current symptoms of
+      significantly increased immune activity?
+      ReplyDelete
+      Replies
+            Reply
+   3. caregiver7careseekerMay_16,_2020_at_9:32 AM
+      [5/16, 8:28 PM] Rakesh Biswas: 1) Why is she on nattokinase? How was it
+      supposed to be helping her even if it may not harm her (although you are
+      suggesting it might harm too)?
+
+      2) Good question. Why do some people crave salt? What are the underlying
+      metabolic mechanisms?
+
+      3) What are the most important clinical and or lab data to diagnose SLE
+      or RA? Are these mentioned in the data provided in her online record?
+
+      4) What is the most important clinical and or lab data that can make us
+      diagnose Behchets? What can this diagnosis do to help solve her multiple
+      issues?
+
+      5) What was the cochicine prescribed for?
+
+      [5/16, 9:21 PM] Sai Bhavana 2015 Kims: There are no specific tests for
+      diagnosis of behcets disease.Diagnosis is mostly based on signs and
+      symptoms sir
+      mouth ulcer at least 3 times in 1year with one of the following signs
+      Genital sores
+      Eye problems
+      Skin rashes
+
+      Behcets leads to inflammation of blood vessels which can cause swelling
+      in arms and legs
+      This might be one of the reason for her swelling.
+      [5/16, 9:23 PM] Sai Bhavana 2015 Kims: Colchicine is prescribed for
+      behcets as it has anti inflammatory mechanisms
+
+      [5/16, 9:24 PM] Sai Bhavana 2015 Kims: https://www.ncbi.nlm.nih.gov/pmc/
+      articles/PMC4656054/
+
+      [5/16, 9:59 PM] Rakesh Biswas: What is the efficacy of cochicine in
+      Behchets? Are their any randomized controlled trials in Behchets to show
+      that it has efficacy in Behchets?
+      ReplyDelete
+      Replies
+            Reply
+   4. caregiver7careseekerMay_16,_2020_at_8:48 PM
+      [5/16, 9:59 PM] Rakesh Biswas: What is the efficacy of cochicine in
+      Behchets? Are their any randomized controlled trials in Behchets to show
+      that it has efficacy in Behchets?
+
+
+      [5/17, 8:54 AM] Sai Bhavana 2015 Kims: https://onlinelibrary.wiley.com/
+      doi/full/10.1002/1529-0131(200111)44:11%3C2686::AID-ART448%3E3.0.CO;2-H
+
+
+      [5/17, 8:57 AM] Sai Bhavana 2015 Kims: There are randomised controlled
+      trails done for Colchine use in Behcet’s disease.These studies showed
+      that use of colchicine can reduce genital ulcers,arthritis especially in
+      women
+      [5/17, 9:16 AM] Rakesh Biswas: Tell us the results of one RCT in a PICO
+      format.
+
+      How many patients were studied?
+
+      How many received cochicine?
+
+      How many received placebo?
+
+      What were the outcomes in each group?
+      ReplyDelete
+      Replies
+            Reply
+   5. caregiver7careseekerMay_17,_2020_at_6:58 AM
+      [5/17, 10:14 AM] Sai Bhavana 2015 Kims: Sir total no of pts are 169.They
+      didn’t mention separately those under colchicine and placebo.
+
+      [5/17, 10:15 AM] Rakesh Biswas: Do you have the full text link to the
+      study?
+
+      [5/17, 10:15 AM] Sai Bhavana 2015 Kims: Referencing to that link sir
+
+      [5/17, 10:15 AM] Sai Bhavana 2015 Kims: I mentioned the link in pdf sir
+
+      [5/17, 10:15 AM] Rakesh Biswas: Good.
+
+      But then it's apparently wrong if you put 169 in both groups? ��
+
+      [5/17, 10:16 AM] Sai Bhavana 2015 Kims: Yes sir I didn’t understand how
+      to put them so
+
+      [5/17, 10:16 AM] Sai Bhavana 2015 Kims: I will send the link
+
+      [5/17, 10:18 AM] Rakesh Biswas: Yes please. It's not opening from the PDF
+
+      [5/17, 10:18 AM] Sai Bhavana 2015 Kims: https://clinicaltrials.gov/ct2/
+      show/NCT00700297
+
+      [5/17, 10:21 AM] Rakesh Biswas: This is their trial registry link. You
+      will have to search for their finally published study ��
+
+      [5/17, 10:22 AM] Sai Bhavana 2015 Kims: Ok sir
+
+      [5/17, 10:28 AM] Sai Bhavana 2015 Kims: https://pubmed.ncbi.nlm.nih.gov/
+      19597921/
+
+      [5/17, 10:35 AM] Rakesh Biswas: ��How did they calculate "overall disease
+      activity index, the IBDDAM" and when they say "worsened from 3.17 to
+      3.63" or "improved from 3.35 to 2.75" how do we visualize the effect size
+      to ascertain if it was clinically significant?
+
+
+      Also when they say, "Oral aphthosis, genital aphthosis,
+      pseudofolliculitis, and erythema nodosum improved significantly with
+      colchicine but not with placebo" how do we make out how much
+      significantly? ��
+
+      ReplyDelete
+      Replies
+            Reply
+   6. caregiver7careseekerMay_17,_2020_at_6:58 AM
+      [5/17, 4:08 PM] Sai Bhavana 2015 Kims: This is another RCT trail
+      conducted on 116 patients.
+      https://onlinelibrary.wiley.com/doi/full/10.1002/1529-
+      0131%28200111%2944%3A11%3C2686%3A%3AAID-ART448%3E3.0.CO%3B2-H
+
+      [5/17, 4:25 PM] Rakesh Biswas: What were the outcomes here?
+
+      [5/17, 4:28 PM] Sai Bhavana 2015 Kims: In females
+      91% were arthritis free with colchicine compared to 64% in placebo
+      There few new attacks of erythema nodosum and genital ulcer with
+      colchicine compared to placebo
+
+      [5/17, 4:29 PM] Sai Bhavana 2015 Kims: Oral ulcers and folliculites did
+      not show significant difference
+
+      [5/17, 4:29 PM] Rakesh Biswas: This one is better. Now look at their
+      outcomes.
+
+      "At the end of the trial, 91% of the female patients in the colchicine
+      arm remained arthritis free as compared with 64% in the placebo arm"
+
+      If we were one of the 64 out of 100 people receiving placebo and remained
+      free of arthritis what would be the problem in just taking placebo?
+
+      Now similarly look at the other outcomes
+
+      [5/17, 4:30 PM] Rakesh Biswas: Second line: how many?
+
+      [5/17, 4:31 PM] Sai Bhavana 2015 Kims: Erythema nodosum
+      78% - colchine
+      39% - placebo
+      [5/17, 4:32 PM] Sai Bhavana 2015 Kims: Genital ulcers
+      89% - Colchicine
+      46% -placebo
+      [5/17, 4:50 PM] Rakesh Biswas: Looks like more people had newer attacks
+      with colchicine than placebo? Contrary to what was shared in that line
+      earlier? ��
+
+      What do these numbers mean?
+
+      [5/17, 5:17 PM] Sai Bhavana 2015 Kims: 78% pts were free from erythema
+      nodosum when treated with colchicine
+
+      [5/17, 5:19 PM] Rakesh Biswas: What was the study duration that they were
+      found to be free? What if it came after the study completion?
+
+      [5/17, 5:19 PM] Sai Bhavana 2015 Kims: Yes sir
+
+      [5/17, 5:20 PM] Sai Bhavana 2015 Kims: But then how can we know the
+      efficacy correctly sir
+
+      [5/17, 5:20 PM] Sai Bhavana 2015 Kims: Every trail has only limited
+      duration
+
+      [5/17, 5:22 PM] Sai Bhavana 2015 Kims: If it returns after the completion
+      of the study (treatment) then do pts need to take the treatment for
+      lifelong sir??
+
+      [5/17, 5:23 PM] Sai Bhavana 2015 Kims: Duration of study was 2yrs sir
+
+      [5/17, 5:24 PM] Rakesh Biswas: Yes isn't that a major limitation on how
+      we do current research? Hope your generation will be able to change it
+
+      [5/17, 5:24 PM] Sai Bhavana 2015 Kims: Yes sir we will try to improve it
+
+      [5/17, 5:25 PM] Sai Bhavana 2015 Kims: Thank you sir for asking these
+      questions and making me think in different way.I never had a a clarity on
+      this trails now but now because of ur questions I learned a lot today
+
+      [5/17, 5:26 PM] Rakesh Biswas: Well two years is a good duration and the
+      affected and unaffected population numbers look clinically significant
+      but then if you try to imagine each of these trial participants even the
+      46 out of 100 who didn't develop fresh lesions on placebo what difference
+      would the colchicine really have made in their lives?
+
+      [5/17, 5:29 PM] Sai Bhavana 2015 Kims: This might be related to one
+      symptom maybe other symptoms might not be affected by the placebo effect
+      Suppose if a person had results with placebo for erythema nodosum but not
+      for arthritis
+
+      [5/17, 5:29 PM] Sai Bhavana 2015 Kims: In the same person
+
+      [5/17, 5:33 PM] Rakesh Biswas: Very good thinking. We need to check what
+      happened to each individual. Here the data appeared to be focused on the
+      cochicine and disease data points and the individual trial participants
+      appear to have been stripped off their individuality?
+
+      [5/17, 5:44 PM] Sai Bhavana 2015 Kims: Yes sir
+      ReplyDelete
+      Replies
+            Reply
+   7. Sai_BhavanaMay_29,_2020_at_4:49 AM
+
+      [26/05/20, 2:15:46 PM] MBBS 2016 student: Sir in this case due to
+      increased oxidative stress there in increased hemolysis which could have
+      lead to kidney injury
+
+      [26/05/20, 2:16:10 PM] MBBS 2016 student: Kidney injury has lead to edema
+
+      [26/05/20, 2:18:23 PM] MBBS 2016 student: Other mechanisms for edema are
+      Increased hydrostatic pressure
+      Decreased plasma oncotic pressure
+
+      [26/05/20, 4:30:49 PM] Post residency pg 1: So how is she surviving with
+      her kidney injury for how many years? What is the way to confirm her
+      kidney injury? What is her creatinine?
+
+      [26/05/20, 4:31:44 PM]Post residency pg 1:These are the only important
+      mechanisms.
+
+      Do you know of any other mechanism?
+
+      [26/05/20, 4:32:15 PM] MBBS 2016 student: Yes sir
+      Other mechanisms are
+      Lymphatic obstruction
+      Salt and water retention
+
+      [26/05/20, 4:36:14 PM] MBBS 2016 student: Increased permeability can also
+      cause
+
+      [26/05/20, 4:47:51 PM] MBBS 2016 student: Diagnosis can be made on
+      creatinine levels ,urine output.but for this patient creatinine is normal
+
+      [26/05/20, 4:49:57 PM] Post residency pg 1: So she didn't have any
+      evidence of renal injury isn't it?
+
+      [26/05/20, 4:50:37 PM] MBBS 2016 student: Yes sir
+
+      [26/05/20, 4:51:53 PM] MBBS 2016 student: Sir the why does she develop
+      Edema only when exposed to triggering factors for oxidative stress
+
+      [26/05/20, 4:52:41 PM] Post residency pg 1: What are the triggering
+      factors and how can you be sure there is a correlation or causation?
+
+      [26/05/20, 4:53:59 PM] MBBS 2016 student: Triggering factor for were
+      Fava beans
+      Antimalarials
+      Exposure to smoke
+      Exertion
+
+      [26/05/20, 4:54:33 PM]MBBS 2016 student:And in history she mentioned that
+      she used swell up after exposure to this factors
+
+      [26/05/20, 4:55:11 PM] MBBS 2016 student: So I assumed that there may be
+      some relation with oxidative stress
+
+      [26/05/20, 7:47:05 PM] Post residency pg 1: Good 👍
+
+      [28/05/20, 11:26:11 AM] MBBS 2016 student: While going through this case
+      again,I think that edema in this case could be due to chronic anemia
+
+      Chronic anemia leads to reduced peripheral vascular resistance which
+      leads to activation of RAAS mechanism leading to salt and water retention
+
+      And low Hb conc can lead to reduced inhibition of NO which leads to
+      vasodilation and again activated raas mechanisms leading to edema
+
+      [28/05/20, 11:31:12 AM] Post residency pg 1: What was is her Hb?
+
+      Check out the current updates of this patient in the original blog posted
+      by our global student
+
+      [28/05/20, 11:34:21 AM] MBBS 2016 student: Hb was normal sir but she has
+      G6PD deficiency which leads to hemolysis
+
+      [28/05/20, 11:34:33 AM] MBBS 2016 student: How can her Hb be normal sir
+
+      [28/05/20, 11:34:52 AM] Post residency pg 1: How many times in her life
+      has she had the hemolysis?
+
+      [28/05/20, 11:38:05 AM] MBBS 2016 student: Everytime when she is exposed
+      to triggering factor there must be more oxidative stress and which might
+      lead to hemolysis
+
+      [28/05/20, 11:38:22 AM] MBBS 2016 student: And edema
+
+      [28/05/20, 11:43:36 AM] Post residency pg 1: Yes how frequent was that
+      and when was her last Hemolytic episode? Ask the original poster
+
+      [29/05/20, 8:54:28 AM] MBBS 2016 student: Sir frequency varies depending
+      on triggers, nowadays she has less and last time was 45 days back
+      ReplyDelete
+      Replies
+            Reply
+Add comment
+Load more...
+*** Post a Comment ***
+
+**** Popular Posts ****
+[Image]
+
+ _January_25,_2022_
+**** 74yrs_old_male_patient_came_to_casualty_with_C/O_SOB_since_7days,_C/
+O_giddiness_since_7days_C/O_pedal_Edema_since_6days ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+
+[Image]
+
+ _January_30,_2022_
+**** This_is_a_case_of_a_58_year_old_male_patient,a_daily_wage_worker_by
+occupation ****
+ Share
+    *     Get link
+    *     Facebook
+    *     Twitter
+    *     Pinterest
+    *     Email
+    *     Other Apps
+ Post_a_Comment
+___Powered_by_Blogger
+
+
+  Sai_Bhavana
+      Hello everyone. I am UG student (4th year mbbs) from KIMS.This blog is
+      mainly on medical cases which I have encountered during my course.
+Visit_profile
+
+**** Archive ****
+
+    * 2022_3
+          o January_3
+    * 2021_9
+          o December_7
+          o April_2
+    * 2020_14
+          o July_1
+          o June_1
+          o May_12
+                # Case_discussion_on_myocarditis
+                # Case_discussion_on_paraparesis_case
+                # Case_discussion_on_right_ventricular_failure
+                # Case_discussion_of_peripheral_neuropathy_case
+                # Case_discussion_on_mitral_stenosis
+                # TELE_MEDICINE
+                # HEART_FAILURE_2
+                # HEART_FAILURE
+                # PARAPARESIS_3
+                # Paraparesis_2
+                # PARAPARESIS
+                # CASE_DISCUSSION
+    * 2019_1
+          o November_1
+Show more Show less
+**** Report_Abuse ****

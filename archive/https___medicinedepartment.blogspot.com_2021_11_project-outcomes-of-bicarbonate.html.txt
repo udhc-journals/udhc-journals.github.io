@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** Medicine_Department ******
+***** Monday, November 22, 2021 *****
+
+
+
+**** Project : Outcomes of bicarbonate correction in severe high anion
+metabolic acidosis due to renal failure along with one case report form and
+CDSS ****
+Project introduction :
+
+"Replacement of sodium bicarbonate to patients with sodium bicarbonate loss due
+to diarrhea or renal proximal tubular acidosis is useful, but there is no
+definite evidence that sodium bicarbonate administration to patients with acute
+metabolic acidosis, including diabetic ketoacidosis, lactic acidosis, septic
+shock, intraoperative metabolic acidosis, or cardiac arrest, is beneficial
+regarding clinical outcomes or mortality rate. Patients with advanced chronic
+kidney disease usually show metabolic acidosis due to increased unmeasured
+anions and hyperchloremia. It has been suggested that metabolic acidosis might
+have a negative impact on progression of kidney dysfunction and that sodium
+bicarbonate administration might attenuate this effect, but further evaluation
+is required to validate such a renoprotective strategy."
+
+Above quoted from :
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227445/
+
+
+Case report form for one patient :
+
+http://jyothsna113.blogspot.com/2021/11/neprho.html
+
+Conversational learning around the same patient :
+
+[11/21, 7:42 PM] Moderator : 
+
+Log Book assessment: PG Med  
+
+
+Context : An elderly patient with severe anemia, hypotension, severe metabolic
+acidosis, encephalopathy and recent fracture femur 
+
+More :
+http://jyothsna113.blogspot.com/2021/11/neprho.html
+
+
+Impact : 
+
+
+On learning ecosystem :
+
+
+Cognitive competency levels touched :
+
+
+Approach to clinical localization of disease pathology was done reasonably well
+and differential diagnostic hypothesis formulated 
+
+
+On patient care outcomes :
+
+
+Empathic trust built with patient and relatives 
+
+
+Standard of care provided with provision for care continuity  
+
+
+Challenges met/not met : managing diagnostic  arranging of repeating hemoglobin
+levels, repeat imaging to assess hematoma, continuing dialysis, reviewing the
+literature around giving bicarbonate in high anion gap metabolic acidosis 
+
+
+[11/21, 7:43 PM] Moderator : 👆How is this patient now? 🤔
+
+
+[11/21, 7:44 PM] PG Med: Sir he expired at 10 am today ,
+
+[11/21, 7:44 PM] PG Med: https://scholar.google.com/scholar_url?url=https://
+www.karger.com/Article/PDF/
+485155&hl=en&sa=T&oi=ucasa&ct=ufr&ei=wsCZYfnFEI7xyATCmp-
+oAQ&scisig=AAGBfm0HJsruDnDoXHIPswgqdIH0kIPPAw
+
+
+[11/21, 7:44 PM]  PG Med: 
+
+Quoting from above link :
+
+Dialysate (HCO3–) prescriptions differ widely throughout the world. About half
+of HD patients in the United States are dialyzed in ≥37 mEq/L dialysate (HCO3–)
+[34], while 83% of HD patients in Japan are dialyzed with dialysate (HCO3–) of
+<30 mEq/L [35]. Metabolic alkalosis due to the high dialysate (HCO3–) has been
+associated with the occurrence of cardiac arrhythmia, intradialytic
+hypocalcemia, hypokalemia, hypercapnia, hypoxia, intradialytic hypotension, and
+vascular calcification [36, 37]. In patients with chronic obstructive pulmonary
+disease (COPD) or other causes of ventilator impairment, higher dialysate
+(HCO3–) can cause CO2 accumulation and potentiate hypoxia. The DOPPS report
+also demonstrated a dramatic increase in mortality due to severe infection in
+patients receiving higher (HCO3–) dialysate [34]. Increasing dialysate (HCO3–;
+in the range of 28 and 40 mEq/L) induces intra-dialytic and post-dialysis
+alkalosis but has no effect on pre-dialysis acidosis [38, 39]. To prevent pre-
+dialysis acidosis, oral NaHCO3 may thus be considered.
+
+[https://1.bp.blogspot.com/-oHi1axee8_0/YZvV_ic8OtI/AAAAAAAAasc/
+RAnd4MUmMnMjwixq235EDEmAJbKNjpLOgCLcBGAsYHQ/s320/IMG_20211122_230917.jpg]
+
+
+
+
+[11/21, 7:45 PM] PG Med: The bicarb correction had also caused respiratory
+acidosis sir
+
+
+[11/21, 7:46 PM] PG Med: His sensorium also deteriorated and when we wanted to
+intubate, he went into cardiac arrest
+
+[11/21, 7:49 PM] Moderator : So what was the dialysate prescription that had
+been given to our patient on Day 1? 
+
+Interestingly his hypotension too was intradialytic and he had come with a
+normal BP on admission?
+
+[11/21, 7:52 PM] PG Med: Yes sir presentation bp was 150/90mmhg, first
+intradialytic bp drop required single ionotropes for 6 hours post dialysis
+
+
+[11/21, 7:52 PM] Moderator : Share his first dialysate prescription
+
+[11/21, 7:58 PM] PG Med: Yesterday he had an episode of bradycardia in the
+afternoon when his pco2 wasn't raised sir,revived with atropine , so I think
+bradycardia is a seperate episode sir
+
+[11/21, 8:00 PM] PG Med: Sir casesheet is dispatched
+Intradialysis first day for 2hour dialysis 200 meq was given in the can sir,the
+rate of delivery is variable per hour, so around 75 to 50 meq was given 
+Second day 300meq in 4 hours , which was again 50 to 75 new/hour sir
+
+
+[11/21, 8:03 PM] Moderator : How do our dialysate bicarbonate concentrations
+compare with the ones shared in the above linked paper
+
+
+[11/21, 8:04 PM] Moderator : Did our high dialysate concentration induce
+metabolic alkalosis? 
+
+Also do our dialysis doctors vary the dialysate concentration in a case by case
+basis?
+
+
+[11/21, 8:08 PM] PG Med: Vary case by case sir
+
+[11/21, 8:08 PM] PG Med: We undercorrect it sir, only half of the requirement
+is given to prevent metabolic alkalosis
+
+
+[11/21, 8:09 PM] PG Med: But for him as acidosis was refractory, contemplating
+whether we overcorrected it
+
+[11/21, 8:11 PM] Moderator : So how do we decide how much to give?
+
+
+[11/21, 8:12 PM] Moderator : His terminal acidosis was respiratory?
+
+
+[11/21, 8:12 PM] PG Med: We calculate the deficit sir
+And give half of it in the can and not directly if the patient can wait till
+dialysis,
+Rate of delivery per hour ,I did not check sir
+If he's having symptoms of overload we simultaneously remove more ultrafiltrate
+sir
+
+
+[11/21, 8:12 PM] PG Med: Yes sir breaths became shallow
+
+
+[11/21, 8:13 PM] Moderator : Could his respiratory depression have been due to
+metabolic acidosis which precipitated respiratory acidosis terminally?
+
+
+[11/21, 8:15 PM] PG Med: Been trying to find that mechanism sir, the extra co2
+did it come from the bicarb or did hypoventilation cause it
+
+
+[11/21, 8:16 PM] Moderator : Hmm generally when we see extra Pco2 we always
+think respiratory while if we would have thought extra bicarb that would be
+reflected as metabolic alkalosis? 🤔
+
+
+[11/21, 8:18 PM] PG Med: Yes sir but if his respiratory centre is compromised
+will alkalosis happen
+
+
+[11/21, 8:18 PM] Moderator : Did he have alkalosis or acidosis?
+
+
+[11/21, 8:19 PM] PG Med: Respiratory acidosis sir
+
+[11/21, 8:19 PM] Moderator : So why think about alkalosis?
+
+ Posted by
+ caregiver7careseeker    at
+ 9:41 AM
+Email_ThisBlogThis!Share_to_TwitterShare_to_FacebookShare_to_Pinterest
+
+
+*** No comments: ***
+*** Post a Comment ***
+
+ Newer_Post   Older_Post  Home
+Subscribe to: Post_Comments_(Atom)
+
+***** About Me *****
+  caregiver7careseeker
+View_my_complete_profile
+***** Blog Archive *****
+    * _► _ 2022 (44)
+          o _► _ December (3)
+          o _► _ November (3)
+          o _► _ October (5)
+          o _► _ September (3)
+          o _► _ August (7)
+          o _► _ July (6)
+          o _► _ June (5)
+          o _► _ May (2)
+          o _► _ April (1)
+          o _► _ March (3)
+          o _► _ February (1)
+          o _► _ January (5)
+    * _▼ _ 2021 (92)
+          o _► _ December (3)
+          o _▼ _ November (8)
+                # Rough_draft_of_internal_assessment_2017_batch_Sept...
+                # Project_:_Outcomes_of_bicarbonate_correction_in_se...
+                # Project_"resolving_diagnostic_uncertainty_in_fever...
+                # Thesis_2012-2013_Resolving_diagnostic_uncertainty_...
+                # Medicine_paper_for_Nov_2021_bimonthly_blended_asse...
+                # BDS_2018_II_-_INTERNAL_ASSESSMENT_EXAMINATION_q...
+                # Selected_answers_to_the_2017_internal_assessment_e...
+                # November_2021_weekly_log_and_outcomes_of_regular_p...
+          o _► _ October (4)
+          o _► _ September (5)
+          o _► _ August (5)
+          o _► _ July (6)
+          o _► _ June (21)
+          o _► _ May (3)
+          o _► _ April (6)
+          o _► _ March (16)
+          o _► _ February (14)
+          o _► _ January (1)
+    * _► _ 2020 (49)
+          o _► _ December (1)
+          o _► _ November (3)
+          o _► _ October (1)
+          o _► _ September (5)
+          o _► _ August (2)
+          o _► _ July (11)
+          o _► _ June (5)
+          o _► _ May (16)
+          o _► _ February (1)
+          o _► _ January (4)
+    * _► _ 2019 (2)
+          o _► _ February (1)
+          o _► _ January (1)
+    * _► _ 2018 (3)
+          o _► _ November (2)
+          o _► _ January (1)
+    * _► _ 2016 (14)
+          o _► _ December (5)
+          o _► _ November (9)
+Simple theme. Powered by Blogger.
+
